@@ -1,6 +1,6 @@
 # CL/Uberon Template Agentic Framework
 
-An AI-assisted framework for populating and validating DOSDP (Dead Simple OWL Design Pattern) templates for the Cell Ontology (CL) and Uberon anatomy ontology.
+An AI-assisted framework for populating and validating DOSDP (Dead Simple OWL Design Pattern) and ROBOT templates for the Cell Ontology (CL) and Uberon anatomy ontology.
 
 ## Overview
 
