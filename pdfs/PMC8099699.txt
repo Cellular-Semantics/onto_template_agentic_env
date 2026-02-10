@@ -1,0 +1,9784 @@
+ORIGINAL RESEARCH
+
+scRNA-Seq Reveals New Enteric Nervous System Roles for GDNF,
+NRTN, and TBX3
+
+Christina M. Wright,1,* Sabine Schneider,1,* Kristen M. Smith-Edwards,2,3,4 Fernanda Mafra,5
+Anita J. L. Leembruggen,6 Michael V. Gonzalez,5 Deepika R. Kothakapa,1
+Jessica B. Anderson,1 Beth A. Maguire,1 Tao Gao,1 Tricia A. Missall,7 Marthe J. Howard,8
+Joel C. Bornstein,6 Brian M. Davis,2,3,4 and Robert O. Heuckeroth1
+
+1Department of Pediatrics, Abramson Research Center, Children’s Hospital of Philadelphia Research Institute, Perelman
+School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania; 2Department of Neurobiology, University of
+Pittsburgh School of Medicine, Pittsburgh, Pennsylvania; 3Pittsburgh Center for Pain Research, University of Pittsburgh,
+Pittsburgh, Pennsylvania; 4Center for Neuroscience at the University of Pittsburgh, Pittsburgh, Pennsylvania; 5Center for
+Applied Genomics, Abramson Research Center, Children’s Hospital of Philadelphia Research Institute, Philadelphia,
+Pennsylvania; 6Department of Physiology, University of Melbourne, Parkville, Victoria, Australia; 7Department of Dermatology,
+University of Florida, Gainesville, Florida; and 8Department of Neurosciences, University of Toledo Health Sciences Campus,
+Toledo, Ohio
+
+SUMMARY
+
+Using single-cell RNA analysis and advanced imaging
+methods on the enteric nervous system, we deﬁne many
+differentially expressed genes in myenteric neuron sub-
+types, validate numerous ﬁndings, and describe new func-
+tions for TBX3, glial cell line–derived neurotrophic factor,
+and neurturin in the bowel.
+
+TBX3, GDNF and NRTN. These data facilitate molecular diag-
+nostic studies and novel therapeutics for bowel motility dis-
+orders. (Cell Mol Gastroenterol Hepatol 2021;11:1548–1593;
+https://doi.org/10.1016/j.jcmgh.2020.12.014)
+
+Keywords: Calcium Imaging; Pou3f3 (Brn1); Transcription
+Factors; Human and Mouse Colon.
+
+BACKGROUND AND AIMS: Bowel function requires coordi-
+nated activity of diverse enteric neuron subtypes. Our aim was
+to deﬁne gene expression in these neuron subtypes to facilitate
+development of novel therapeutic approaches to treat devas-
+tating enteric neuropathies, and to learn more about enteric
+nervous system function.
+
+METHODS: To identify subtype–speciﬁc genes, we performed
+single-nucleus RNA-seq on adult mouse and human colon
+myenteric plexus, and single-cell RNA-seq on E17.5 mouse ENS
+cells from whole bowel. We used immunohistochemistry, select
+mutant mice, and calcium imaging to validate and extend
+results.
+
+RESULTS: RNA-seq on 635 adult mouse colon myenteric neu-
+rons and 707 E17.5 neurons from whole bowel deﬁned seven
+adult neuron subtypes, eight E17.5 neuron subtypes and hun-
+dreds of differentially expressed genes. Manually dissected
+human colon myenteric plexus yielded RNA-seq data from 48
+neurons, 3798 glia, 5568 smooth muscle, 377 interstitial cells
+of Cajal, and 2153 macrophages.
+Immunohistochemistry
+demonstrated differential expression for BNC2, PBX3, SATB1,
+RBFOX1, TBX2, and TBX3 in enteric neuron subtypes. Condi-
+tional Tbx3 loss reduced NOS1-expressing myenteric neurons.
+Differential Gfra1 and Gfra2 expression coupled with calcium
+imaging revealed that GDNF and neurturin acutely and differ-
+entially regulate activity of w50% of myenteric neurons with
+distinct effects on smooth muscle contractions.
+
+CONCLUSION: Single cell analyses deﬁned genes differentially
+expressed in myenteric neuron subtypes and new roles for
+
+T he enteric nervous system (ENS) is a network of
+
+neurons and glia within the bowel wall that is
+crucial for normal bowel function.1 ENS defects include
+developmental anomalies (Hirschsprung disease [HSCR] and
+primary chronic intestinal pseudo-obstruction) and ac-
+quired defects (achalasia, gastroparesis, Parkinson’s disease,
+and Chagas disease). Unfortunately, we have limited ability
+to identify missing or defective ENS cell populations in
+are
+people with bowel dysmotility,
+
+and therapies
+
+*Authors share co-ﬁrst authorship.
+Abbreviations used in this paper: ACSF, artiﬁcial cerebrospinal ﬂuid;
+BSA, bovine serum albumin; DBPBS, Dulbecco-modiﬁed phosphate-
+buffered saline; DMEM, Dulbecco’s modiﬁed Eagle medium; EFS,
+electrical ﬁeld stimulation; EGFP, enhanced green ﬂuorescent protein;
+ENK, enkephalin; ENS, enteric nervous system; FACS, ﬂuorescence-
+activated cell sorter; FBS, fetal bovine serum; GDNF, glial cell line–
+derived neurotrophic factor; GO, Gene Ontology; HBSS, Hank’s
+balanced salt solution; HSCR, Hirschsprung disease; IACUC, Institu-
+tional Animal Care and Use Committee; ICC, interstitial cells of Cajal;
+IRB, institutional review board; NADPH, nicotinamide adenine dinu-
+cleotide phosphate; NDS, normal donkey serum; NRTN, neurturin;
+NOS1, neuronal nitric oxide synthase; OCT, optimal cutting tempera-
+ture; PBS, phosphate-buffered saline; PFA, paraformaldehyde; RIN,
+RNA integrity number; RNA-seq, RNA sequencing; RT, room temper-
+ature; RT-PCR,
+reverse-transcription polymerase chain reaction;
+SMC, smooth muscle cell; SP, substance P; t-SNE, t-distributed sto-
+chastic neighbor embedding; TTX, tetrodotoxin; UMI, unique molecu-
+lar identiﬁer.
+
+Most current article
+
+© 2021 The Authors. Published by Elsevier Inc. on behalf of the AGA
+Institute. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+2352-345X
+https://doi.org/10.1016/j.jcmgh.2020.12.014
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1549
+
+inadequate. Promising new approaches like regenerative
+line–derived neurotrophic factor
+medicine2 or glial cell
+(GDNF)–induced regeneration of the ENS3 would beneﬁt
+from a more thorough characterization of the transcription
+factors, receptors, and signaling pathways that deﬁne
+enteric neuron subclasses.
+
+Several laboratories, ours included, previously used bulk
+RNA sequencing (RNA-seq) or microarray analyses to
+delineate ENS gene expression patterns. Memic et al,4 in
+particular, combined bulk RNA-seq with immunohisto-
+chemistry to identify transcription factors in enteric neu-
+rons with distinct neurochemical signatures at different
+embryonic ages. While this was a signiﬁcant advance, frozen
+sections provided limited information regarding co-
+localization of transcription factors with other markers
+and there was little quantitative data.
+
+We hypothesized that ENS subpopulations could be
+more deﬁnitively characterized using single-cell RNA
+sequencing. As our studies proceeded, other groups pursued
+similar work, each with a unique focus.5–9 Zeisel et al6 used
+single-cell sequencing to deﬁne enteric neuron subtypes in
+the small intestine myenteric plexus of young adult mice.
+Morarach et al extended their analysis with greatly
+increased numbers of young adult mouse myenteric neu-
+rons as well as developing (E15.5 and E18.5) mouse small
+intestine.5 They identiﬁed 12 neuron subtypes and showed
+depletion of CALBþ enteric neurons in Pbx3–/– mice.5,6
+May-Zhang et al7 identiﬁed 14 distinct neuron clusters in
+adult mouse ENS and highlighted differences between
+bowel regions. They then compared murine data to bulk
+human ENS RNA-seq analysis and discovered distinct mouse
+and human intrinsic primary afferent neuron subtypes.7
+Drokhlyansky et al8 tackled the difﬁcult problem of
+
+sequencing rare human enteric neurons, circumventing the
+issue of neuron scarcity by overloading nuclei into droplets
+and retroactively ﬁltering out doublets, a technique they
+dubbed MIRACL-seq. Using this strategy, they sequenced
+1445 human enteric neurons and identiﬁed 14 neuron
+subsets in the colon. Other papers provided additional data
+about single cells in developing mouse ENS on a smaller
+scale.9 Collectively, these manuscripts, each with a unique
+focus, deﬁne 8–14 myenteric neuron types and >20 total
+enteric neuron types, plus 4–7 types of enteric glia,
+consistent with anatomic and functional analyses over
+decades.10–12 Our study provides additional RNA-seq data
+from the ENS of whole bowel at E17.5 and from adult mouse
+colon, new data from human colon cells that control bowel
+motility, extensive validation using state-of-the-art confocal
+imaging, and unique analysis of ENS structure in 4 mutant
+mouse lines deﬁcient in transcription factors preferentially
+expressed in cholinergic or nitrergic neurons. We also
+leveraged our data to identify novel roles for GDNF and
+neurturin (NRTN) in the ENS.
+
+We focused on distinctions between myenteric nitrergic
+(nitric oxide–producing) and cholinergic (acetylcholine-
+producing) neurons because they comprise >89% of human
+and >95% of mouse myenteric neuron types.13,14 We found
+many cell type–speciﬁc ion channels, neurotransmitters,
+adhesion proteins, and signaling pathways supporting
+functional connectivity, and identiﬁed >40 differentially
+expressed transcriptional regulators, including Tbx3. Tbx3 is
+preferentially expressed in neuronal nitric oxide synthase
+(NOS1)–producing myenteric neurons, and mice lacking
+Tbx3 in ENS had a 30% reduction in NOS1 neurons. Another
+intriguing ﬁnding was that nitrergic neurons express Gfra1,
+but cholinergic neurons express Gfra2 in adult and E17.5
+
+Table 1.Methods Used to Isolate Cells or Nuclei for RNA-Seq
+
+Genotype
+
+Wnt1-Cre;R26R-EGFP
+
+Wnt1-Cre;R26R-
+tdTomato
+
+Whole Cells, or
+Nuclei?
+
+Cells
+
+Cells
+
+Description
+
+The EGFP signal in Wnt1-Cre;R26R-EGFP animals was too weak to ﬂow sort effectively given
+
+the high degree of background in the 488 channel.
+
+The localization of tdTomato to neurites in our Wnt1-Cre;R26R-Tdtomato line was problematic,
+since we desired clean separation of single cells. Sorting myenteric plexus from this mouse
+line often resulted in preps with neurites attached to tdTomato- cells. We tried dissociating
+with different proteases (cold active protease, dispase, and collagenase), different incubation
+times (15 min, 30 min), multiple methods of trituration (pipette-based, needle-based), and
+different bowel layers, with little improvement in outcome
+
+Wnt1-Cre;ROSANT-NG
+
+Nuclei
+
+Wnt1-Cre;RosaNT-NG mice had tdTomato in their nuclei at baseline; with CRE-induced
+
+recombination, they accumulated EGFP in their nuclei instead of tdTomato. Unfortunately,
+these mice lost ﬂuorescent signal during the Dounce homogenization procedure. We
+hypothesize that membrane damage associated with homogenization led to diffusion of GFP
+and loss of signal.
+
+Wnt1-Cre;Rosa26 LSL
+H2B mCherry
+
+Nuclei
+
+Successful and used to generate data in Figures 1–4.
+
+Wild-type
+
+Nuclei
+
+We attempted to use directly conjugated NeuN and PHOX2B antibodies to isolate mouse ENS
+nuclei with ﬂow sorting, since some neuronal nuclei in mouse stain with this NeuN antibody
+by immunohistochemistry. We were unsuccessful.
+
+EGFP, enhanced green ﬂuorescent protein; ENS, enteric nervous system; GFP, green ﬂuorescent protein; RNA-seq, RNA
+sequencing.
+
+1550
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1551
+
+mouse myenteric plexus. GFRA1 and GFRA2 are cell surface
+receptors that bind preferentially to GDNF and NRTN,
+respectively. Using calcium imaging, we tested the hypoth-
+esis that GDNF and NRTN acutely affect ENS function and
+bowel motility in adulthood and discovered strikingly
+different effects of these trophic factors on GCaMP6s activity
+in enteric neurons, with procontractility effects of GDNF.
+Collectively, our single-cell RNA-seq data provide highly
+validated information about gene expression in mouse and
+human ENS, supporting a new foundation for ENS cell
+classiﬁcation.
+
+Results
+Single Nucleus RNA-Seq Deﬁnes Mouse Distal
+Colon Enteric Neuron Subpopulations
+
+this Wnt1-Cre model
+
+We tried many approaches for isolating the ENS from the
+adult mouse distal colon for sequencing (Table 1). Ulti-
+mately, myenteric plexus nuclei were isolated from 47- to
+52-day-old Wnt1-CreCre/wt; R26R-LSL-H2B-mCherry mice that
+express the ﬂuorescent nuclear protein Histone 2B-mCherry
+after CRE-induced DNA recombination (Figure 1A–D). We
+used Wnt1-Cre to induce H2B-mCherry expression because
+induces
+prior studies show that
+recombination in almost all enteric neurons and glia at E13.5
+and almost all colonic neurons in E18.5 and adult mice, with
+no ectopic expression in other bowel cells.15,16 We observed
+mCherry in w73% of adult colon myenteric neurons in our
+colony, a smaller percentage than previously reported, but
+decided to proceed with analyses. Tissue was frozen and
+cryosectioned to disrupt smooth muscle cells, improving
+yield. Dounce homogenization released nuclei (Figure 1E).
+The 10x Genomics platform (10x Genomics, Pleasanton, CA)
+generated data from 1520 mCherryþ neuronal and glial
+nuclei. Because of low read depth, we included intronic
+reads, yielding a mean of 2970 unique molecular identiﬁers
+(UMIs) and 1549 genes per cell.
+
+Using CellRanger and Seurat,17 we identiﬁed 12 clusters:
+4 glial (Plp1þ, Sox10þ), 4 neuronal (Elavl4þ), and several
+including Pdgfraþ (PDGFRaþ
+non-ENS (6.5% of total),
+cells), Kitþ (interstitial cells of Cajal [ICC]), and Actg2þ
+(smooth muscle cells [SMCs]) (Figure 1F). Mean UMI and
+gene counts were higher for neurons than glia (neurons:
+4629 UMIs, 2217 genes; glia: 1780 UMIs, 1069 genes)
+(Figure 1G). To reﬁne analyses, we reclustered neuronal
+groups (Figure 1H) and identiﬁed 7 clusters (635 neurons
+total).
+
+Two neuron groups (Nos1 and Nos2) express Nos1, Vip,
+and Gal, consistent with known coexpression in NOS1þ/
+VIPþ inhibitory motor neurons and interneurons.12,18 Chat1
+and
+cells
+
+acetyl-transferase
+
+express
+
+choline
+
+(Chat)
+
+preprotachykinin (substance P [SP] precursor, Tac1), but
+not proenkephalin (Penk), consistent with excitatory motor
+or intrinsic sensory neurons.19,20 Chat2 cells express Chat,
+Tac1, and Penk, which marks guinea pig ileum excitatory
+motor neurons and ascending interneurons. Chat3 cells
+express Chat, Tac1, Penk, and hepatocyte growth factor re-
+ceptor Met (Figures 1I, 2A and B, and 3). We tested if Tac1
+and Penk expression could differentiate between motor
+neurons and interneurons. Immunohistochemistry showed
+that in circular smooth muscle, 55.3 ± 8.4% of SP-containing
+varicosities do not contain enkephalin (ENK) (Figure 2K–M),
+but in myenteric ganglia, w25% of SP terminals lack ENK
+and vice versa (Figure 2E–J and M). An additional clustered
+neuron group appeared heterogeneous. We manually
+divided these neurons into Chat4, which express Chat, Penk,
+and Slc17a6 (encoding VGLUT2), and Calcb, which express
+Calcb, Grp, and Nmu. We hypothesize that Chat4 are in-
+terneurons since VAChTþ/VGLUT2þ terminals were re-
+ported in mouse distal colon myenteric ganglia but not in
+muscle.21 Chat/Penk/Vglut2 neurons also express Calb1, a
+calcium-binding protein in mouse interneurons.12,22 To
+further validate Vglut2/Chat coexpression, we bred Vglut2-
+IRES-Cre;TdTomato (cid:2) ChAT-L10A-EGFP and found 95.9 ±
+0.9% of TDTOMATOþ neurons in myenteric plexus coex-
+pressed enhanced green ﬂuorescent protein (EGFP)
+(Figure 2N–P).
+
+Many neurotransmitters (Figure 2A and B) and neuro-
+transmitter receptors (Figure 2C and D) were differentially
+expressed between neuron subgroups, including receptors
+for acetylcholine, glutamate, serotonin, opioids, and purines.
+Neuron groups also differentially expressed signaling mol-
+ecules (Figure 3), ion channels (Figure 4), axon guidance
+molecules, adhesion proteins, survival factors, and other
+receptors.
+
+Single-Nucleus Sequencing Reveals Distinct
+Roles for GDNF and NRTN in Mouse Distal Colon
+
+in
+
+Gfra2 was
+
+We were particularly intrigued that Gfra1 and Gfra2,
+preferred receptors for GDNF and NRTN, respectively, were
+abundant in glia but differentially expressed in neuron
+Chatþ neurons
+subsets.
+primarily
+(Figure 5A–C), consistent with prior studies.23 Gfra1 was
+primarily in Nos/Vip/Galþ neurons. We could not ﬁnd re-
+ports of Gfra1-restricted expression in adult mouse ENS, so
+we tested if NOS1 colocalized with GFP in the distal colon of
+Gfra1Gfp/wt mice that express GFP from a Gfra1 locus.24 GFP
+was in 88.9 ± 1.8% of NOS1þ neurons, 8.8 ± 5.7% of NOS1-
+negative neurons (Figure 5D and E), and in S100bþ glia
+(Figure 5F) consistent with RNA-seq. Coupled with the
+observation that GDNF acts acutely in the ascending
+
+Figure 1. (See previous page). Adult mouse distal colon myenteric plexus RNA-seq deﬁnes neuron and glia subtypes.
+(A–D) H2B-mCherry ﬂuorescence (red) in 50-day-old Wnt1-crecre/wt; R26R-H2B-mCherrych/wt mice colocalizes with HuC/Dþ
+neurons (green) and S100bþ glia (blue) in the ENS. w73% of HuC/Dþ neurons were H2B-mCherryþ. Scale bar ¼ 100 mm. (E)
+RNA-seq workﬂow with t-SNE containing all cells. (F) Feature plots for Actg2, Kit, Pdgfra, Plp1, and Elavl4 indicate the lo-
+cations of SMC, PDGFRaþ cells, ICC, neurons, and glia, respectively. Color key represents loge(normalized gene expression).
+(G) Violin plots of neuronal and glial clusters. (H) t-SNE of neuron clusters (I) Feature plots for selected markers highlight neuron
+subtypes. Color shows loge(normalized gene expression).
+
+1552
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1553
+
+peristaltic response,25 our data suggest that GDNF and
+NRTN have opposing acute effects on bowel contractility,
+although both activate RET.
+
+To test this, we recorded myenteric neuron calcium
+transients in GDNF or NRTN-treated full-thickness colon of
+E2a-Cre;R26R-GCaMP6s mice that express the calcium indi-
+cator GCaMP6s in all cells (Figure 5G and H). We also
+simultaneously monitored colon movement, an indirect
+measure of muscle tension.26 GDNF and NRTN increased or
+decreased spontaneous GCaMP6s activity in 50% (260/523)
+of myenteric neurons (Figure 5I–K). Only 8.3% responded
+to GDNF and NRTN (Figure 5J), suggesting that most effects
+are via their preferred receptors, GFRA1 and GFRA2,
+respectively. To test this, we identiﬁed nitrergic neurons
+post hoc in 3 ﬁelds. A total of 63% (n ¼ 29 of 48) of neurons
+responding only to GDNF were nitrergic and 25% (n ¼ 17 of
+68) NRTN-only responders were nitrergic (Figure 5L–Q).
+The high percentage of GDNF-responsive non-nitrergic
+neurons suggested some GCaMP6s activity changes were
+due to synaptic connectivity. Remarkably, when we added
+the voltage-gated sodium channel blocker tetrodotoxin
+(TTX), only 8%–9% of myenteric neurons had GDNF- or
+NRTN-induced changes in GCaMP6s signal with minimal
+and NRTN-inﬂuenced cells
+overlap between GDNF-
+(Figure 6A and B). This suggests GDNF and NRTN have
+direct and indirect effects on GCaMP6s activity in distinct
+myenteric neurons.
+
+GDNF also increased myenteric neurons responding to
+oral electrical ﬁeld stimulation (EFS) applied 5 mm from
+the imaged ﬁeld by 71.3 ± 17.5% (P ¼ .0068) but did not
+affect responses to EFS applied 5 mm aboral to recorded
+ganglia (P ¼ .49) (Figure 6C and D). In contrast, NRTN did
+not affect
+the percentage of EFS-responsive myenteric
+neurons, regardless of stimulus location (P ¼ .116 aboral,
+P ¼ .188 oral) (Figure 6E and F). GDNF and NRTN both
+altered which neurons responded to oral and/or aboral
+EFS (data not shown). GDNF also robustly increased
+spontaneous and oral EFS-induced movement in the im-
+aging ﬁeld (P ¼ .0230) (Figure 6G, H, K, and M). NRTN
+
+decreased movement in 3 of 5 preparations, but this was
+not statistically signiﬁcant (Figure 6I, J, L, and M). These
+that GDNF and NRTN inﬂuence
+observations suggest
+distinct myenteric neurons and GDNF acutely enhances
+colon contractility.
+
+Sequencing Suggests Combinatorial
+Transcription Factor Codes Deﬁne Neuron
+Subtypes
+
+To gain insight
+
+into neuronal subtype identity, we
+examined transcription and splicing factors (regulatory
+genes) in adult colon myenteric neurons. Some genes that
+affect ENS subtype ratios (eg, Ascl1, Hand2, Sox6) were not
+differentially expressed in adult neuron subtypes, but others
+not known to affect subtype speciﬁcation (eg, Tbx3, Tlx2,
+Zeb2)27,28 were differentially expressed (Figure 7). Many
+other transcription factors had distinct expression patterns
+in neuron subgroups including Pbx3, Etv1, Casz1, Bnc2, and
+Zfhx3 (Figure 7).
+
+We pursued immunohistochemistry on regulatory genes
+differentially expressed in cholinergic or nitrergic neurons,
+as most myenteric neurons express either Chat or Nos1. We
+used ChAT-EGFP-L10A mice that reliably express EGFP at
+high levels in CHATþ cells, as CHAT antibody staining is
+often weak.29 Consistent with RNA-seq, SATB1, RBFOX1,
+and PBX3 are preferentially in Chat-EGFPþ neurons
+(Figure 8A, C–E, I–K). TBX3 was primarily in NOS1þ neu-
+rons (Figure 8A, F, and L). RNA-seq also suggested Etv1
+enrichment in NOS1þ neurons, which we validated by
+treating Etv1-CreERT2Cre/wt;R26R-TdTomato mice with high-
+dose tamoxifen to induce TDTOMATO from Etv1þ regula-
+tory elements (Figure 8A, G, and M). Also consistent with
+RNA-seq, PHOX2B protein had similar abundance in Chat-
+EGFPþ and Chat-EGFP–myenteric neurons (Figure 8A, F,
+and L). Distribution of these transcription factors between
+Chat-EGFPþ and NOS1þ neurons (summarized in Figure 8N
+and O) shows substantial correlation between protein and
+RNA-seq data (Figure 7).
+
+Figure 2. (See previous page). Expression patterns of neurotransmitters, neurotransmitter receptors, and common
+immunohistochemistry (IHC) markers, and validation of ENK and SP coexpression in adult mouse colon. (A) Average
+expression for neurotransmitters and IHC markers that were differentially expressed between distinct neuron and glial sub-
+classes. (B) Proportion of cells per cluster with expression values >0 for differentially expressed neurotransmitters and IHC
+markers. (C) Average expression for neurotransmitter receptors and subunits that were differentially expressed between
+distinct neuron and glial subclasses. (D) Proportion of cells per cluster with expression values >0 for differentially expressed
+neurotransmitter receptors and subunits. (A, C) Color key represents loge(normalized average gene expression within each
+cluster). (E–G) ENK (green) colocalizes with SP (red) in myenteric neuron cell bodies in (E) proximal, (F) mid, and (H) distal colon.
+(H–J) Most myenteric intraganglionic neuron varicosities in (H) proximal, (I) mid, and (J) distal colon express both ENK (green)
+and SP (red). (K, L) Most enkephalinþ (green) neuron varicosities in circular smooth muscle in (K) mid colon and (L) distal colon
+also express SP (red), but only a subset of substance P-expressing neuron varicosities in circular smooth muscle express
+ENK. (E–L) Images representative of n ¼ 3 preparations per colon region and n ¼ 3 images per preparation. (M) Quantiﬁcation
+of colocalization of ENK and SP in varicosities within mid colon myenteric ganglia and within circular smooth muscle. (N) EGFP
+(green) ﬂuorescence signal colocalizes with TDTOMATOþ (red) neurons (blue) in Vglut2-IRES-Cre; R26R-TdTomato; ChAT-
+EGFP-L10A mice. (O) In a small subset of HuC/Dþ neurons (blue), TDTOMATOþ (red) does not colocalize with EGFP ﬂuo-
+rescence signal in Vglut2-IRES-Cre; R26R-TdTomato; ChAT-EGFP-L10A mice. (P) Quantiﬁcation of the colocalization of EGFP
+ﬂuorescence with TDTOMATO ﬂuorescence in Vglut2-IRES-Cre; R26R-TdTomato mice. (E–G) Scale bar ¼ 10 mm. (H–L) Scale
+bar ¼ 5 mm. (E–L) White arrows point toward cells and varicosities that express both ENK and SP. (H–L) White arrowheads
+point toward varicosities that express enkephalin only. Empty arrowheads point toward varicosities that express SP only.
+(M, P) Mean ± SD.
+
+1554
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Figure 3. Average expression and percent cells per cluster with detectable levels of differentially expressed signaling
+pathway molecules in adult distal mouse colon. (A) Average expression for selected ligands (left) and receptors (right) that
+were differentially expressed between distinct neuron and glial subclasses. Color key represents loge(normalized average gene
+expression within each cluster). (B) Proportion of cells per cluster with expression values >0 for differential expressed ligands
+(left) and receptors (right).
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1555
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Figure 4. Average expression and percent cells per cluster with detectable levels of differentially expressed ion
+channels in adult distal mouse colon. (A) Average expression of differentially expressed ion channel (subunit) genes for
+different neuron and glial groups. Color key represents loge(normalized average gene expression within each cluster). (B)
+Proportion of cells per cluster with expression values >0 for differentially expressed ion channels.
+
+1556
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Adult Neuron Subtype Transcription Factor
+Patterns Are Largely Established by E17.5
+
+In mice, CHATþ and NOS1þ enteric neurons are iden-
+tiﬁable by late gestation and appear lineage committed.30,31
+To identify lineage speciﬁc transcription factors at E17.5, we
+performed RNA-seq using whole bowel from ChAT-L10a-
+
+EGFP wt/wt; Nos1-CreERT2Cre/wt;TdTomatoþ and ChAT-L10a-
+EGFPþ; Nos1-CreERT2wt/wt;TdTomatoþ littermates after
+E15.5 tamoxifen treatment. In these mice, EGFP marks
+CHAT-lineage and TDTOMATO identiﬁes NOS1-lineage
+neurons (Figure 9A–C; see also Supplementary Figure 2).29
+These lineages were chosen to minimize the presence of
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1557
+
+less-differentiated precursors in the sample and were
+sequenced together. A total of 1005 cells were sequenced at
+83% saturation. We normalized after removing outliers,
+leaving 707 neurons (Elavl4þ), 179 epithelial (Epcamþ),
+and 67 smooth muscle cells (Actg2þ) (Figure 9A and D).
+Reclustering without epithelia and muscle yielded 8 neuron
+clusters (Figure 9E and F). All had high Ret expression and
+expressed Dcx, an immature neuron marker.32 Enteric glia
+(Plp1þ, Sox10þ) were rare (Figure 9H). Chat transcripts
+were also rare as others reported,5,8 but vesicular acetyl-
+choline transporter Slc18a3 was abundant in neuron clus-
+ters with low Nos1 (Figure 9G). Three clusters appeared less
+mature, prominently expressing neurite projection and
+cytoskeleton reorganization genes, based on Gene Ontology
+(GO) analysis. Other clusters expressed synaptogenesis and
+maintenance genes suggesting mature neurons (Figure 10A
+and B). Many neurotransmitters, receptors,
+ion channel
+subunits, and signaling molecules were differentially
+expressed between E17.5 subgroups (Figures 10C–E and
+11), including Gfra1 and Gfra2 (Figure 11), and there was
+substantial overlap between E17.5 and adult subgroup
+expression of regulatory genes including Casz1, Bnc2, Etv1,
+Pbx3, Tbx2, Tbx3, and Rbfox1, a subset of which were vali-
+dated using immunohistochemistry (Figures 7, 8, 12, and
+13). Similar to our adult data, we also validated Etv1
+enrichment in NOS1þ neurons by treating Etv1-CreERT2Cre/wt;
+R26R-TdTomato mice with high-dose tamoxifen to induce
+TDTOMATO from Etv1þ regulatory elements (Figure 13A, G,
+and M).
+
+Conditional Tbx3 Loss Reduced NOS1þ
+Myenteric Neuron Density, But Casz1, Tbx2, and
+Rbfox1 Loss Did Not Alter Chat-EGFPþ/Total
+Neuron Subtype Ratios
+
+For several differentially expressed regulatory genes, we
+determined if mutations altered nitrergic or cholinergic
+
+in
+
+Rbfox1
+
+enteric neuron abundance. We found that loss of TBX3 in
+ENS led to w30% fewer NOS1þ neurons in small bowel of
+P0 Wnt1-Cre;Tbx3ﬂ/ﬂ;R26R-Tdtomato mice, despite normal
+total neuron density (Figure 14A–D). In contrast, Chat-
+EGFPþ neuron density was normal in Casz1 mutants (Wnt1-
+Cre;Casz1ﬂ/ﬂ;Chat-EGFP-L10A),
+mutants
+(Wnt1-Cre;Rbfox1ﬂ/ﬂ;Chat-EGFP-L10A), and in Tbx2 mutants
+(Wnt1-Cre;Tbx2ﬂ/ﬂ;Chat-EGFP-L10A) despite enrichment of
+these genes in cholinergic neurons (Figure 14E–H, K–N, and
+R–U). Colonic bead expulsion latency tests were also normal
+in adult Casz1 (Figure 14I) and Rbfox1 (Figure 14O) mutant
+mice, suggesting intact ENS-mediated distal colon motility.
+We were unable to perform similar motility experiments in
+Tbx2 mutant mice, which died shortly after birth. Collec-
+tively, these ﬁndings suggest TBX3 impacts NOS1þ neurons,
+but conditional loss of Tbx2, Casz1, and Rbfox1 does not
+alter CHAT/NOS1 neuron numbers.
+
+Pou3f3 Is in Colon, But Not Small Bowel ENS
+
+In addition to subtype identity, regional differences in
+neurons could promote distinct motility patterns. We were
+intrigued by the observation that Pou3f3 (aka Brn1), a tran-
+scription factor important for CNS development, was mostly
+restricted to E17.5 immature Chat2 and immature Nos1
+clusters (Figure 15A and B). Pou3f3 enrichment in colon ENS
+could explain these results, a hypthesis conﬁrmed by RT-PCR
+(Figure 15AY). Immunohistochemistry using 2 antibodies
+conﬁrmed POU3F3 marks all immature and mature colon
+neurons, but no small bowel neurons (Figure 15C–Z), as
+recently reported.33 Human colon also had POU3F3 in the
+nucleus of all submucosal and myenteric neurons. Human
+small bowel submucosal neurons lacked POU3F3, but some
+small bowel myenteric neurons had cytoplasmic POU3F3
+immunoreactivity of uncertain signiﬁcance (Figure 15AA–AX).
+These data signiﬁcantly extend recent reports that colon, but
+not small bowel, enteric neurons express POU3F3.
+
+Figure 5. (See previous page). GDNF and NRTN acutely inﬂuence GCaMP activity of largely nonoverlapping adult distal
+colon myenteric neuron populations. (A–C) Feature plots show Gfra1 primarily in Nos1/Vip/Gal neurons (A), Gfra2 in Chat
+neurons (B), and Ret in almost all neurons except Chat3 (C). (D) Whole mount immunohistochemistry shows GFP (green) in
+most NOS1þ (red) neurons of Gfra1Gfp/wt distal colon. White arrowheads show GFPþNOS1þ neurons. Yellow arrowhead
+shows GFP-NOS1þ neuron. (E) Most NOS1þ neurons are GFPþ. Most NOS1– neurons are GFP-, consistent with RNA-seq
+(P < .0001, Student’s t test, n ¼ 3 mice (Gfra1Gfp/wt)). (F) Whole mount immunohistochemistry using Gfra1Gfp/wt distal colon
+shows colocalization of GFP (green) with S100Bþ (red) glia and HuC/D (blue) neurons. Scale bar ¼ 100 mm. (G, H) Time-lapse
+images (top) (pixels were assigned color based on transients timing; color ¼ activity) and traces (bottom) of GCaMP6s activity
+from regions of interest on myenteric neurons during baseline (left) and after adding 10 nM GDNF (G) or 10 nM NRTN (H) (right).
+(I) Sample traces from neurons with activity increased (top) or decreased (bottom) by GDNF (red) or NRTN (blue). Baseline
+(gray) and percent neurons (in parentheses) with increased or decreased activity (>2 SD change). (J) Percent neurons
+responding to only GDNF (red), only NRTN (blue), or both (gray) (P < .05, 1-way analysis of variance, Tukey’s multiple
+comparisons test). (K) Iris plot of GDNF and NRTN responsive myenteric neurons (n ¼ 260 of 523 [49.7%] of total). GDNF is
+shown in the outer circle (red), NRTN is shown in the inner circle (blue) (n ¼ 5 mice), and gray indicates no ligand-induced
+activity change. Light shades of red and blue indicate decreased activity after ligand addition. Most responsive neurons are
+affected by either GDNF or NRTN, not both. (L) NADPH diaphorase stained colon identiﬁes nitric oxide–producing neurons. (M)
+Corresponding GCaMP6s imaging ﬁeld. (N) GCaMP6s imaging ﬁeld shown in M, where yellow arrowheads identify putative
+nitrergic myenteric neurons and asterisks indicate putative NADPH diaphorase positive neurons with low GCaMP6s signal. (O)
+Quantiﬁcation of GDNF- and NRTN-responsive nitrergic neurons (n ¼ 3 ﬁelds from separate experiments, P ¼ .0298, Fisher
+exact test, 2 (cid:2) 2 contingency table [NOSþ/NOS– and GDNF response/NRTN response]). (P, Q) Quantitative data for
+GCaMP6s imaging ﬁelds stained post hoc for NADPH diaphorase, indicating response to GDNF and NRTN. (P) Responsive
+nitrergic neurons. (Q) Responsive non-nitrergic neurons. (E, J) Mean ± SD. (D, F, G, H) Scale bar ¼ 100 mm. (L–Q) n ¼ 3 ﬁelds of
+view from separate mice. *P < .05, **P < .01, ****P < .0001.
+
+1558
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+GDNF
+
+Figure 6. GDNF modu-
+lates activity in some
+myenteric neurons and
+enhances colon muscu-
+laris movement.
+(A, B)
+Heatmaps of GCaMP6s
+activity before and after
+adding TTX and during
+sequential
+and
+NRTN addition. Colors
+indicate GCaMP6s ampli-
+tude (red, no activity). (A)
+Heatmap of all neurons
+(n ¼ 803 from 7 ﬁelds of
+view in 3 mice). Dotted box
+shows GDNF- and NRTN-
+responsive neurons.
+(B)
+Expanded heatmap of 34
+neurons that were only
+20
+GDNF-responsive,
+NRTN-
+only
+neurons
+responsive, and 12 neu-
+rons that
+responded to
+both. (C–J) Percent of total
+neurons
+observed
+per
+imaging ﬁeld
+GCaMP6s
+with increased activity after
+EFS applied 5 mm (C, E)
+oral or (D, F) aboral relative
+to the imaging ﬁeld at
+baseline (vehicle) and in
+the presence of
+(C, D)
+GDNF and (E, F) NRTN. (C,)
+GDNF
+the
+percent of activated neu-
+rons after orally applied
+EFS (P ¼ .0068,
+ratio
+paired t test). (G–J) Tissue
+displacement
+(microme-
+ters) after EFS applied 5
+(H, J)
+I) oral or
+mm (G,
+aboral relative to the im-
+aging ﬁeld at baseline
+(vehicle) and in the pres-
+ence of (G, H) GDNF and
+(G) Tissue
+(I, J) NRTN.
+displacement is increased
+in the presence of GDNF
+after orally applied EFS
+(P ¼ .0230, ratio paired t
+test). Sample traces (left)
+and graph (right) of tissue
+displacement at baseline
+and after (K) GDNF (P ¼
+.0022, ratio paired t test) or
+(L) NRTN (P ¼ .1583, ratio
+paired t test).
+(M) GDNF,
+but not NRTN, enhanced
+tissue movement (P < .01,
+unpaired t test). (M) Mean
+± SD. *P < .05, **P < .01,
+****P < .0001.
+
+increases
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1559
+
+Figure 7. Average expres-
+sion and percent cells per
+cluster with detectable
+differentially
+of
+levels
+expressed
+transcription
+and splicing factors in
+adult distal mouse colon.
+(A)
+and
+Transcription
+splicing factors with known
+roles in ENS development
+(top), and newly identiﬁed
+differentially expressed fac-
+tors (bottom). (B) Proportion
+of cells per cluster with
+expression values >0 for
+transcription and splicing
+factors with known roles in
+ENS development (top), and
+regulatory genes (transcrip-
+tion factors and splicing
+factors) newly identiﬁed in
+the ENS in this study (bot-
+tom). n.s., not signiﬁcantly
+differentially expressed be-
+tween neuron clusters.
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Using Pou3f3 to mark E17.5 colon neurons (Figure 15AZ)
+and restricting comparisons to only mature or immature
+clusters, we identiﬁed 5 genes differentially expressed in
+Pou3f3þ vs Pou3f3- enteric neurons of immature clusters
+(Slc18a3, Klhl1, Dpysl3, Gna14, and Itm2a) (Figure 15BA and
+BC) and 3 genes differentially expressed in Pou3f3þ vs Pou3f3-
+neurons of mature clusters (Ahr, Pantr1, Zfhx3) (Figure 15BB
+and BD). Ahr, Pantr1, and Zfhx3 patterns resemble Pou3f3
+(Pearson correlation) (compare Figure 15B–BD), and others
+recently reported Ahr enrichment in colon ENS.33
+
+Adult Human Colon Myenteric Plexus
+
+We next sequenced single nuclei from human colon
+myenteric plexus and surrounding cells. Isolating ENS cells
+was challenging. Neither whole cell sequencing nor immu-
+noselection of neuronal nuclei using NeuN or PHOX2B an-
+tibodies was successful. Ultimately, we obtained data from a
+limited number of human colon myenteric neuron nuclei by
+microdissecting live plexus labeled with 4-Di-2-Asp (4-(4-
+(dimethylamino)styryl)-N-methylpyridinium iodide) (a dye
+terminal
+that
+
+accumulates
+
+presynaptic
+
+nerve
+
+in
+
+1560
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+freezing in optimal cutting
+mitochondria) (Figure 16A),
+temperature compound (OCT), sectioning, Dounce homog-
+enizing, and ﬂow sorting Hoechstþ single nuclei from cell
+
+debris. 10x Genomics (Figure 16B) yielded RNA-seq data
+from 20,167 nuclei of 16 adult colons (Table 2) with a mean
+of 1455 UMIs and 894 genes per nucleus (Table 3). Our data
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1561
+
+included many smooth muscle, ICC, PDGFRaþ cells, enteric
+glia, muscularis macrophage, and vascular endothelial and
+hematopoietic cells (Figure 16B–L) (ie, most cells that
+impact bowel motility). One cluster of 48 cells was strongly
+positive for neuronal genes like ELAVL4, SNAP25, and
+UCHL1 (Figure 17D–F). Reclustering all human nuclei
+expressing ELAVL4, UCHL1, or SNAP25 led to unbiased
+identiﬁcation of this same group, plus other cells that are
+likely doublets, conﬁrming neuron identity of this group
+(Figure 18A and B). Because of small cell numbers, we used
+hierarchical Euclidean clustering based on the top 50
+markers distinguishing neurons from other cells. This gave
+2 distinct clusters (Figure 18C) that differ in NOS1/VIP/
+GALþ expression. CHAT and SLC18A3 (VAChT) transcripts
+were not detected in either subgroup, probably due to low
+read depth. Low CHAT was also noted by others.5,8 We next
+asked if any of the 41 transcription or splicing factors
+differentially expressed in mouse Nos1þ vs Chatþ myen-
+teric neurons were also differentially expressed in human
+myenteric neuron subtypes. Consistent with mouse data,
+ETV1 was most abundant in NOS1þ neurons, while RBFOX1
+and BNC2 were enriched in NOS1– neurons (Figure 18D)
+after multiple comparison testing. Immunohistochemistry
+conﬁrmed BNC2 (Figure 19A–D and U), PBX3 (Figure 19E–H
+and V), RBFOX1 (Figure 19I–L and W), TBX2 (Figure 19M–P
+and X), and TBX3 (Figure 19Q–T and Y) were differentially
+expressed in human enteric neuron subtypes, with patterns
+similar to mouse (ie, most RBFOX1þ, PBX3þ, BNC2þ, and
+TBX2þ cells are CHATþ; most TBX3þ cells are NOSþ)
+(Figure 19Z and AA).
+
+Discussion
+
+Regenerative medicine and trophic factor modulation
+hold promise for treating life-threatening enteric neuropa-
+thies.2,3 To facilitate reprogramming and improve bowel
+function, better understanding of the molecular identity and
+characteristics of ENS subtypes is needed.2 We used single-
+cell transcriptomics to identify hundreds of neurotransmit-
+ters, receptors,
+ion channels, signaling molecules, and
+messenger RNA regulatory genes differentially expressed in
+7 mouse myenteric neuron subclasses in adult distal colon
+and 8 neuron groups at E17.5.
+Immunohistochemistry
+validated RNA-seq, and functional studies identiﬁed new
+
+ENS roles for TBX3, GDNF, and NRTN. Our analyses com-
+plement recently published manuscripts,5–8,33 providing a
+foundation for novel diagnostics and disease management.
+Several transcription and splicing factors were differ-
+entially expressed in nitrergic vs cholinergic neurons, with
+similar patterns in mouse and human RNA-seq (ETV1,
+RBFOX1, BNC2) and immunohistochemistry (BNC2, PBX3,
+RBFOX1, TBX3, and TBX2) data. Some of these genes were
+previously reported in Memic et al,4 who used bulk RNA
+analysis via microarray and immunohistochemistry to
+study transcription factor expression during fetal develop-
+ment. However, unlike their study, which lacked the reso-
+lution of single-cell sequencing and had no quantitative
+assessment of transcription factor expression,4 we provide
+rigorous quantitative data by combining immunohisto-
+chemistry with 3-dimensional confocal
+imaging. For a
+subset of genes, we tested if loss altered Chat or Nos1
+subtype abundance and discovered that Tbx3 loss reduced
+NOS1þ myenteric neuron density. Total neuron density
+in Tbx3 mutant mice, conﬁrming our prior
+was normal
+analysis.27 In that prior study, we also found loss of Tbx3
+reduced enteric glia but had no discernible effects on
+gastric and small intestine transit time at P0.27 Unfortu-
+nately, Tbx3 mutant mice die at P0, which precludes anal-
+ysis of colonic or total gastrointestinal transit. Intriguingly,
+Tbx3 expression in limb bud is induced by the transcription
+factor HAND2,34 and Hand2 mutations cause complete loss
+of NOS1þ/VIPþ enteric neurons,35 suggesting TBX3 may
+act downstream of HAND2 in the ENS.
+
+In contrast, Chat-EGFPþ neuron density and total
+in Wnt1-CreCre/wt;Casz1ﬂ/ﬂ,
+neuron density were normal
+Wnt1-CreCre/wt;Rbfox1ﬂ/ﬂ, and Wnt1-CreCre/wt;Tbx2ﬂ/ﬂ mice.
+Casz1, Rbfox1, and Tbx2 were chosen for in vivo study
+because most adult ChATþ myenteric neurons express
+Casz1 and Rbfox1, and because Tbx2 was expressed in many
+ChATþ neurons at E17.5. Furthermore, RBFOX1 regulates
+CNS neuron subtype differentiation, and CASZ1 and TBX2
+regulate subtype speciﬁcation in many cells including pho-
+toreceptors.36–40 Normal colonic bead expulsion latency in
+Casz1 and Rbfox1 mutant mice suggests redundant ENS
+mechanisms prevent obvious anatomic or functional defects.
+Another striking observation was that the transcription
+factor POU3F3 is expressed in colon ENS, but not small
+bowel ENS, as others recently conﬁrmed.7,33 POU3F3
+
+(H–L)
+
+Figure 8. (See previous page). Regulatory genes are expressed in distinct adult ENS subsets. (A) Feature plots of select
+regulatory genes. Color key shows loge(normalized gene expression). (B–F) Myenteric plexus wholemount immunohisto-
+chemistry in young adult ChAT-EGFP-L10A distal colon. (G) Whole mount myenteric plexus immunohistochemistry in distal
+colon from tamoxifen-treated Etv1-CreErt2;R26R-TdTomato mice. TDTOMATO is in many NOS1þ neurons and some non-
+Immunohistochemistry quantiﬁcation. TBX3 is found mostly in (H) nitrergic
+neuronal cells with ICC morphology.
+(NOS1þ) neurons (P < .0001, n ¼ 3). (I) SATB1 (P ¼ .013, n ¼ 3), (J) PBX3 (P < .0001, n ¼ 3), and (K) RBFOX1 (P ¼ .0006, n ¼ 3)
+are mostly in cholinergic (EGFPþ) neurons, consistent with single-cell RNA data. (L) PHOX2B is equally abundant in Chat-
+EGFPþ and Chat-EGFP–cells (P ¼ .2193, n ¼ 4). (M) Quantiﬁcation of G shows that 56.4 ± 3.6% of NOS1þ neurons are
+TDTOMATOþ. Only 5.6 ± 0.9% of NOS1– neurons are TDTOMATOþ (P ¼ .0002, n ¼ 3). (N) Cholinergic (Chat-EGFPþ) and (O)
+nitrergic (NOS1þ) identity for cells expressing select factors. SATB1 (P ¼ .0022), PBX3 (P ¼ .0026), and RBFOX1 (P ¼ .019) are
+largely restricted to cholinergic (Chat-GFPþ) neurons. PHOX2B is present in both cholinergic and noncholinergic neurons (P ¼
+.370) (P values compare Transcription factorþEGFPþ/Transcription factorþ vs EGFPþ/Total neuron ratios). TBX3 (P < .0001)
+and ETV1 (P < .0001) are primarily in nitrergic (NOS1þ) neurons (P values compare Transcription factorþNOS1þ/Transcription
+factorþ vs NOS1þ/Total neuron ratios). (I–O) Student’s t test. (H) Analysis of variance with Tukey’s post hoc test. Scale bar ¼
+100 mm. ChAT-EGFP-L10A ¼ Chat-EGFP. *P < .05, **P < .01, ***P < .001, ****P < .0001.
+
+1562
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+regulates cortical neuron migration and neurogenesis, but
+ENS function is unknown.41 Human mutations cause intel-
+lectual disability, speech delay, autism, epilepsy, craniofacial
+
+anomalies, and cryptorchidism,42 but effects of POU3F3
+mutation on bowel function were not reported. Restricted
+colon expression is interesting because motility and ENS
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1563
+
+structure differ between colon and small bowel,22 and we
+know little about underlying mechanisms.
+
+Human RNA-seq yielded data from 17 NOS1þ and 31
+NOS1– myenteric neurons as well as from many other cells
+that impact bowel motility. Guided by RNA-seq, we found
+that ETV1 was more abundant in human nitrergic neurons,
+while RBFOX1 and BNC2 were enriched in non-nitrergic
+neurons, suggesting that subtype-speciﬁc genes may be
+conserved between humans and mice. Immunohistochem-
+istry conﬁrmed that TBX3, PBX3, and TBX2 are also present
+in subsets of human enteric neurons as predicted by mouse
+data.
+
+Many other genes differentially expressed in enteric
+neuron subclasses may merit investigation. For example,
+ZEB2 mutations cause Mowat-Wilson syndrome, charac-
+terized by HSCR,
+intellectual disability, and distinctive
+facial
+features. Postsurgical outcomes in Mowat-Wilson
+syndrome are worse than for isolated HSCR, and ZEB2
+mutations cause chronic constipation without HSCR,43,44
+suggesting that Zeb2 might have roles beyond bowel
+colonization by ENS precursors. Zfhx3, another HSCR-
+associated gene,45 drives neuronal differentiation in other
+in ENS subtype speciﬁcation are
+regions, but
+unexplored.
+
+roles
+
+Integrating New and Old Data About ENS
+Subtypes
+
+Using neurotransmitter-associated markers in adults
+(Table 4) and at E17.5 (Table 5), we correlated our RNA-
+seq data with known ENS subtype markers. Subtype des-
+ignations at E17.5 include small bowel and colon neurons
+(distinguished by Pou3f3) and immature clusters deﬁned
+by GO term modules (Figure 10A and B). The similarities
+between the E17.5 small bowel and adult colon suggest
+that some aspects of neuron differentiation are similar
+across bowel regions and completed by E17.5. Many newly
+identiﬁed differentially expressed genes are highlighted in
+Tables 4 and 5. Some genes known to be expressed in
+enteric neuron subtypes were not detected (see Table 4),
+but lack of expression is difﬁcult to interpret because of
+limited read depth in adult colon nuclei.
+
+In adults, Calcb neurons appear to be AH/Dogiel type II
+intrinsic sensory neurons that express neuroﬁlament M
+(Nefm), Nav1.9 (Scn11.1a), calretinin (Calb2), NK1 tachy-
+kinin receptor (Tacr1), serotonin receptors Htr3A and
+
+excitatory motor neurons or
+
+Htr3b, and purine receptor P2rx2.18,46,47 Chat1 neurons
+express the mechanosensitive channel Piezo1, suggesting
+that these cells are stretch sensitive intrinsic sensory
+neurons, but other sensory neuron markers are absent.
+There are reports of mechanosensitive interneurons and
+motor neurons,48 so Chat1 neurons may correspond to
+these. Tac1 and Penk coexpression make Chat2 and Chat3
+clusters
+interneurons
+(Figure 1I).18 Unexpectedly, however, Chat3 neurons also
+express hepatocyte growth factor receptor Met and do not
+express calcitonin gene-related peptide (Calcb). This is an
+interesting ﬁnding, which suggests that Metþ colonic
+neurons differ from small bowel, where MET and calci-
+tonin gene-related peptide were found in the same neu-
+rons
+single-cell
+sequencing.49,50 Similar to small bowel, however, Met
+and Ret appear to be mutually exclusive in colon, with all
+groups except Chat3 expressing Ret. Finally, Chat4 cells
+appear to be interneurons based on coexpression of
+Slc18a3, Chat, Nos1, Vip, and Calb1. Many ﬁndings ﬁt well
+with known neuron subtypes, and immunohistochemistry
+correlates well with RNA-seq, providing high conﬁdence in
+our results. We point out unexpected ﬁndings to suggest
+that there is more to learn and that future studies based
+on our RNA-seq are needed to fully deﬁne adult enteric
+neuron subtypes.
+
+immunohistochemistry
+
+and
+
+by
+
+Deﬁning neuron subtypes at E17.5 presents an added
+challenge because differentiation is incomplete. Table 5
+highlights
+some markers differentially expressed in
+neuron subtypes. Because almost all cholinergic and
+nitrergic neurons at E17.5 remain cholinergic or nitrergic,
+respectively, in adults,30,31 we extrapolate from adult data.
+Assessment of maturity is based on GO term analysis.
+Colon neurons were identiﬁed by Pou3f3 expression. Chat
+cluster 1 and Chat cluster 2 markers suggest small bowel
+excitatory motor neurons and intrinsic sensory neurons,
+respectively. Chat cluster 2 also expresses bone morpho-
+genetic protein (BMP) and transforming growth factor b
+signaling antagonists (Nog, Bambi, Smad7), which may
+provide new insights into ENS development. Immature
+Chat cluster 1 appears to be developing myenteric in-
+terneurons that express Slc17a6, similar to the adult Chat4
+cluster. Nos1 clusters 1 and 3 are most likely inhibitory
+motor neurons but could also be interneurons. Nos1
+cluster 2 represents possible inhibitory interneurons
+
+Figure 9. (See previous page). Single-cell RNA-seq of E17.5 ChAT-EGFP-L10AD and Nos1-CreERT2Cre/wt;R26R-
+TdTomatoD neurons show distinct nitrergic and cholinergic clusters. (A) RNA-seq workﬂow with t-SNE plot of all cell
+groups isolated from E17.5 bowel. (B) ChAT-EGP (green) and NOS1 (red) do not overlap at E17.5. Scale bar ¼ 50 mm. (C) NOS1
+(green) and nNOS-Cre-ERT2;R26R-tdTomato (red) overlap. (D) Feature plots of Acta2 as smooth muscle marker, Epcam as an
+intestinal epithelial marker, and Elavl4 as a pan-neuronal marker. Color key represents loge(normalized gene expression). (E)
+After removing the epithelial and smooth muscle cells from the dataset and reclustering, t-SNE plot reveals multiple neuron
+subpopulations. (F) Violin plots show subgroups had 25,319.7 ± 5562.2 unique RNA transcripts (UMIs) and 5291.6 ± 558.8
+detected genes (nGenes) per cell. (G) Expression of Nos1 and the cholinergic marker Slc18a3/VachT veriﬁes the presence of
+the expected cholinergic and nitergic neuronal subpopulations. Chat expression was low throughout, but overlapped with
+Slc18a3 expression. Color key represents loge(normalized gene expression). (H) All neurons have high expression of pan-
+neuronal markers Tubb3 and Elavl4. There is minimal contamination with glial cells based on the expression of enteric glial
+marker Plp1. Sox10, which marks enteric glia and enteric neural crest precursors was also low. Ret, which is expressed in ENS
+precursors and many neurons, was present in all clusters, and all neurons still express the immature pan-neuronal marker Dcx.
+This suggests that these cells are lineage-restricted immature neurons.
+
+1564
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+based on the expression of the transcription factor Neu-
+rod6.5 Interestingly, Nos1 cluster 1 differentially ex-
+presses Ednrb, but the role of Ednrb/EDN3 signaling at
+
+this time is not known. We highlight these observations to
+emphasize how mining our data might provide new insight
+into development.
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1565
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Figure 11. Average expression and percent cells per cluster with detectable levels of differentially expressed signaling
+pathway molecules in E17.5 mouse bowel. (A) Average expression of differentially expressed signaling pathway genes for
+distinct neuron clusters. Color key represents loge(normalized average gene expression within each cluster). (B) Proportion of
+cells per cluster with expression values >0 for differentially expressed signaling pathway molecules.
+
+GDNF and NRTN Acutely Affect Calcium
+Signaling in Distinct Adult Enteric Neuron
+Populations
+
+GDNF/GFRA1/RET signaling is essential for ENS pre-
+cursor survival, proliferation, and differentiation during
+gestation and early ENS maturation.28 In adult ENS, GDNF
+increases the strength of bowel contraction in the
+ascending limb of the peristaltic response.25 Here, we
+conﬁrm and extend prior observations by showing GDNF
+alters calcium signaling in some colon neurons and acutely
+
+In
+enhances basal and EFS-evoked motor patterns.
+contrast, although NRTN/GFRA2/RET are known to in-
+ﬂuence bowel motility and support acetylcholinesteraseþ
+and SPþ neurites,23,51 acute effects of NRTN on the ENS or
+bowel motility had not been demonstrated. We found that
+Gfra1 and Gfra2,
+the preferred GDNF and NRTN co-
+receptors, respectively, are expressed in largely nonover-
+lapping Retþ E17.5 and adult myenteric neuron groups.
+GFRA1 is in w90% of NOS1þ myenteric neurons, but very
+few NOS1– neurons, so we anticipated GDNF would affect
+
+Figure 10. (See previous page). GO term analysis of differentially expressed genes in E17.5 bowel shows more
+immature and mature neuron clusters, with unique combinations of neurotransmitters, receptors, and ion channels. (A)
+GO term analysis of differentially expressed genes in the 3 more immature neuron clusters (immature Chat cluster 1, immature
+Chat cluster 2, immature Nos1 cluster) compared with all other clusters indicates that these neurons are actively involved in
+cytoskeletal reorganization and neurite extension. (B) GO term analysis of differentially expressed genes in the 5 more mature
+neuron clusters (Chat cluster 1, Chat cluster 2, Nos1 cluster 1, Nos1 cluster 2, and Nos1 cluster 3) compared with the
+immature clusters (immature Chat cluster 1, immature Chat cluster 2, and immature Nos1 cluster) indicates that these neurons
+are actively involved in synapse formation. (C–E) Average expression (left) and proportion of cells per cluster (right) with
+expression values >0 (right) for neurotransmitters and commonly used (C) immunohistochemistry markers, (D) neurotrans-
+mitter receptors, and (E) ion channels for different 17.5 groups. Color key for left panels represents loge(normalized average
+gene expression within each cluster). (C) Asterisk indicates differential expression across neuron subtypes. (D, E) Genes listed
+are differentially expressed across subtypes. imm, immature.
+
+1566
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+primarily NOS1þ neurons. However, 44% (n ¼ 33 of 75)
+of GDNF-inﬂuenced neurons were non-nitrergic. This
+might occur because GDNF activates RET via GFRA2
+
+(NRTN’s preferred co-receptor) at high (pharmacologic)
+concentrations,52–54 but
+this seems unlikely because
+GCaMP6s signaling was altered by both GDNF and NRTN
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1567
+
+in only 8% of myenteric neurons. Instead, the observation
+that some neurons had increased and others decreased
+GCaMP activity in response to each trophic factor suggests
+that both direct and indirect effects were measured and
+that responses depend on synaptic inputs, as conﬁrmed by
+TTX data. The hypothesis that GDNF and NRTN sensitize
+responsive neurons to incoming stimuli is also supported
+by our prior studies of dorsal root ganglia, where these
+factors acutely potentiate TRPV1-induced calcium signals
+and induce hyperalgesia when injected into hindpaw.55
+Although we do not know the source of calcium (eg,
+intra- or extracellular) or whether evoked GCaMP signals
+were activity dependent, our data collectively show that
+NRTN and GDNF acutely inﬂuence nonoverlapping sets of
+myenteric neurons and differentially regulate bowel
+motility. These new data may in part explain our prior
+studies showing that Nrtn–/–, Gfra1(cid:3), and Ret(cid:3) mice have
+normal numbers of enteric neurons, but a >90% reduction
+in colon contractility and a 50%–90% (depending on
+mouse line) reduction in VIP and SP release in response to
+electric ﬁeld stimulation.56
+
+Summary
+
+Enteric neuropathies remain challenging to treat, and we
+are hampered by inadequate data about enteric neuron
+subtypes. Here, we used single-cell RNA-seq to identify
+many subtype–speciﬁc regulatory molecules, and demon-
+strated new roles for GDNF, NRTN, and Tbx3.
+
+Materials and Methods
+
+All authors had access to the study data and reviewed
+
+and approved the ﬁnal manuscript.
+
+Study Approval
+
+Studies adhere to ARRIVE (Animals
+
+in Research:
+Reporting In Vivo Experiments) guidelines.57 Mouse exper-
+iments were performed in accordance with Institutional
+Animal Care and Use Committee (IACUC) approval from
+Children’s Hospital of Philadelphia (IACUC#19-001041) and
+University of Pittsburgh (IACUC#IS00013297) or University
+of Melbourne Animal Experimentation Ethics Committee
+(project number 1714308.2). Human colon was acquired
+with institutional review board (IRB) approval from Perel-
+man School of Medicine at University of Pennsylvania
+(IRB#804376) and from Children’s Hospital of Philadelphia
+(IRB#13-010357).
+
+Animals
+
+to
+
+to
+
+to
+
+to
+
+as
+
+as
+
+as
+
+as
+
+mice
+
+mice
+
+(referred
+
+(referred
+
+(referred
+
+(referred
+
+B6.FVB(Cg)-Tg(Chat-EGFP/Rpl10a,Slc18a3)DW167Htz/J mice,
+referred to as ChAT-EGFP-L10a (RRID:IMSR_JAX:030250;
+C57BL/6J), were a kind gift from Dr Joseph Dougherty at
+Washington University School of Medicine in St Louis.
+Tbx3;
+Tbx3tm3.1Moon
+RRID:MGI:5538564; described previously; mixed back-
+ground)22 were a kind gift from Dr. Anne Moon at the
+Geisinger Commonwealth School of Medicine. B6.129S2-
+Rbfox1;
+Rbfox1tm1.1Dblk/J mice
+RRID:IMSR_JAX:014089; C57BL6/J) were a kind gift from
+Dr. Douglas Black at
+the University of California, Los
+Angeles. Gfra1tm2.1Jmi mice (referred to as Gfra1-Gfp;
+RRID:MGI:3715157, C57BL/6) were a kind gift of Dr. Sanjay
+Jain at Washington University School of Medicine in St Louis.
+C57BL/6J mice (RRID:IMSR_JAX:000664), H2az2(Tg(Wnt1-
+cre)11Rth
+Wnt1-Cre;
+RRID:IMSR_JAX:003829), B6;129S6-Gt(ROSA)26Sortm1(CAG-
+tdTomato*,-EGFP*)Ees/J mice (referred to as ROSAnT-nG;
+RRID:IMSR_JAX:023035),
+B6;129S-Gt(ROSA)
+26Sortm1.1Ksvo/J mice (referred to as R26R-H2b-mCherry;
+RRID:IMSR_JAX:023139), B6(Cg)-Etv1tm1.1(cre/ERT2)Zjh/J
+RRI-
+mice
+D:IMSR_JAX:013048), Slc17a6tm2(cre)Lowl/J mice (referred
+to
+as Vglut2-IRES-Cre mice; RRID:IMSR_JAX:016963),
+B6;129S-Nos1tm1.1(cre/ERT2)Zjh/J mice (referred to as
+Nos1-CreERT2;
+Gt(ROSA)
+26Sortm9(CAGtdTomato)Hze mice (referred to as R26R-
+TdTomato; RRID:IMSR_JAX:007909), B6.FVB-Tg(EIIa-cre)
+E2a-Cre
+C5379Lmgd/J
+RRI-
+D:IMSR_JAX:003724;
+B6J.Cg-Gt(ROSA)
+(referred to R26R-
+26Sortm96(CAG-GCaMP6s)Hze/MwarJ
+Gcamp6s; RRID:IMSR_JAX:028866; C57BL/6) were obtained
+from the Jackson Laboratory (Bar Harbor, ME). Wnt1-Cre
+mice on a mixed C57BL/6J (cid:2) CBA/J)F1 background were
+bred into R26R-H2b-mCherry mice on a mixed 129S4/
+SvJaeSor (cid:2) C57BL/6J background and maintained on a
+mixed C57BL/6J (cid:2) 129S4/SvJaeSor (cid:2) CBA/J)F1 back-
+ground. Etv1-CreERT2 mice were bred to R26R-TdTomato
+mice
+to generate Etv1-
+CreERT2;R26R-TdTomato mice on a C57BL/6J background.
+Vglut2-IRES-Cre mice
+C57BL/6;FVB;129S6
+on
+background were bred to R26R-TdTomato on a C57BL/6J
+background
+a mixed C57BL/
+6;FVB;129S6 background. Nos1-CreERT2 mice were crossed
+with R26R-TdTomato mice and ChAT-EGFP-L10a mice to
+generate ChAT-EGFP-L10a; Nos1-CreERT2; R26R-TdTomato
+
+and ChAT-EGFP-L10a mice
+
+RRID:IMSR_JAX:014541),
+
+to
+C57BL/6),
+
+Etv1-CreERT2 mice;
+
+and maintained
+
+(referred
+
+as
+and
+
+on
+
+a
+
+Figure 12. (See previous page). Differentially expressed transcription and splicing factors in E17.5 mouse bowel. (A)
+Transcription and splicing factors with known roles in ENS development (top), and newly identiﬁed differentially expressed
+factors (bottom). (B) Proportion of cells per cluster with expression values >0 for transcription and splicing factors with known
+roles in ENS development (top), and regulatory genes (transcription factors and splicing factors) newly identiﬁed in the ENS in
+this study (bottom). (C–G) Whole mount immunohistochemistry of select regulatory genes in E17.5 ChAT-EGFP-L10A reporter
+mouse mid colon shows gene localization in neuron subsets. (C) BNC2, (D) PBX3, and (E) RBFOX1 are predominantly
+expressed in cholinergic (EGFPþ) neurons. (C, D) White arrowheads indicate neurons that express the regulatory gene in
+question but are not cholinergic. (F) TBX2 does not have nuclear or diffuse cytoplasmic staining in the E17.5 colon. Instead,
+TBX2 immunoreactive cytoplasmic aggregates were detected in a subset of cholinergic (EGFPþ) neurons (notched white
+arrowheads). (G) TBX3 is expressed in some cholinergic (EGFPþ, white arrows) and most nitrergic (NOS1þ, empty arrow-
+heads) neurons. (C–G) ChAT-EGFP-L10A reporter ¼ Chat-EGFP. Scale bar ¼ 20 mm (C–G). n.s., not signiﬁcantly differentially
+expressed between neuron clusters.
+
+1568
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+and maintained on a C57BL/6 background.
+mice
+Rbfox1;Wnt1-Cre;R26R-TdTomato;ChAT-EGFP-L10a
+mice
+were generated by crossing Rbfox1 mice to Wnt1-Cre mice,
+ChAT-EGFP-L10a mice, and R26R-TdTomato mice and were
+
+maintained on a mixed background. Wnt1-Cre;Tbx3 mice
+were generated by crossing Wnt1-Cre mice to Tbx3 mice and
+were maintained on a mixed background. E2a-Cre mice
+were crossed with R26R-Gcamp6s mice to generate mice
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1569
+
+that express GCaMP6s (a genetically encoded calcium indi-
+cator) in all cells. E2a-Cre;R26R-GCaMP6s mice were main-
+tained on a pure C57BL/6 background. Genotyping was
+performed using previously published and novel primers
+(Table 6) and by Transnetyx (Cordova, TN). Vaginal plug
+day was considered day E0.5. Experimental animals of the
+correct strain, genotype, and age were randomly selected
+from the total pool of mice available Animal husbandry in-
+formation can be found in Table 7.
+
+syringe to remove luminal contents, and placed in fresh
+cold, sterile DPBS. Colon was carefully cut along the mes-
+entery, pinned mucosal side down on dishes treated with
+Sylgard Elastomer 184 Silicone Encapsulant Clear (Dow
+Corning, Midland, MI). Muscularis was carefully peeled from
+the mucosa and placed in cold OCT compound (Fisher
+Healthcare Tissue-Plus OCT Compound; Thermo-Fisher
+Scientiﬁc, Hampton, NH; Cat. #23-730-571) in a biopsy
+specimen cryomold (VWR, Radnor, PA; Cat. #4565), frozen
+in methylbutane on dry ice, and stored at –80(cid:4)C.
+
+Human Colon
+
+Colon tissue was acquired using the Abramson Cancer
+Center Tumor Bank (Philadelphia, PA). Colon was de-
+identiﬁed, providing limited clinical data. Resected co-
+lons were maintained at ambient
+temperature until
+arrival in pathology, where they were transferred to ice-
+cold
+saline
+(DPBS) 1–4 hours after resection. Pathologists selected
+regions of colon without gross abnormalities, and colon
+specimens were transferred to the laboratory in DPBS on
+ice.
+
+Dulbecco-modiﬁed
+
+phosphate-buffered
+
+Tamoxifen Treatment
+
+Tamoxifen (10 mg/mL or 20 mg/mL; Sigma-Aldrich, St
+Louis, MO; Cat. #T5648) was prepared by ﬁrst adding 200
+mL ethanol and then 1800 mL sunﬂower oil (Sigma-Aldrich;
+Cat. #S5007). Tamoxifen was dissolved by alternately vor-
+texing and incubating in a 37(cid:4)C water bath. Nos1-
+creERT2;Chat-EGFP-L10A;R26-TdTomato E15.5 dams were
+injected once with 200-mg/kg tamoxifen at 10-mg/mL
+concentration. Etv1-CreERT2;R26-TdTomato E15.5 dams
+were gavaged once with tamoxifen at 200-mg/kg concen-
+tration at 20-mg/mL concentration, and pups were
+dissected at E17.5. Adult Etv1-CreERT2;R26-TdTomato adult
+mice were gavaged twice (2 days apart) with 233-mg/kg
+tamoxifen at 20-mg/mL concentration 3 weeks prior to
+dissection.
+
+Preparing Adult Human Colon for Nuclei Isolation
+
+Using insect pins (Fine Science Tools, Foster City, CA;
+Cat. #26002-20), colons were maximally stretched and
+pinned serosa side up on 30-mm dishes treated with
+Sylgard Elastomer 184. Tissue was incubated in 9 parts
+carboxygenated (95% oxygen, 5% CO2) Krebs-Ringer so-
+lution (118-mM NaCl [Sigma-Aldrich; Cat. #S6191], 4.6-
+mM KCl [Thermo-Fisher Scientiﬁc; Cat. #BP366-500], 2.5-
+mM CaCl2 [Cat. #C7902], 1.2-mM MgSO4 [Sigma-Aldrich;
+Cat. #M-7506], 1-mM NaH2PO4
+[Sigma-Aldrich; Cat.
+#S0751], 11-mM D-(þ)-Glucose [Sigma-Aldrich; Cat. #G-
+7021], 25-mM NaHCO3 [Thermo-Fisher Scientiﬁc; Cat.
+#BP328-500], pH 7.4) and 1 part 4-Dia-2-Asp (4-(4-
+(dimethylamino)styryl)-N-methylpyridinium
+iodide)
+(Abcam, Cambridge, United Kingdom; Cat. #ab145266) at
+room temperature in sterile DPBS. After 10 minutes, the
+tissue was transferred to ice-cold carboxygenated Krebs-
+Ringers solution under a SteREO Discovery.V20 ﬂuores-
+cence dissecting scope (ZEISS, Oberkochen, Germany; 488-
+nm ﬁlter). Fluorescent ENS was carefully dissected from
+muscularis by peeling away longitudinal muscle strips
+with Dumont #5 forceps (Fine Science Tools; Cat. #11251-
+30), placed in cold OCT compound (Fisher Healthcare
+Tissue-Plus OCT Compound; Cat. #23-730-571) in a biopsy
+specimen cryomold (VWR; Cat. #4565), frozen in methyl-
+butane (Thermo-Fisher Scientiﬁc; Cat. #O3551-4) on dry
+ice, and stored at –80(cid:4)C.
+
+Preparing Young Adult Mouse Colon for Nuclei
+Isolation
+
+Wnt1-CreCre/wt;R26R-H2b-mCherryþ 47–52-day-old mice
+(8 females, 1 male) were euthanized with CO2. Colon was
+removed, ﬂushed with cold, sterile DPBS using a 20-mL
+
+RNA Extraction for RNA Integrity Number
+Assessment Prior to Sequencing
+
+One to 3 days before sequencing, frozen mouse or hu-
+man tissues were sectioned on a Microm HM 505 E Cryostat
+
+Figure 13. (See previous page). E17.5 data show many regulatory genes are differentially expressed in patterns
+resembling adult colon myenteric plexus. (A) Feature plots. Colors show loge (normalized gene expression). (B–F) Whole
+mount immunohistochemistry of E17.5 ChAT-EGFP-L10A mid small intestine. (G) Whole mount myenteric plexus immuno-
+intestine from tamoxifen-treated Etv1-CreErt2;R26R-TdTomato mice. TDTOMATO is
+histochemistry of E17.5 mid small
+expressed in many NOS1– neurons and some NOS1þ neurons. White arrowhead points to a NOS1þTDTOMATOþ neuron.
+Scale bar ¼ 50 mm. (H–L) Immunohistochemistry quantiﬁcation. (H) BNC2 (P ¼ .0005, n ¼ 3), (I) PBX3 (P ¼ .0119, n ¼ 3), (J)
+RBFOX1 (P ¼ .0012, n ¼ 3), and (K) TBX2 (P < .001, n ¼ 3) are primarily in cholinergic (Chat-GFPþ) neurons. (L) TBX3 (P <
+.0001, n ¼ 3, analysis of variance with Tukey’s post hoc test) is primarily in NOS1þ neurons. (M) Quantiﬁcation of G shows
+preferential TDTOMATO expression in NOS1þ neurons (P ¼ .0042, n ¼ 3). Quantiﬁcation of (N) cholinergic (Chat-EGFPþ) and
+(O) nitrergic (NOS1þ) identity. Neurons expressing BNC2 (P ¼ .0018), PBX3 (P ¼ .0165), RBFOX1 (P < .0001), and TBX2 (P ¼
+.0016) are primarily cholinergic (Chat-GFPþ)
+(P values compare Transcription factorþEGFPþ/Transcription factorþ vs
+EGFPþ/Total neuron ratios). TBX3þ neurons (P ¼ .003) are primarily nitrergic (P values compare Transcription factorþNOS1þ/
+Transcription factorþ vs NOS1þ/Total neuron ratios). (H–L) Mean ± SD. (B–O) ChAT-EGFP-L10A reporter¼Chat-EGFP. (H–K,
+M–O) Student’s t test. (L) Analysis of variance with Tukey’s post hoc test. *P < .05, **P < .01, ***P < .001, ****P < .0001.
+
+1570
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+(GMI, Ramsey, MN; 100-mM sections, –20(cid:4)C). RNA was
+extracted from several (n ¼ 1–5) 100-mM sections using the
+Qiagen RNeasy Plus Micro kit (Qiagen, Hilden, Germany; Cat.
+#74034) and using Qiagen’s RNase Free DNase Set (Qiagen;
+
+Cat. #79254). Samples were run on an 2100 Agilent Bio-
+analyzer using an RNA 6000 Pico Kit (Agilent, Santa Clara,
+CA; Cat. #5067-1513), and tissue was used if RNA integrity
+number (RIN) was >7.0.
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1571
+
+Nuclei Isolation and Sorting
+
+To isolate nuclei, frozen colon sections (100 mm) in ice-
+cold lysis buffer (10-mM Tris HCl pH 7.5 (Cat. #15567-027),
+10-mM NaCl (Sigma-Aldrich; Cat. #S6191), 3-mM MgCl2
+(Cat. #BP214-500), and 0.005% Nonidet P40 Substitute
+(Thermo-Fisher Scientiﬁc; Cat. #AM9010; Sigma-Aldrich;
+Cat. #74385) were chopped rapidly with iridectomy scis-
+sors (1 minute), transferred to a precooled Dounce ho-
+mogenizer (VWR; Cat. #357538) on ice, homogenized 15
+strokes with the loose pestle and 40 strokes with the tight
+pestle, ﬁltered through MACS SmartStrainer (Miltenyi Bio-
+tec, Bergisch Gladbach, Germany; Cat. #130-098-458),
+centrifuged (590 g, 8 minutes, 4(cid:4)C), and resuspended in
+staining buffer (1(cid:2) PBS, 1% w/v Ultrapure bovine serum
+albumin [BSA]
+[Life Technologies, Carlsbad, CA; Cat.
+#AM2618], 0.2U/mL Protector RNase inhibitor, [Sigma-
+Aldrich; Cat. #3335399001]); 2.5mg/mL Hoechst 33342
+Trihydrochloride Trihydrate (Thermo-Fisher Scientiﬁc; Cat.
+#H3570) was added to a ﬁnal concentration of 2.5 mg/mL
+before ﬁltering (FlowMi strainer; VWR; Cat. #H13680-0040)
+and ﬂow sorting (MoFlo Astrios; Beckman Coulter, Indian-
+apolis, IN) into 5-mL staining buffer using a 70-mm nozzle to
+isolate Hoechstþ/mCherryþ nuclei (mouse) or Hoechstþ
+nuclei (human).
+
+Whole Cell Isolation From E17.5 Mice
+
+An E17.5 Nos1-CreERT2;ChAT-L10A-EGFP;R26R-TdTo-
+mato dams, tamoxifen treated (200 mg/kg) at E15.5 was
+euthanized, and pups were rapidly dissected on ice (2
+TdTomatoþ, 3 GFPþ). For RNA-seq, full-length small in-
+testines and colon dissociated together were used for RNA-
+seq. For RT-PCR, TdTomatoþ E14.5 and E17.5 small intes-
+tine and colon from Wnt1-Creþ;R26-TdTomatoþ mice were
+analyzed separately. Tissue in carboxygenated 1(cid:2) Hank’s
+balanced salt solution (HBSS; Thermo-Fisher Scientiﬁc; Cat.
+#14025092) was cut into small pieces with insulin needles,
+
+dissociated with
+
+(Sigma-Aldrich; Cat.
+and
+Liberase
+#5401135001) plus DNase I (0.02 U/mL; Roche, Basel,
+Switzerland; Cat. #04716728001), MgCl2 (6 mM; Cat.
+#BP214-500), and CaCl2 (1 mM; Cat. #C7902) in HBSS
+(37(cid:4)C, 40 minutes) with repeated trituration (P1000).
+Dissociated cells were passed 2–3 times through Falcon 35-
+mm ﬁlters (Corning, Corning, NY; Cat. #352235), pelleted
+(170 g, 3 minutes, 4(cid:4)C) in 10% fetal bovine serum (FBS)/
+Iscove’s Dulbecco’s modiﬁed Eagle medium (DMEM)
+(Corning; Cat. #10-016-CM), resuspended in ﬂuorescence-
+activated cell sorter (FACS) buffer (0.04% w/v BSA
+[Thermo-Fisher Scientiﬁc; Cat. #AM2618] in HBSS [Thermo-
+Fisher Scientiﬁc; Cat. #14025092]), ﬁltered again, and sor-
+ted (BD FACSJazz, 100mm nozzle) into 300-mL FACS buffer
+for sequencing. For RT-PCR, tdTomatoþ cells were collected
+in 1-mL Iscove’s DMEM/10% FBS, centrifuged (600 g, 5
+minutes, 4(cid:4)C) and resuspended in Buffer RLT plus (Qiagen;
+Cat. #74034).
+
+Reverse-Transcription Polymerase Chain
+Reaction
+
+RNA prepared using RNeasy Plus Micro Kit (Qiagen,
+Hilden, Germany; Cat. #74034 and Cat. #79254) or PicoPure
+RNA Isolation Kit (Thermo-Fisher Scientiﬁc, Waltham, MA;
+Cat. #KIT0204) with RIN >7.0 was reverse-transcribed us-
+ing Superscript II RNase H (Thermo-Fisher Scientiﬁc; Cat.
+#18064022). RT-PCR used KAPA mixture (KAPA Bio-
+systems, Wilmington, MA; Cat. #KK7352; Brn1) or GoTaq
+Green (Promega, Madison, WI; Cat. #M7122; Casz1) and
+previously described primers (Table 8).
+
+Library Generation, Sequencing, and Data
+Processing
+
+Libraries prepared with Chromium Single Cell 30 Reagent
+Kits v2 (10x Genomics; Cat. #120237) were sequenced on
+an Illumina HiSeq 2500 (Illumina, San Diego, CA). Cell
+
+Figure 14. (See previous page). Tbx3 loss reduces NOS1D myenteric neurons. Casz1, Rbfox1, and Tbx2 mutants had
+normal abundance of Chat-EGFPD neurons and Casz1 and Rbfox1 had normal colon bead expulsion. (A, B) Confocal
+maximum intensity projections of P0 Tbx3 mutant and control small bowel myenteric plexus revealed a (C, D) 30% reduction in
+NOS1þ/Total neuron ratio in (C) Wnt1-CreCre/wt;Tbx3ﬂ/ﬂ P0 small bowel (P ¼ .041, n ¼ 3 per group) despite (D) normal total
+neuron density (P ¼ .601, n ¼ 3 per group). (E) P0 small bowel myenteric plexus of control and (F) Wnt1-CreCre/wt;Casz1ﬂ/ﬂ mice
+also carrying the Chat-EGFP-L10A reporter. (G) Quantiﬁcation shows normal Chat-EGFPþ/Total neuron ratios (P ¼ .424, n ¼ 3
+in each group) and normal neuron density (H; P ¼ .700, n ¼ 3 in each group) in Casz1 mutant P0 small bowel. (I) Colonic bead
+expulsion latency is normal in Wnt1-CreCre/wt;Casz1ﬂ/ﬂ mice (P ¼ .073, n ¼ 6 [control, male ¼ 2/female ¼ 4, P44–70 at start of
+assay], n ¼ 7 [Wnt1-CreCre/wt;Casz1ﬂ/ﬂ, male ¼ 2/female ¼ 5, P42–50 at start of assay]). (J) RT-PCR of TDTOMATOþ cells from
+Wnt1-CreCre/wt;Casz1ﬂ/ﬂ ;TdTomatoþ mice lacks the Casz1 band, consistent with loss of Casz1 expression. Single confocal
+planes from P0 small bowel of (K) control and (L) Wnt1-CreCre/wt;Rbfox1ﬂ/ﬂ bred to Chat-EGFP-L10A. (M, N) Quantiﬁcation
+shows that proportion of EGFPþ neurons (P ¼ .162, n ¼ 4 per group) and total neuron density (P ¼ .470, n ¼ 4 per group) are
+normal in Rbfox1 mutants. (O) Colon bead expulsion latency is normal in Wnt1-CreCre/wt;Rbfox1ﬂ/ﬂ mice (P ¼ .2677, n ¼ 5
+[control, male ¼ 2/female ¼ 3, P44–46 at start of assay], n ¼ 6 [Wnt1-CreCre/wt;Rbfox1ﬂ/ﬂ, male ¼ 2/female ¼ 4, P46–58 at start
+of assay]). (P, Q) Control mice at P0 showed robust RBFOX1 immunoﬂuorescence in neuronal nuclei (white/green, examples
+shown with white arrowheads), whereas Wnt1-CreCre/wt;Rbfox1ﬂ/ﬂ had no neuronal nuclear RBFOX1 immunoﬂuorescence. (R,
+S) Single confocal planes from P0 small bowel myenteric plexus from control and Wnt1-CreCre/wt;Tbx2ﬂ/ﬂ bred to Chat-EGFP-
+L10A. (T, U) Quantiﬁcation shows that proportion of EGFPþ neurons (P ¼ .926, n ¼ 4 [control] and n ¼ 3 [Wnt1-CreCre/wt;Tbx2ﬂ/ﬂ])
+and total neuron density (P ¼ .857, n ¼ 4 [control] and n ¼ 3 [Wnt1-CreCre/wt;Tbx2ﬂ/ﬂ]) are normal in Tbx2 mutants. (V, W) Control
+mice at P0 showed robust TBX2 immunoﬂuorescence in neuronal nuclei (white/green), whereas Wnt1-CreCre/wt;Tbx2ﬂ/ﬂ had no
+neuronal nuclear TBX2 immunoﬂuorescence. (C, D, G–I, M, O, T, U) Mean ± SD. (C, D, G, H, M, N, T) Student’s t test. (I, O, U)
+Mann-Whitney. (A, B, E, F, K, L, P–S, V, W) Scale bar ¼ 100 mm. ChAT-EGFP-L10A¼Chat-EGFP. *P < .05. Ctrl, control; Mt,
+Wnt1-CreCre/wt;Casz1ﬂ/ﬂ ;TdTomatoþ.
+
+1572
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Ranger pipeline (10x Genomics) was used to convert BCL
+ﬁles into FASTQ ﬁles, perform STAR alignment,58 ﬁlter,
+count UMIs, and generate gene-barcode matrices. Cell
+
+Ranger Aggr pipeline (10x Genomics; v. 3.0.0) was used to
+aggregate multiple
+and
+samples, normalize outputs,
+recompute gene-barcode matrices on combined data.
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+Data Availability
+
+Raw and processed single cell and single nucleus RNA
+at GEO Accession:
+available
+
+data
+
+are
+
+sequencing
+GSE156905.
+
+Analysis of Murine Single-Nucleus and Single-
+Cell Sequencing Data
+
+Using Seurat,17,59 gene-barcode matrices were imported
+into R, version 3.5.1 (R Foundation for Statistical
+Computing, Vienna, Austria), ﬁltered to remove low
+expressors or doublets (nGenes ¼ 200–5000 for adult
+distal colon; nGenes ¼ 1000–9000 for E17.5 whole bowel)
+and mitochondrial contaminants (percent mitochondria
+<10% for adult distal colon, percent mitochondria <5%
+for E17.5 whole bowel), normalized, and scaled to regress
+out UMIs and percent mitochondria. Cells were clustered
+using the most statistically signiﬁcant principal compo-
+nents. To cluster the E17.5 mouse data, we excluded genes
+located on the X and Y chromosomes from the principal
+components and included principal components up to the
+point where either any additional principal component
+contributed <5% of SD and the principal components
+cumulatively contributed to 90% of the SD or when the
+variation changes by <0.1% between consecutive principal
+components.60 This turned out to be 15 principal compo-
+nents. For adult mouse distal colon data, we found that
+the recommended statistically signiﬁcant
+taking all of
+resulted in difﬁcult-to-interpret
+principal
+clustering, possibly owing to batch effects in our dataset,
+
+components
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1573
+
+and that the ﬁrst w11 components were sufﬁcient to
+cluster our data in a biologically meaningful way. When
+reclustering was performed on subsets of data (ie, to ﬁlter
+out contaminants), subsetted data were rescaled and
+reclustered using the same method described previously,
+minus the normalization step. To identify genes that were
+differentially expressed between clusters, clusters were
+compared 1 at a time to all other cells in the dataset using
+a Wilcoxon rank sum test with Bonferroni multiple testing
+correction (Seurat’s FindAllMarkers command). A cutoff of
+at least 10% of cells in a group expressing a gene of in-
+terest was required for genes to be tested, and only genes
+with loge(fold change) >0.25 were included in the analysis.
+Heatmaps (Figure 2–4, 7, 10–12) were generated by taking
+the mean of the log-normalized data scaled by Seurat for
+cells within each cluster. Except where indicated, only
+genes that were differentially expressed between neuronal
+clusters are shown. Hierarchical clustering (Figure 18C)
+was performed using the complete linkage method. For the
+GO term analysis, we combined the 3 putative immature
+clusters into 1 and compared gene expression for these 3
+clusters with the gene expression of all other clusters using
+a Wilcoxon rank sum test with Bonferroni multiple testing
+correction (Seurat’s FindMarkers command). We per-
+formed GO enrichment analysis for GO biological processes
+(PANTHER Overrepresentation Test, GO database released
+2020-02-21) using Fisher’s exact test with false discovery
+rate correction. We submitted differentially expressed
+genes for the immature clusters (immature Chat cluster1,
+immature Nos1 cluster) and
+immature Chat cluster 2,
+
+Figure 15. (See previous page). Pou3f3 is expressed in mouse colon ENS but not small intestine ENS. In adult humans,
+nuclear POU3F3 immunoreactivity was also restricted to colon enteric neurons. (A) Feature plot shows scattered E17.5
+enteric neurons expressing Pou3f3 throughout the neuron clusters. Color key represents loge(normalized gene expression). (B)
+Violin plot of Pou3f3 expression in E17.5 enteric neurons indicates that Pou3f3 is predominantly expressed in Immature Chat
+cluster 2 and Immature Nos1 cluster. (C–Z) Whole mount immunohistochemistry conﬁrms that POU3F3 immunoreactivity
+(green) is not detected in small bowel enteric neurons at (C) E12.5, (E) at E14.5, (H–N) at E17.5, or (O–Z) in adulthood. POU3F3
+immunoreactivity is easily detected in (D) proximal colon at E12.5 (arrows) and throughout the colon (F) at E14.5, (H, M) at
+E17.5, and (S, Y) in adulthood. (N, T, Z) At E17.5 and in adulthood, colonic POU3F3 co-localizes with the enteric neuron marker
+HuC/D. Confocal z-stack maximum intensity projections at (AA–AL) lower magniﬁcation and (AM–AX) high magniﬁcation of
+whole mount immunohistochemistry for POU3F3 in (AA–AC, AG–AI, AM–AO, AS–AU) adult human small intestine and (AD–AF,
+AJ–AL, AP–AR, AV–AX) adult human colon shows nuclear POU3F3 localization only in colonic neurons. (AA–AC, AM–AO) No
+intestine submucosal plexus, whereas (AD–AF, AP–AR) clear nuclear
+POU3F3 staining was detectable in human small
+POU3F3 staining could be seen in human colon submucosal neurons. (AG–AI, AS–AU) Cytoplasmic POU3F3 antibody staining
+was present in a subpopulation of human small intestine myenteric neurons. (AJ–AL, AV–AX) In the human colon myenteric
+plexus, all neurons showed clear nuclear POU3F3 localization. (AY) Representative RT-PCR for ﬂow sorted TDTOMATOþ ENS
+cells from Wnt1-Cre;R26R-TdTomato mice conﬁrms Pou3f3 in fetal colon but not small intestine (SI). (AZ) Feature plot showing
+scattered E17.5 enteric colonic neurons. Cells expressing Pou3f3 were assigned colonic identity. Red circle marks immature
+clusters: immature Chat cluster 1, immature Chat cluster 2, and immature Nos1 cluster. (BA) Genes differentially expressed by
+cells assigned colon identity compared with cells assigned small intestine identity within the 3 immature clusters (immature
+Chat cluster 1, immature Chat cluster 2, immature Nos1 cluster). (BB) Genes differentially expressed by cells assigned colon
+identity compared with cells assigned small intestine identity within the 3 mature clusters (Chat cluster 1 and 2 and Nos1
+cluster 1, 2, and 3). (BC) Violin plots showing expression of the differentially expressed genes across all E17.5 neuron clusters
+indicate that the genes identiﬁed in BA are speciﬁc to immature Chat cluster 1 and not colon or small intestine (Pearson
+correlation between the expression of the identiﬁed gene and Pou3f3 supports this conclusion: P > .1 for all, except Dpysl3;
+correlation coefﬁcient ¼ 0.0819, P ¼ .0294). (BD) Violin plots showing expression of the differentially expressed genes across
+all E17.5 neuron clusters suggest that the expression of genes Ahr and Pantr1 and possibly Zfhx3 are speciﬁc to colon
+myenteric neurons (Pearson correlation between the expression of the identiﬁed gene and Pou3f3 supports this conclusion:
+Ahr, correlation coefﬁcient ¼ 0.3581, P < 2.2 (cid:2) 10-6; Pantr1, correlation coefﬁcient ¼ 0.5640, P < 2.2 (cid:2) 10-6; Zfhx3, correlation
+coefﬁcient ¼ 0.4034, P < 2.2 (cid:2) 10-6). Images are representative of 3 independent biological replicates. Scale bar ¼ 100 mm (C,
+E–AL), 200 mm (D), 20 mm (AM–AX) 500 mm (G), 1 mm (H). ChAT-EGFP-L10A¼Chat-EGFP. MP, myenteric plexus; SP, sub-
+mucosal plexus,
+
+1574
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Figure 16. Human single-nucleus RNA-seq analysis from 20,167 cells yielded data from many cells that impact bowel
+motility including SMC, ICC, PDGFRAD cells, muscularis macrophage, and glia. (A) Human myenteric plexus after in-
+cubation with 4-Di-2-Asp (4-(4-(dimethylamino)styryl)-N-methylpyridinium iodide), with muscle layers partially peeled away.
+Scale bar ¼ 50 mm. (B) RNA-seq workﬂow for adult human colon myenteric plexus. (C) t-SNE plot of 20,167 nuclei shows glia,
+ICC, muscularis macrophages, PDGFRAþ cells, smooth muscle, T cells, endothelium, and unknown groups. Neurons
+comprise 1 small cluster (w48 cells). (D–L) Feature plots showing genes expressed highly in (D, E) adult human smooth muscle
+(ACTG2, MYH11), (F) vessel endothelial cells (VWF), (G, H) glial cells (PLP1, SOX10), (I) ICC (ANO1), (J) PDGFRAþ cells
+(PDGFRA), (K) muscularis macrophages (CD14), and (L) T cells (CD2). Color key represents loge(normalized gene expression).
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1575
+
+Table 2.Characteristics of Colon Resection Samples
+
+Sample ID
+
+Age (y)
+
+Sex
+
+History
+
+Colon region
+
+RNA Integrity number:
+plexus
+
+RNA Integrity number:
+surrounding muscle
+
+4579
+
+4602
+
+4683
+
+4695
+
+4701
+
+4950
+
+4969
+
+4966
+
+4988
+
+4992
+
+5031
+
+5035
+
+5040
+
+5047
+
+5054
+
+5059
+
+54
+
+75
+
+38
+
+77
+
+78
+
+78
+
+83
+
+71
+
+65
+
+47
+
+70
+
+24
+
+44
+
+65
+
+36
+
+59
+
+M
+
+M
+
+M
+
+F
+
+M
+
+M
+
+M
+
+F
+
+F
+
+M
+
+M
+
+M
+
+M
+
+M
+
+F
+
+F
+
+Cecal polyp
+
+Cecal lesion
+
+Goblet cell carcinoma
+
+Colonic mass
+
+Rectal cancer
+
+Right
+
+Right
+
+Right
+
+Right
+
+Sigmoid
+
+Bowel obstruction
+
+Sigmoid colon
+
+Adenocarcinoma
+
+Bowel obstruction
+
+Colon polyp
+
+Right colon
+
+Right colon
+
+Right colon
+
+Rectal carcinoma
+
+Sigmoid colon
+
+Colon polyp
+
+Volvulus
+
+Colonic mass
+
+Right colon
+
+Sigmoid colon
+
+Right colon
+
+Rectal adenocarcinoma
+
+Sigmoid colon
+
+Bowel adhesions
+
+Right colon
+
+Adenocarcinoma
+
+Right
+
+7.6
+
+7.5
+
+7.9
+
+7.4
+
+8.2
+
+6.50, 6.90, and 7.10
+(3 pieces)
+
+6.5
+
+7.2
+
+5.20 and 2.90 (RNA
+concentration very low)
+
+4.4 (RNA concentration
+very low)a
+7.8
+
+8
+
+7.7
+
+6.6
+
+7.6
+
+7.2
+
+7.9
+
+6.9
+
+8
+
+7.4
+
+6.3
+
+7.6
+
+7.90, 5.80 (2 pieces)
+
+8.1, 7.9 (2 pieces)
+
+7.5 and 7.4 (2 pieces)
+
+7.1
+
+7.4 and 7.2
+
+6.6 and 7.2
+
+7.5 and 7.8
+
+7.4
+
+7.20 and 7.70
+
+7.50 and 6.40
+
+F, female; M, male.
+aRNA concentrations which are too low can yield sub-par RIN.
+
+compared these to the reference gene list for mus musculus
+(22265 genes). We also submitted differentially expressed
+genes for the more mature cluster (Chat cluster 1, Chat
+cluster 2, Nos1 cluster 1, Nos1 cluster 2, Nos1 cluster 3)
+
+and compared these with the reference gene list for Mus
+musculus
+(22265 genes). We reported the 20 most
+enriched GO terms. To identify genes differentially
+expressed between colon and small intestine, we deﬁned
+
+Table 3.UMI and Gene Counts From Colon Resection Samples
+
+Cells or nuclei
+loaded (predicted
+from FACS)
+
+Cells with
+RNA-Seq data
+
+Ratio of sequenced
+cells to loaded
+cells
+
+Average UMI count
+with intronic reads
+mapped
+
+Average gene count
+with intronic reads
+mapped
+
+Sample ID
+
+4579
+
+4602
+
+4683
+
+4695
+
+4701
+
+4950
+
+4969
+
+4966
+
+4988
+
+4992
+
+5031
+
+5035
+
+5040
+
+5047
+
+5054
+
+5059
+
+4000
+
+6900
+
+6300
+
+4000
+
+12300
+
+5200
+
+5300
+
+2100
+
+1200
+
+673
+
+5200
+
+7100
+
+2300
+
+5000
+
+3100
+
+1200
+
+680
+
+2316
+
+2081
+
+833
+
+4414
+
+1237
+
+653
+
+432
+
+237
+
+60
+
+1728
+
+2524
+
+755
+
+957
+
+1219
+
+338
+
+0.17
+
+0.3356522
+
+0.3303175
+
+0.20825
+
+0.3588618
+
+0.2378846
+
+0.1232075
+
+0.2057143
+
+0.1975
+
+0.089153
+
+0.3323077
+
+0.355493
+
+0.3282609
+
+0.1914
+
+0.3932258
+
+0.2816667
+
+2474
+
+2004
+
+1397
+
+1487
+
+1296
+
+1415
+
+1262
+
+1856
+
+2354
+
+3939
+
+1538
+
+1886
+
+1941
+
+1701
+
+2071
+
+2470
+
+FACS, ﬂuorescence-activated cell sorter; RNA-seq, RNA sequencing; UMI, unique molecular identiﬁer.
+
+1559
+
+1268
+
+876
+
+974
+
+780
+
+910
+
+1262
+
+1193
+
+1554
+
+2336
+
+967
+
+1119
+
+1212
+
+1013
+
+1216
+
+1474
+
+1576
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+Figure 17. Human single-nucleus RNA-seq analysis showed minimal batch effects and yielded data from 48 deﬁnitive
+neurons. (A–C) t-SNE plots of human nuclei colored by (A) sample number, (B) colon location (right vs sigmoid), and (C) sex.
+Cells from different colon regions and different sexes largely form the same t-SNE clusters. (D–F) Feature plots show location
+of (D) ELAVL4, (E) UCHL1, and (F) SNAP25 expression suggest that a small population of neurons expressing all 3 is present in
+this dataset, but most of the 20,000 nuclei are not ELAVL4, SNAP25, or UCHL1-positive. Color key represents loge(normalized
+gene expression).
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1577
+
+colonic neurons as all cells with detectable Pou3f3
+expression. We compared gene expression using a Wil-
+coxon rank sum test with Bonferroni multiple testing
+correction (Seurat’s FindMarkers command) for neurons
+within the immature clusters (immature Chat cluster 1,
+immature Chat cluster 2, immature Nos1 cluster) or within
+the mature clusters (Chat cluster 1, Chat cluster 2, Nos1
+cluster 1, Nos1 cluster 2, and Nos1 cluster 3) to normalize
+for the relatively more immature state of development of
+the majority of Pou3f3-expressing cells (40 mature Pou3f3-
+expressing neurons vs 503 other mature neurons and 94
+immature Pou3f3-expressing neurons vs 62 other imma-
+ture neurons). We followed up the identiﬁcation of
+potentially colon-speciﬁc genes by correlating the gene
+expression of the gene in question with Pou3f3 expression
+in all neurons (pairwise Pearson correlation).
+
+Analysis of Human Single-Nucleus Sequencing
+Data
+
+Using Seurat,17,59 gene-barcode matrices were im-
+ported into R, ﬁltered to remove low-expressors or
+doublets (nGenes ¼ 200–5000) and mitochondrial con-
+taminants (percent mitochondria <10%), normalized,
+and scaled to regress out UMIs and percent mitochon-
+dria. Nuclei were clustered using the most statistically
+signiﬁcant principal components identiﬁed by elbow plot
+(11 principle components). Because unbiased clustering
+initially did not detect the small group of neurons as a
+distinct group, we identiﬁed 48 neurons by isolating all
+nuclei expressing any copies of ELAVL4, UCHL1, or
+SNAP25 (Figure 18A). These nuclei were reclustered. We
+saw 7 subgroups that we believe are doublets contain-
+ing neuronal and non-neuronal nuclei based on coex-
+pression of genes like ACTG2, PLP1, KIT 9 (Figure 18B).
+One subgroup appeared to be pure single-neuron data
+based on high expression of other neuronal markers like
+SYT1 and DSCAM and the absence of markers for other
+well-deﬁned cell populations (Figure 18B). The strongly
+positive cluster (48 neurons) was mapped back onto the
+t-distributed stochastic neighbor embedding (t-SNE)
+plot. To identify neuron-speciﬁc genes, we compared
+this cluster of neurons against all other cell populations
+using a Wilcoxon rank sum test with Bonferroni multi-
+ple testing correction (Seurat’s FindMarkers command).
+A cutoff of at
+least 25% of cells in a group with
+expression >0 was required for genes to be tested.
+Neuron gene expression for the top 50 neuron-speciﬁc
+genes was graphed and neurons were clustered using
+the Euclidean distance method (Figure 18C). This
+revealed 2 groups of neurons, 1 which was NOS1þ and
+another that was NOS1–. We imported a list of 36
+transcription and splice factors identiﬁed as signiﬁcantly
+different in mouse adult colon Nos1 and Chat expressing
+neurons. Using this list and Seurat’s FindMarkers com-
+mand, we compared expression for these genes between
+NOS1þ and NOS1– neurons and found differential
+factors
+expression
+(Figure 18D).
+
+transcription
+
+subset
+
+for
+
+of
+
+a
+
+Preparing Bowel for Whole Mount
+Immunochemistry
+
+steel
+
+insect pins
+
+E17.5 bowel was washed in PBS, straightened with
+stainless
+(Fine Science Tools; Cat.
+#26002-20) on Sylgard Elastomer 184 and ﬁxed (4%
+paraformaldehyde [PFA], 20 minutes, room temperature
+[RT]). P0 small intestine in ice-cold PBS was opened along
+mesenteric border, pinned with insect pins serosal side
+up without stretching onto Sylgard Elastomer 184, before
+ﬁxing (4% PFA, 20–30 minutes, RT) and peeling muscu-
+laris from mucosa/submucosa. Adult distal colon ﬂushed
+with ice-cold PBS was opened along the mesenteric
+border. Muscle layers were peeled from mucosa/submu-
+cosa using Dumont #5 forceps (Fine Science Tools; Cat.
+#11251-30), maximally stretched, pinned (insect pins) to
+Sylgard Elastomer 184, ﬁxed (4% PFA, 20–30 minutes,
+RT), brieﬂy washed (1(cid:2) PBS), equilibrated in 50% glyc-
+erol/50% PBS (30 minutes, RT; or overnight, 4(cid:4)C) before
+storage (–20(cid:4)C). For high magniﬁcation anti-enkephalin
+and anti-SP staining, colon opened along mesenteric
+border was stretched, pinned, and ﬁxed (4% PFA, over-
+night, 4(cid:4)C), rinsed in 1(cid:2) PBS (3 (cid:2) 10 minutes), and then
+dissected with ﬁne forceps to remove mucosa, submucosa,
+and circular muscle from myenteric plexus attached to
+longitudinal muscle.
+
+Anti-enkephalin and anti-SP antibody studies used
+C57BL6 wild-type mice. Proximal, mid, and distal colon
+tissue was removed, opened along the mesenteric border,
+cleaned of fecal matter, stretched and pinned to Sylgard
+Elastomer 184, and postﬁxed (4% PFA, overnight, 4(cid:4)C).
+After rinsing 3 times (10 min/rinse) in 1(cid:2) PBS, mucosa,
+submucous plexus and circular muscle were removed with
+ﬁne forceps,
+leaving preparations of myenteric plexus
+attached to longitudinal muscle.
+
+Whole Mount Immunohistochemistry
+
+Bowel stored at –20(cid:4)C in 50% glycerol/50% PBS was
+rinsed in PBS, blocked (2 hours, PBS þ 0.5% Triton X-100
+(Sigma-Aldrich; Cat. #T8787) with 5% normal donkey
+serum (NDS) (Jackson ImmunoResearch Laboratory, West
+Grove, PA; RRID: AB_2337258), incubated in primary anti-
+body (Table 9) with gentle rocking (4(cid:4)C, 2 days), except for
+(4(cid:4)C). After
+ANNA-1, which was incubated overnight
+washing (3 (cid:2) 5 minutes, 0.5% PBS þ 0.5% Triton X-100)
+and secondary antibody (Table 9) incubation in blocking
+solution with gentle rocking (1 hour, RT), tissue was washed
+(3 (cid:2) 5 minutes, PBS) and mounted in 50% glycerol/50%
+PBS.
+
+For high-magniﬁcation imaging, longitudinal muscle with
+exposed myenteric plexus was placed in 10% Casblock
+(Thermo-Fisher Scientiﬁc; Cat. #008120) with 0.1% Triton
+X-100 (ProSciTech, Thuringowa, Queensland, Australia) in
+PBS (30 minutes, RT), then in primary antisera (24–48
+hours, 4(cid:4)C) (Table 9) before rinsing (PBS, 3 (cid:2) 10 minutes),
+and secondary antisera staining (Table 9) (2 hours, RT).
+After rinsing (PBS, 3 (cid:2) 10 minutes), preparations were
+mounted using ﬂuorescence mounting medium (DAKO,
+Carpenteria, CA).
+
+1578
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Nicotinamide Adenine Dinucleotide Phosphate
+Diaphorase Staining
+
+Bowel was pinned ﬂat and ﬁxed (4% PFA, 20 minutes,
+RT), brieﬂy washed (1(cid:2) PBS), incubated in 0.1-M phosphate
+
+buffer, pH 7.4 with 1-mg/mL beta-nicotinamide adenine
+dinucleotide phosphate (beta-NADPH; Sigma-Aldrich; Cat.
+#N750), 0.1-mg/mL nitroblue tetrazolium (Sigma-Aldrich;
+Cat. #11383213001), 0.3% Triton-X 100 (1 hour, 37(cid:4)C),
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1579
+
+washed in PBS, and imaged immediately in a custom-made
+holding chamber.
+
+Preparing Human Colon for Whole Mount
+Immunochemistry
+
+Human colon with fat trimmed was pinned serosa side
+up on Sylgard Elastomer 184 plates in ice-cold PBS using
+stainless steel insect pins. Tissue was maximally stretched
+during pinning to make the colon as thin as possible. Pinned
+tissue was ﬁxed overnight (4(cid:4)C, 4% PFA), washed in DPBS,
+and stored at 4(cid:4)C in 50% PBS/50% glycerol/0.05% sodium
+azide until staining.
+
+Immunoﬂuorescence Staining of Human Colon
+Whole Mount
+
+Following our new protocol,13 0.7–1 cm (cid:2) 0.7–1 cm
+colon pieces were washed (1(cid:2) PBS, RT), incubated in 100%
+methanol on ice (1 hour), treated with Dent’s bleach (1 mL
+30% hydrogen peroxide (Thermo-Fisher Scientiﬁc; Cat.
+#H1009), 1-mL dimethyl sulfoxide (Sigma-Aldrich; Cat.
+#D2650), 4 mL 100% methanol61 at room temperature (2
+hours), washed again (1(cid:2) PBS, 3 (cid:2) 5 minutes, room tem-
+perature), blocked (0.5% Triton X-100, 5% NDS in PBS, 3
+days), and then incubated 14 days in blocking solution with
+primary antibodies (37(cid:4)C, 40–100 rpm) (Table 9). Following
+PBS washing (1 day, 3 washes, gentle rocker, RT), colon was
+incubated in secondary antibodies (3 days, 37(cid:4)C, 40–100
+rpm), washed in PBS over 1 day, dehydrated in a methanol
+series, and placed in Murray’s clear (2:1 benzyl benzoate:-
+benzyl alcohol, gentle rocking, RT) until translucent (30–60
+minutes). Transparent colon mounted on glass slides in
+Murray’s clear was imaged within 1 day (for details, see dx.
+doi.org/10.17504/protocols.io.wyeffte).
+
+Microscopy
+
+Images were acquired with a Zeiss LSM 710 confocal
+microscope with 20(cid:2)/0.8 air or 63(cid:2)/1.4 oil DIC M27 Plan-
+Apochromat objectives and Zeiss Zen software version 2.3
+14.0.14.201 or upright ﬂuorescent Olympus BX60 micro-
+scope (Shinjuku City, Tokyo,
+Japan) with Axiocam CCD
+camera and Axiovision software (Carl Zeiss Microscopy,
+North Ryde, New South Wales, Australia). ImageJ, version
+2.35 (National Institutes of Health, Bethesda, MD) and
+Photoshop CS6 (Adobe, San Jose, CA) were used to crop and
+
+uniformly adjust color. High-magniﬁcation myenteric plexus
+images were acquired with a Zeiss LSM 880 Airyscan mi-
+croscope with a Plan-Apochromat 63 (cid:2) 1.40 Oil DIC M27
+objective (Carl Zeiss Microscopy; Cat. #420782-990-799) at
+the Biological Optical Microscopy Platform, University of
+Melbourne.
+
+Image Analysis
+
+Counting for adult mouse distal colon and human colon
+was performed on >5 randomly selected 320 ﬁelds per
+animal in each region using ImageJ’s CellCounter module
+(Table 10). Because of high cell density at E17.5, only half of
+each 320 ﬁeld was counted. Investigators were blinded to
+genotype when comparing knockout to control mice. High-
+magniﬁcation myenteric plexus images were processed to
+quantify SP and enkephalin colocalization using Imaris 9.0.0
+(Bitplane, Zürich, Switzerland).21
+
+RNA Extraction and RT-PCR for Pou3f3
+Expression Analysis
+
+Wnt1-Cre;R26-TdTomato E14.5 and E17.5 dams were
+euthanized with 5% CO2, and pups were removed from the
+mother. For each litter, all TdTomatoþ small intestines and
+colons were combined to increase cell count. Small
+intestines and colons were dissected in ice-cold Dulbecco-
+modiﬁed PBS, transferred to HBSS (Thermo-Fisher Scienti-
+ﬁc; Cat No: 14025092), separated, divided into small pieces
+using insulin needles (Beckton Dickerson; Cat. #08290-
+3284-18), and dissociated for 30 minutes at 37(cid:4)C in Lib-
+erase (Sigma-Aldrich; Cat. #5401135001) supplemented
+with DNase I (Roche; Cat. #04716728001), MgCl2 (6 mM)
+and CaCl2 (1 mM) in HBSS with P1000 trituration. Cells
+were ﬁltered, washed with Iscove’s DMEM (Cat. #10-016-
+CM), and resuspended in FACS buffer (10mM HEPES,
+1mg/mL BSA, 1% penicillin and streptomycin (Thermo-
+Fisher Scientiﬁc; Cat. #15140122) in HBSS). Fluorescent
+TdTomatoþ cells were sorted on a BD FACSJazz (BD Bio-
+sciences, San Jose, CA) and collected in Iscove’s DMEM with
+10% FBS. Cells were spun down at 600 g, resuspended in
+Buffer RLT plus and RNA was isolated using the Qiagen
+RNeasy Plus Micro Kit (Cat. #74034) with DNase treatment
+(Qiagen; Cat. #79254).
+
+RNA integrity and concentrations were measured on a
+2100 Agilent Bioanalyzer using an RNA 6000 Pico Kit
+(Agilent, Santa Clara, CA; Cat. #5067-1513). All samples
+
+Figure 18. (See previous page). Human myenteric plexus NOS1/VIP/GALD and NOS1/VIP/GAL– neurons differentially
+express many regulatory genes also differentially expressed in mouse ENS. (A) t-SNE plot of all human nuclei expressing
+ELAVL4, UCHL1, or SNAP25 reveals many populations that may be doublets because they cluster with nuclei expressing non-
+neuronal cell markers. For this paper, we only describe in detail expression data for the tight cluster of cells we believe are
+single neurons based on high expression of ELAVL4, SNAP25, UCHL1, SYT1, and DSCAM (highlighted with red circle). (B)
+Feature plots of neuronal markers (ELAVL4, SNAP25, UCHL1, SYT1, and DSCAM), SMC markers (ACTG2), glial cell markers
+(PLP1), ICC markers (KIT), and PDGFRAþ cell markers (PDGFRA) suggest that other populations are not neurons. Color key
+represents loge(normalized gene expression). (C) Heatmap shows 50 genes with the highest fold difference between neurons
+and other cells. Hierarchical clustering suggests 2 subgroups: NOS1þ/VIPþ/GALþ (17 neurons) and NOS1–/VIP-/GAL– (31
+neurons). (D) Heatmap shows transcription and splicing factors differentially expressed in mouse colon that were in >10% of
+human myenteric neurons. RBFOX1, ETV1, and BNC2 were differentially expressed between NOS1/VIP/GALþ and NOS1/VIP/
+GAL– human neurons (Wilcoxon rank sum test, Bonferroni correction).
+
+1580
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Figure 19. Immunohisto-
+chemistry of human co-
+lon myenteric
+plexus
+preferential
+shows
+expression
+select
+of
+transcription factors in
+NOSD
+CHATD and
+(A–T)
+neuron subtypes.
+Maximum intensity pro-
+jections of adult human
+colonic ENS confocal Z-
+stacks: (A–D) BNC2, (E–H)
+PBX3 (white arrowheads
+indicate nuclear PBX3 in
+(I–L) RBFOX1,
+neurons),
+(M–P) TBX2, and (Q–T)
+TBX3 are present in sub-
+sets of human myenteric
+(U–Y)
+neurons.
+Immuno-
+histochemistry quantiﬁca-
+tion: (U) BNC2 (P ¼ .0001,
+(V) PBX3 (P ¼
+n ¼ 3),
+.0021, n ¼ 3), (W) RBFOX1
+(P ¼ .0007, n ¼ 3), and (X)
+TBX2 (P ¼ .0089, n ¼ 3) are
+primarily in CHATþ neu-
+rons. (Y) TBX3 (P ¼ .0004,
+n ¼ 3)
+is primarily in
+NOS1þ neurons. Quantiﬁ-
+cation of (Z) CHATþ and
+(AA) NOS1þ reveals that
+BNC2 (P ¼ .0102), PBX3 (P
+¼ .0021), RBFOX1 (P ¼
+.0016), and TBX2 (P ¼
+.0162) are largely restricted
+to CHATþ neurons in adult
+human ENS (P values
+compare
+Transcription
+factorþEGFPþ/Transcrip-
+tion factorþ vs EGFPþ/
+Total neuron ratios). TBX3
+(P ¼ .0073) is primarily in
+NOS1þ neurons (P values
+compare
+Transcription
+factorþNOS1þ/Transcrip-
+tion factorþ vs NOS1þ/
+(U–
+Total neuron ratios).
+AA) Mean ± SD and Stu-
+dent’s t
+*P < .05,
+test.
+**P < .01,
+***P < .001.
+Scale bar ¼ 100 mm.
+
+O
+P
+F
+=
+C
+4
+
+b
+e
+w
+
+used had RIN (cid:5)7. Complementary DNA was generated
+using Superscript II RNase H (Thermo-Fisher Scientiﬁc;
+Cat. #18064022). RT-PCR was performed using KAPA
+mixture
+and previously described
+primers (Table 8). Three replicates were run for all
+experiments.
+
+(Cat. #KK7352)
+
+Colon Bead Expulsion Studies
+
+Young adult mice (P44–58 at begin of assay, P49–64 at
+end of assay) were anesthetized with 2 L/min carbogen with
+2.5% (v/v) isoﬂurane (Piramal, Mumbai, India; Cat. #NDC
+66794-017-10) for 1.5 minutes before the start of the
+experiment, anesthesia was continued until completed bead
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1581
+
+?
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+±
+s
+n
+o
+r
+u
+e
+n
+
+?
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+±
+s
+n
+o
+r
+u
+e
+n
+
+n
+o
+r
+u
+e
+N
+
+s
+n
+o
+r
+u
+e
+n
+
+r
+o
+t
+o
+m
+
+y
+r
+o
+t
+a
+t
+i
+c
+x
+e
+
+r
+o
+t
+o
+m
+y
+r
+o
+t
+a
+t
+i
+c
+x
+e
+
+s
+n
+o
+r
+u
+e
+n
+
+h
+t
+i
+
+w
+
+(
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+e
+v
+i
+t
+i
+s
+n
+e
+s
+o
+n
+a
+h
+c
+e
+m
+
+)
+s
+e
+i
+t
+r
+e
+p
+o
+r
+p
+
+,
+s
+n
+o
+r
+u
+e
+n
+
+2
+
+s
+o
+N
+
+1
+
+s
+o
+N
+
+l
+
+b
+c
+a
+C
+
+)
+
+2
+t
+u
+g
+V
+
+l
+
+(
+
+4
+
+t
+a
+h
+C
+
+)
+t
+e
+M
+
+(
+
+3
+
+t
+a
+h
+C
+
+2
+
+t
+a
+h
+C
+
+1
+
+t
+a
+h
+C
+
+t
+l
+u
+d
+a
+
+(
+
+e
+m
+a
+n
+
+r
+e
+t
+s
+u
+C
+
+l
+
+)
+
+n
+o
+o
+c
+
+l
+
+r
+o
+t
+o
+m
+y
+r
+o
+t
+i
+b
+h
+n
+
+i
+
+I
+
+r
+o
+t
+o
+m
+y
+r
+o
+t
+i
+b
+h
+n
+
+i
+
+I
+
+y
+r
+o
+s
+n
+e
+S
+
+i
+
+c
+s
+n
+i
+r
+t
+n
+
+I
+
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+I
+
+r
+o
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+I
+
+r
+o
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+I
+
+y
+r
+o
+s
+n
+e
+s
+
+i
+
+c
+s
+n
+i
+r
+t
+n
+
+I
+
+e
+p
+y
+t
+
+n
+o
+r
+u
+e
+n
+
+d
+e
+t
+s
+e
+g
+g
+u
+S
+
+q
+e
+S
+-
+A
+N
+R
+n
+o
+
+i
+
+d
+e
+s
+a
+B
+n
+o
+i
+t
+a
+c
+ﬁ
+s
+s
+a
+C
+e
+p
+y
+t
+b
+u
+S
+
+l
+
+n
+o
+r
+u
+e
+N
+c
+i
+r
+e
+t
+n
+E
+
+t
+l
+u
+d
+A
+
+i
+
+d
+e
+t
+c
+d
+e
+r
+P
+
+.
+
+4
+
+l
+
+e
+b
+a
+T
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+a
+,
+1
+s
+o
+N
+
+a
+,
+l
+a
+G
+a
+,
+p
+V
+
+i
+
+a
+,
+1
+s
+o
+N
+
+y
+p
+N
+
+a
+y
+p
+N
+
+a
+,
+a
+1
+1
+n
+c
+S
+
+,
+
+m
+f
+e
+N
+a
+,
+b
+c
+a
+C
+
+l
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+a
+1
+c
+a
+T
+
+a
+)
+1
+o
+z
+e
+P
+
+i
+
+(
+
+g
+n
+i
+t
+r
+o
+p
+p
+u
+s
+
+,
+t
+a
+h
+C
+a
+,
+3
+a
+8
+1
+c
+S
+
+l
+
+a
+,
+k
+n
+e
+P
+
+a
+,
+t
+e
+M
+
+,
+t
+a
+h
+C
+
+a
+k
+n
+e
+P
+
+a
+,
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+,
+
+1
+c
+a
+T
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+a
+,
+t
+a
+h
+C
+
+s
+r
+e
+k
+r
+a
+m
+d
+e
+s
+s
+e
+r
+p
+x
+E
+
+a
+2
+x
+r
+2
+P
+
+a
+,
+a
+3
+r
+t
+
+H
+
+a
+l
+i
+
+v
+A
+a
+,
+p
+r
+G
+a
+,
+u
+m
+N
+
+a
+6
+a
+7
+1
+c
+S
+
+l
+
+a
+2
+b
+a
+C
+
+l
+
+e
+t
+o
+n
+
+f
+o
+
+s
+e
+n
+e
+g
+
+r
+e
+h
+t
+O
+
+a
+,
+1
+r
+c
+a
+T
+
+a
+,
+2
+b
+a
+C
+
+l
+
+a
+,
+b
+3
+r
+t
+
+H
+a
+,
+a
+3
+r
+t
+
+H
+
+a
+2
+x
+r
+2
+P
+
+a
+,
+k
+n
+e
+P
+
+a
+,
+1
+b
+a
+C
+
+l
+
+a
+
+m
+f
+e
+N
+
+i
+
+n
+o
+s
+u
+c
+n
+o
+c
+
+l
+
+y
+
+l
+l
+
+a
+i
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+n
+o
+
+)
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+n
+o
+
+)
+l
+
+a
+G
+
+,
+
+p
+r
+G
+
+,
+
+u
+m
+N
+
+)
+
+l
+
+b
+c
+a
+C
+
+d
+e
+s
+a
+b
+
+(
+
+7
+-
+1
+_
+N
+M
+P
+
+I
+
+d
+e
+s
+a
+b
+
+(
+
+7
+-
+1
+_
+N
+M
+P
+
+I
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+1
+_
+N
+S
+P
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+,
+t
+a
+h
+C
+
+)
+
+2
+h
+p
+x
+N
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+3
+N
+S
+P
+
+r
+o
+
+3
+N
+P
+
+I
+
+,
+k
+n
+e
+P
+
+,
+t
+a
+h
+C
+
+,
+l
+r
+c
+a
+C
+
+l
+
+,
+
+1
+c
+a
+T
+
+)
+
+1
+p
+m
+a
+R
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+2
+N
+M
+E
+P
+
+,
+t
+a
+h
+C
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+d
+n
+a
+
+,
+
+1
+c
+a
+T
+
+,
+k
+n
+e
+P
+
+)
+
+1
+o
+z
+e
+P
+
+i
+
+t
+n
+e
+s
+b
+a
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+n
+o
+
+s
+n
+o
+i
+t
+a
+n
+g
+s
+e
+d
+
+i
+
+e
+p
+y
+t
+b
+u
+s
+
+)
+
+1
+o
+z
+e
+P
+
+i
+
+l
+
+y
+k
+s
+n
+a
+y
+h
+k
+o
+r
+D
+m
+o
+r
+f
+
+e
+s
+u
+o
+M
+
+t
+l
+u
+d
+A
+
+(
+
+8
+l
+a
+
+t
+e
+
+)
+
+l
+
+n
+o
+o
+C
+
+r
+o
+
+2
+N
+P
+
+I
+
+,
+
+1
+N
+P
+
+I
+
+2
+N
+P
+
+I
+
+,
+
+1
+N
+P
+
+I
+
+r
+o
+
+,
+
+2
+N
+M
+E
+P
+
+d
+e
+s
+a
+b
+
+(
+
+6
+
+,
+
+4
+
+,
+
+3
+
+,
+
+1
+N
+M
+E
+P
+
+n
+o
+r
+u
+e
+n
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+C
+
+d
+e
+s
+s
+e
+r
+p
+x
+e
+
+,
+s
+o
+N
+
+(
+
+0
+1
+-
+8
+C
+N
+E
+
+,
+s
+o
+N
+
+(
+
+0
+1
+-
+8
+C
+N
+E
+
+5
+C
+N
+E
+>
+6
+C
+N
+E
+
+7
+C
+N
+E
+>
+2
+1
+C
+N
+E
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+(
+
+4
+C
+N
+E
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+(
+
+4
+-
+2
+C
+N
+E
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+(
+
+,
+
+7
+1
+C
+N
+E
+
+n
+o
+r
+u
+e
+n
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+C
+
+)
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+)
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+u
+m
+N
+
+,
+
+l
+
+b
+c
+a
+C
+
+(
+
+,
+k
+n
+e
+P
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+(
+
+)
+t
+s
+S
+
+,
+
+g
+o
+N
+
+)
+
+m
+f
+e
+N
+
+,
+
+2
+h
+p
+x
+N
+
+,
+
+9
+t
+u
+F
+
+,
+k
+n
+e
+P
+
+,
+)
+
+1
+c
+t
+a
+f
+N
+
+)
+k
+n
+e
+P
+
+)
+k
+n
+e
+P
+
+t
+n
+e
+s
+b
+a
+
+s
+n
+o
+i
+t
+a
+n
+g
+s
+e
+d
+
+i
+
+e
+p
+y
+t
+b
+u
+s
+
+5
+l
+a
+
+t
+e
+
+h
+c
+a
+r
+a
+r
+o
+M
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+e
+s
+u
+o
+m
+1
+2
+P
+
+(
+
+y
+r
+e
+v
+—
+)
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+a
+t
+a
+d
+
+d
+e
+t
+i
+
+m
+
+i
+l
+
+2
+T
+N
+E
+>
+3
+1
+T
+N
+E
+
+,
+
+,
+
+1
+T
+N
+E
+>
+2
+T
+N
+E
+
+,
+
+l
+
+1
+y
+M
+
+,
+
+u
+m
+N
+
+(
+
+9
+T
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+7
+T
+N
+E
+
+l
+
+t
+n
+e
+a
+v
+u
+q
+e
+
+i
+
+o
+N
+
+n
+
+i
+
+r
+e
+t
+s
+u
+c
+
+l
+
+l
+
+t
+n
+e
+a
+v
+u
+q
+e
+
+i
+
+o
+N
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+(
+
+5
+T
+N
+E
+
+n
+o
+r
+u
+e
+n
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+C
+
+,
+
+1
+s
+s
+A
+
+,
+
+1
+s
+o
+N
+
+(
+
+,
+l
+a
+G
+
+,
+
+b
+8
+x
+o
+C
+
+)
+
+1
+d
+x
+o
+M
+
+,
+t
+p
+t
+r
+a
+C
+
+(
+
+3
+N
+E
+
+,
+
+1
+s
+s
+A
+
+,
+
+1
+s
+o
+N
+
+)
+
+l
+
+p
+a
+g
+B
+
+)
+
+2
+x
+r
+2
+P
+
+,
+k
+n
+e
+P
+
+,
+t
+a
+h
+C
+
+,
+
+2
+h
+p
+x
+N
+
+,
+
+l
+
+1
+b
+a
+C
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+i
+
+s
+h
+t
+
+n
+
+i
+
+r
+e
+t
+s
+u
+c
+
+l
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+i
+
+s
+h
+t
+
+.
+t
+e
+s
+a
+t
+a
+d
+
+.
+t
+e
+s
+a
+t
+a
+d
+
+d
+e
+s
+s
+e
+r
+p
+x
+e
+
+l
+
+y
+n
+o
+
+s
+
+i
+
+k
+n
+e
+P
+
+)
+
+a
+2
+x
+o
+h
+P
+
+t
+s
+e
+s
+o
+c
+
+l
+
+s
+
+i
+
+6
+T
+N
+E
+
+,
+
+7
+T
+N
+E
+
+d
+n
+a
+
+6
+T
+N
+E
+
+n
+
+i
+
+8
+1
+0
+1
+
+,
+
+8
+1
+0
+1
+
+,
+
+7
+4
+
+1
+o
+z
+e
+P
+
+i
+
+,
+
+4
+n
+n
+c
+K
+
+,
+
+4
+6
+7
+4
+5
+
+,
+
+,
+
+1
+c
+a
+T
+
+,
+t
+a
+h
+C
+
+(
+
+,
+
+9
+t
+u
+F
+
+,
+k
+n
+e
+P
+
+t
+u
+b
+
+,
+
+1
+c
+t
+a
+f
+N
+
+s
+
+i
+
+6
+T
+N
+E
+
+t
+e
+M
+g
+n
+s
+s
+m
+
+i
+
+i
+
+)
+
+i
+
+n
+o
+s
+s
+e
+r
+p
+x
+e
+
+e
+s
+e
+h
+t
+
+f
+o
+
+r
+e
+h
+t
+i
+e
+n
+
+t
+u
+b
+
+d
+o
+o
+g
+
+a
+
+e
+r
+a
+
+s
+r
+e
+t
+s
+u
+c
+
+l
+
+o
+t
+
+e
+u
+d
+
+h
+c
+t
+a
+m
+
+i
+
+n
+o
+s
+s
+e
+r
+p
+x
+e
+
+6
+a
+7
+1
+c
+S
+
+l
+
+d
+n
+a
+9
+t
+u
+F
+f
+o
+k
+c
+a
+
+l
+
+d
+n
+a
+
+n
+
+i
+
+i
+
+n
+o
+s
+s
+e
+r
+p
+x
+e
+1
+c
+t
+a
+f
+N
+
+.
+r
+e
+t
+s
+u
+c
+
+l
+
+i
+
+s
+h
+t
+
+9
+4
+
+0
+2
+9
+1
+
+,
+
+,
+
+5
+b
+x
+o
+H
+
+,
+
+n
+k
+m
+D
+
+)
+k
+n
+e
+P
+
+t
+n
+e
+s
+b
+a
+
+s
+n
+o
+i
+t
+a
+n
+g
+s
+e
+d
+
+i
+
+e
+p
+y
+t
+b
+u
+s
+
+1
+2
+P
+
+(
+
+6
+l
+a
+t
+e
+
+l
+
+i
+
+e
+s
+e
+Z
+m
+o
+r
+f
+
+/
+/
+:
+p
+t
+t
+h
+
+:
+)
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+e
+s
+u
+o
+m
+
+i
+
+.
+
+/
+g
+r
+o
+n
+a
+r
+b
+e
+s
+u
+o
+m
+
+l
+
+.
+
+?
+m
+t
+h
+h
+c
+r
+a
+e
+s
+e
+n
+e
+g
+
+,
+
+,
+
+3
+6
+8
+4
+0
+2
+9
+1
+
+,
+
+i
+
+i
+
+g
+n
+s
+s
+m
+s
+r
+e
+k
+r
+a
+M
+
+s
+n
+o
+i
+t
+a
+t
+i
+
+C
+
+.
+
+i
+
+g
+n
+c
+n
+e
+u
+q
+e
+s
+
+A
+N
+R
+
+,
+
+q
+e
+s
+-
+A
+N
+R
+
+.
+
+i
+
+n
+o
+s
+s
+e
+r
+p
+x
+e
+
+l
+
+a
+i
+t
+n
+e
+r
+e
+f
+f
+i
+
+D
+a
+
+1582
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+1
+s
+o
+n
+
+e
+r
+u
+t
+a
+m
+m
+
+I
+
+t
+a
+h
+c
+
+e
+r
+u
+t
+a
+m
+m
+
+I
+
+t
+a
+h
+c
+
+e
+r
+u
+t
+a
+m
+m
+
+I
+
+l
+
+e
+o
+h
+W
+5
+7
+1
+E
+
+.
+
+(
+
+r
+e
+t
+s
+u
+c
+
+l
+
+2
+
+r
+e
+t
+s
+u
+c
+
+l
+
+3
+
+r
+e
+t
+s
+u
+c
+
+l
+
+1
+s
+o
+N
+
+2
+
+r
+e
+t
+s
+u
+c
+
+l
+
+1
+s
+o
+N
+
+1
+
+r
+e
+t
+s
+u
+c
+
+l
+
+1
+s
+o
+N
+
+2
+
+r
+e
+t
+s
+u
+c
+
+l
+
+t
+a
+h
+C
+
+1
+
+r
+e
+t
+s
+u
+c
+
+l
+
+t
+a
+h
+C
+
+1
+
+r
+e
+t
+s
+u
+c
+
+l
+
+)
+l
+
+e
+w
+o
+B
+
+e
+m
+o
+s
+±
+
+(
+
+l
+
+n
+o
+o
+C
+
+e
+m
+o
+s
+±
+
+(
+
+l
+
+n
+o
+o
+C
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+S
+
+n
+o
+r
+u
+e
+n
+
+d
+e
+t
+s
+e
+g
+g
+u
+S
+
+q
+e
+S
+-
+A
+N
+R
+n
+o
+
+i
+
+d
+e
+s
+a
+B
+n
+o
+i
+t
+a
+c
+ﬁ
+s
+s
+a
+C
+e
+p
+y
+t
+b
+u
+S
+
+l
+
+n
+o
+r
+u
+e
+N
+c
+i
+r
+e
+t
+n
+E
+
+.
+
+5
+7
+1
+E
+
+i
+
+d
+e
+t
+c
+d
+e
+r
+P
+
+.
+
+5
+
+l
+
+e
+b
+a
+T
+
+e
+m
+a
+n
+
+r
+e
+t
+s
+u
+C
+
+l
+
+i
+
+c
+g
+r
+e
+r
+t
+i
+n
+
+s
+n
+o
+r
+u
+e
+n
+
+i
+
+c
+g
+r
+e
+n
+
+i
+l
+
+o
+h
+c
+
+s
+n
+o
+r
+u
+e
+n
+
+s
+n
+o
+r
+u
+e
+n
+
+r
+o
+t
+o
+m
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+r
+o
+
+)
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+)
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+l
+l
+
+a
+m
+s
+
+y
+r
+o
+t
+i
+b
+h
+n
+
+i
+
+i
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+s
+n
+o
+r
+u
+e
+n
+
+r
+o
+t
+o
+m
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+r
+o
+
+y
+r
+o
+t
+i
+b
+h
+n
+
+i
+
+i
+
+i
+
+c
+s
+n
+i
+r
+t
+n
+
+i
+
+y
+r
+o
+s
+n
+e
+s
+
+s
+n
+o
+r
+u
+e
+n
+
+s
+n
+o
+r
+u
+e
+n
+
+r
+o
+t
+o
+m
+
+y
+r
+o
+t
+a
+t
+i
+c
+x
+e
+
+s
+n
+o
+r
+u
+e
+n
+r
+e
+t
+n
+
+i
+
+e
+p
+y
+t
+
+3
+f
+3
+u
+o
+P
+
+,
+
+1
+s
+o
+N
+
+3
+a
+8
+1
+c
+S
+
+l
+
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+,
+
+l
+
+b
+c
+a
+C
+
+,
+a
+c
+a
+C
+
+l
+
+,
+t
+a
+h
+C
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+,
+t
+a
+h
+C
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+y
+
+l
+l
+
+a
+i
+t
+n
+e
+r
+e
+f
+f
+i
+
+D
+
+3
+p
+m
+a
+R
+
+,
+r
+1
+y
+p
+N
+
+,
+r
+1
+y
+p
+N
+
+,
+
+b
+2
+r
+t
+
+H
+
+,
+
+2
+r
+t
+s
+S
+
+,
+
+1
+r
+t
+s
+S
+
+,
+
+2
+r
+t
+s
+S
+
+,
+
+1
+r
+t
+s
+S
+
+,
+
+h
+b
+D
+
+,
+
+l
+
+1
+q
+1
+C
+
+,
+
+b
+r
+n
+d
+E
+
+,
+i
+
+b
+m
+a
+B
+
+,
+
+g
+o
+N
+
+,
+
+u
+m
+N
+
+b
+2
+r
+t
+
+H
+
+,
+
+2
+b
+f
+g
+T
+
+,
+r
+1
+y
+p
+N
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+1
+p
+m
+a
+R
+
+,
+
+1
+r
+k
+o
+r
+P
+
+,
+t
+p
+t
+r
+a
+C
+
+,
+a
+3
+r
+t
+
+H
+
+,
+t
+p
+t
+r
+a
+C
+
+r
+2
+y
+p
+N
+
+r
+2
+y
+p
+N
+
+,
+a
+3
+r
+t
+
+H
+
+,
+
+6
+y
+r
+2
+P
+
+r
+2
+y
+p
+N
+
+,
+t
+p
+t
+r
+a
+C
+
+,
+
+3
+k
+r
+t
+
+N
+
+,
+a
+2
+a
+r
+d
+A
+
+,
+
+7
+d
+a
+m
+S
+
+r
+2
+y
+p
+N
+
+y
+p
+N
+±
+
+y
+p
+N
+±
+
+y
+p
+N
+±
+
+a
+1
+r
+p
+v
+A
+
+y
+
+l
+l
+
+a
+i
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+i
+
+n
+o
+s
+u
+c
+n
+o
+c
+
+l
+
+f
+o
+
+s
+e
+n
+e
+g
+
+r
+e
+h
+t
+O
+
+e
+t
+o
+n
+
+d
+e
+s
+s
+e
+r
+p
+x
+e
+
+i
+
+i
+
+g
+n
+s
+s
+m
+s
+r
+e
+k
+r
+a
+M
+
+/
+
+A
+N
+
+/
+
+A
+N
+
+9
+C
+N
+E
+
+r
+o
+
+8
+C
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+0
+1
+C
+N
+E
+
+9
+C
+N
+E
+
+r
+o
+
+8
+C
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+6
+C
+N
+E
+
+3
+C
+N
+E
+>
+2
+C
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+2
+1
+C
+N
+E
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+C
+
+6
+d
+o
+r
+u
+e
+N
+
+u
+m
+N
+
+,
+
+b
+3
+r
+t
+
+H
+
+1
+c
+a
+T
+
+,
+k
+n
+e
+P
+
+l
+
+1
+b
+a
+C
+
+,
+k
+n
+e
+P
+
+d
+e
+s
+s
+e
+r
+p
+x
+e
+
+s
+r
+e
+k
+r
+a
+m
+
+g
+n
+i
+t
+r
+o
+p
+p
+u
+s
+
+)
+l
+
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+)
+
+6
+d
+o
+r
+u
+e
+N
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+)
+
+l
+
+1
+q
+1
+C
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+,
+t
+a
+h
+C
+
+,
+
+1
+c
+a
+T
+
+,
+k
+n
+e
+P
+
+)
+
+l
+
+2
+4
+a
+f
+u
+d
+N
+
+,
+a
+d
+G
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+)
+
+u
+m
+N
+
+,
+
+l
+
+b
+c
+a
+C
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+,
+t
+a
+h
+C
+
+a
+t
+a
+d
+
+n
+w
+o
+
+r
+u
+O
+
+a
+t
+a
+d
+
+n
+w
+o
+
+r
+u
+O
+
+,
+
+5
+6
+4
+6
+2
+1
+
+,
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+)
+k
+t
+L
+
+,
+t
+p
+t
+r
+a
+C
+
+5
+6
+5
+
+,
+
+)
+
+6
+d
+o
+r
+u
+e
+N
+
+,
+t
+p
+t
+r
+a
+C
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+)
+
+g
+o
+N
+
+,
+t
+a
+h
+C
+n
+o
+
+)
+t
+p
+t
+r
+a
+C
+
+,
+k
+n
+e
+P
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+,
+a
+d
+G
+
+,
+
+1
+c
+a
+T
+
+)
+
+l
+
+2
+4
+a
+f
+u
+d
+N
+
+,
+
+5
+6
+3
+6
+2
+1
+
+,
+
+,
+
+7
+4
+8
+1
+5
+
+,
+
+,
+
+2
+2
+8
+1
+2
+1
+
+,
+
+a
+t
+a
+d
+
+n
+w
+o
+
+r
+u
+O
+
+/
+
+A
+N
+
+/
+
+A
+N
+
+3
+T
+N
+E
+
+.
+
+>
+2
+T
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+1
+T
+N
+E
+
+2
+T
+N
+E
+>
+3
+T
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+9
+T
+N
+E
+
+d
+n
+a
+
+6
+T
+N
+E
+>
+6
+T
+N
+E
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+7
+T
+N
+E
+
+i
+
+g
+n
+d
+n
+o
+p
+s
+e
+r
+r
+o
+C
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+,
+l
+a
+G
+
+,
+
+i
+
+p
+V
+
+,
+
+1
+s
+o
+N
+
+n
+o
+
+d
+e
+s
+a
+b
+
+(
+
+,
+
+u
+m
+N
+
+,
+
+l
+
+b
+c
+a
+C
+
+d
+e
+s
+a
+b
+
+(
+
+4
+T
+N
+E
+
+,
+
+3
+a
+8
+1
+c
+S
+
+l
+
+,
+t
+a
+h
+C
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+)
+k
+n
+e
+P
+
+,
+
+l
+
+1
+b
+a
+C
+
+e
+p
+y
+t
+b
+u
+s
+n
+o
+r
+u
+e
+n
+
+h
+c
+a
+r
+a
+r
+o
+M
+m
+o
+r
+f
+
+s
+n
+o
+i
+t
+a
+n
+g
+s
+e
+d
+
+i
+
+5
+l
+a
+
+t
+e
+
+l
+l
+
+a
+m
+s
+
+1
+2
+P
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+,
+
+6
+a
+7
+1
+c
+S
+
+l
+
+l
+l
+
+a
+m
+s
+
+1
+2
+P
+
+e
+n
+i
+t
+s
+e
+t
+n
+
+i
+
+)
+k
+n
+e
+P
+
+,
+
+l
+
+1
+b
+a
+C
+
+e
+p
+y
+t
+b
+u
+s
+n
+o
+r
+u
+e
+n
+
+s
+n
+o
+i
+t
+a
+n
+g
+s
+e
+d
+
+i
+
+,
+
+,
+
+4
+6
+7
+4
+2
+2
+2
+1
+5
+
+,
+
+,
+
+l
+
+.
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+t
+o
+n
+
+,
+
+/
+
+A
+N
+
+6
+l
+a
+
+t
+e
+
+s
+n
+o
+i
+t
+a
+t
+i
+
+C
+
+l
+
+i
+
+e
+s
+e
+Z
+m
+o
+r
+f
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1583
+
+Table 6.List of PCR Primers for Mouse Genotyping
+
+Gene (strain)
+
+Primer sequence
+
+Band size Genotyping solution
+
+Reference
+
+Tbx3
+
+F: 50-GTG TGA GAC AGA GAA ATC AGT GG-30
+R: 50-CCA ACT GGT ATC TTG ATA AAC CTC-30
+
+Gfp (ChAT-EGFP-
+
+L10a)
+
+F: 50-TCA TAG AGG CGC AGA GTT CC-30
+R: 50-CTG AAC TTG TGG CCG TTT AC-30
+
+Rbfox1
+
+Gfra1-Gfp
+
+Cre (Wnt1-Cre)
+
+R26R-mCherry
+(R26R-H2b-
+mCherry)
+
+Cre (Vglut2-IRES-
+
+Cre)
+
+Cre (Nos1-
+
+CreERT2)
+
+F: 50-ATGCCCATGCAGTGAAAAAT-30
+R: 50-TGCAGCACATTGAAACCTTC-30
+
+Common F: 50-CTTCCAGGTTGGGTCGGAACTGA
+
+Mut R: 50-GCCGTTTACGTCGCCGTCCAGCTC
+
+ACCC-30
+
+GACCAG-30
+
+WT R: 50-AGAGAGCTCAGCGTGCAGAGATC-30
+F: 50-GCA TTA CCG GTC GAT GCA ACG AGT GAT
+
+R: 50-GAG TGA ACG AAC CTG GTC GAA ATC AGT
+
+Common F: 50-AAA GTC GCT CTG AGT TGT
+
+Mutant R: 50-TTA TGT AAC GCG GAA CTC CA-30
+WT R: 50GGA GCG GGA GAA ATG GAT ATG-30
+F: 50-GCA TTA CCG GTC GAT GCA ACG AGT GAT
+
+R: 50-GAG TGA ACG AAC CTG GTC GAA ATC AGT
+
+F: 50-GCA TTA CCG GTC GAT GCA ACG AGT GAT
+
+R: 50-GAG TGA ACG AAC CTG GTC GAA ATC AGT
+
+GAG-30
+
+GCG-30
+
+TAT-30
+
+GAG-30
+
+GCG-30
+
+GAG-30
+
+GCG-30
+
+R26R-TdTomato
+
+Common F: 50-AAAGTCGCTCTGAGTTGTTAT-30
+Mut R: 50-GCGAAGAGTTTGTCCTCAACC-30
+WT R: 50-GGAGCGGGAGAAATGGATATG-30
+
+Etv1-CreERT2
+
+WT F: 50-CCC TCC CCT CTC ATT TTC TC-30
+Mut F: 50-TGG TTT GTC CAA ACT CAT. CAA-30
+Common R: 50-ACA GTT TCT CCC ACG CTG
+
+AC-30
+
+Cre (E2a-Cre)
+
+F: 50-GCG GTC TGG CAG TAA AAA CTA TC-30
+R: 50-GTG AAA CAG CAT. TGC TGT CAC TT-30
+
+R26R-GCaMP6s
+
+Mut F: 50-ACG AGT CGG ATC TCC CTT TG-30
+Mut R: 50-AGA CTG CCT TGG GAA AAG CG-30
+WT F: 50-AAG GGA GCT GCA GTG GAG TA-30
+WT R: 50-CCG AAA ATC TGT GGG AAG TC-30
+
+Mut, mutant; PCR, polymerase chain reaction; WT, wild-type.
+
+Mut: 480 bp
+
+KAPA (KAPA
+
+27
+
+WT: 320 bp
+
+Biosystems; Cat.
+#KK7352), Taq
+(NEB; Cat.
+#M0271L)
+
+Mut: 250 bp KAPA (KAPA
+
+JAX genotyping
+
+Biosystems; Cat.
+#KK7352)
+
+protocol (Stock No:
+030250)
+
+Mut: 397 bp
+
+KAPA (KAPA
+
+69
+
+WT: 294 bp
+
+WT: w200
+bp
+
+Mut: w300 bp
+
+Biosystems; Cat.
+#KK7352)
+
+KAPA (KAPA
+
+24 and personal
+
+Biosystems; Cat.
+#KK7352)
+
+correspondence
+with Dr Sanjay
+Jain’s laboratory
+
+408 bp
+
+KAPA (KAPA
+
+Biosystems; Cat.
+#KK7352), Taq
+(NEB)
+
+https://mgc.wustl.edu/
+protocols/pcr_
+genotyping_primer_
+pairs
+
+Mut: 309 bp
+
+KAPA (KAPA
+
+JAX genotyping
+
+WT: 603 bp
+
+Biosystems; Cat.
+#KK7352)
+
+protocol (Stock No:
+023139)
+
+408 bp
+
+KAPA (KAPA
+
+Biosystems; Cat.
+#KK7352), Taq
+(NEB; Cat.
+#M0271L)
+
+408 bp
+
+KAPA (KAPA
+
+Biosystems; Cat.
+#KK7352), Taq
+(NEB; Cat.
+#M0271L)
+
+https://mgc.wustl.edu/
+protocols/pcr_
+genotyping_primer_
+pairs
+
+https://mgc.wustl.edu/
+protocols/pcr_
+genotyping_primer_
+pairs
+
+Mut: w350
+bp
+WT:
+w600 bp
+
+KAPA (KAPA
+
+JAX genotyping
+
+Biosystems; Cat.
+#KK7352), Taq
+(NEB; Cat.
+#M0271L)
+
+protocol (Stock No:
+007900)
+
+Mut: 170 bp
+
+KAPA ((KAPA
+
+JAX genotyping
+
+WT:
+459 bp
+
+100 bp
+
+Biosystems; Cat.
+#KK7352)
+
+protocol (Stock No:
+013048)
+
+HotStar Taq Kit
+(Qiagen; Cat.
+#203443)
+
+JAX genotyping
+
+protocol (Stock No:
+003724)
+
+Mut: 356 bp
+
+KAPA (KAPA
+
+JAX genotyping
+
+WT: 297 bp
+
+Biosystems; Cat.
+#KK7352)
+
+protocol (Stock No:
+028866)
+
+insertion. A glass bead (3 mm; Sigma-Aldrich; Cat. #Z143928)
+lubricated with sunﬂower seed oil (Sigma-Aldrich; Cat.
+#S5007) was inserted 2 cm into the colon using a custom-
+made 3-mm rounded glass rod. The glass rod was removed,
+isoﬂurane was stopped, mice were placed in empty cages, and
+
+time to bead expulsion was recorded. If a mouse regained
+consciousness before bead insertion, mice were anesthetized
+for an additional 2–4 minutes. The assay was repeated 3
+times per mouse (48–96 hours between procedures). Mice
+had free access to food and water prior to the experiment.
+
+1584
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Table 7.ARRIVE Guidelines: General Animal Husbandry Information
+
+Location of
+animal facility
+(types of
+experiments)
+
+Facility type
+
+Children’s Hospital of
+Philadelphia (all experiments,
+except listed elsewhere)
+
+Conventional: cages are opened at
+room air, face masks are not
+required when handling mice
+
+University of Pittsburgh (live
+calcium imaging experiments)
+
+Barrier housing and maintained with
+caging opened under Animal
+Transfer Station/Biosafety
+Cabinets
+
+University of Melbourne (High-
+magniﬁcation images of
+myenteric plexus stained with
+substance P and Enkephalin)
+
+IVC (Tecniplast): cages opened under
+
+Animal Transfer Station
+
+Facility type
+
+Speciﬁc pathogen free, pathogens
+
+Speciﬁc pathogen free; sentinel
+
+Speciﬁc pathogen free; sentinel
+
+Animal welfare
+assessment
+
+Bedding
+
+detected in room within the past 2
+y: MNV, Helicobacter not tested
+but likely present
+
+testing for excluded pathogens
+and MNV
+
+testing for excluded pathogens
+and MNV
+
+Daily
+
+Daily
+
+Daily (food and water) Weekly (health
+
+check)
+
+1/4 inch corn cob (The Andersons,
+
+P.J. Murphy Coarse Certiﬁed Aspen
+
+Compressed paper-based bedding
+
+Product 4B)
+
+Sani-chip
+
+Cage type
+
+Lab Products (Seaford, DE) 75
+
+Allentown mouse IVC
+
+Tecniplast IVC (green line)
+
+Cage cleaning/
+sterilization
+
+inches2 ventilated.
+Standard tunnel washer
+
+Standard tunnel washer, boxes
+
+Rack washer (Tecniplast), steam
+
+autoclaved before use
+
+sterilisation
+
+Mouse diet
+
+Mouse Diet 5015 (Lab Diet), direct
+
+Prolab Isopro RMH 3000 (5P75)
+
+from manufacturer: not
+autoclaved, not irradiated
+
+irradiated
+
+Jackson labs: LabDiet 5K52
+formulation (6% fat).
+
+Animal Facility: Barastoc WEHI Mice
+
+Cubes, irradiated
+
+Light/dark
+cycle, h
+
+Temperature
+
+Humidity
+
+Water pH and
+quality
+
+Access to food
+and water
+
+Number of mice
+per cage
+
+12/12
+
+12/12
+
+12/12
+
+72 ± 2(cid:4)F
+30%–70% depending on the day/
+
+72 ± 4(cid:4)F
+30%–70% depending on the day/
+
+18–24 ± 1(cid:4)C
+30%–70% depending on the day/
+
+season
+
+season
+
+season
+
+Reverse osmosis, pH w7, Edstrom
+automatic watering system
+
+Reverse osmosis, pH w7, Edstrom
+automatic watering system
+
+Filtered water bottles (down to 0.2
+
+microns), pH w7
+
+Continuous
+
+1–5 (20–30 g)
+
+Continuous
+
+Continuous
+
+1–4 males, 1–5 females
+
+1–5
+
+Cage
+
+house/dome (Bio-Serv, S3174) and
+
+house/dome (Bio-Serv, S3174) and
+
+House/dome, tissues, chewing
+
+enrichment
+
+nestlet (Ancare)
+
+nestlet (Ancare)
+
+Mating strategy
+
+Age at weaning
+
+Continuous
+19–20 d
+
+Continuous
+19–28 d
+
+IVC, individually ventilated cage; MNV, mouse norovirus.
+
+wooden block for single-housed
+mice
+
+Not applicable in this study
+19–21 d (not applicable for this study)
+
+Table 8.List of RT-PCR Primers
+
+Gene
+
+Primer sequence
+
+Band size
+
+Genotyping solution
+
+Reference
+
+Pou3f3 (mouse)
+
+Actb (mouse)
+
+50-CAACAGCCACGACCCTCACT-30
+50-CAGAACCAGACCCGCACGAC-30
+50-GAGAGGGAAATCGTGCGTGAC-30
+50-AGCTCAGTAACAGTCCGCCTA-30
+
+Casz1 (mouse)
+
+50-GCAGAAGAGCCCTCAAAAGATAA-30
+50-GAAGCAGCGTAGTCCCTCAGA-30
+
+RT-PCR, reverse-transcription polymerase chain reaction.
+
+450 bp
+
+KAPA (KAPA Biosystems;
+
+Cat. #KK7352)
+
+534 bp
+
+KAPA (KAPA Biosystems;
+
+Cat. #KK7352) or GoTaq Green
+(Promega; Cat. #M7122)
+
+113 bp
+
+GoTaq Green (Promega; Cat. #M7122)
+
+66
+
+67
+
+68
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1585
+
+Table 9.List of Antibodies
+
+Antibody
+
+Concentration
+
+Catalog number
+
+Source
+
+Rabbit anti-NOS1
+
+Goat anti-CHAT
+
+ANNA-1 (HuC/D)
+
+Mouse anti-HuC/D
+
+Goat anti-TBX3
+
+Goat anti-PHOX2B
+
+Rabbit anti-SATB1
+
+Chicken anti-GFP
+
+Rabbit anti-S100B
+
+Rabbit anti-PBX3
+
+Rabbit anti-TBX2
+
+Rabbit anti-POU3F3
+
+Rabbit anti-RBFOX1
+
+1:200 (mouse), 1:100 (human)
+
+1:100 (human)
+
+N/A (mouse)
+
+1:200 (human)
+
+1:100 (human and mouse)
+
+1:100 (mouse)
+
+1:100 (mouse)
+
+1:500 (mouse)
+
+1:200 (mouse)
+
+1:100 (human and mouse)
+
+1:100 (human and mouse)
+
+1:100 (human and mouse)
+
+1:100 (human and mouse)
+
+AB5380
+
+AB144P
+
+N/A
+
+A21271
+
+AF4509-SP
+
+AF4940-SP
+
+ab109122
+
+#GFP-1020
+
+Ab52642
+
+12571-1-AP
+
+22346-1-AP
+
+HPA067151
+
+HPA040809
+
+Goat anti-BRN1 (also called
+
+1:100 (mouse)
+
+POU3F3 protein)
+
+Rabbit anti-BNC2
+
+1:100 (human and mouse)
+
+HPA018525
+
+Rabbit anti-Met Enkephalin
+
+Rat anti-Substance P (NC1/34)
+
+1:500 (mouse)
+
+1:800 (mouse)
+
+AB5026
+
+AB150349
+
+Alexa Fluor goat anti-human 647
+
+1:400 (mouse and human)
+
+Alexa Fluor donkey anti-rabbit 488
+
+1:400 (mouse and human)
+
+Alexa Fluor donkey anti-rabbit 594
+
+1:400 (mouse and human)
+
+Alexa Fluor donkey anti-rabbit 647
+
+1:400 (mouse and human)
+
+Alexa Fluor goat anti-rat 594
+
+1:500 (mouse)
+
+Alexa Fluor donkey anti-goat 594
+
+1:400 (mouse and human)
+
+Alexa Fluor goat anti-chicken 488
+
+1:400 (mouse and human)
+
+Alexa Fluor donkey anti-goat 647
+
+1:400 (mouse and human)
+
+Alexa Fluor donkey anti-goat 488
+
+1:400 (mouse and human)
+
+Alexa Fluor goat anti-rabbit 488
+
+1:400 (mouse and human)
+
+A21445
+
+A21206
+
+A21207
+
+A31573
+
+A11007
+
+A11058
+
+A11039
+
+A21447
+
+A11055
+
+A31556
+
+Sigma-Aldrich; RRID:AB_91824
+
+Sigma-Aldrich; RRID:AB_2079751
+
+Kind gift from Dr V. Lennon, Mayo Clinic
+Thermo-Fisher Scientiﬁc, RRID:AB_221448
+R&D Systems, RRID:AB_2240328
+
+R&D Systems, RRID:AB_10889846
+
+Abcam,
+
+RRID:AB_10862207
+
+Aves Labs, RRID:AB_10000240
+
+Abcam; RRID:AB_882426
+
+Proteintech Group; RRID:AB_2160469
+
+Proteintech Group
+
+Sigma-Aldrich; RRID:AB_2685790
+
+Sigma-Aldrich; RRID:AB_10796228
+
+Santa Cruz; no longer sold
+
+Sigma-Aldrich;
+RRID:AB_1845402
+
+Sigma-Aldrich; RRID:AB_91644
+
+Abcam
+Thermo-Fisher Scientiﬁc; RRID:AB_2535862
+Thermo-Fisher Scientiﬁc; RRID:AB_2535792
+Thermo-Fisher Scientiﬁc; RRID:AB_141637
+Thermo-Fisher Scientiﬁc; RRID:AB_2536183
+Thermo-Fisher Scientiﬁc; RRID:AB_10561522
+Thermo-Fisher Scientiﬁc; RRID:AB_2534105
+Thermo-Fisher Scientiﬁc; RRID:AB_142924
+Thermo-Fisher Scientiﬁc; RRID:AB_141844
+Thermo-Fisher Scientiﬁc; RRID:AB_2534102
+Thermo-Fisher Scientiﬁc;
+
+RRID:AB_221605
+
+N/A, not available. (Note: We do not have a catalogue number or exact concentration for this antibody since it was generated
+in limited quantities from human serum and reused for each experiment).
+
+Calcium Imaging of Full Thickness Colon
+
+Colons from E2a-Cre;R26R-Gcamp6s mice 12–16 weeks of
+age were cut longitudinally and pinned (mucosa facing down)
+in a Sylgard-lined dish superfused with carbogenated (95%
+O2, 5% CO2) artiﬁcial cerebrospinal ﬂuid (ACSF),26 freshly
+prepared, maintained at 35(cid:4)C. Nifedipine (1 mM, Sigma-
+Aldrich; Cat. #N7634) in ACSF improved stability for cal-
+cium imaging analyses. GCaMP6s in myenteric neurons was
+imaged with an upright DM6000FS Leica ﬂuorescence mi-
+croscope (Leica, Buffalo Grove, IL) and EMCCD camera
+(Photometrics; Roper Scientiﬁc, Tucson, AZ) using a (cid:2)20
+objective. Images were collected with Metamorph, version
+7.10.1.161 (Molecular Devices, San Jose, CA) at 10-Hz sam-
+pling rate. For each ﬁeld, spontaneous activity was imaged 2
+minutes, before two 30-second movies were collected in
+response to EFS (100-ms pulse, 20 Hz, 1 second) using
+
+concentric electrodes 5 mm oral or aboral to imaging ﬁelds
+(order randomized). Recombinant rat GDNF (Cat. #512-GF;
+R&D Systems, Minneapolis, MN) or NRTN (Cat. #450-11;
+PeproTech, Rocky Hill, NJ) were added at 10-nM ﬁnal con-
+centration (order of presentation randomized). We recorded
+spontaneous activity in 2-minute movies collected intermit-
+tently while ligands continuously superfused circulating
+ACSF for 10 minutes. Responses to oral and aboral stimula-
+tion were then reimaged. Colon was washed for 30 minutes,
+and baseline activity and responses were reimaged before the
+next receptor ligand was applied. In a subset of experiments,
+the addition of TTX (0.5 mM; Cat. #T8024; Sigma-Aldrich)
+blocked all neural transmission allowing for identiﬁcation
+of myenteric neurons directly activated by GDNF or NRTN.
+Spontaneous activity was recorded (three 2-minute movies)
+at baseline, 10 minutes following TTX and during application
+
+1586
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Table 10.Numbers of Biological Replicates and Numbers of Cells/Terminals Counted
+
+Experiment
+
+Figure 2: enkephalin and
+substance P staining
+quantiﬁcation
+
+Figure 2: Vglut-Ires-
+
+Cre;TdTomato (cid:2) Chat-EGFP
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 5: Gfra1-GFP
+
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 5: NADPH diaphorase
+
+staining
+
+Figure 8: Etv1-
+
+CreERT2;TdTomato (cid:2) NOS1
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 8: PBX3 (cid:2) Chat-EGFP
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 8: PHOX2B (cid:2) Chat-EGFP
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 8: RBFOX1 (cid:2) Chat-EGFP
+quantiﬁcation (mouse adult
+distal colon)
+
+Biological
+replicate
+number
+
+3
+
+3
+
+3
+
+5
+
+3
+
+4
+
+4
+
+3
+
+Total neurons or
+nerve terminals
+counted
+
+11,628 (myenteric
+ganglia)
+
+2918 (circular
+
+muscle)
+
+Statistical tests
+used
+
+Unpaired t test
+
+114
+
+614
+
+340
+
+1101
+
+N/A
+
+Student’s t test
+
+Fisher exact test
+(2 (cid:2) 2 contingency
+table)
+Student’s t test
+
+2684
+
+Student’s t test
+
+2136
+
+Student’s t test
+
+993
+
+Student’s t test
+
+Descriptive statistics
+
+Varicosities within myenteric ganglia:
+% of Enkþ varicosities that were SPþ:
+74.5 ± 23.6, 86.9 (47.3 - 89.2)
+% of SPþ varicosities that were Enkþ:
+
+81.2 ± 8.7, 78.0 (74.5 - 91.0)
+
+Varicosities in circular muscle:
+% of Enkþ varicosities that were SPþ:
+
+76.5 ± 5.0, 78.7 (70.7 - 80.0)
+
+% of SPþ varicosities that were Enkþ:
+44.7 ± 8.4, 41.9 (41.9 - 38.2 - 54.2)
+
+% TDTOMATOþ/EGFPþ-/HUCþ:
+4.1 ± 1.5, 3.5 (3.0 - 5.8)
+% TDTOMATOþ/EGFPþ/HUCþ:
+95.9 ± 1.5, 96.5 (94.2 - 97.0)
+% of NOS1þ that were GFPþ: 88.9 ±
+
+1.8, 89.1 (87.0 - 90.6)
+
+% of NOS- neurons that were GFPþ:
+
+8.8 ± 5.7, 7.7 (3.8 - 15.0)
+
+N/A
+
+% of NOSþ neurons that were TDTþ:
+56.4 ± 6.3, 59.7 (49.1 - 60.3)
+
+% of NOS- neurons that were TDTþ: 5.6
+
+± 1.5, 5.6 (4.1 - 7.1)
+
+% of TDTOMATOþ neurons that were
+
+NOSþ: 85.0 ± 5.8, 85.7 (78.9 - 90.5)
+
+% of TDTOMATO neurons that were
+NOS-: 15.0 ± 5.8, 14.3 (9.5 - 21.1)
+% of EGFP–neurons that were PBX3þ:
+
+31.4 ± 6.0, 29.5 (26.9 - 37.7)
+
+% of EGFPþ neurons that were PBX3þ:
+
+72.7 ± 5.4, 74.2 (67.1 - 76.9)
+
+% of PBX3þ neurons that were EGFPþ:
+
+79.2 ± 5.3, 79.4 (74.0 - 84.2)
+
+% of PBX3þ neurons that were EGFP-:
+
+20.8 ± 5.3, 20.6 (15.8 - 26.0)
+
+% of EGFP–neurons that were
+PHOX2Bþ: 69.9 ± 7.3, 72.0
+(71.2 - 80.7)
+
+% of EGFPþ neurons that were
+PHOX2Bþ: 76.1 ± 5.1, 76.3
+(62.1 - 75.6)
+
+% of PHOX2Bþ neurons that were
+
+EGFPþ: 60.8 ± 2.9, 62.1 (57.8 - 62.7)
+
+% of PHOX2Bþ neurons that were
+
+EGFP-: 39.2 ± 2.9, 37.9 (37.3 - 42.2)
+
+% of EGFP–neurons that were
+RBFOX1þ: 39.4 ± 3.8, 38.7
+(36.0 - 43.6)
+
+% of EGFPþ neurons that were
+RBFOX1þ: 82.5 ± 6.7, 78.8
+(78.4 - 90.2)
+
+% of RBFOX1þ neurons that were
+
+EGFPþ: 74.2 ± 5.8, 76.9 (67.5 - 78.1)
+
+% of RBFOX1þ neurons that were
+
+EGFP-: 25.8 ± 5.8, 23.1 (21.9 - 32.5)
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1587
+
+Table 10. Continued
+
+Experiment
+
+Figure 8: SATB1 (cid:2) Chat-EGFP
+quantiﬁcation (mouse adult
+distal colon)
+
+Figure 8: TBX3 (cid:2) NOS1
+
+quantiﬁcation (mouse adult
+distal colon)
+
+Biological
+replicate
+number
+
+Total neurons or
+nerve terminals
+counted
+
+Statistical tests
+used
+
+Descriptive statistics
+
+3
+
+4
+
+1028
+
+Student’s t test
+
+% of EGFP–neurons that were SATB1þ:
+
+1033
+
+Student’s t test
+
+7.9 ± 12.3, 1.6 (0 - 22.1)
+% of EGFPþ neurons that were
+SATB1þ: 50.0 ± 12.0, 45.3
+(41.0 - 63.5)
+
+% of SATB1þ neurons that were
+
+EGFPþ: 94.8 ± 7.9, 98.8 (85.7 - 100)
+% of SATB1þ neurons that were EGFP-
+
+: 5.2 ± 7.9, 1.2 (0 - 14.)
+
+% of NOSþ/EGFP–neurons that were
+
+TBX3þ: 90.9 ± 8.2, 92.0 (82.5 - 98.1)
+% of NOSþ/EGFPþ neurons that were
+TBX3þ: 86.5 ± 12.1, 85.6 (75.7 -
+98.3)
+
+% of NOS-/EGFPþ neurons that were
+
+TBX3þ: 23.4 ± 7.7, 26.3 (15.4 - 28.5)
+% of TBX3þ neurons that were EGFPþ:
+
+31.0 ± 7.0, 34.5 (24.0 - 34.6)
+
+% of TBX3þ neurons that were EGFP-:
+
+69.0 ± 7.0, 65.5 (65.4 - 76)
+
+% of TBX3þ neurons that were NOSþ:
+
+66.0 ± 5.6, 64.5 (61.7 - 71.7)
+
+% of TBX3þ neurons that were NOS-:
+
+34.0 ± 5.6, 35.5 (28.3 - 38.3)
+
+Figure 8: All neurons (mouse
+
+adult distal colon)
+
+3 (EGFP)
+
+7 (NOS)
+
+Figure 13: BNC2 (cid:2) Chat-EGFP
+quantiﬁcation (mouse E17.5
+mid small intestine)
+
+Figure 13: PBX3 (cid:2) Chat-EGFP
+quantiﬁcation (mouse E17.5
+mid small intestine)
+
+Figure 13: RBFOX1 (cid:2) Chat-EGFP
+quantiﬁcation (mouse E17.5
+mid small intestine)
+
+3
+
+3
+
+3
+
+N/A
+
+% of total neurons that were
+
+EGFPþ:58.1 ± 4.4, 58.8 (53.4 - 62.2)
+
+% of total neurons that were EGFP-:
+41.9 ± 4.4, 41.2 (37.8 - 46.6)
+% of total neurons that were NOSþ:
+38.1 ± 4.5, 39.2 (33.3 - 41.2)
+
+% of total neurons that were NOS-: 61.9
+
+6186
+
+Student’s t test
+
+10259
+
+Student’s t test
+
+11522
+
+Student’s t test
+
+± 4.5, 60.8 (58.8 - 66.7)
+
+BNC2þEGFPþ/EGFPþ:
+54.8 ± 5.2, 52.3 (51.3 - 60.8)
+BNC2þEGFP–/EGFP-:
+21.6 ± 1.5, 21.3 (20.3 - 23.2)
+BNC2þEGFPþ/BNC2þ:
+78.7 ± 1.1, 78.7 (77.5 - 79.6)
+EGFPþHUCþ/HUCþ:
+59.2 ± 4.4, 57.0 (56.3 - 64.3)
+PBX3þEGFPþ/EGFPþ:
+53.4 ± 13.3, 60.6 (38.1 - 61.5)
+PBX3þEGFP–/EGFP-:
+12.1 ± 9.5, 9.7 (4.0 - 22.6)
+PBX3þEGFPþ/PBX3þ:
+85.7 ± 8.6, 84.5 (77.7 - 94.9)
+EGFPþHUCþ/HUCþ:
+56.2 ± 9.6, 55.8 (46.8 - 65.9)
+RBFOX1þEGFPþ/EGFPþ:
+49.7 ± 9.4, 48.3 (41.0 - 59.8)
+RBFOX1þEGFP–/EGFP-:
+3.7 ± 2.1, 4.0 (1.5 - 5.7)
+RBFOX1þEGFPþ/RBFOX1þ:
+95.3 ± 2.1, 95.7 (93.1 - 97.2)
+EGFPþHUCþ/HUCþ:
+59.7 ± 2.8, 60.6 (56.6 - 61.9)
+
+1588
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+Table 10. Continued
+
+Experiment
+
+Figure 13: TBX2 (cid:2) Chat-EGFP
+quantiﬁcation (mouse E17.5
+mid small intestine)
+
+Figure 13: TBX3 (cid:2) Chat-EGFP (cid:2)
+NOS1 quantiﬁcation (mouse
+E17.5 mid small intestine)
+
+Biological
+replicate
+number
+
+Total neurons or
+nerve terminals
+counted
+
+3
+
+3
+
+8369
+
+4235
+
+Statistical tests
+used
+
+Student’s t test
+
+Analysis of variance
+with Tukey’s post hoc
+test
+
+Figure 13: Etv1-
+
+3
+
+Student’s t test
+
+CreERT2;TDTOMATO (cid:2)
+NOS1 quantiﬁcation (mouse
+E17.5 mid small intestine)
+
+Figure 14:
+Wnt1-Cre;Casz1 ﬂox neuron
+numbers (mouse P0 mid
+small intestine)
+
+3 (control), 3
+(KO)
+
+4526 (control),
+4126(KO)
+
+Student’s t test
+
+Figure 14: Wnt1-Cre;Tbx3 ﬂox
+neuron numbers (mouse P0
+mid small intestine)
+
+3 (control), 3
+(KO)
+
+8618 (control), 3983
+(KO)
+
+Student’s t test
+
+Figure 14: Wnt1-Cre;Rbfox1 ﬂox
+neuron numbers (mouse P0
+mid small intestine)
+
+4 (control), 4
+(KO)
+
+6871 (control), 5348
+(KO)
+
+Student’s t test
+
+Descriptive statistics
+
+TBX2þEGFPþ/EGFPþ:
+51.5 ± 4.3, 51.4 (47.3 - 55.8)
+TBX2þEGFP–/EGFP-:
+7.8 ± 7.3, 3.7 (3.5 - 16.2)
+TBX2þEGFPþ/TBX2þ:
+92.3 ± 5.1, 94.7 (86.5 - 95.8)
+EGFPþHUCþ/HUCþ:
+60.9 ± 5.1, 63.3 (55.0 - 64.4)
+TBX3þEGFPþ/EGFPþ:
+49.1 ± 6.3, 48.1 (43.3 - 55.8)
+TBX3þNOS1þ/NOS1þ:
+95.2 ± 1.7, 94.6 (93.8 - 97.1)
+TBX3þNOS1þEGFPþ/NOS1þEGFPþ:
+91.2 ± 3.9, 91.4 (87.2 - 95.0)
+TBX3þEGFPþ/TBX3þ:
+0.50 ± 0.04, 0.5 (0.45 - 0.53)
+TBX3þNOS1þ/TBX3þ:
+44.6 ± 3.2, 43.9 (41.8 - 48.1)
+TBX3þEGFPþNOS1þ/TBX3þ:
+5.6 ± 0.9, 5.4 (4.9 - 6.5)
+EGFPþ/(sum of EGFPþ, NOS1þ,
+
+NOS1þEGFPþ):
+
+68.3 ± 1.6, 67.5 (67.3 - 70.2)
+NOS1þ/(sum of EGFPþ, NOS1þ,
+
+NOS1þEGFPþ):
+
+31.1 ± 1.7, 32.0 (29.2 - 32.1)
+EGFPþNOS1þ/(sum of EGFPþ,
+NOS1þ, NOS1þEGFPþ):
+
+0.8 ± 0.0, 0.8 (0.8 - 0.9)
+TDTOMATOþNOS1þ/NOS1þ:
+14.86 ± 3.59, 13.59 (12.41 - 18.57)
+TDTOMATOþ/NOS1–/NOS1–:
+3.59 ± 0.59, 3.65 (2.98 - 4.15)
+% Chat-EGFPþ neurons:
+KO: 51.6 ± 6.0, 48.3 (43.3 - 63.3)
+Control: 45.3 ± 3.9, 44.57 (39.0 - 52.3)
+Total neuron density:
+KO: 3044 ± 812.2, 2891 (2320 - 3922)
+Control: 3339 ± 89.0, 3294 (3283 - 3442)
+% NOS1þ neurons:
+KO: 18.2 ± 3.3, 17.4 (15.3 - 21.9)
+Control: 26.0 ± 3.0, 26.4 (22.8 - 28.8)
+Total Neuron Density:
+KO: 2180 ± 403.2, 2075 (1839 - 2625)
+Control: 2337 ± 260.6, 2302 (2096 -
+
+2613)
+
+% Chat-EGFPþ neurons:
+KO: 47.4 ± 2.9, 47.3 (44.8 - 50.0)
+Control: 53.6 ± 7.3, 53.6 (46.6 - 60.7)
+Total Neuron Density:
+KO: 1603 ± 352.2, 1589 (1273 - 1947)
+Control: 1789 ± 364.6, 1903 (1413 -
+
+2078)
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1589
+
+Table 10. Continued
+
+Experiment
+
+Figure 14: Wnt1-Cre;Tbx2 ﬂox
+neuron numbers (mouse P0
+mid small intestine)
+
+Figure 19: BNC2 (cid:2) CHAT
+
+quantiﬁcation (human colon)
+
+Figure 19: PBX3 (cid:2) CHAT
+
+quantiﬁcation (human colon)
+
+Figure 19: RBFOX1 (cid:2) CHAT
+
+quantiﬁcation (human colon)
+
+Figure 19: TBX2 (cid:2) CHAT
+
+quantiﬁcation (human colon)
+
+Figure 19: TBX3 (cid:2) NOS1
+
+quantiﬁcation (human colon)
+
+Biological
+replicate
+number
+
+Total neurons or
+nerve terminals
+counted
+
+4 (control), 3
+(KO)
+
+5911 (control),
+2581 (KO)
+
+Statistical tests
+used
+
+Student’s t test
+
+MWRST
+
+Descriptive statistics
+
+% Chat-EGFPþ neurons:
+KO: 46.15 ± 6.678, 46.3 (39.4 - 52.8)
+Control: 45.6 ± 7.741, 44.75 (38.6 - 53.5)
+Total Neuron Density:
+KO: 1844 ± 1005, 1754 (886.8 - 2891)
+Control: 1839 ± 166.8, 1846 (1680 -
+
+3
+
+3
+
+3
+
+3
+
+3
+
+2675
+
+Student’s t test
+
+2439
+
+Student’s t test
+
+2825
+
+Student’s t test
+
+3427
+
+Student’s t test
+
+972
+
+Student’s t test
+
+1992)
+
+BNC2þCHATþ/CHATþ:
+36.6 ± 4.1, 34.3 (34.2 - 41.3)
+BNC2þCHAT-/CHAT-:
+1.6 ± 1.3, 0.8 (0.8 - 3.1)
+BNC2þCHATþ/BNC2þ:
+97.9 ± 1.3, 97.9 (96.6 - 99.2)
+CHATþHUCþ/HUCþ:
+66.6 ± 11.8, 60.0 (59.6 - 80.1)
+PBX3þCHATþ/CHATþ:
+19.0 ± 4.3, 19.9 (14.3 - 22.8)
+PBX3þCHAT-/CHAT-:
+1.1 ± 0.3, 1.1 (0.8 - 1.4)
+PBX3þCHATþ/PBX3þ:
+97.5 ± 1.1, 97.2 (96.5 - 98.7)
+CHATþHUCþ/HUCþ:
+68.7 ± 6.9, 67.7 (62.3 - 76.1)
+RBFOX1þCHATþ/CHATþ:
+44.4 ± 7.7, 41.4 (38.8 - 53.1)
+RBFOX1þCHAT-/CHAT-:
+1.5 ± 1.4, 1.6 (0 - 2.7)
+RBFOX1þCHATþ/RBFOXþ:
+99.4 ± 0.5, 99.3 (99.0 - 100.0)
+CHATþHUCþ/HUCþ:
+87.4 ± 2.7, 86.9 (85.0 - 90.3)
+TBX2þCHATþ/CHATþ:
+7.8 ± 2.8, 6.2 (6.2 - 11.0)
+TBX2þCHAT-/CHAT-:
+0.1 ± 0.1, 0.1 (0 - 0.2)
+TBX2þCHATþ/TBX2þ:
+99.4 ± 0.5, 99.3 (99.0 - 100.0)
+CHATþHUCþ/HUCþ:
+69.6 ± 12.9, 72.5 (55.5 - 80.9)
+TBX3þNOS1þ/NOS1þ:
+90.0 ± 9.7, 92.4 (79.2 - 98.2)
+TBX3þNOS1–/NOS1–:
+16.4 ± 6.5, 14.9 (10.7 - 23.5)
+TBX3þNOS1þ/TBX3þ:
+83.5 ± 8.9, 83.3 (74.6 - 92.4)
+NOS1þHUCþ/HUCþ:
+49.1 ± 7.8, 47.3 (42.4 - 57.7)
+
+Values are mean ± SD, median (range).
+EGFP, enhanced green ﬂuorescent protein; KO, knockout; N/A, not available; NADPH, nicotinamide adenine dinucleotide
+phosphate; NOS1, neuronal nitric oxide synthase.
+
+of GDNF or NRTN (in the presence of TTX; order of presen-
+tation of GDNF/NRTN was randomized). Colon tissue was
+then “washed” with the TTX, activity was reimaged, and the
+next receptor ligand was applied while imaging responses.
+
+Analysis of Live GCaMP6s Imaging
+
+Metamorph (Molecular Devices, Downington, PA) image
+ﬁles exported to ImageJ were coded for blinded analysis.
+Circular regions of interest were drawn on all myenteric
+
+1590
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+neurons in each ﬁeld. Amplitude of GCaMP6s signals were
+analyzed and quantiﬁed as described.62 We calculated DF/
+F0 [% ¼ ((F (cid:6) F0)/F0) (cid:2) 100], where F is peak ﬂuorescence
+and F0 is baseline mean ﬂuorescence; DF/F0 of 4SD >
+baseline was considered a response. Time control studies, in
+which GCaMP6s activity from individual neurons was
+measured over time, were used to determine whether
+changes in activity were signiﬁcantly altered due to GDNF or
+NRTN application. Tissue movement along x- and y-axes
+was measured using ImageJ Template-Matching plugin.
+Time-lapse color-coded images created in ImageJ use pixel
+color to indicate when pixels reached maximum F, providing
+spatial and temporal information about activity.
+
+Statistics
+
+We used Prism 7.03 software (GraphPad Software, San
+Diego, CA). A cutoff of P < .05 was considered signiﬁcant.
+Data represent mean ± SEM.
+
+References
+1. Schneider S, Wright CM, Heuckeroth RO. Unexpected
+roles for the second brain: enteric nervous system as
+master regulator of bowel function. Annual Review of
+Physiology 2019;81:235–259.
+
+2. McCann CJ, Thapar N. Enteric neural stem cell therapies
+for enteric neuropathies. Neurogastroenterol Motil 2018;
+30:e13369.
+
+3. Soret R, Schneider S, Bernas G, Christophers B,
+Souchkova O, Charrier B, Righini-Grunder F, Aspirot A,
+Landry M, Kembel SW, Faure C, Heuckeroth RO, Pilon N.
+Glial cell derived neurotrophic factor induces enteric
+neurogenesis and improves colon structure and function
+in mouse models of Hirschsprung disease. Gastroen-
+terology 2020;159:1824–1838.e7.
+
+4. Memic F, Knoﬂach V, Morarach K, Sadler R, Laranjeira C,
+Hjerling-Lefﬂer J, Sundström E, Pachnis V, Marklund U.
+Transcription and signaling regulators in developing
+neuronal subtypes of mouse and human enteric nervous
+system. Gastroenterology 2018;154:624–636.
+
+5. Morarach K, Mikhailova A, Knoﬂach V, Memic F,
+Kumar R, Li W, Ernfors P, Marklund U. Diversiﬁcation of
+molecularly deﬁned myenteric neuron classes revealed
+by single-cell RNA sequencing. Nat Neurosci 2021;
+24:34–46.
+
+6. Zeisel A, Hochgerner H, Lönnerberg P, Johnsson A,
+Memic F, van der Zwan J, Häring M, Braun E,
+Borm LE, La Manno G, Codeluppi S, Furlan A, Lee K,
+Skene N, Harris KD, Hjerling-Lefﬂer J, Arenas E,
+Ernfors P, Marklund U, Linnarsson S. Molecular ar-
+chitecture of the mouse nervous system. Cell 2018;
+174:999–1014.e22.
+
+7. May-Zhang AA, Tycksen E, Southard-Smith AN,
+Deal KK, Benthal JT, Buehler DP, Adam M, Simmons AJ,
+Monaghan JR, Matlock BK, Flaherty DK, Potter SS,
+Lau KS, Southard-Smith EM. Combinatorial transcrip-
+tional proﬁling of mouse and human enteric neurons
+identiﬁes shared and disparate subtypes in situ.
+Gastroenterology 2020 Sep 30 [E-pub ahead of print].
+
+8. Drokhlyansky E, Smillie CS, Van Wittenberghe N,
+Ericsson M, Grifﬁn GK, Eraslan G, Dionne D,
+Cuoco MS, Goder-Reiser MN, Sharova T, Kuksenko O,
+Aguirre AJ, Boland GM, Graham D, Rozenblatt-
+Rosen O, Xavier RJ, Regev A. The human and mouse
+enteric nervous system at single-cell resolution. Cell
+2020;182:1606–1622.e23.
+
+9. Lasrado R, Boesmans W, Kleinjung J, Pin C, Bell D,
+Bhaw L, McCallum S, Zong H, Luo L, Clevers H, Vanden
+Berghe P, Pachnis V. Lineage-dependent spatial and
+functional organization of the mammalian enteric ner-
+vous system. Science 2017;356:722–726.
+
+10. Lomax AE, Furness JB. Neurochemical classiﬁcation of
+enteric neurons in the guinea-pig distal colon. Cell Tissue
+Res 2000;302:59–72.
+
+11. Knowles CH, Veress B, Kapur RP, Wedel T, Farrugia G,
+Vanderwinden J-M, Geboes K, Smith VV, Martin JE,
+Lindberg G, Milla PJ, De Giorgio R. Quantitation of
+cellular components of the enteric nervous system in the
+normal human gastrointestinal tract–report on behalf of
+the Gastro 2009 International Working Group. Neuro-
+gastroenterol Motil 2011;23:115–124.
+
+12. Sang Q, Young HM. Chemical coding of neurons in the
+myenteric plexus and external muscle of the small and
+large intestine of the mouse. Cell Tissue Res 1996;
+284:39–53.
+
+13. Graham KD, López SH, Sengupta R, Shenoy A,
+Schneider S, Wright CM, Feldman M, Furth E,
+Valdivieso F, Lemke A, Wilkins BJ, Naji A, Doolin E,
+Howard MJ, Heuckeroth RO. Robust, 3-dimensional
+visualization of human colon enteric nervous system
+without
+tissue sectioning. Gastroenterology 2020;
+158:2221–2235.e5.
+
+14. Jiang Y, Dong H, Eckmann L, Hanson EM,
+
+Ihn KC,
+Mittal RK. Visualizing the enteric nervous system using
+genetically engineered double reporter mice: comparison
+with immunoﬂuorescence. PLoS One 2017;12:e0171239.
+15. Lake JI, Avetisyan M, Zimmermann AG, Heuckeroth RO.
+Neural crest requires Impdh2 for development of the
+enteric nervous system, great vessels, and craniofacial
+skeleton. Dev Biol 2016;409:152–165.
+
+16. Brokhman I, Xu J, Coles BLK, Razavi R, Engert S,
+Lickert H, Babona-Pilipos R, Morshead CM, Sibley E,
+Chen C, van der Kooy D. Dual embryonic origin of the
+mammalian enteric nervous system. Dev Biol 2019;
+445:256–270.
+
+17. Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E,
+Mauck WM 3rd, Hao Y, Stoeckius M, Smibert P, Satija R.
+Comprehensive integration of single-cell data. Cell 2019;
+177:1888–1902.e21.
+
+18. Qu Z-D, Thacker M, Castelucci P, Bagyánszki M,
+Epstein ML, Furness JB. Immunohistochemical analysis
+of neuron types in the mouse small intestine. Cell Tissue
+Res 2008;334:147–161.
+
+19. Furness JB, Costa M, Miller RJ. Distribution and pro-
+jections of nerves with enkephalin-like immunoreactivity
+in the guinea-pig small
+intestine. Neuroscience 1983;
+8:653–664.
+
+20. Bornstein JC, Costa M, Furness JB, Lees GM. Electro-
+physiology and enkephalin immunoreactivity of identiﬁed
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1591
+
+myenteric plexus neurones of guinea-pig small intestine.
+J Physiol 1984;351:313–325.
+21. Swaminathan M, Hill-Yardin
+
+JC,
+Foong JPP. Endogenous glutamate excites myenteric
+calbindin neurons by activating group I metabotropic
+glutamate receptors in the mouse colon. Front Neurosci
+2019;13:426.
+
+EL, Bornstein
+
+22. Sang Q, Young HM. The identiﬁcation and chemical
+coding of cholinergic neurons in the small and large in-
+testine of the mouse. Anat Rec 1998;251:185–199.
+23. Heuckeroth RO, Enomoto H, Grider JR, Golden JP,
+Hanke JA, Jackman A, Molliver DC, Bardgett ME,
+Snider WD, Johnson EM Jr, Milbrandt J. Gene targeting
+reveals a critical role for neurturin in the development and
+maintenance of enteric, sensory, and parasympathetic
+neurons. Neuron 1999;22:253–263.
+
+24. Uesaka T, Jain S, Yonemura S, Uchiyama Y, Milbrandt J,
+Enomoto H. Conditional ablation of GFRa1 in post-
+triggers unconventional
+migratory enteric neurons
+neuronal death in the colon and causes a Hirschsprung’s
+disease phenotype. Development 2007;134:2171–2181.
+25. Grider JR, Heuckeroth RO, Kuemmerle JF, Murthy KS.
+Augmentation of the ascending component of the peri-
+staltic reﬂex and substance P release by glial cell line-
+derived neurotrophic factor. Neurogastroenterol Motil
+2010;22:779–786.
+
+26. Smith-Edwards KM, Najjar SA, Edwards BS, Howard MJ,
+Albers KM, Davis BM. Extrinsic primary afferent neurons
+link visceral pain to colon motility through a spinal reﬂex
+in mice. Gastroenterology 2019;157:522–536.e2.
+
+27. López SH, Avetisyan M, Wright CM, Mesbah K, Kelly RG,
+Moon AM, Heuckeroth RO. Loss of Tbx3 in murine neural
+crest reduces enteric glia and causes cleft palate, but
+does not inﬂuence heart development or bowel transit.
+Dev Biol 2018;444(Suppl 1):S337–S351.
+
+28. Lake JI, Heuckeroth RO. Enteric nervous system devel-
+opment: migration, differentiation, and disease. Am J
+Physiol Gastrointest Liver Physiol 2013;305:G1–G24.
+29. Wright CM, Garifallou JP, Schneider S, Mentch HL,
+Kothakapa DR, Maguire BA, Heuckeroth RO. Dlx1/2
+mice have abnormal enteric nervous system function.
+JCI Insight 2020;5:e131494.
+
+30. Hao MM, Bornstein JC, Young HM. Development of
+myenteric cholinergic neurons in ChAT-Cre;R26R-YFP
+mice. J Comp Neurol 2013;521:3358–3370.
+
+31. Bergner AJ, Stamp LA, Gonsalvez DG, Allison MB,
+Olson DP, Myers MG Jr, Anderson CR, Young HM.
+Birthdating of myenteric neuron subtypes in the small in-
+testine of the mouse. J Comp Neurol 2014;522:514–527.
+32. Liu M-T, Kuan Y-H, Wang J, Hen R, Gershon MD. 5-HT4
+receptor-mediated neuroprotection and neurogenesis in
+the enteric nervous system of adult mice. J Neurosci
+2009;29:9683–9699.
+
+33. Obata Y, Castaño Á, Boeing S, Bon-Frauches AC,
+Fung C, Fallesen T, de Agüero MG, Yilmaz B, Lopes R,
+Huseynova A, Horswell S, Maradana MR, Boesmans W,
+Vanden Berghe P, Murray AJ, Stockinger B,
+Macpherson AJ, Pachnis V. Neuronal programming by
+microbiota regulates intestinal physiology. Nature 2020;
+578:284–289.
+
+34. Osterwalder M, Speziale D, Shoukry M, Mohan R,
+Ivanek R, Kohler M, Beisel C, Wen X, Scales SJ,
+Christoffels VM, Visel A, Lopez-Rios J, Zeller R. HAND2
+targets deﬁne a network of transcriptional regulators that
+compartmentalize the early limb bud mesenchyme. Dev
+Cell 2014;31:345–357.
+
+35. Lei J, Howard MJ. Targeted deletion of Hand2 in enteric
+neural precursor cells affects its functions in neuro-
+genesis, neurotransmitter speciﬁcation and ganglio-
+genesis, causing functional aganglionosis. Development
+2011;138:4789–4800.
+
+36. Monteiro CB, Midão L, Rebelo S, Reguenga C, Lima D,
+Monteiro FA. Zinc ﬁnger
+transcription factor Casz1
+expression is regulated by homeodomain transcription
+factor Prrxl1 in embryonic spinal dorsal horn late-born
+excitatory
+2016;
+43:1449–1459.
+
+interneurons.
+
+J Neurosci
+
+Eur
+
+37. Mattar P, Stevanovic M, Nad I, Cayouette M. Casz1
+controls higher-order nuclear organization in rod photo-
+receptors. Proc Natl Acad Sci U S A 2018;
+115:E7987–E7996.
+
+38. Alvarez-Delﬁn K, Morris AC, Snelson CD, Gamse JT,
+Gupta T, Marlow FL, Mullins MC, Burgess HA,
+Granato M, Fadool JM. Tbx2b is required for ultraviolet
+photoreceptor cell speciﬁcation during zebraﬁsh retinal
+development. Proc Natl Acad Sci U S A 2009;
+106:2023–2028.
+
+39. Cho G-S, Park D-S, Choi S-C, Han J-K. Tbx2 regulates
+anterior neural speciﬁcation by repressing FGF signaling
+pathway. Dev Biol 2017;421:183–193.
+
+40. Zhang X, Chen MH, Wu X, Kodani A, Fan J, Doan R,
+Ozawa M, Ma J, Yoshida N, Reiter JF, Black DL,
+Kharchenko PV, Sharp PA, Walsh CA. Cell-type–speciﬁc
+alternative splicing governs cell fate in the developing
+cerebral cortex. Cell 2016;166:1147–1162.e15.
+
+41. Sugitani Y, Nakai S, Minowa O, Nishi M, Jishage K-I,
+Kawano H, Mori K, Ogawa M, Noda T. Brn-1 and Brn-2
+share crucial roles in the production and positioning of
+mouse neocortical neurons. Genes Dev 2002;16:1760–1765.
+42. Snijders Blok L, Kleefstra T, Venselaar H, Maas S,
+Kroes HY, Lachmeijer AMA, van Gassen KLI, Firth HV,
+Tomkins S, Bodek S, Õunap K, Wojcik MH, Cunniff C,
+Bergstrom K, Powis Z, Tang S, Shinde DN, Au C,
+Iglesias AD,
+Izumi K, Leonard J, Abou Tayoun A,
+Baker SW, Tartaglia M, Niceta M, Dentici ML,
+Okamoto N, Miyake N, Matsumoto N, Vitobello A,
+Faivre L, Philippe C, Gilissen C, Wiel L, Pfundt R,
+Deriziotis P, Brunner HG, Fisher SE. De novo variants
+disturbing the transactivation capacity of POU3F3 cause
+a characteristic neurodevelopmental disorder. Am J Hum
+Genet 2019;105:403–412.
+
+43. Dastot-Le Moal F, Wilson M, Mowat D, Collot N,
+Niel F, Goossens M. ZFHX1B mutations in patients
+with Mowat-Wilson syndrome. Hum Mutat 2007;
+28:313–321.
+
+44. Coyle D, Puri P. Hirschsprung’s disease in children with
+Mowat-Wilson syndrome. Pediatr Surg Int 2015;
+31:711–717.
+
+45. Zhang Z, Li Q, Diao M, Liu N, Cheng W, Xiao P, Zou J, Su L,
+Yu K, Wu J, Li L, Jiang Q. Sporadic Hirschsprung disease:
+
+1592
+
+Wright et al
+
+Cellular and Molecular Gastroenterology and Hepatology Vol. 11, No. 5
+
+mutational spectrum and novel candidate genes revealed
+by next-generation sequencing. Sci Rep 2017;7:14796.
+46. Nurgali K, Stebbing MJ, Furness JB. Correlation of
+electrophysiological and morphological characteristics
+of enteric neurons in the mouse colon. J Comp Neurol
+2004;468:112–124.
+
+47. Furness JB, Robbins HL, Xiao J, Stebbing MJ, Nurgali K.
+Projections and chemistry of Dogiel type II neurons in the
+mouse colon. Cell Tissue Res 2004;317:1–12.
+
+48. Mazzuoli G, Schemann M. Multifunctional
+
+rapidly
+adapting mechanosensitive enteric neurons (RAMEN) in
+the myenteric plexus of the guinea pig ileum. J Physiol
+2009;587:4681–4694.
+
+49. Avetisyan M, Wang H, Schill EM, Bery S, Grider JR,
+Hassell JA, Stappenbeck T, Heuckeroth RO. Hepatocyte
+growth factor and MET support mouse enteric nervous
+system development, the peristaltic response, and in-
+testinal epithelial proliferation in response to injury.
+Journal of Neuroscience 2015;35:11543–11558.
+
+50. Morarach K, Memic F, Zeisel A, Hochgerner H,
+Marklund U, Linnarsson S. Single-cell molecular inter-
+rogation of enteric nervous system development. Mech
+Dev 2017;145:S67.
+
+51. Rossi
+
+J, Herzig K-H, Võikar V, Hiltunen PH,
+Segerstråle M, Airaksinen MS. Alimentary tract innerva-
+tion deﬁcits and dysfunction in mice lacking GDNF family
+receptor alpha2. J Clin Invest 2003;112:707–716.
+52. Creedon DJ, Tansey MG, Baloh RH, Osborne PA,
+Lampe PA, Fahrner TJ, Heuckeroth RO, Milbrandt J,
+Johnson EM Jr. Neurturin shares receptors and signal
+transduction pathways with glial cell line-derived neuro-
+trophic factor in sympathetic neurons. Proc Natl Acad
+Sci U S A 1997;94:7018–7023.
+
+53. Baloh RH, Tansey MG, Golden JP, Creedon DJ,
+Heuckeroth RO, Keck CL, Zimonjic DB, Popescu NC,
+Johnson EM Jr, Milbrandt J. TrnR2, a novel receptor that
+mediates neurturin and GDNF signaling through Ret.
+Neuron 1997;18:793–802.
+
+54. Klein RD, Sherman D, Ho WH, Stone D, Bennett GL, Moffat B,
+Vandlen R, Simmons L, Gu Q, Hongo JA, Devaux B,
+Poulsen K, Armanini M, Nozaki C, Asai N, Goddard A,
+Phillips H, Henderson CE, Takahashi M, Rosenthal A. A GPI-
+linked protein that interacts with Ret to form a candidate
+neurturin receptor. Nature 1997;387:717–721.
+
+55. Malin SA, Molliver DC, Koerber HR, Cornuet P, Frye R,
+Albers KM, Davis BM. Glial cell line-derived neurotrophic
+factor family members sensitize nociceptors in vitro and
+produce thermal hyperalgesia in vivo. J Neurosci 2006;
+26:8588–8599.
+
+56. Gianino S, Grider JR, Cresswell J, et al. GDNF availability
+determines enteric neuron number by controlling pre-
+cursor proliferation. Development 2003;130:2187–2198.
+IC, Emerson M,
+Altman DG. Improving bioscience research reporting: the
+ARRIVE guidelines for reporting animal research. Oste-
+oarthritis Cartilage 2012;20:256–260.
+
+57. Kilkenny C, Browne WJ, Cuthill
+
+58. Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C,
+Jha S, Batut P, Chaisson M, Gingeras TR. STAR: ultra-
+fast universal RNA-seq aligner. Bioinformatics 2013;
+29:15–21.
+
+59. Butler A, Hoffman P, Smibert P, Papalexi E, Satija R.
+across
+technologies, and species. Nat
+
+Integrating single-cell
+different conditions,
+Biotechnol 2018;36:411–420.
+
+transcriptomic data
+
+Available
+
+60. Piper M, Pantano L, Mistry M, Khetani R. Single-cell RNA-
+in-depth-NGS-data-analysis-
+seq: clustering analysis.
+course,
+https://hbctraining.github.io/
+at:
+In-depth-NGS-Data-Analysis-Course/sessionIV/lessons/
+SC_clustering_analysis.html. Accessed July 3, 2020.
+61. Dent JA, Polson AG, Klymkowsky MW. A whole-mount
+immunocytochemical analysis of the expression of the
+intermediate ﬁlament protein vimentin in Xenopus.
+Development 1989;105:61–74.
+
+62. Smith-Edwards KM, DeBerry JJ, Saloman JL, Davis BM,
+Woodbury CJ. Profound alteration in cutaneous primary
+afferent activity produced by inﬂammatory mediators.
+Elife 2016;5:e20527.
+
+63. Spencer NJ, Smith TK. Mechanosensory S-neurons
+rather than AH-neurons appear to generate a rhythmic
+motor pattern in guinea-pig distal colon. J Physiol 2004;
+558:577–596.
+
+64. Sang Q, Williamson S, Young HM. Projections of
+chemically identiﬁed myenteric neurons of the small and
+large intestine of the mouse. J Anat 1997;190:209–222.
+65. Branchek TA, Gershon MD. Time course of expression of
+neuropeptide Y, calcitonin gene-related peptide, and
+NADPH diaphorase activity in neurons of the developing
+5-
+the
+murine
+hydroxytryptamine in mucosal enterochromafﬁn cells.
+J Comp Neurol 1989;285:262–273.
+
+appearance
+
+bowel
+
+and
+
+of
+
+66. Jin Z, Liu L, Bian W, Chen Y, Xu G, Cheng L, Jing N.
+Different
+transcription factors regulate nestin gene
+expression during P19 cell neural differentiation and
+central nervous system development. J Biol Chem 2009;
+284:8160–8173.
+
+67. Ngan ES-W, Garcia-Barceló M-M, Yip BH-K, Poon H-C,
+Lau S-T, Kwok CK-M, Sat E, Sham M-H, Wong KK-Y,
+Wainwright BJ, Cherny SS, Hui C-C, Sham PC, Lui VC-
+H, Tam PK-H. Hedgehog/Notch-induced premature
+gliogenesis represents a new disease mechanism for
+Hirschsprung disease in mice and humans. J Clin Invest
+2011;121:3467–3478.
+
+68. Liu Z, Zhang X, Lei H, Lam N, Carter S, Yockey O, Xu M,
+Mendoza A, Hernandez ER, Wei JS, Khan J, Yohe ME,
+Shern JF, Thiele CJ. CASZ1 induces skeletal muscle and
+rhabdomyosarcoma differentiation through a feed-
+forward loop with MYOD and MYOG. Nat Commun
+2020;11:911.
+
+69. Gehman LT, Stoilov P, Maguire J, Damianov A, Lin C-H,
+Shiue L, Ares M Jr, Mody I, Black DL. The splicing
+regulator Rbfox1 (A2BP1) controls neuronal excitation in
+the mammalian brain. Nat Genet 2011;43:706–711.
+
+Received September 23, 2020. Accepted December 30, 2020.
+
+Correspondence
+Address correspondence to: Robert O. Heuckeroth, MD, PhD, The Children’s
+Hospital of Philadelphia Research Institute, Perelman School of Medicine at
+the University of Pennsylvania, Abramson Research Center, Suite 1116I,
+3615 Civic Center Boulevard, Philadelphia, Pennsylvania 19104-4318. e-mail:
+heuckerothr@chop.edu; fax: (215) 590-3324.
+
+2021
+
+New Enteric Nervous System Roles for GDNF, NRTN, and TBX3 1593
+
+Acknowledgments
+The authors thank Dr Emma Furth, Dr Federico Valdivieso, Dr Michael Feldman,
+Dr Ali Naji, Rachel H. Céron, Silvia Huerta López, Caitlin Feltcher, Andrew
+Kromer, Lauren Schmucker, and Jennifer Finan for help acquiring human
+tissue. The authors also thank Scott Gianino for POU3F3 initial studies.
+
+CRediT Authorship Contributions
+
+Christina M. Wright, PhD (Conceptualization: Lead; Data curation: Lead;
+Investigation: Lead;
+Formal analysis: Lead; Funding acquisition: Lead;
+Methodology: Lead; Validation: Lead; Visualization: Lead; Writing – original
+draft: Lead; Writing – review & editing: Lead)
+
+Sabine Schneider, BS (Conceptualization: Lead; Data curation: Lead; Formal
+analysis: Lead;
+Investigation: Lead; Methodology: Lead; Validation: Lead;
+Visualization: Lead; Writing – original draft: Lead; Writing – review & editing:
+Lead)
+
+Kristen M. Smith-Edwards, PhD (Conceptualization: Supporting; Data
+curation: Supporting; Formal analysis: Supporting; Funding acquisition:
+Supporting; Investigation: Supporting; Methodology: Supporting; Validation:
+Supporting; Visualization: Supporting; Writing – original draft: Supporting;
+Writing – review & editing: Supporting)
+
+Fernanda Mafra, MS PhD (Investigation: Supporting; Methodology:
+
+Supporting; Writing – review & editing: Supporting)
+
+Anita
+
+Leembruggen, MBiomedSci
+Methodology: Supporting; Writing – review & editing: Supporting)
+
+J.L.
+
+(Investigation: Supporting;
+
+Michael V. Gonzalez, BS (Data curation: Supporting; Formal analysis:
+Investigation: Supporting; Methodology: Supporting; Writing –
+
+Supporting;
+review & editing: Supporting)
+
+Deepika R. Kothakapa, BS Candidate
+
+(Investigation: Supporting;
+
+Methodology: Supporting; Writing – review & editing: Supporting)
+
+Jessica B. Anderson, BA Candidate
+
+(Investigation: Supporting;
+
+Methodology: Supporting; Writing – review & editing: Supporting)
+
+Beth A. Maguire, BS (Investigation: Supporting; Methodology: Supporting;
+
+Writing – review & editing: Supporting)
+
+Tao Gao, PhD (Investigation: Supporting; Methodology: Supporting; Writing
+
+– review & editing: Supporting)
+
+Tricia A. Missall, MD PhD (Investigation: Supporting; Methodology:
+
+Supporting; Writing – review & editing: Supporting)
+
+Marthe J. Howard, PhD (Conceptualization: Supporting; Funding acquisition:
+Investigation: Supporting; Methodology: Supporting; Writing –
+
+Supporting;
+review & editing: Supporting)
+
+Joel C. Bornstein, PhD (Conceptualization: Supporting;
+
+Investigation:
+Supporting; Methodology: Supporting; Writing – review & editing: Supporting)
+Brian M. Davis, PhD (Conceptualization: Supporting; Funding acquisition:
+Investigation: Supporting; Methodology: Supporting; Writing –
+
+Supporting;
+review & editing: Supporting)
+
+Robert O. Heuckeroth, MD PhD (Conceptualization: Lead; Data curation:
+Lead; Formal analysis: Lead; Funding acquisition: Lead; Investigation: Lead;
+administration: Lead; Resources: Lead;
+Methodology: Lead; Project
+Supervision: Lead; Validation: Lead; Visualization: Lead; Writing – original
+draft: Lead; Writing – review & editing: Lead)
+
+Conﬂicts of Interest
+This author discloses the following: Robert O. Heuckeroth is a consultant for
+BlueRock Therapeutics and has served on a scientiﬁc advisory board for
+Takeda. The remaining authors disclose no conﬂicts.
+
+Funding
+This work was supported by the Irma and Norman Braman Endowment; the
+Children’s Hospital of Philadelphia Research Institute; the Suzi and Scott
+Institutes of Health grants 5 F30
+Lustgarten Center Endowment; National
+DK117546-02 (to Christina M. Wright), F32 DK120115 (to Kristen M.
+Smith-Edwards), and R01DK122798 (PI: Brian Davis; co-PIs: Robert
+Institutes of Health SPARC
+Heuckeroth, Marthe Howard); and National
+(Stimulating
+program
+to
+OT2OD023859 (PI: Marthe Howard; co-PIs: Robert Heuckeroth, Brian
+Davis, Joel Bornstein).
+
+Conditions)
+
+Peripheral
+
+Activity
+
+Relieve
+
+

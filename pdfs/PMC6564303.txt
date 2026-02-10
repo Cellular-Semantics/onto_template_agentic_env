@@ -1,0 +1,1641 @@
+0270.6474/82/0202-0169$02.00/0 
+Copyright 
+Printed 
+
+in  U.S.A. 
+
+0  Society 
+
+for  Neuroscience 
+
+The 
+
+Journal 
+Vol. 
+
+of  Neuroscience 
+2.  No.  2.  pp.  169-iii 
+February 
+
+1982 
+
+SUBSTANCE 
+DISSOCIATED 
+AND  DORSAL 
+
+P-LIKE 
+
+IMMUNOREACTIVITY 
+
+IN  NEURONS 
+
+IN 
+
+CELL  CULTURES 
+ROOT  GANGLIA1 
+
+OF  MAMMALIAN 
+
+SPINAL 
+
+CORD 
+
+ELAINE 
+
+A.  NEALE,2 
+
+ELIZABETH 
+
+MATTHEW,* 
+
+EARL 
+
+A.  ZIMMERMAN,* 
+
+AND  PHILLIP 
+
+G.  NELSON 
+
+Laboratory 
+
+of Developmental 
+of  Health,  Bethesda,  Maryland 
+
+Neurobiology, 
+
+National 
+
+Institute 
+
+of  Child  Health 
+
+and  Human  Development, 
+
+National 
+
+Institutes 
+
+20205  and 
+
+*Department 
+
+of  Neurology, 
+
+College  of  Physicians 
+
+and  Surgeons,  Columbia 
+
+University,  New  York,  New  York  10032 
+
+Received 
+
+June 
+
+22,  1981;  Revised 
+
+October 
+
+9,  1981;  Accepted 
+
+October 
+
+9,  1981 
+
+Abstract 
+
+Dissociated  cell  cultures  prepared  from  fetal  mouse  spinal  cords  and  dorsal  root  ganglia  were 
+stained  for  endogenous  substance  P  using  the  peroxidase-antiperoxidase 
+technique.  Substance  P- 
+like  immunoreactivity  was  localized  within  a  small  percentage  of  rounded  or  multipolar  neuronal 
+somata  and  in  varicose  processes. The  substance  P-positive  multipolar  neurons  were  derived  from 
+spinal  cord,  while  the  small  rounded  neurons  were  possibly  of  spinal  cord  and/or  sensory  ganglion 
+origin.  Large  dorsal  root  ganglion  neurons  were  unreactive. 
+
+These  results  are  consistent  with  in  viva  findings  and  indicate  the  feasibility  of  electrophysiologic 
+studies in  culture  to  analyze  the  synaptic  connections  between  substance  P  neurons  and  their  target 
+cells. 
+
+The  undecapeptide,  substance  P, has been localized  by 
+immunocytochemistry 
+in  neuronal  somata  in  spinal  sen- 
+sory  ganglia  (Hiikfelt  et  al.,  1975a, b,  1976) and  in  occa- 
+sional  cell  bodies in  the  dorsal  spinal  cord  (Hijkfelt  et  al., 
+1977; Ljungdahl  et  al.,  1978). Immunoreactive 
+fibers  are 
+found  in  spinal  cord  laminae  containing  sensory  fibers 
+(Hokfelt  et  al.,  1975a,  b).  This 
+and  their 
+in  the  spinal  cord  in  the 
+peptide  is believed  to  function 
+related  to  nociception 
+processing of  sensory  information 
+(Henry,  1976;  Henry  et  al.,  1980;  Randid  and  Miletid, 
+1977). 
+
+terminations 
+
+In  the  present  study,  neurons  of  the  fetal  mouse spinal 
+cord  (SC)  and  dorsal  root  ganglia  (DRG),  maintained  in 
+dissociated  cell  culture,  were  examined  for  immunoreac- 
+tivity 
+to 
+determine  whether  substance P-containing  neurons  were 
+present  in  SC-DRG  cultures  and,  if  so, to  define  which 
+morphologic  features  might  distinguish  them.  The  SC- 
+
+to  substance  P.  This  study  was  undertaken 
+
+’  We  are  grateful 
+
+to  Dr.  Susan 
+
+Leeman 
+
+generously 
+
+providing 
+
+against 
+
+substance 
+
+P,  to  Sandra 
+
+to  Dr.  Gajanan 
+
+to  Linda 
+
+Bowers 
+
+Guroff 
+
+for 
+
+for  providing 
+
+Nilaver 
+Neal 
+and  Steven 
+his  gift  of  NGF, 
+
+for  photographic 
+to  Dr. 
+and 
+
+Joseph 
+
+printing, 
+Neale 
+
+for 
+Fitzgerald 
+
+for  preparing 
+peroxidase-antiperoxi- 
+
+the 
+
+to 
+for 
+
+on 
+
+the  manuscript. 
+
+correspondence 
+
+should 
+
+be  addressed 
+
+at  Building 
+
+36, 
+
+antiserum 
+cultures, 
+dase, 
+Dr.  Gordon 
+helpful 
+‘To 
+
+Room 
+Institute 
+of  Health, 
+
+comments 
+whom 
+2A21, 
+
+Laboratory 
+of  Child  Health 
+
+Bethesda, 
+
+MD 
+
+of  Developmental 
+
+Neurobiology, 
+
+and  Human 
+20205. 
+
+Development, 
+
+National 
+
+National 
+Institutes 
+
+169 
+
+DRG  cell  cultures,  showing  essentially  two-dimensional 
+anatomy,  have  been  used  effectively 
+for  electrophysio- 
+logic  studies  of  synaptically  connected  cells  (Macdonald 
+and  Nelson,  1978;  Nelson  et  al.,  1977;  Ransom  et  al., 
+1977a, b)  and  for  detailed  analyses  of  the  morphology 
+and  synaptic  relationships  of  physiologically  studied  and 
+labeled  neurons  (E.  A.  Neale  et  al.,  1978; 
+selectively 
+Nelson  et  al.,  1978). The  ability 
+to  identify  substance  P 
+neurons  in  cultures  would  allow  further  analyses of  (a) 
+electrophysiologic  characteristics  of  the  substance P neu- 
+ron,  (b)  synaptic  relationships  with  other  peptide-con- 
+taining  neurons,  and  (c)  possible coexistence  of substance 
+P  with  a  particular  neurotransmitter  and/or  an  addi- 
+tional  peptide. 
+
+Materials  and  Methods 
+
+Tissue  cultures.  Dissociated  cell  cultures  were  pre- 
+pared  from  13-  to  15-day  fetal  mouse  spinal  cords  and 
+dorsal  root  ganglia  as previously  described  (Ransom  et 
+al.,  1977c). For  immunocytochemistry, 
+cultures  grown  in 
+35-mm  plastic  culture  dishes  were  used  routinely,  al- 
+though,  occasionally,  cultures  grown  on  glass coverslips 
+were  stained.  Fifteen  cultures, 
+four  dissections, 
+ranging  in  age  from  5  to  12 weeks,  were  treated  with 
+nerve  growth  factor  (2.5  S NGF  at  a final  concentration 
+of  40 rig/ml) 
+two 
+rinses in  0.1 M  sodium  phosphate  buffer,  pH  7.3, cultures 
+were  fixed  for  90 min  at  room  temperature  with  freshly 
+
+for  at  least  3 days  prior  to  study.  After 
+
+from 
+
+170 
+
+Neale  et  al. 
+
+Vol.  2,  No.  2,  Feb. 1982 
+
+prepared  4% paraformaldehyde 
+7.3. Following  fixation, 
+stored  refrigerated 
+
+in  phosphate  buffer,  pH 
+the  cultures  were  rinsed  with  and 
+
+in  phosphate-buffered  saline  (PBS). 
+
+Immunocytochemistry. 
+
+Fixed  cultures  were  treated 
+
+with  two  changes (5 min  each)  of  PBS  containing  0.125% 
+Triton  X-100.  The  cultures  then  were reacted  with  rabbit 
+antiserum  to  substance  P  (RDsL-Leeman)  diluted  1:lOOO 
+for  13 to  19 hr  at  4°C  in  a  moist  chamber,  after  which, 
+they  were  reacted  sequentially  with  sheep antiserum  to 
+rabbit  y-globulin 
+(1: 100)  and  rabbit  peroxidase-antiper- 
+oxidase  complexes  (Sternberger,  1979) at  a 1:400 dilution 
+as previously  described  (Zimmerman  and Antunes,  1976) 
+for  periods  of  90 min  each.  All  antisera  were  diluted  with 
+PBS  containing  0.25% Triton  X-100.  The  cultures  were 
+washed  between  each  step  with  PBS  containing  0.125% 
+Triton  X-100.  Reaction  products  were  formed  with  a 
+solution  of  the  tetrahydrochloride 
+dine  (0.5  mg/ml) 
+0.01% H202. 
+
+of  3,3’-diaminobenzi- 
+in  Tris-HCI  buffer,  pH  7.6, containing 
+
+As  controls  for  staining  specificity,  cultures  from  each 
+experiment  were  reacted  for  22  hr  at  4°C  with  specific 
+antiserum  (1:lOOO)  containing  1  to  10  pg  of  synthetic 
+substance  P  (Immuno  Nuclear  Corp.,  Stillwater,  MN) 
+per  ml.  After 
+the  immunoperoxidase  reaction  was com- 
+plete,  the  cultures  were  osmicated,  dehydrated,  and  em- 
+bedded  in  Epon  for  convenient  storage. 
+
+Results 
+
+Dissociated  cell  cultures,  prepared  from  fetal  mouse 
+spinal  cords  and  dorsal  root  ganglia  and  maintained 
+for 
+more  than  4  weeks,  were  stained  for  substance  P-like 
+immunoreactivity.  Substance  P  was detected  in  cultures 
+fixed  by  several  methods,  although  the  initial  fixation 
+in 
+freshly  prepared  4% paraformaldehyde  yielded  optimal 
+cell  preservation,  strong  staining,  low  background,  and 
+minimum  contamination  with  nonspecific  precipitates. 
+Antiserum  was tested  at  several  concentrations;  a 1:lOOO 
+dilution  yielded  distinct  staining  with 
+low  background. 
+in  cultures  treated  with 
+There  was no  immunoreactivity 
+antiserum  preabsorbed  with  synthetic  substance  P  at  1 
+pg/ml  or  in  cultures  treated  with  normal  rabbit  serum 
+(1:lOOO). 
+
+The  general  morphology  of  the  neurons  in  “mature” 
+SC-DRG  cultures  has been described  (Nelson  et al.,  1981; 
+Ransom  et  al.,  1977c). Briefly,  one large  (-40-pm-diam- 
+eter)  bulbous  cell  type  was identified  unequivocally  by 
+electrophysiologic  and  morphologic  criteria  as  a  DRG 
+cells  in 
+neuron.  Large  (>30-pm-diameter)  multipolar 
+which  spontaneous  excitatory  and  inhibitory 
+synaptic 
+activity  was  recorded  were  assumed to  be  SC  neurons. 
+The  remainder  of the  neurons  were  small and multipolar, 
+presumably  derived  from  SC,  or  were  small  and  rounded 
+and  could  have  originated  from  either  SC  or  DRG.  Cul- 
+tures  prepared  from  DRG  alone and  grown  in  the  contin- 
+uous  presence  of  NGF  contained 
+large  neurons  with 
+round  somata  of  rather  uniform  size;  no  multipolar  neu- 
+rons were  found  in  these  “pure”  DRG  cultures.  Cultures 
+prepared 
+the  DRGs  were 
+removed  and  regardless  of  whether  NGF  were  present 
+contained  all  of  the  cell types  mentioned  except  the  large 
+bulbous  neuron. 
+
+from  SC  tissue  from  which 
+
+These  SC-DRG  cell  cultures  were  strongly 
+
+immuno- 
+for  substance  P  and  staining  was  observed  in 
+
+reactive 
+
+both  cell  bodies and  in  neuronal  processes (Fig.  1). Non- 
+cells  were  clearly  nonreactive. 
+neuronal  “background” 
+Staining  was  detected  most  easily  when  preparations 
+were  viewed  with  dark-field  optics  (Fig.  1B)  although 
+morphologic  details  were  best  studied  using  bright-field 
+and  phase contrast  microscopy. 
+
+A  frequent  staining  pattern  was  that  of  an  isolated 
+network  of  beaded  processes with  no stained  cell body  in 
+evidence.  A  small  percentage  of  neuronal  somata  were 
+clearly  stained,  however,  and  these  cells fell  into  one  of 
+three  morphologic  types.  The  most  commonly  occurring 
+neuronal  soma that  displayed  substance P-like  immuno- 
+reactivity  was densely  stained,  small  (-20  pm  diameter), 
+and  rounded  and  associated  with  a  complex  of  delicate 
+beaded  processes which  could  not,  however,  be  traced 
+to  a  point  of  emergence  from  the  soma 
+unambiguously 
+(Figs.  2A  and  3,  A  to  E).  A  second  stained  cell  type 
+closely  resembled  the  small round  cell  in  size, shape, and 
+dense  uniform  stain,  although  several  processes were 
+seen clearly  to  emanate  from  the  soma (Fig.  3, F  to  I).  A 
+third  cell  type,  the  least  frequently  seen,  was  the  dis- 
+tinctly  multipolar  neuron  (Figs.  4B  and  5)  ranging  in 
+diameter 
+to  30  pm  and  with  up  to  seven 
+emerging  cell  processes.  The  brown  reaction  product 
+these  somata  appeared  perinuclear  and  punctate 
+within 
+and  paler  than  that  in  the  small  round  cells. Because of 
+their  multipolar  morphology, 
+the  second  and  third 
+stained  cell  types  are  most  probably  SC  neurons.  On 
+to  classify 
+morphologic  criteria  alone, it  would  be difficult 
+the  first  cell  type  as either  SC  or  DRG.  However,  large 
+DRG  neurons  clearly  were  not  immunoreactive 
+for  sub- 
+stance  P  (Fig.  3C,  arrow)  and  typically  were  devoid  of 
+contacts  by  stained  processes. 
+
+from  -15 
+
+Generally,  all  processes emerging  from  a  given  cell 
+were  equivalently  stained;  staining  was not  distinctive 
+to 
+one process that  might  be identified  as the  axon.  Immu- 
+noreactive  processes were  unfailingly  varicose  (Fig.  6A ) 
+and  easily  discriminated 
+from  the  unstained  processes 
+with  which  they  were  associated (Fig.  6C).  Relationships 
+between  stained  and unstained  cells ranged from  contacts 
+comprised  of  only  a  few  stained  swellings  (Fig.  4C)  to 
+rather  heavy 
+in  which  unstained  neuronal 
+somata  were  enclosed  by  “baskets”  of  stained  processes 
+(Figs.  2B  and  6B).  Apparent  autaptic  contacts  between 
+a neuron  and  a branch  of  its  own  axon  (van  der  Loos and 
+Glaser,  1972) were  seen occasionally  (Figs. 4B  and  50). 
+
+investments 
+
+Discussion 
+
+There  are  a number  of  issues involved 
+
+in  the  identifi- 
+cation  of  the  neurons  showing  substance  P-like  immu- 
+noreactivity 
+
+in  dissociated  SC-DRG  cell  cultures. 
+
+Reactive  somata  comprised  a  small  percentage  (less 
+total  neuronal  population.  Of  those 
+
+than  5%)  of  the 
+neurons  with  reaction  product  in the  cell body,  a minority 
+showed  the  characteristic  morphology  of  multipolar  SC 
+neurons.  That  substance  P-like  immunoreactivity  was 
+in  SC  neurons  is  consistent  with  reports 
+demonstrated 
+that  cell  bodies  in  intact  SC  (laminae  I  to  V)  could  be 
+stained  after  local  injection  of  colchicine  (Hokfelt  et  al., 
+1977; Ljungdahl  et al.,  1978). Colchicine  treatment  of  SC- 
+DRG  cultures  did  not  appear  to  increase  the  frequency 
+of  stained  neurons.  Similarly,  colchicine  was not  greatly 
+in  increasing  either  the  intensity  or  frequency 
+effective 
+
+The  Journal  of  Neuroscience 
+
+Substance 
+
+P  Immunoreactivity 
+
+in  Neuronal 
+
+Cell  Cultures 
+
+Figure  1.3 A  neuronal 
+neuronal 
+
+processes 
+
+network 
+
+photographed 
+
+using  bright-field 
+
+course  among  nonreactive 
+
+neurons. 
+
+(A)  and  dark-field 
+An 
+
+immunoreactive 
+
+by  the  arrow  in  A.  Selected 
+
+areas  of  this 
+
+field  are  shown  at  higher  magnification 
+
+(B)  optics.  Positively 
+
+neuronal 
+
+soma 
+is 
+in  Figure  2. 
+
+stained 
+indicated 
+Magnification 
+
+x  120. 
+
+cell  bodies 
+
+of immunofluorescent 
+ganglia  stained 
+The  majority 
+
+for  substance  P  (Schultzberg 
+of  stained  neuronal 
+
+in  cultured  chick  spinal 
+et  al.,  1978). 
+somata  were  small 
+to  the  small 
+
+correspond 
+
+and  rounded.  Such  cells  might 
+
+‘Figures 
+
+1  to  6  are  photomicrographs 
+
+of  dissociated 
+
+cell  cultures 
+
+from  fetal  mouse  spinal  cords  and  dorsal  root  ganglia  and 
+
+prepared 
+maintained 
+for  substance 
+noted) 
+where 
+substance 
+against 
+
+for  at 
+
+least  4  weeks 
+
+prior 
+
+to 
+
+immunocytochemical 
+
+P.  Cultures 
+and 
+
+were 
+reacted 
+with 
+P  and  made 
+
+fiied  with  4%  paraformaldehyde 
+a  1:1006 
+visible 
+
+of  antiserum 
+the  peroxidase-antiperoxi- 
+
+dilution 
+
+with 
+
+reaction 
+(except 
+directed 
+
+(H&felt 
+
+neurons  of  the 
+
+substance  P-containing 
+
+represent 
+continuously 
+
+et  al.,  1975a,  b,  1976)  or,  alternatively, 
+
+diameter 
+DRG 
+they  might 
+intrinsic  SC  neurons.  Pure  DRG 
+cultures, 
+treated  with  NGF  and  reacted 
+for  substance  P,  showed  staining 
+immunocytochemically 
+of  neuronal  processes  which  did  not  occur  with  substance 
+P-absorbed  antiserum 
+and  an  apparent  nonspecific  stain- 
+somata  which  persisted  after  reaction 
+ing  of  neuronal 
+
+intact 
+
+dase 
+before 
+
+technique. 
+
+The 
+photomicrography. 
+
+cultures 
+
+were 
+
+osmicated 
+
+and  embedded 
+
+in  Epon 
+
+172 
+
+Neale  et  al. 
+
+Vol. 2, No. 2, Feb. 1982 
+
+I 
+
+Figure  2.  Neuronal 
+
+soma  and  processes  showing 
+
+substance  P-like 
+
+cell  body 
+focal  planes 
+
+densely  stained 
+shown 
+two 
+in 
+association 
+“bright.” 
+surfaces  of  other  smaller  neurons 
+contrast 
+
+optics.  Magnification 
+
+with  unstained 
+
+Varicose 
+
+processes  are  wrapped 
+visible 
+
+using  bright-field 
+neurons.  With 
+
+X  800. 
+
+is  one  among  a  cluster  of  similar, 
+
+nonreactive, 
+though 
+optics.  BI  to  B*,  Immunoreactive 
+
+phase  contrast 
+around 
+
+optics, 
+a  large  neuronal 
+
+the 
+larger 
+soma,  and 
+
+stained 
+labeled 
+
+in  the  field.  Both  are  shown 
+
+in  several 
+
+immunoreactivity. 
+
+rounded 
+
+neurites 
+
+AI  and  AZ, The 
+is 
+somata  and 
+in  close 
+appear 
+the 
+focal  planes  using  phase 
+
+lie 
+varicosities 
+swellings 
+
+stud 
+
+the  absorbed  antiserum 
+
+with 
+E.  A.  Zimmerman, 
+The  specific  reactivity 
+be  characteristic 
+cultures. 
+tained 
+obtained 
+
+It 
+from 
+
+and  P.  G.  Nelson,  unpublished 
+
+(E.  A.  Neale,  E.  Matthew, 
+data). 
+of processes  and  not  somata  might 
+in  mixed  SC-DRG 
+
+of  DRG  neurons 
+
+is  difficult 
+
+to  correlate 
+the  mixed  SC-DRG 
+
+the  observations 
+cultures  with 
+
+ob- 
+those 
+
+in  cultures  of  DRG  alone.  The  small 
+
+immuno- 
+
+in 
+
+cells 
+
+reflect  DRG 
+cultures  may 
+the  mixed 
+reactive 
+had  been  influenced  by  co- 
+neurons  whose  differentiation 
+culture  with  SC  elements. 
+of 
+large  DRG  cells  in  pure  cultures  of  sensory  neurons  may 
+reflect 
+from  SC  cells  as 
+well  as  continuous 
+The  neurons 
+
+influences 
+treatment  with  NGF. 
+
+in  culture  generally  showed  staining  of all 
+
+the  absence  of  trophic 
+
+the  morphology 
+
+In  contrast, 
+
+The  Journal  of  Neuroscience 
+
+Substance 
+
+P  Immunoreactivity 
+
+in  Neuronal 
+
+Cell  Cultures 
+
+173 
+
+from  a  reactive 
+
+neurites  emerging 
+staining  might  be  explained, 
+by  the  synthesis 
+transport 
+Although 
+stance  P-containing 
+distribution 
+dendritic 
+
+of  substance 
+
+P 
+
+in 
+
+soma.  This  neurite 
+in  the  case of  DRG  neurons, 
+and 
+processes. 
+sub- 
+a 
+
+analyses  of  intrinsic 
+
+cell  body 
+
+the 
+
+SC  neurons  are  not  available, 
+of  substance  P  in  central  neurons 
+
+along  both  central  and  peripheral 
+detailed  morphologic 
+
+neurons 
+
+Frequently, 
+
+(Chan-Palay, 
+
+1979)  and  is  similar 
+
+has  been  noted 
+seen  in  the  small  multipolar 
+
+to  that 
+in  SC-DRG  cultures. 
+fiber  networks 
+of 
+beaded  processes  without  as- 
+strongly 
+the  stated  re- 
+sociated  stained  somata  were  seen  under 
+lack  of  somatic  staining  might  be 
+action  conditions.  The 
+explained  by  the  presence  of  a  precursor  molecule  whose 
+
+extensive  and  intricate 
+
+immunoreactive 
+
+Figure  3.  Morphologic 
+
+magnification 
+stained 
+rounded 
+dorsal 
+root  ganglion 
+stained 
+Positively 
+emerge.  Bright-field 
+
+variation 
+view  of  closely  packed  neurons, 
+somata, 
+
+neuronal 
+
+among  neurons 
+
+-20  pm  in  diameter, 
+
+displaying 
+two  of  which 
+
+immunoreactivity 
+
+for  substance  P.  A,  Low 
+reactivity.  B  to  E,  Positively 
+associated  with  delicate  beaded  processes.  Large 
+
+show  positive 
+
+neurons, 
+
+somata,  generally 
+
+such  as  that  shown 
+rounded 
+
+in  form,  but 
+
+optics  were  used.  Magnification: 
+
+in  C  (arrow),  are  consistently 
+
+from  which 
+A,  x  120;  B to  1,  x  320. 
+
+several  stained 
+
+unstained. 
+
+F  to  I, 
+processes  clearly 
+
+Neale  et  al. 
+
+Vol.  2, No.  2, Feb.  1982 
+
+Figure  4.  A  field  of  neurons in  a culture  stained for  substance P. A,  Low  magnification  view  of  an 
+immunoreactive multipolar  neuron (arrow)  and its processes. Portions of this field  are shown at  higher 
+magnification in B to D. B, The stained soma, lying  adjacent to another unstained neuron, exhibits a pale, 
+diffuse reaction.  The beaded processes are stained more intensely than the  soma and frequently  appear 
+to impinge upon the soma from which  they  originated, suggestive of autaptic  contacts. C and D, Several 
+nonreactive neurons in close association with  positively  stained varicose fibers. Phase contrast optics were 
+used for B  to  D. Magnification:  A,  x  120; B  to  D, x  800. 
+
+reactive  sites are  not  exposed  until  later  steps in  molec-  arations  may  correspond  to  conventional  chemical  syn- 
+(Hokfelt  et  al.,  1975b)  which  occurs  aptic  boutons  or perhaps  to  sites of  accumulation  and/or 
+ular  “processing” 
+release  of  neuropeptides  (see Barber  et  al.,  1979),  it  is 
+along  neurites  (Gainer  et  al.,  1977) or,  alternatively,  by  a 
+also likely  that  many  of  the  varicosities  are “induced”  by 
+relatively 
+rapid  synthesis  and  transport  away  from  the 
+reaction.  The 
+some  aspect  of  the  immunocytochemical 
+cell  body  (Hokfelt  et  al.,  1975b). 
+disposition  of  labeled  swellings in  Figure  4C is suggestive 
+
+While  some of  the  varicosities  observed  in  these  prep- 
+
+The  Journal  of  Neuroscience 
+
+Substance  P  Immunoreactivity 
+
+in  Neuronal  Cell  Cultures 
+
+along 
+
+intercellular 
+
+Labeled  swellings 
+
+of  specific 
+contacts. 
+processes  showing  similar  associations  with  nonreactive 
+neural  elements  were  seen  when  selected  neurons  were 
+injected  with  horseradish  peroxidase 
+(E.  A.  Neale 
+et  al.,  1978;  Nelson  et  al.,  1978).  Such  swellings  exhibited 
+the  ultrastructural 
+corroborated 
+connectivity 
+injected  neurons  were 
+
+synapses  and 
+criteria 
+the  electrophysiologic 
+findings  of  synaptic 
+between  pairs  of studied  neurons.  The  HRP- 
+di- 
+
+large  cells  with 
+
+for  chemical 
+
+long,  uniform 
+
+(HRP) 
+
+axonal  processes  and  nonbeaded 
+
+ameter 
+contrast,  neurons  stained 
+tivity  were  small  and  showed  beading 
+processes. 
+occasionally 
+C,  beading  appears  exaggerated 
+neurites,  whereas  nonreactive 
+smooth  contours.  Neither  paraformaldehyde 
+HRP 
+
+Some  swellings  were  quite 
+appeared  unconnected. 
+
+histochemistry 
+
+in  the 
+
+alone 
+
+of  all 
+
+labeled 
+large  (Fig.  31)  and 
+In  Figure  6,  A  and 
+immunoreactive 
+
+processes  show  relatively 
+
+fixation  nor 
+
+induced  beading.  Although 
+
+for  substance  P  immunoreac- 
+
+175 
+
+dendrites. 
+
+In 
+
+Figure  5. Substance  P-like 
+
+that  are  distinctly  multipolar  and 
+range  in  soma  diameter 
+in  Figure  3, the  staining  is  pale,  the 
+reaction  product  appears  somewhat  granular,  and  nuclei  are  seen  as  unstained.  A,  C, E,  and  F  were  fixed 
+initially 
+
+in  Bouin’s  solution.  Phase  contrast  optics  were  used.  Magnification 
+
+immunoreactivity 
+from  -15  to  30 pm.  Relative 
+
+to  that  shown 
+
+in  neurons 
+
+expressed 
+
+x  800. 
+
+176 
+
+Neale et al. 
+
+Vol. 2, No. 2, Feb. 1982 
+
+Figure  6. Positively  stained neuronal processes. A,  Stained neurites are clearly varicose and frequently 
+are seen closely applied to nonreactive processes (arrom).  The swellings vary  in size and usually are seen 
+to  be connected by  fine  strands. BI  to  Bp, Stained processes encrust nonreactive  neural elements. C, 
+Although  stained and  unstained processes intermingle,  the  two  are  easily discriminated. D,  and Dz, 
+Stained neurites course through  a cluster of  neuronal somata. For  A  to  C, phase contrast  optics were 
+used; for  D, bright-field  optics were used. Magnification  x  800. 
+
+this  degree  of  beading  might  be  characteristic  of  sub- 
+stance  P  neurons,  it  is  also possible that  some aspect  of 
+has  exaggerated  or  even  in- 
+the  immunocytochemistry 
+duced  the  varicosities. 
+
+Dissociated  neuronal  cell  cultures  provide  an  oppor- 
+tune  system  for  the  study  of morphologic,  pharmacologic, 
+and  electrophysiologic  aspects of  neuronal  function,  and 
+immunocytochemical  analysis  might 
+it  was  hoped  that 
+
+The  Journal 
+
+of  Neuroscience 
+
+Substance  P  Immunoreactivity 
+
+in  Neuronal 
+
+Cell  Cultures 
+
+177 
+
+a  useful  morphologic  marker  for  pre-selection  of 
+provide 
+specific  peptide-containing  cells.  However,  with  the  ex- 
+ception  of  their  generally  small  size,  it  was not  possible 
+the  substance  P  neurons  unequivocally. 
+to  characterize 
+Nonetheless,  these  in  situ  immunocytochemical 
+tech- 
+niques allow  initial  electrophysiologic  analysis  of selected 
+small neurons to  be followed  by  subsequent  identification 
+of  substance P cells. The  enrichment  of  cultures  for  small 
+neurons  (Schnaar  and  Schaffner,  1981) ultimately  could 
+increase  the  possibilities  for  study  of  substance  P  neu- 
+ronal  physiology. 
+
+Neurons  in  dissociated  SC-DRG  cell  cultures  contain 
+a  variety  of  neuropeptides  (Matthew  et  al.,  1979; J.  H. 
+Neale  et  al.,  1978; Nelson  et  al.,  1980). The  anatomical 
+resolution  inherent  to  the  culture  system  is most  advan- 
+tageous for  sequential  or double  label  staining  procedures 
+to  study 
+relationship 
+the 
+peptides  or  transmitters 
+
+(Hokfelt  et  al.,  1980a, b). 
+
+of  substance 
+
+P  with 
+
+other 
+
+system  of  the  rat.  I.  Cell  bodies  and  nerve 
+science  3:  861-943. 
+
+terminals.  Neuro- 
+
+Macdonald, 
+induced 
+ganglion 
+
+R.  L.,  and  P.  G.  Nelson 
+
+(1978)  Specific-opiate- 
+
+depression 
+cells  in  culture.  Science  199:  1449-1451. 
+
+of  transmitter 
+
+release 
+
+from  dorsal 
+
+root 
+
+E.,  E.  A.  Neale,  P.  G.  Nelson,  and  E.  A.  Zimmerman 
+
+Immunocytochemical 
+
+Matthew, 
+(1979) 
+dissociated 
+Neurosci.  Abstr.  5:  533. 
+Neale,  E.  A.,  R.  L.  Macdonald, 
+
+spinal  cord-dorsal 
+
+studies  on  neuronal 
+root  ganglion 
+
+in 
+cell  cultures.  Sot. 
+
+peptides 
+
+and  P.  G.  Nelson 
+
+(1978) 
+
+Intra- 
+
+peroxidase 
+
+cellular 
+horseradish 
+anatomy  with  synaptic  physi- 
+light  and  electron  microscopic 
+ology  of  cultured  mouse  spinal  cord  neurons.  Brain  Res.  152: 
+265-282. 
+
+for  correlation 
+
+injection 
+
+of 
+
+Neale,  J.  H.,  J.  L.  Barker,  G.  R.  Uhl,  and  S.  H.  Snyder 
+
+Enkephalin-containing 
+neurons 
+cultures.  Science  201:  467-469. 
+
+visualized 
+
+Nelson,  P.  G.,  B.  R.  Ransom,  M.  Henkart, 
+in  cell  culture. 
+
+spinal 
+
+(1977)  Mouse 
+inhibitory 
+
+synaptic 
+
+cord 
+function. 
+
+J.  Neurophysiol. 
+
+(1978) 
+in  spinal  cord  cell 
+
+and  P.  N.  Bullock 
+IV.  Modulation 
+
+of 
+
+40:  1178-1187. 
+(1978)  For- 
+nervous  sys- 
+
+References 
+
+Nelson,  P.  G.,  E.  A.  Neale,  and  R.  L.  Macdonald 
+in  central 
+
+mation 
+tem  cell  cultures.  Fed.  Proc.  37:  2010-2015. 
+
+and  modification 
+
+of  synapses 
+
+Barber,  R.  P.,  J.  E.  Vaughn, 
+
+E.  Roberts,  and  S.  E.  Leeman 
+and  synaptic 
+cord.  J.  Comp.  Neurol. 
+
+relationships 
+
+J.  R.  Slemmon, 
+
+P.  M.  Salvaterra, 
+(1979)  The  origin,  distribution 
+
+of  substance  P  axons 
+
+in  rat  spinal 
+
+184:  331-352. 
+Immunocytochemical 
+
+their  processes  and  connections 
+
+of  monoclonal 
+
+antibodies. 
+
+Anat.  Embryol. 
+
+detection 
+
+of  sub- 
+by  in  vivo 
+
+Chan-Palay, 
+
+V.  (1979) 
+
+stance  P  neurons, 
+microinjections 
+(Berl.)  156:  225-240. 
+
+Gainer,  H.,  Y.  Sarne,  and  M.  J.  Brownstein 
+
+and  axonal 
+peptides. 
+
+transport 
+
+of  rat  neurohypophysial 
+
+J.  Cell  Biol.  73:  366-381. 
+
+(1977)  Biosynthesis 
+proteins 
+
+and 
+
+Henry, 
+
+J.  L. 
+
+identified 
+
+units 
+
+(1976)  Effects  of  substance 
+
+functionally 
+in  cat  spinal  cord.  Brain  Res.  114:  439-451. 
+
+P  on 
+
+Henry, 
+
+J.  L.,  B.  J.  Sessle,  G.  E.  Lucier, 
+P  on  nociceptive 
+
+and  J.  W.  Hu 
+and  non-nociceptive 
+
+(1980) 
+
+brain  stem  neurons.  Pain  8:  33-45. 
+
+Effects  of  substance 
+trigeminal 
+
+Hokfelt,  T.,  J.  -0.  Kellerth, 
+Substance  P:  Localization 
+in  some  primary 
+
+G.  Nilsson,  and  B.  Pernow 
+(1975a) 
+in  the  central  nervous  system  and 
+
+sensory  neurons.  Science  190:  889-890. 
+
+Hokfelt,  T.,  J.  -0.  Kellerth,  G.  Nilsson,  and  B.  Pernow 
+studies  on  the 
+of  substance  P  in  cat  primary 
+
+Experimental 
+tion  and  distribution 
+neurons.  Brain  Res.  100:  235-252. 
+
+immunohistochemical 
+
+(197513) 
+localiza- 
+sensory 
+
+Hokfelt,  T.,  R.  Elde,  0.  Johansson,  R.  Luft,  G.  Nilsson,  and  A. 
+evidence 
+for  separate 
+and  substance  P-con- 
+
+(1976) 
+
+Immunohistochemical 
+of  somatostatin-containing 
+afferent  neurons 
+
+in  the  rat.  Neuroscience 
+
+1: 
+
+primary 
+
+Arimura 
+populations 
+taining 
+131-136. 
+
+Hokfelt,  T.,  A.  Ljungdahl, 
+
+L.  Terenius, 
+
+related 
+
+Immunohistochemical 
+
+of  peptide 
+to  pain  and  analgesia:  Enkephalin 
+
+(1977) 
+possibly 
+stance  P.  Proc.  Natl.  Acad.  Sci.  U.  S.  A.  74:  3081-3085. 
+J.  M.  Lundberg, 
+Nature 
+
+(1980a)  Peptidergic 
+
+Hokfelt,  T.,  0.  Johansson, 
+
+A.  Ljungdahl, 
+
+neurones. 
+
+analysis 
+
+R.  Elde,  and  G.  Nilsson 
+pathways 
+and  sub- 
+
+and 
+284: 
+
+M.  Schultzberg 
+515-521. 
+
+Hokfelt,  T.,  J.  M.  Lundberg,  M.  Schultzberg, 
+and  J.  Rehfeld 
+transmitters 
+
+(1980b)  Coexistence 
+
+of  peptides 
+in  neurons.  Adv.  Biochem.  Psycho- 
+
+0.  Johansson, 
+
+A. 
+
+Ljungdahl, 
+and  putative 
+pharmacol. 
+
+Ljungdahl, 
+
+22:  l-23. 
+A.,  T.  Hokfelt, 
+
+of  substance  P-like 
+
+immunoreactivity 
+
+and  G.  Nilsson 
+
+(1978)  Distribution 
+in  the  central  nervous 
+
+Nelson,  P.  G.,  E.  A.  Neale,  E.  Matthew, 
+locus  of  action 
+
+in  Neuronal 
+
+Function, 
+
+Jr.,  eds.,  pp.  727-739,  Marcel  Dekker, 
+
+and  E.  A.  Zimmerman 
+for  the  opiates. 
+J.  L.  Barker 
+
+In  The 
+and  T. 
+Inc.,  New 
+
+(1980)  A  presynaptic 
+Role  of  Peptides 
+S.  Smith, 
+York. 
+
+Nelson,  P.  G.,  E.  A.  Neale,  and  R.  L.  Macdonald 
+
+(1981)  Elec- 
+in  disso- 
+In  Excita- 
+in  Tissue  Culture,  P.  G.  Nelson  and  M.  Lieberman, 
+
+trophysiological 
+studies  of  neurons 
+ciated  cell  cultures  of  the  central  nervous  system. 
+ble  Cells 
+eds.,  pp.  39-80,  Plenum  Publishing 
+
+and  structural 
+
+Corp.,  New  York. 
+(1977)  Effect  of  substance  P  in  cat 
+activated  by  noxious  stimuli.  Brain  Res. 
+
+Randid,  M.,  and  V.  MiletiC 
+dorsal  horn  neurones 
+128:  164-169. 
+
+Ransom,  B.  R.,  P.  N.  Bullock, 
+
+and  P.  G.  Nelson 
+
+(1977a)  Mouse 
+and 
+40: 
+
+chemosensitivity 
+J.  Neurophysiol. 
+
+spinal  cord 
+its 
+1163-1177. 
+
+relationship 
+
+in  cell  culture. 
+
+to  synaptic 
+
+III.  Neuronal 
+activity. 
+
+Ransom,  B.  R.,  C.  N.  Christian, 
+
+P.  N.  Bullock, 
+
+(197713)  Mouse  spinal  cord  in  cell  culture. 
+and  circuit 
+
+J.  Neurophysiol. 
+behavior. 
+Ransom,  B.  R.,  E.  Neale,  M.  Henkart, 
+
+and  P.  G.  Nelson 
+II.  Synaptic  activity 
+
+40:  1151-1162. 
+
+P.  N.  Bullock, 
+
+and  P.  G. 
+
+(1977c)  Mouse  spinal  cord  in  cell  culture. 
+
+I.  Morphol- 
+
+electrophysiologic 
+
+properties. 
+
+J. 
+
+Nelson 
+ogy  and 
+Neurophysiol. 
+
+intrinsic 
+
+neuronal 
+40:  1132-1150. 
+
+Schnaar,  R.  L.,  and  A.  E.  Schaffner 
+
+(1981)  Separation 
+
+from  embryonic 
+
+chicken  and  rat  spinal 
+
+of  motoneuron-enriched 
+
+fractions. 
+
+of  cell 
+cord:  Charac- 
+J.  Neurosci. 
+
+1: 
+
+M.,  T.  Ebendal, 
+(1978)  Substance  P-like 
+
+T.  Hokfelt,  G.  Nilsson, 
+
+immunoreactivity 
+
+spinal  ganglia 
+
+from  chick  embryos. 
+
+J.  Neurocytol. 
+
+and  K. 
+in  cul- 
+7: 
+
+types 
+terization 
+204-217. 
+Schultzberg, 
+
+Pfenninger 
+tured 
+107-117. 
+Sternberger, 
+
+L.  A.  (1979) 
+
+Irnmunocytochemistry, 
+
+Ed.  2,  Wiley, 
+
+New  York. 
+
+van  der  Loos,  H.,  and  E.  M.  Glaser 
+
+(1972)  Autapses 
+
+in  neocortex 
+
+cerebri: 
+own  dendrites. 
+
+Synapses 
+
+between 
+
+a  pyramidal 
+Brain  Res.  48:  355-360. 
+
+cell’s  axon  and 
+
+its 
+
+Zimmerman, 
+
+E.  A.,  and  J.  L.  Antunes 
+
+(1976)  Organization 
+
+the  hypothalamic-pituitary 
+immunohistochemical 
+807-815. 
+
+system:  Current 
+studies.  J.  Histochem. 
+
+concepts 
+Cytochem. 
+
+of 
+from 
+24: 
+
+
