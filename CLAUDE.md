@@ -24,54 +24,29 @@ Keep all scripts in the `scripts/` folder.
 ### Available MCP Servers and Skills
 
 - **ontology-term-lookup subagent**: For finding ontology terms (UBERON, FMA) by textual labels or descriptions using the ols4-mcp
-- **gene-protein-lookup subagent**: For mapping genes to proteins, finding PRO IDs, and getting synonyms for text searching
+- **gene-protein-lookup skill**: For mapping genes to proteins, finding PRO IDs, and getting synonyms for text searching
 - **artl-mcp**: For retrieving scientific literature (abstracts, full text, PDFs, metadata) using DOIs, PMIDs, or keywords
 - **fetch-wiki-info skill**: For Wikipedia and Wikidata references
 - **playwright MCP**: For complex web pages where standard fetching fails
 
-### Gene/Protein Lookup Skill
+### Tool Priority - IMPORTANT
 
-The `gene-protein-lookup` subagent (defined in `.claude/agents/gene-protein-lookup.md`) maps gene identifiers to protein identifiers by querying public databases.
+**ALWAYS use existing skills, subagents, and scripts before writing new code.**
 
-**Supported ID types (input):**
-- HGNC IDs (e.g., `http://identifiers.org/hgnc/9218` or `HGNC:9218`)
-- HGNC gene symbols (e.g., `POU4F1`, `TRPV1`)
-- NCBI Gene IDs (e.g., `http://identifiers.org/ncbigene/12345`)
-- UniProt IDs (e.g., `http://identifiers.org/uniprot/P12345`)
+Do NOT create new Python scripts with hardcoded synonym dictionaries or lookup tables. Use the available tools:
 
-**Output data:**
-- HGNC ID, symbol, and full gene name
-- NCBI Gene ID and description
-- UniProt accession IDs and protein names
-- **Protein Ontology (PRO) IDs** via OLS4 lookup (e.g., `PR:000003846`)
-- **Recommended protein ID**: PRO if available, otherwise UniProt (for ontology use)
-- All known synonyms (useful for text searching in PDFs)
+| Task | Tool to Use | NOT |
+|------|-------------|-----|
+| Get marker/gene synonyms | `gene-protein-lookup` skill → runs `scripts/gene_protein_lookup.py` | ❌ Hardcoded synonym dict |
+| Get location/anatomy synonyms | `ontology-term-lookup` subagent → queries OLS4 API | ❌ Hardcoded location mappings |
+| Get literature | `artl-mcp` | ❌ Manual web scraping |
+| Validate ontology IDs | `ontology-term-lookup` subagent | ❌ Hardcoded ID-to-label maps |
 
-**Use cases:**
-1. Validate that marker columns have correct HGNC IDs
-2. Find protein names to search for in PDF literature
-3. Get synonyms for comprehensive text searching
-4. Cross-reference genes mentioned in papers to official nomenclature
-5. **Map genes to Protein Ontology (PRO) IDs for ontology annotations**
-6. **Generate recommended protein IDs (PRO preferred, UniProt fallback)**
-
-## Agent Workflow Instructions
-
-### When to Use Gene/Protein Lookup
-
-**AUTOMATICALLY invoke the gene-protein-lookup subagent when:**
-1. Starting work on a new source data file that contains `marker`, `marker_ID`, `gene`, or similar columns
-2. Asked to validate or populate marker/gene information
-3. Needing to search PDFs for protein mentions (use synonyms from the lookup output)
-4. Mapping genes to ontology-ready protein IDs (PRO or UniProt)
-
-**This is a REQUIRED first step in any analysis pipeline involving gene/marker data.**
-
-**After running, use the output to:**
-- Get `recommended_protein_id` for ontology annotations (PRO preferred, UniProt fallback)
-- Use `all_synonyms` column to search PDF text for protein/gene mentions
-- Validate existing `marker_ID` values against resolved `hgnc_id`
-- Identify unresolved markers that need manual curation
+**Workflow:**
+1. First, run `gene-protein-lookup` skill if source has marker/gene columns
+2. Then, use `ontology-term-lookup` subagent for each unique location ID
+3. Use the synonyms from these outputs to search PDF text
+4. Only write new code if no existing tool handles the task
 
 ## Project Structure
 
@@ -86,31 +61,108 @@ The `gene-protein-lookup` subagent (defined in `.claude/agents/gene-protein-look
 
 ## Typical Workflow
 
-1. **User prepares template**
-   - Add template to `source_data/` including requested term names and other specifications
-   - Ideally include a column of supporting references (Wikipedia, DOI, PMID)
+### Step 1: Discover Source Files
 
-2. **User adds project instructions**
-   - Add project-specific instructions to `Instructions.md`
-   - Must include a description of the current state of the templates
+- Scan `source_data/` for CSV/TSV files
+- Read `Instructions.md` for project-specific guidance
+- Identify columns: look for `marker`, `marker_ID`, `gene`, `soma_location`, `soma_location_ID`, `references`, etc.
 
-3. **Run gene/protein lookup (REQUIRED if marker/gene columns exist)**
-   - **ALWAYS run this step first** when source data contains `marker`, `marker_ID`, `gene`, or similar columns
-   - Execute: `source .venv/bin/activate && python scripts/gene_protein_lookup.py <source_file>`
-   - This generates `outputs/gene_protein_map.csv` and `outputs/gene_protein_map_report.md`
-   - These outputs contain PRO IDs, UniProt IDs, and synonyms needed for subsequent steps
-   - **Do not skip this step** - the synonym data is essential for PDF text searching
+### Step 2: Run Gene/Protein Lookup (if marker/gene columns exist)
 
-4. **Research each term**
-   - Pull all references (PDFs and text) and save locally to `pdfs/`
-   - Validate existing content against references
-     - Use synonyms (from latent knowledge, OLS4, and gene-protein-lookup output) to search for validating text
-   - Populate missing content using references
-   - Generate reports documenting validation results
-   - Report any content that cannot be validated
+- **REQUIRED** when source data contains `marker`, `marker_ID`, `gene`, or similar columns
+- Execute: `source .venv/bin/activate && python scripts/gene_protein_lookup.py <source_file>`
+- Outputs: `outputs/gene_protein_map.csv` and `outputs/gene_protein_map_report.md`
+- These contain PRO IDs, UniProt IDs, and **synonyms needed for PDF text searching**
 
-5. **Additional research (if requested)**
-   - Search for more supporting references (prioritize reviews)
-   - Repeat validation and population steps
-   - Repeat validation and population steps
-   - Repeat validation and population steps
+### Step 3: Generate Location Synonyms (if location/anatomy columns exist)
+
+- **REQUIRED** when source data contains `soma_location_ID`, `location_ID`, or similar UBERON/FMA columns
+- Extract unique ontology IDs from the source file
+- Use `ontology-term-lookup` subagent to query OLS4 for each ID:
+  - Get the official label
+  - Get all synonyms (exact, related, broad, narrow)
+- Output: `outputs/location_synonym_map.csv` with columns: `ontology_id`, `label`, `all_synonyms`, `lookup_status`
+
+### Step 4: Download References
+
+- Extract DOIs, PMIDs, and URLs from the `references` column
+- Use `artl-mcp` to retrieve full text and PDFs
+- Save all papers to `pdfs/` folder as `.txt` files
+- If PDFs need conversion, use `scripts/extract_pdfs_to_txt.py`
+
+### Step 5: Validate Content Against PDFs (REQUIRED - MAIN DELIVERABLE)
+
+**This is the core validation step. Do NOT skip this.**
+
+Read all `.txt` files in `pdfs/` folder and search for marker+location co-occurrence.
+
+For each term/row in the source data:
+
+1. **Search for marker mentions** in PDF text files in `pdfs/`
+   - Use synonyms from `gene_protein_map.csv` (`all_synonyms` column)
+   - Also use latent LLM knowledge for common synonyms
+
+2. **Search for location mentions** in PDF text files
+   - Use synonyms from `location_synonym_map.csv`
+   - Include partial matches (e.g., "DRG" for "dorsal root ganglion")
+
+3. **Determine match status:**
+   - **OK**: Marker AND location found in **same paragraph**
+   - **PARTIAL**: Both found but in **different paragraphs**, or only partial location match
+   - **NO_MATCH**: Marker or location not found in any PDF
+
+4. **Extract evidence:**
+   - `marker_snippet` - text showing marker mention
+   - `location_snippet` - text showing location mention
+   - `matched_files` - which PDF files contained matches
+
+5. **Generate validation outputs:**
+   - `<source_name>_validation_report.md` - per-term details with snippets, match status, matched files
+   - `<source_name>_validation_report.csv` - same data in CSV format
+   - `executive_summary.md` - summary with OK/PARTIAL/NO_MATCH counts and term lists
+
+**WARNING:** Do not confuse this with "location ID validation" (checking IDs resolve in OLS4). This step requires **searching PDF text content** for marker and location mentions.
+
+### Step 6: Populate Missing Content
+
+- For terms with NO_MATCH or incomplete data, research additional sources
+- Use `artl-mcp` to find more references (prioritize reviews)
+- Update source data with validated content
+- Re-run validation as needed
+
+### Step 7: Additional Research (if requested)
+
+- Search for more supporting references
+- Repeat validation steps for new references
+
+## Tool Reference
+
+### Gene/Protein Lookup Skill
+
+Located at: `.claude/skills/gene-protein-lookup/SKILL.md`
+
+**Supported input ID types:**
+- HGNC IDs (e.g., `http://identifiers.org/hgnc/9218` or `HGNC:9218`)
+- HGNC gene symbols (e.g., `POU4F1`, `TRPV1`)
+- NCBI Gene IDs (e.g., `http://identifiers.org/ncbigene/12345`)
+- UniProt IDs (e.g., `http://identifiers.org/uniprot/P12345`)
+
+**Output columns:**
+- `source_marker`, `source_marker_id` - original values
+- `hgnc_id`, `hgnc_symbol`, `hgnc_name` - HGNC data
+- `ncbi_gene_id` - NCBI Gene ID
+- `pro_id`, `pro_name` - Protein Ontology ID (preferred for ontology use)
+- `uniprot_ids`, `uniprot_names` - UniProt data
+- `recommended_protein_id` - PRO if available, otherwise UniProt
+- `all_synonyms` - **use this for PDF text searching**
+
+### Ontology-Term-Lookup Subagent
+
+Located at: `.claude/agents/ontology-term-lookup.md`
+
+**Supported ontologies:** UBERON, FMA, CL, GO
+
+**Use for:**
+- Finding ontology terms by label or description
+- Getting synonyms for anatomical locations
+- Validating ontology IDs resolve correctly

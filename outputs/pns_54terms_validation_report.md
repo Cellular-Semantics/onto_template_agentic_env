@@ -18,7 +18,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: ent (NF200) together with either the pan-neuronal marker tubulin beta-III (TUBB3; clone Tuj1) or the pan-sensory marker POU4F1 (BRN3A). In the mouse only 61.7 +- 0.4% of all TUBB3 cells and 48.6 +- 0.4% of all BRN3A cells expressed NF200, w
+- marker_snippet: nce, 1:750; chicken anti-NF200 from Millipore, 1:25,000; mouse anti-NF200 (clone N52) from Sigma, 1:600 and rabbit anti-Brn-3a from Merck, 1:200) were diluted in 3% goat serum/0.1% TritonX-100 in PBS and applied over night at 4 C. After rin
 - location_snippet: repancies from homoscedasticity or normality. Results Expression of neurotrophin receptors Somatosensory neurons in the dorsal root ganglion (DRG) are a heterogeneous population of cells that can detect and transduce a variety of different 
 - partial_location_snippet: Human vs. Mouse Nociceptors - Similarities and Differences Highlights Comparative analysis of TrkA expressing nociceptors in human versus mouse dorsal rot ganglia. Double fluorescence in situ hybridization to assess similarities and differe
 
@@ -78,7 +78,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: of interest to the pain community for a number of reasons, including the human mutations in the gene encoding NaV1.9, SCN11a, that are associated with both pain and loss of pain phenotypes. However, because much of what we know about the bi
+- marker_snippet: ed in final edited form as: Pain. 2025 February 01; 166(2): 448–459. doi:10.1097/j.pain.0000000000003394. Persistent (NaV1.9) sodium currents in human dorsal root ganglion neurons Xiulin Zhang1,2, Jane E Hartung1, Michael S Gold1,* 1Departm
 - location_snippet: Dib-Hajj SD, Tyrrell L, Cummins TR, Black JA, Wood PM, Waxman SG. Two tetrodotoxin- resistant sodium channels in human dorsal root ganglion neurons. FEBS Lett 1999;462(1– 2):117–120. [PubMed: 10580103] [12]. Fang X, Djouhri L, McMullan S, B
 - partial_location_snippet: Despite its potential importance in inflammatory if not neuropathic pain syndromes, virtually all that is known about the biophysical and pharmacological properties of NaV1.9 currents has been obtained through the study of rodent sensory ne
 
@@ -193,13 +193,13 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - references: http://dx.doi.org/10.1007/s003800300005
 - matched_files: PMC8324809.txt, PMC7712215.txt, PMC11594459.txt
 - marker_found: True
-- location_found: False
-- location_partial_found: True
+- location_found: True
+- location_partial_found: False
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
-- marker_snippet: 021 iScience Article ll OPEN ACCESS (VAChT; Synaptic Systems, Cat. No. 139103, RRID: AB_887864,1:500 dilution) and tyrosine hydroxylase (TH; Millipore, Cat. No. AB1542, RRID:AB_90755, 1:500 dilution) were used to label cholinergic and norad
-- location_snippet: . Yet, little is known about the distribution and organization of the molecular proﬁles of the neurons constituting the intrinsic cardiac ganglia. Recent single neuron gene expression proﬁling studies have uncovered the wide range of molecu
+- marker_snippet: iScience ll OPEN ACCESS Article A single cell transcriptomics map of paracrine networks in the intrinsic cardiac nervous system Alison Moss, Shaina Robbins, Sirisha Achanta, ..., Kalyanam Shivkumar, James S. Schw
+- location_snippet: ajanikanth Vadigepalli1,6,* SUMMARY We developed a spatially-tracked single neuron transcriptomics map of an intrinsic cardiac ganglion, the right atrial ganglionic plexus (RAGP) that is a critical mediator of sinoatrial node (SAN) activity
 - full_location_snippet: SUMMARY We developed a spatially-tracked single neuron transcriptomics map of an intrinsic cardiac ganglion, the right atrial ganglionic plexus (RAGP) that is a critical mediator of sinoatrial node (SAN) activity. This 3D representation of 
 
 ## PROPOSED:0014 lumbar dorsal root ganglion BRN3A neuron
@@ -213,7 +213,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: ent (NF200) together with either the pan-neuronal marker tubulin beta-III (TUBB3; clone Tuj1) or the pan-sensory marker POU4F1 (BRN3A). In the mouse only 61.7 +- 0.4% of all TUBB3 cells and 48.6 +- 0.4% of all BRN3A cells expressed NF200, w
+- marker_snippet: nce, 1:750; chicken anti-NF200 from Millipore, 1:25,000; mouse anti-NF200 (clone N52) from Sigma, 1:600 and rabbit anti-Brn-3a from Merck, 1:200) were diluted in 3% goat serum/0.1% TritonX-100 in PBS and applied over night at 4 C. After rin
 - location_snippet: repancies from homoscedasticity or normality. Results Expression of neurotrophin receptors Somatosensory neurons in the dorsal root ganglion (DRG) are a heterogeneous population of cells that can detect and transduce a variety of different 
 - partial_location_snippet: Human vs. Mouse Nociceptors - Similarities and Differences Highlights Comparative analysis of TrkA expressing nociceptors in human versus mouse dorsal rot ganglia. Double fluorescence in situ hybridization to assess similarities and differe
 
@@ -273,7 +273,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: of interest to the pain community for a number of reasons, including the human mutations in the gene encoding NaV1.9, SCN11a, that are associated with both pain and loss of pain phenotypes. However, because much of what we know about the bi
+- marker_snippet: ed in final edited form as: Pain. 2025 February 01; 166(2): 448–459. doi:10.1097/j.pain.0000000000003394. Persistent (NaV1.9) sodium currents in human dorsal root ganglion neurons Xiulin Zhang1,2, Jane E Hartung1, Michael S Gold1,* 1Departm
 - location_snippet: Dib-Hajj SD, Tyrrell L, Cummins TR, Black JA, Wood PM, Waxman SG. Two tetrodotoxin- resistant sodium channels in human dorsal root ganglion neurons. FEBS Lett 1999;462(1– 2):117–120. [PubMed: 10580103] [12]. Fang X, Djouhri L, McMullan S, B
 - partial_location_snippet: Despite its potential importance in inflammatory if not neuropathic pain syndromes, virtually all that is known about the biophysical and pharmacological properties of NaV1.9 currents has been obtained through the study of rodent sensory ne
 
@@ -378,9 +378,9 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
-- marker_snippet: lly arranged, branched, tapering A: anally D: mostly single stem pro- cess with long, branched, tapering dendrites ChAT/ CALR/SOM/SP ChAT? ChAT/ENK/SP± IPAN? (usual subtype) IPAN? (infrequent subtype) Ascending interneuron? Excitatory
+- marker_snippet: rentially in the oral direction (about 50% vs. 30% anally; Brehmer et al. 2005). Immunohisto- chemically, they contain choline acetyltransferase (ChAT), leu-enkephalin (ENK) and, partly, SP (Brehmer et al. 2005; Beck et al. 2009). These che
 - location_snippet: 021), respectively. Hairy type I neurons Uniaxonal, short-dendritic neurons (“Dogiel type I”) which project from the myenteric plexus to the mucosa were not included in Dogiel’s classification. These Stach type IV neurons were first observe
-- full_location_snippet: Type III neurons (Fig. 5a). Dogiel‘s (1899) depictions of two myenteric type III neurons derived from the guinea pig large intestine. Nearly a century later, type III neurons were rediscovered and precisely described in the pig upper small 
+- full_location_snippet: jejunal mucosa of four infants. In the human stomach, myenteric neurons innervating mucosal cells were char- acterized immunohistochemically, and these neurons were found to contain ChAT, VIP, gastrin-releasing peptide and neuropeptide Y (A
 
 ## PROPOSED:0026 myenteric ganglion ChAT/CALR/SOM/SP neuron
 - marker: CHAT (http://identifiers.org/hgnc/1912)
@@ -393,9 +393,9 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
-- marker_snippet: lly arranged, branched, tapering A: anally D: mostly single stem pro- cess with long, branched, tapering dendrites ChAT/ CALR/SOM/SP ChAT? ChAT/ENK/SP± IPAN? (usual subtype) IPAN? (infrequent subtype) Ascending interneuron? Excitatory
+- marker_snippet: rentially in the oral direction (about 50% vs. 30% anally; Brehmer et al. 2005). Immunohisto- chemically, they contain choline acetyltransferase (ChAT), leu-enkephalin (ENK) and, partly, SP (Brehmer et al. 2005; Beck et al. 2009). These che
 - location_snippet: 021), respectively. Hairy type I neurons Uniaxonal, short-dendritic neurons (“Dogiel type I”) which project from the myenteric plexus to the mucosa were not included in Dogiel’s classification. These Stach type IV neurons were first observe
-- full_location_snippet: Type III neurons (Fig. 5a). Dogiel‘s (1899) depictions of two myenteric type III neurons derived from the guinea pig large intestine. Nearly a century later, type III neurons were rediscovered and precisely described in the pig upper small 
+- full_location_snippet: jejunal mucosa of four infants. In the human stomach, myenteric neurons innervating mucosal cells were char- acterized immunohistochemically, and these neurons were found to contain ChAT, VIP, gastrin-releasing peptide and neuropeptide Y (A
 
 ## PROPOSED:0027 myenteric ganglion NF200 neuron
 - marker: Neurofilament 200 (NF200) (https://purl.org/ccf/ASCTB-TEMP_neurofilament-200-nf200-)
@@ -408,8 +408,8 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
-- marker_snippet: Layer 4: calbindin [Calb], calretinin [Calret], Layer 5: vasoactive intestinal polypeptide [VIP], neurofilament 200 kD [NF200]). VAChT antisera were used for axonal labeling (in layer 3) but were not reliable for nerve cell bodies. Hu C or 
-- location_snippet: Types of Neurons in the Human Colonic Myenteric Plexus Identified by Multilayer Immunohistochemical Coding Background and Aims Gut functions including motility, secretion, an
+- marker_snippet: neuropeptide Y [NPY], Layer 4: calbindin [Calb], calretinin [Calret], Layer 5: vasoactive intestinal polypeptide [VIP], neurofilament 200 kD [NF200]). VAChT antisera were used for axonal labeling (in layer 3) but were not reliable for nerve
+- location_snippet: olinergic AINs (AIN1-3) distinguished by ENK immunoreactivity, which is abundant in varicose axons projecting orally in myenteric ganglia but not in EMNs. There were 6 classes of uniaxonal neurons tentatively identified as DINs (DIN1-6) whi
 - full_location_snippet: Types of Neurons in the Human Colonic Myenteric Plexus Identified by Multilayer Immunohistochemical Coding Background and Aims Gut functions including motility, secretion, and blood flow are largely controlled by the enteric nervous system.
 
 ## PROPOSED:0028 myenteric ganglion nNOS neuron
@@ -425,7 +425,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - match_status: OK
 - marker_snippet: euron with an axon (ax) running to the left (i.e. orally). b Corresponding dem- onstration of staining for neuronal nitric oxide synthase (nNOS). The spiny neuron is positive, the stubby one negative (filled and empty arrowhead, respectivel
 - location_snippet: 021), respectively. Hairy type I neurons Uniaxonal, short-dendritic neurons (“Dogiel type I”) which project from the myenteric plexus to the mucosa were not included in Dogiel’s classification. These Stach type IV neurons were first observe
-- full_location_snippet: Types of Neurons in the Human Colonic Myenteric Plexus Identified by Multilayer Immunohistochemical Coding Background and Aims Gut functions including motility, secretion, and blood flow are largely controlled by the enteric nervous system.
+- full_location_snippet: Overall, myenteric neurons can be immunohistochemically grouped into two large populations, namely neurons reac- tive for nNOS or for ChAT, as well as into two smaller populations immunoreactive for both or for neither of these markers, res
 
 ## PROPOSED:0029 myenteric ganglion nNOS/ChAT neuron
 - marker: NOS1 (http://identifiers.org/hgnc/7872)
@@ -440,7 +440,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - match_status: OK
 - marker_snippet: euron with an axon (ax) running to the left (i.e. orally). b Corresponding dem- onstration of staining for neuronal nitric oxide synthase (nNOS). The spiny neuron is positive, the stubby one negative (filled and empty arrowhead, respectivel
 - location_snippet: 021), respectively. Hairy type I neurons Uniaxonal, short-dendritic neurons (“Dogiel type I”) which project from the myenteric plexus to the mucosa were not included in Dogiel’s classification. These Stach type IV neurons were first observe
-- full_location_snippet: Figure 3. Immunohistochemical validation of marker genes for Enteric Neuron Classes. Immunohistochemical localisation of selected key marker proteins of ENC1-12 in the myenteric plexus of small intestine. Images for CCK, VGLUT2 and CGRP wer
+- full_location_snippet: Overall, myenteric neurons can be immunohistochemically grouped into two large populations, namely neurons reac- tive for nNOS or for ChAT, as well as into two smaller populations immunoreactive for both or for neither of these markers, res
 
 ## PROPOSED:0030 myenteric ganglion nNOS/VIP neuron
 - marker: NOS1 (http://identifiers.org/hgnc/7872)
@@ -455,7 +455,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - match_status: OK
 - marker_snippet: euron with an axon (ax) running to the left (i.e. orally). b Corresponding dem- onstration of staining for neuronal nitric oxide synthase (nNOS). The spiny neuron is positive, the stubby one negative (filled and empty arrowhead, respectivel
 - location_snippet: 021), respectively. Hairy type I neurons Uniaxonal, short-dendritic neurons (“Dogiel type I”) which project from the myenteric plexus to the mucosa were not included in Dogiel’s classification. These Stach type IV neurons were first observe
-- full_location_snippet: Figure 3. Immunohistochemical validation of marker genes for Enteric Neuron Classes. Immunohistochemical localisation of selected key marker proteins of ENC1-12 in the myenteric plexus of small intestine. Images for CCK, VGLUT2 and CGRP wer
+- full_location_snippet: Overall, myenteric neurons can be immunohistochemically grouped into two large populations, namely neurons reac- tive for nNOS or for ChAT, as well as into two smaller populations immunoreactive for both or for neither of these markers, res
 
 ## PROPOSED:0031 myenteric ganglion VIP neuron
 - marker: VIP (http://identifiers.org/hgnc/12693)
@@ -469,7 +469,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
 - marker_snippet: SOM], neuropeptide Y [NPY], Layer 4: calbindin [Calb], calretinin [Calret], Layer 5: vasoactive intestinal polypeptide [VIP], neurofilament 200 kD [NF200]). VAChT antisera were used for axonal labeling (in layer 3) but were not reliable for
-- location_snippet: Types of Neurons in the Human Colonic Myenteric Plexus Identified by Multilayer Immunohistochemical Coding Background and Aims Gut functions including motility, secretion, an
+- location_snippet: olinergic AINs (AIN1-3) distinguished by ENK immunoreactivity, which is abundant in varicose axons projecting orally in myenteric ganglia but not in EMNs. There were 6 classes of uniaxonal neurons tentatively identified as DINs (DIN1-6) whi
 - full_location_snippet: Types of Neurons in the Human Colonic Myenteric Plexus Identified by Multilayer Immunohistochemical Coding Background and Aims Gut functions including motility, secretion, and blood flow are largely controlled by the enteric nervous system.
 
 ## PROPOSED:0032 myenteric ganglion VIP/GAL neuron
@@ -484,8 +484,8 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_full_location_same_paragraph: True
 - match_status: OK
 - marker_snippet: 4 were assigned to excitatory motor neurons (Tac1/Calb2), while ENC8 and 9 matched inhibitory motor neurons (Nos1/Gal/Vip/Npy). ENC6, 7 and 12 were mapped to IPANs and expressed Nat Neurosci. Author manuscript; available in PMC 2021 June 0
-- location_snippet: g development remain largely unknown. Here, we define a molecular taxonomy of twelve enteric neuron classes within the myenteric plexus of the mouse small intestine using single cell RNA-sequencing. We present cell-cell communication featur
-- full_location_snippet: Figure 18. (See previous page). Human myenteric plexus NOS1/VIP/GALD and NOS1/VIP/GAL– neurons differentially express many regulatory genes also differentially expressed in mouse ENS. (A) t-SNE plot of all human nuclei expressing ELAVL4, UC
+- location_snippet: F u n d e r s A u t h o r M a n u s c r i p t s Morarach et al. Page 5 indicating the dissection plane to retrieve myenteric plexus of small intestine, flow sorting and single cell RNA-sequencing. d) UMAP representation of sequenced cells w
+- full_location_snippet: Figure 5. (See previous page). GDNF and NRTN acutely inﬂuence GCaMP activity of largely nonoverlapping adult distal colon myenteric neuron populations. (A–C) Feature plots show Gfra1 primarily in Nos1/Vip/Gal neurons (A), Gfra2 in Chat neur
 
 ## PROPOSED:0033 sacral dorsal root ganglion BRN3A neuron
 - marker: POU4F1 (http://identifiers.org/hgnc/9218)
@@ -498,7 +498,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: ent (NF200) together with either the pan-neuronal marker tubulin beta-III (TUBB3; clone Tuj1) or the pan-sensory marker POU4F1 (BRN3A). In the mouse only 61.7 +- 0.4% of all TUBB3 cells and 48.6 +- 0.4% of all BRN3A cells expressed NF200, w
+- marker_snippet: nce, 1:750; chicken anti-NF200 from Millipore, 1:25,000; mouse anti-NF200 (clone N52) from Sigma, 1:600 and rabbit anti-Brn-3a from Merck, 1:200) were diluted in 3% goat serum/0.1% TritonX-100 in PBS and applied over night at 4 C. After rin
 - location_snippet: repancies from homoscedasticity or normality. Results Expression of neurotrophin receptors Somatosensory neurons in the dorsal root ganglion (DRG) are a heterogeneous population of cells that can detect and transduce a variety of different 
 - partial_location_snippet: Human vs. Mouse Nociceptors - Similarities and Differences Highlights Comparative analysis of TrkA expressing nociceptors in human versus mouse dorsal rot ganglia. Double fluorescence in situ hybridization to assess similarities and differe
 
@@ -558,7 +558,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: of interest to the pain community for a number of reasons, including the human mutations in the gene encoding NaV1.9, SCN11a, that are associated with both pain and loss of pain phenotypes. However, because much of what we know about the bi
+- marker_snippet: ed in final edited form as: Pain. 2025 February 01; 166(2): 448–459. doi:10.1097/j.pain.0000000000003394. Persistent (NaV1.9) sodium currents in human dorsal root ganglion neurons Xiulin Zhang1,2, Jane E Hartung1, Michael S Gold1,* 1Departm
 - location_snippet: Dib-Hajj SD, Tyrrell L, Cummins TR, Black JA, Wood PM, Waxman SG. Two tetrodotoxin- resistant sodium channels in human dorsal root ganglion neurons. FEBS Lett 1999;462(1– 2):117–120. [PubMed: 10580103] [12]. Fang X, Djouhri L, McMullan S, B
 - partial_location_snippet: Despite its potential importance in inflammatory if not neuropathic pain syndromes, virtually all that is known about the biophysical and pharmacological properties of NaV1.9 currents has been obtained through the study of rodent sensory ne
 
@@ -663,7 +663,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: ent (NF200) together with either the pan-neuronal marker tubulin beta-III (TUBB3; clone Tuj1) or the pan-sensory marker POU4F1 (BRN3A). In the mouse only 61.7 +- 0.4% of all TUBB3 cells and 48.6 +- 0.4% of all BRN3A cells expressed NF200, w
+- marker_snippet: nce, 1:750; chicken anti-NF200 from Millipore, 1:25,000; mouse anti-NF200 (clone N52) from Sigma, 1:600 and rabbit anti-Brn-3a from Merck, 1:200) were diluted in 3% goat serum/0.1% TritonX-100 in PBS and applied over night at 4 C. After rin
 - location_snippet: repancies from homoscedasticity or normality. Results Expression of neurotrophin receptors Somatosensory neurons in the dorsal root ganglion (DRG) are a heterogeneous population of cells that can detect and transduce a variety of different 
 - partial_location_snippet: Human vs. Mouse Nociceptors - Similarities and Differences Highlights Comparative analysis of TrkA expressing nociceptors in human versus mouse dorsal rot ganglia. Double fluorescence in situ hybridization to assess similarities and differe
 
@@ -723,7 +723,7 @@ This report scans local text files in `pdfs/` for marker and location mentions.
 - marker_and_partial_location_same_paragraph: True
 - marker_and_full_location_same_paragraph: False
 - match_status: PARTIAL
-- marker_snippet: of interest to the pain community for a number of reasons, including the human mutations in the gene encoding NaV1.9, SCN11a, that are associated with both pain and loss of pain phenotypes. However, because much of what we know about the bi
+- marker_snippet: ed in final edited form as: Pain. 2025 February 01; 166(2): 448–459. doi:10.1097/j.pain.0000000000003394. Persistent (NaV1.9) sodium currents in human dorsal root ganglion neurons Xiulin Zhang1,2, Jane E Hartung1, Michael S Gold1,* 1Departm
 - location_snippet: Dib-Hajj SD, Tyrrell L, Cummins TR, Black JA, Wood PM, Waxman SG. Two tetrodotoxin- resistant sodium channels in human dorsal root ganglion neurons. FEBS Lett 1999;462(1– 2):117–120. [PubMed: 10580103] [12]. Fang X, Djouhri L, McMullan S, B
 - partial_location_snippet: Despite its potential importance in inflammatory if not neuropathic pain syndromes, virtually all that is known about the biophysical and pharmacological properties of NaV1.9 currents has been obtained through the study of rodent sensory ne
 
