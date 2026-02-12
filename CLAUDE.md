@@ -21,32 +21,35 @@ You have available a Python virtual environment (.venv). Use this to run any Pyt
 
 Keep all scripts in the `scripts/` folder.
 
-### Available MCP Servers and Skills
+### Available MCP Servers
 
-- **ontology-term-lookup subagent**: For finding ontology terms (UBERON, FMA) by textual labels or descriptions using the ols4-mcp
-- **gene-protein-lookup skill**: For mapping genes to proteins, finding PRO IDs, and getting synonyms for text searching
-- **artl-mcp**: For retrieving scientific literature (abstracts, full text, PDFs, metadata) using DOIs, PMIDs, or keywords
-- **fetch-wiki-info skill**: For Wikipedia and Wikidata references
-- **playwright MCP**: For complex web pages where standard fetching fails
+- **ols4-mcp**: Ontology lookup — search classes, get term details, synonyms for UBERON, FMA, CL, GO, PR
+- **playwright MCP**: Browser automation — navigate to HGNC, NCBI Gene, UniProt web pages and extract data
+- **artl-mcp**: Scientific literature — retrieve abstracts, full text, PDFs via DOIs, PMIDs, or keywords
 
-### Tool Priority - IMPORTANT
+### Optional Subagents (Claude Code only)
 
-**ALWAYS use existing skills, subagents, and scripts before writing new code.**
+- **gene-protein-lookup subagent** (`.claude/agents/gene-protein-lookup.md`): Wraps playwright queries for gene→protein mapping
+- **ontology-term-lookup subagent** (`.claude/agents/ontology-term-lookup.md`): Wraps ols4-mcp for ontology term lookups
+- **fetch-wiki-info skill** (`.claude/skills/fetch-wiki-info/`): Wikipedia/Wikidata lookups
 
-Do NOT create new Python scripts with hardcoded synonym dictionaries or lookup tables. Use the available tools:
+### Tool Priority — CRITICAL
 
-| Task | Tool to Use | NOT |
-|------|-------------|-----|
-| Get marker/gene synonyms | `gene-protein-lookup` skill → runs `scripts/gene_protein_lookup.py` | ❌ Hardcoded synonym dict |
-| Get location/anatomy synonyms | `ontology-term-lookup` subagent → queries OLS4 API | ❌ Hardcoded location mappings |
-| Get literature | `artl-mcp` | ❌ Manual web scraping |
-| Validate ontology IDs | `ontology-term-lookup` subagent | ❌ Hardcoded ID-to-label maps |
+**Use MCP tools directly. Do NOT write Python scripts with `urllib`, `requests`, or `httpx` for network calls — they will fail in sandboxed environments.**
+
+| Task | Use | NOT |
+|------|-----|-----|
+| Gene/marker synonyms & IDs | **playwright MCP** → HGNC, NCBI Gene, UniProt pages | ❌ Python urllib/requests |
+| Location/anatomy synonyms | **ols4-mcp** → search UBERON/FMA | ❌ Python HTTP calls |
+| Protein Ontology IDs | **ols4-mcp** → search PR ontology | ❌ Constructing IDs from UniProt |
+| Literature retrieval | **artl-mcp** | ❌ Manual web scraping |
+| Validate ontology IDs | **ols4-mcp** → get term by ID | ❌ Hardcoded ID-to-label maps |
 
 **Workflow:**
-1. First, run `gene-protein-lookup` skill if source has marker/gene columns
-2. Then, use `ontology-term-lookup` subagent for each unique location ID
+1. For each unique gene/marker: query HGNC, NCBI Gene, UniProt via **playwright MCP**, then query PR ontology via **ols4-mcp**
+2. For each unique location: query UBERON/FMA via **ols4-mcp** for labels and synonyms
 3. Use the synonyms from these outputs to search PDF text
-4. Only write new code if no existing tool handles the task
+4. Only write new code if no existing MCP tool handles the task
 
 ## Project Structure
 
@@ -69,16 +72,42 @@ Do NOT create new Python scripts with hardcoded synonym dictionaries or lookup t
 
 ### Step 2: Run Gene/Protein Lookup (if marker/gene columns exist)
 
-- **REQUIRED** when source data contains `marker`, `marker_ID`, `gene`, or similar columns
-- Execute: `source .venv/bin/activate && python scripts/gene_protein_lookup.py <source_file>`
-- Outputs: `outputs/gene_protein_map.csv` and `outputs/gene_protein_map_report.md`
-- These contain PRO IDs, UniProt IDs, and **synonyms needed for PDF text searching**
+- **REQUIRED** when source data contains gene/marker/protein columns
+- **Auto-detect** which columns contain gene/marker symbols and IDs from the headers
+- For each unique gene/marker, query these databases **using MCP tools**:
+
+#### 2a. HGNC (via playwright MCP)
+Navigate to: `https://www.genenames.org/tools/search/#!/?query=<symbol>`
+- Click through to the gene symbol report page
+- Extract: HGNC ID, approved symbol, approved name, previous symbols, alias symbols, NCBI Gene ID, UniProt ID
+
+#### 2b. NCBI Gene (via playwright MCP)
+Navigate to: `https://www.ncbi.nlm.nih.gov/gene/?term=<symbol>+AND+human[orgn]`
+- Click the top human result
+- Extract: Gene ID, official full name, "Also known as" aliases
+
+#### 2c. UniProt (via playwright MCP)
+Navigate to: `https://www.uniprot.org/uniprotkb?query=gene:<symbol>+AND+organism_id:9606`
+- Click the top reviewed (Swiss-Prot) human result
+- Extract: accession, protein name(s), gene name synonyms
+
+#### 2d. Protein Ontology (via ols4-mcp)
+Use ols4-mcp `searchClasses` with `ontologyId: "pr"` and `query: "<symbol>"`
+- Find the entry with **Category=gene** in its description (species-independent, numeric PRO ID like `PR:000013041`)
+- Do **NOT** pick Category=organism-gene entries (UniProt-based IDs like `PR:Q01851`)
+- If ambiguous (e.g., NOS1 matching "nanos homolog 1"), retry with the HGNC full gene name
+- Verify the PRO label is semantically related to the gene before accepting
+
+#### Output: `outputs/gene_protein_map.csv`
+Columns: `source_symbol`, `source_id`, `source_symbol_column`, `source_id_column`, `id_type`, `hgnc_id`, `hgnc_symbol`, `hgnc_name`, `ncbi_gene_id`, `uniprot_id`, `uniprot_name`, `pro_id`, `pro_name`, `all_synonyms`, `lookup_status`, `error_message`
+
+`all_synonyms` = combined pipe-separated synonyms from ALL sources (HGNC aliases, NCBI aliases, UniProt names, PRO synonyms). Critical for downstream PDF text searching.
 
 ### Step 3: Generate Location Synonyms (if location/anatomy columns exist)
 
 - **REQUIRED** when source data contains `soma_location_ID`, `location_ID`, or similar UBERON/FMA columns
 - Extract unique ontology IDs from the source file
-- Use `ontology-term-lookup` subagent to query OLS4 for each ID:
+- For each ID, use **ols4-mcp** to:
   - Get the official label
   - Get all synonyms (exact, related, broad, narrow)
 - Output: `outputs/location_synonym_map.csv` with columns: `ontology_id`, `label`, `all_synonyms`, `lookup_status`
@@ -100,7 +129,7 @@ For each term/row in the source data:
 
 1. **Search for marker mentions** in PDF text files in `pdfs/`
    - Use synonyms from `gene_protein_map.csv` (`all_synonyms` column)
-   - Also use latent LLM knowledge for common synonyms
+   - Only use synonyms that were fetched from databases — do not guess synonyms from memory
 
 2. **Search for location mentions** in PDF text files
    - Use synonyms from `location_synonym_map.csv`
@@ -137,32 +166,42 @@ For each term/row in the source data:
 
 ## Tool Reference
 
-### Gene/Protein Lookup Skill
+### ols4-mcp (Ontology Lookup)
 
-Located at: `.claude/skills/gene-protein-lookup/SKILL.md`
+**Key operations:**
+- `searchClasses({ontologyId: "pr", query: "<symbol>", pageSize: 10})` — search Protein Ontology
+- `searchClasses({ontologyId: "uberon", query: "<term>", pageSize: 10})` — search anatomy
+- `getClass({ontologyId: "uberon", classId: "UBERON:0002834"})` — get term details + synonyms
 
-**Supported input ID types:**
-- HGNC IDs (e.g., `http://identifiers.org/hgnc/9218` or `HGNC:9218`)
-- HGNC gene symbols (e.g., `POU4F1`, `TRPV1`)
-- NCBI Gene IDs (e.g., `http://identifiers.org/ncbigene/12345`)
-- UniProt IDs (e.g., `http://identifiers.org/uniprot/P12345`)
+**Supported ontologies:** UBERON, FMA, CL, GO, PR
 
-**Output columns:**
-- `source_marker`, `source_marker_id` - original values
-- `hgnc_id`, `hgnc_symbol`, `hgnc_name` - HGNC data
-- `ncbi_gene_id` - NCBI Gene ID
-- `pro_id`, `pro_name` - Protein Ontology ID (preferred for ontology use)
-- `uniprot_ids`, `uniprot_names` - UniProt data
-- `recommended_protein_id` - PRO if available, otherwise UniProt
-- `all_synonyms` - **use this for PDF text searching**
+**PRO ID rules:**
+- Use `Category=gene` entries (numeric IDs like `PR:000013041`) — species-independent
+- Do NOT use `Category=organism-gene` entries (UniProt-based like `PR:Q01851`)
+- If symbol is ambiguous, search by full gene name instead
+- Always verify the PRO label matches the expected gene
 
-### Ontology-Term-Lookup Subagent
+### playwright MCP (Web Database Queries)
 
-Located at: `.claude/agents/ontology-term-lookup.md`
+**Key operations:** `browser_navigate`, `browser_snapshot`, `browser_click`, `browser_type`
 
-**Supported ontologies:** UBERON, FMA, CL, GO
+**Database URLs:**
 
-**Use for:**
-- Finding ontology terms by label or description
-- Getting synonyms for anatomical locations
-- Validating ontology IDs resolve correctly
+1. **HGNC** — `https://www.genenames.org/tools/search/#!/?query=<symbol>`
+   - Navigate → click gene row → extract from report page: HGNC ID, symbol, name, aliases, NCBI Gene ID, UniProt ID
+
+2. **NCBI Gene** — `https://www.ncbi.nlm.nih.gov/gene/?term=<symbol>+AND+human[orgn]`
+   - Navigate → click top human result → extract: Gene ID, full name, "Also known as"
+
+3. **UniProt** — `https://www.uniprot.org/uniprotkb?query=gene:<symbol>+AND+organism_id:9606`
+   - Navigate → click top reviewed result → extract: accession, protein names, gene name synonyms
+
+### artl-mcp (Literature)
+
+Search Europe PMC, retrieve abstracts, full text, and PDFs by DOI or PMID.
+
+### Optional: Subagents (Claude Code only)
+
+If running in Claude Code, subagents at `.claude/agents/` wrap the above MCP tools:
+- `gene-protein-lookup.md` — wraps playwright + ols4-mcp for gene→protein mapping
+- `ontology-term-lookup.md` — wraps ols4-mcp for ontology term lookups
