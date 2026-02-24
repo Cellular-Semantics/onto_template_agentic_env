@@ -1,6 +1,14 @@
 # CL/Uberon Template Agentic Framework
 
-An AI-assisted framework for populating and validating DOSDP (Dead Simple OWL Design Pattern) and ROBOT templates for the Cell Ontology (CL) and Uberon anatomy ontology.
+CURRENT STATE: 
+ Dual functionality 
+   - with Claude Code or Codex: An AI-assisted framework for populating and validating DOSDP (Dead Simple OWL Design Pattern) and ROBOT templates for the Cell Ontology (CL) and Uberon anatomy ontology - capable of some research but underspecified.
+   - with copilot (choosing CL-curator-research agent) - a well-specified researcher for new cl terms and edits.
+Future aim is to make this into a unified repo with both skills where research can feed directly into template edits.
+
+## Usage:
+
+ - Please make infrastructure edits in separate branches to those used for ontology content work.  Update content branches directly from infrastructure edit branches where needed for content work and to test infrastructure edits.  Keep notes on what works and what doesn't work in order to feed back to infrastrcture edit PRs.
 
 ## Overview
 
