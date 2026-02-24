@@ -1,0 +1,932 @@
+Muraoka et al. BMC Urology  (2018) 18:47 
+https://doi.org/10.1186/s12894-018-0369-9
+
+R E S E A R C H A R T I C L E
+
+Open Access
+
+Site-dependent differences in the
+composite fibers of male pelvic plexus
+branches: an immunohistochemical analysis
+of donated elderly cadavers
+Kuniyasu Muraoka1,5*, Shuichi Morizane1, Keisuke Hieda2, Masashi Honda1, Takehiro Sejima1, Gen Murakami3,
+Shin-ichi Abe4 and Atsushi Takenaka1
+
+Abstract
+
+Background: Although the pelvic autonomic plexus branches are considered to be a mixture of sympathetic and
+parasympathetic nerves, little is known regarding the composite fibers of the pelvic plexus branches. This study
+aimed to investigate the immunohistochemical features of sympathetic and parasympathetic nerves in the pelvic
+autonomic plexus branches.
+Methods: Using 10 donated elderly male cadavers, the detailed topohistology of nerve fibers at and around the
+bladder, seminal vesicle, prostate, and rectum was examined. Neuronal nitric oxide synthase (nNOS) and vasoactive
+intestinal polypeptide (VIP) were used as parasympathetic nerve markers; tyrosine hydroxylase (TH) was used as a
+sympathetic nerve marker. The myenteric plexus of the colon was utilized as a positive control.
+
+Results: Most nerve fibers in the bladder, seminal vesicle, prostate, and rectum were both nNOS- and TH-positive.
+Thus, pelvic plexus branches were classified into two types: 1) triple-positive mixed nerves (nNOS+, VIP+, TH+, thick
+myelinated fibers + or -) and 2) double-positive mixed nerves (nNOS+, VIP-, TH+, thick myelinated fibers + or -).
+Notably, triple-positive nerves were localized within the posterosuperior part of the plexus (near the rectum) and
+travelled anteroinferiorly toward the posterolateral corner of the prostate. The posteriorly and inferiorly located
+nerves were predominantly composed of parasympathetic, rather than sympathetic, fibers. In contrast, nerve fibers
+within and along the bladder and seminal vesicle contained either no or few VIP-positive nerves. These superiorly
+located nerves were characterized by clear sympathetic nerve dominance.
+Conclusions: The nerves of the pelvic plexus branches were clearly classified into nerves around the bladder and
+seminal vesicle (VIP-negative) and nerves around the prostate (VIP-positive). Although nNOS- and VIP-positive nerve
+fibers are candidate cavernous nerves, cavernous nerve identity cannot be definitively concluded for these nerves in
+the periprostatic region.
+
+Keywords: Pelvic autonomic nerve plexus, Fiber composition, Neuronal nitric oxide synthase,
+Vasoactive intestinal polypeptide, Tyrosine hydroxylase
+
+* Correspondence: knys1970108@outlook.jp
+1Department of Urology, Tottori University Faculty of Medicine, Yonago,
+Japan
+5Division of Urology, Department of Surgery, Tottori University Faculty of
+Medicine, 36-1 Nishi-cho, Yonago 683-8504, Japan
+Full list of author information is available at the end of the article
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 2 of 11
+
+Background
+Autonomic innervation of the pelvic viscera is formed
+by sympathetic fibers from the inferior hypogastric
+from the pelvic
+plexus and parasympathetic fibers
+splanchnic nerves [1, 2]. The genital organs and lower
+urinary tract are controlled by the autonomic nervous
+system, as well as the somatic nerves. Because functional
+disruptions, such as urinary incontinence and sexual
+dysfunction, represent important determinants of quality
+of life, detailed anatomical studies of the pelvic neuro-
+anatomy are essential to preserve continence, erection,
+and bladder function after pelvic surgery [3, 4].
+
+Immunohistochemistry is widely applied in pelvic
+nerve research. However, as evaluation of the peripro-
+static nerve distribution is typically performed using sur-
+gically acquired specimens [5–7], the staining of a large
+area, including adjacent organs, is generally not possible.
+Therefore,
+the pelvic
+to investigate the anatomy of
+plexus, use of the entire pelvic block of cadavers is ideal.
+Nitric oxide synthase (nNOS) and vasoactive intestinal
+polypeptide (VIP) are used as parasympathetic nerve
+markers, whereas tyrosine hydroxylase (TH) is used as a
+marker of sympathetic nerves [8]. Recent reports have
+demonstrated that, in the human pelvic floor, a portion
+of the pelvic plexus branches contained VIP-, nNOS-,
+and TH-positive nerve fibers [9–11].
+
+The aim of this study was to investigate the topohistol-
+ogy of three types of pelvic nerve fibers (nNOS-, VIP-,
+and TH-positive fibers) by comparison of the peripro-
+static nerve configuration and distribution with that of
+adjacent regions.
+
+Methods
+This study examined 10 donated male cadavers with a
+mean age of 73 years (range, 64–82 years). The cause of
+death was either ischemic heart failure or intracranial
+bleeding; none of the cadavers had undergone abdom-
+inal or pelvic surgery, as confirmed by review of patient
+medical histories, as well as by macroscopic observation
+of the abdominopelvic cavity. The 10 cadavers were do-
+nated to Tokyo Dental College for research and educa-
+tion on human anatomy in accordance with their
+consent, and their use in research was approved by the
+Ethics Committee of Tottori University Faculty of Medi-
+cine. The study was performed in accordance with the
+provisions of the Declaration of Helsinki 1995, as revised
+in Edinburgh in 2000.
+
+The donated cadavers had been fixed by arterial perfu-
+sion of 10% v/v formalin solution, then stored in 50% v/v
+ethanol solution for > 3 months. From each of the ca-
+davers, a large tissue block, including the bladder, seminal
+vesicle, urethra, prostate, and rectum, as well as any con-
+nective tissue around these viscera, was prepared. After bi-
+section along the midsagittal line, each of the hemiblocks
+
+was cut into 15-mm thick sections; then, routine proce-
+dures for paraffin-embedded histology were performed.
+From each of the macroslices, large horizontal or sagittal
+sections (70 × 50 mm) were prepared at 2–3-mm inter-
+vals, then stained with hematoxylin and eosin (H&E).
+After reviewing the large sections to identify target re-
+gions, sections (50 × 20 mm) for immunohistochemistry
+were cut, in close proximity to the former plane. Ultim-
+ately, we obtained 2–5 large
+and 8–20
+standard-sized sections from a single paraffin block con-
+taining a 15-mm-thick slice.
+
+sections
+
+Most sections were stained with H&E, whereas others
+were stained via immunohistochemistry and elastic-tissue
+Masson staining (a variation of Masson-Goldner staining).
+Primary antibodies for nerve immunohistochemistry were
+used based on the methods of Hinata et al. [12]; these com-
+prised mouse monoclonal anti-human S100 protein (1:200
+dilution, Dako Z0311; Dako, Glostrup, Denmark), rabbit
+polyclonal anti-human nNOS (1:200 dilution; Cell Signaling
+Technology, Beverly, MA, USA), mouse monoclonal
+anti-human VIP (1:100 dilution, Santa Cruz sc25347; Santa
+Cruz, CA, USA), and rabbit polyclonal anti-human TH
+(1:500 dilution, Millipore-Chemicon ab152; Temecula, CA,
+USA). When possible, the four immunohistochemical stains
+occasionally,
+were
+non-adjacent sections were sometimes used because of
+failed immunostaining. As a positive control for immuno-
+histochemistry, the myenteric plexus of the descending
+colon was acquired from the 10 specimens; the colic my-
+enteric nerves invariably exhibit a dense distribution of
+nNOS-/VIP-coreactive nerve fibers, even in centenarians
+[13]. The secondary antibody was labeled with horseradish
+peroxidase (HRP), and antigen-antibody reactions were de-
+tected via the HRP-catalyzed reaction with diaminobenzi-
+dine. The immunohistochemistry-labeled samples were
+counterstained with hematoxylin. Negative controls com-
+prised samples without primary antibody.
+
+sections;
+
+adjacent
+
+applied
+
+on
+
+Results
+The tissue blocks that were prepared for horizontal sec-
+tions contained the posterior part of the bladder, nearly
+the entire seminal vesicle, the superoposterior part of
+the prostate, the anterior wall of the rectum, and parts
+of the levator ani muscle. The horizontal sections were
+suitable for a better understanding of the topographical
+anatomy in and around the bladder and seminal vesicle.
+However, the periprostatic neurovascular bundle could
+not easily be included in a block because of the large
+mass of the prostate. Thus, to easily identify the peripro-
+sections were necessary. A
+static nerves,
+complete set of observations of most branches of the
+pelvic plexus was performed in two specimens (all hori-
+zontal sections), whereas in the other eight specimens
+(combination of horizontal and sagittal sections), either
+
+sagittal
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 3 of 11
+
+the superior or inferior group of nerves was examined.
+Figures 1, 2, 3, 4 and 5 were prepared from a combin-
+ation of observations from two specimens.
+
+In all 10 cadavers,
+
+colic myenteric plexus
+the
+expressed all three markers (nNOS, VIP, and TH; Fig. 1),
+although TH expression was typically weak and found in
+very few fibers. For descriptive purposes,
+the pelvic
+plexus branches to the urogenital organs were divided
+
+into four areas: 1) the middle and superior area between
+the seminal vesicle and rectum (Fig. 1b); 2) the anterosu-
+perior area between the bladder and seminal vesicle
+(Fig. 1c); 3) the posterosuperior area between the rectum
+and levator ani muscle (Fig. 1d); and, 4) the posteroinfer-
+ior area at and along the posterolateral corner of the
+prostate (Fig. 5b). The third group of nerves traveled
+anteroinferiorly toward the posterolateral corner of the
+
+Fig. 1 Topohistology of nerves for immunohistochemistry. Near-horizontal sections of specimens from a 76-year-old man. Panel a (hematoxylin
+and eosin staining; scale bar, 10 mm) displays topographical anatomy, including the bladder (BL), seminal vesicle (SV), rectum (REC), and levator
+ani muscle (LA). There are five ganglion cell clusters (ggl) in the panel. Panel b (an area between the seminal vesicle and rectum), panel c (an
+area between the bladder and seminal vesicle), and panel d (an area between the rectum and levator ani muscle), corresponding to squares b, c,
+or d within panel a, exhibit immunohistochemistry of S100-labeled nerves that are shown in Figs. 2, 3, 4 and 5. Scale bars in panels b–d are
+1 mm. Panels e, f, and g (nearby sections; scale bars, 0.1 mm) depict the colic myenteric plexus in the same specimen as the positive control: the
+plexus strongly expresses nNOS and VIP, whereas TH-positive cells are scarce
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 4 of 11
+
+Fig. 2 Immunohistochemistry of nerves in an area between the bladder and seminal vesicle (anterosuperior group of the pelvic plexus branches).
+Topographical nerve anatomy is shown in Fig. 1c. Panels a, c, e, g, and i exhibit nNOS immunostaining, while panels b, d, f, and i display TH
+immunostaining. Panels a and b (or i and j) are adjacent sections, whereas panels c and d (or e and f, g and h) are proximal sections. These
+nerves did not contain fibers that were reactive for VIP (not shown). In all of these nerves, nNOS- and TH-positive fibers appear to be
+intermingled, without clear localization. However, in panels a and b, triple-negative areas (putative myelinated sensory fiber-dominant areas; stars)
+are visible. Panels g and h display nerves in the bladder detrusor, while panels i and j show nerves attaching to the seminal vesicle. Nerves along
+the seminal vesicle are characterized by an abundance of TH-positive fibers. In contrast, bladder detrusor nerves contain an abundance of
+triple-negative fibers (putative sensory fibers). All panels were prepared at the same magnification (scale bar in panel f, 0.1 mm)
+
+prostate, such that the third area appeared to be con-
+nected to the fourth area. All four areas of nerves exhib-
+ited ganglion cell clusters, but the second and third
+areas (3–10 clusters per horizontal section) contained
+greater numbers than the others (1–5 clusters per hori-
+zontal section). Numbers of cut nerve profiles per mm2
+in each horizontal section ranged from 15 to 25 in the
+first area, 22 to 38 in the second area, 8 to 13 in the
+
+third area, and 5 to 18 in the fourth area. Therefore,
+nerve density was consistently highest in the first (ante-
+rosuperior) area of nerves, located between the bladder
+and seminal vesicle.
+
+More than 70% of nerves in the anterosuperior area
+were thin (< 0.05-mm diameter), and the density was
+higher along the seminal vesicle than the bladder
+(Fig. 1c). In these nerves, TH-positive sympathetic fibers
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 5 of 11
+
+Fig. 3 Immunohistochemistry of nerves in an area between the rectum and seminal vesicle (middle and superior group of the pelvic plexus
+branches). Topographical nerve anatomy is shown in Fig. 1b. Panels a, d, f, and h display nNOS immunostaining, while panels c, e, g, and i
+exhibit TH immunostaining. Only panel b displays VIP immunostaining: the other nerves in this figure did not contain VIP-positive fibers (not
+shown). Panels a–c (or f and g; h and i) are adjacent sections, whereas panels d and e are proximal sections. Arrows, arrowheads, and stars in
+panels a–c indicate ganglion cells corresponding to each panel: two ganglion cells (stars) appear to be negative for all three markers. All VIP-
+positive cells (panel b) appear to express nNOS (panel a). All TH-positive cells (panel c) do not express either nNOS or VIP. In all of these nerves,
+nNOS- and TH-positive fibers appear to be intermingled and do not exhibit a clear localization. All panels were prepared at the same
+magnification (scale bar in panel a, 0.1 mm)
+
+were much more abundant than parasympathetic fibers,
+especially in the thinner nerves (Fig. 2). The proportion
+of TH-positive fibers in the nerve along the seminal
+vesicle was much higher than the corresponding propor-
+tion along the bladder. Sympathetic nerve dominance
+was also observed in the first (middle and superior) area
+between the seminal vesicle and rectum (Fig. 3). In con-
+trast to the first and second areas, nerves in the third
+areas
+(posterosuperior) and fourth (posteroinferior)
+
+contained VIP-positive fibers, although the number per
+section was consistently lower than for nNOS-positive
+nerves (Figs. 4 and 5). Furthermore, in these posterior
+areas, the number of nNOS-positive fibers was often
+equal to or greater than the number of TH-positive fi-
+bers. In addition, with respect to intra-organ nerves,
+both nNOS-positive fibers and TH-positive fibers were
+present; these were adjacent to and alongside the glands
+and mucosa of the prostate, seminal vesicle, and bladder.
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 6 of 11
+
+Fig. 4 Immunohistochemistry of nerves in an area between the rectum and levator ani muscle (posterosuperior group of the pelvic plexus branches).
+This area is characterized by the existence of VIP-positive nerves. The topographical relationship of the four nerves is shown in Fig. 1d. Panels a, d, g,
+and j display nNOS immunostaining; panels b, e, h, and k exhibit VIP immunostaining; panels c, f, i, and l exhibit TH immunostaining. One of the four
+nerves (panel e) does not express VIP. In a single nerve, panel d does not correspond to the site shown in panels e and f, as nNOS- (or TH-) positive
+nerves are restricted to the upper (or lower) side of the panel. VIP-positive fibers appear to be intermingled with nNOS-positive fibers. In panel i,
+TH-positive fibers are restricted to the left-hand side of the nerve. All panels were prepared at the same magnification (scale bar in panel a, 0.1 mm)
+
+Similarly, the smooth muscles of the prostate and sem-
+inal vesicle
+contained a very high proportion of
+TH-positive fibers, as well as multiple nNOS-positive fi-
+bers. However, immunoreactive nerves were not found
+in the bladder detrusor smooth muscles. Other areas of
+
+nerves were characterized according to sympathetic
+nerve dominance. Of note, in all four areas, the intrapel-
+vic nerves consistently contained both nNOS-positive
+and TH-positive fibers. In contrast, the pelvic nerve
+branches, such as those surrounding the levator ani
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 7 of 11
+
+Fig. 5 Immunohistochemistry of nerves at and along the posterolateral corner of the prostate (posteroinferior group of the pelvic plexus
+branches). Near-sagittal sections of specimens from a 77-year-old man. Panel a (HE staining; scale bar, 10 mm) displays the topographical
+anatomy of nerves within the prostate (PR) and rectum (REC). After rotation, a square in panel a is shown in panel b. Panel b displays nNOS
+immunostaining in a part of the periprostatic nerves: at this lower magnification (scale bar, 1 mm), strong expression of nNOS can be identified.
+Panels c, d, and e (adjacent sections), corresponding to a nerve indicated by a circle in panel b, show nNOS, VIP, and TH immunostaining,
+respectively (scale bar in panel c, 0.1 mm). The periprostatic nerve contains abundant nNOS- and TH-positive fibers, but VIP-positive fibers are rare
+
+muscle, did not contain either nNOS- or VIP-positive fi-
+bers (data not shown). Ganglion cells, albeit rare, con-
+tained triple-negative fibers (Figs. 2a, b; 3a, b, c).
+
+In a ganglion cell cluster (Figs. 3a, b, c; 5b), nNOS-positive
+ganglion cells were consistently highest in number, followed
+by TH-positive cells. Some nNOS-positive cells also
+
+appeared to express VIP when observed in serial sec-
+tions. The maximum diameter of cell bodies ranged
+from 15 to 25 μm,
+irrespective of their sympathetic
+or parasympathetic function. TH-positive cells were
+found either intermingled with, or in clusters sepa-
+rated from, nNOS-positive cells (Fig. 3c).
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 8 of 11
+
+Sympathetic nerve fibers were most frequently ob-
+served in the superiorly located branches of the pelvic
+plexus near the bladder and seminal vesicle; in contrast,
+parasympathetic fibers, a portion of which expressed
+VIP, were dominant in the inferiorly or posteriorly lo-
+cated nerves near the prostate. Based on these observa-
+tions, the pelvic plexus branches were classified into two
+types: 1) triple-positive mixed nerves (nNOS+, VIP+, TH
++, thick myelinated fibers + or -); and, 2) double-positive
+mixed nerves (nNOS+, VIP-, TH+, thick myelinated fi-
+bers + or -). Figure 6 depicts representative pelvic plexus
+including both triple-positive mixed nerves
+branches,
+and double-positive mixed nerves. The composition of
+nerve fibers shown in Figs. 1, 2, 3, 4 and 5 is summa-
+rized in Table 1.
+
+Discussion
+This study focused on the pelvic plexus branches, from the
+lateral site of the bladder, seminal vesicle, and rectum, to
+the posteroinferior site at and along the posterolateral cor-
+ner of the prostate, in elderly male cadavers. Although lim-
+ited regions of the peripheral pelvic plexus were examined,
+several patterns were identified in the fiber composition of
+the pelvic plexus branches. Nerves in the examined region
+consistently included TH-positive fibers; further, many of
+the plexus branches were both nNOS- and TH-positive.
+Notably, the anterosuperior area (between the bladder and
+seminal vesicle) and the middle and superior area (between
+contain
+the
+
+and rectum) did not
+
+seminal
+
+vesicle
+
+VIP-positive nerve fibers. On the contrary, the posterosu-
+perior area (between the rectum and levator ani muscle)
+and the posteroinferior area (at and along the posterolateral
+corner of the prostate) contained VIP-positive nerve fibers.
+The hypogastric and pelvic splanchnic nerves both contain
+nNOS-, VIP-, and TH-positive nerves [14, 15]. Kraima et
+al. [15] reported that VIP-positive fibers were not present
+in tissues isolated from the lumbar sympathetic chain; thus,
+areas that do not include VIP-positive nerves may be sup-
+plied by the lumbar sympathetic chain. In addition, a
+non-parasympathetic pattern [−, −, +] was not evident in
+the plexus branches, but was observed both inside and out-
+side of the levator ani muscle; these nerves appeared to be
+pudendal nerve branches. Few triple-negative fibers were
+observed; these are candidate pure sensory nerves [10].
+
+TH is the rate-limiting enzyme in the synthetic path-
+way of norepinephrine, a neurotransmitter that is found
+in peripheral sympathetic nerves and their related gan-
+glia; thus, TH is often used as a marker of sympathetic
+nerves [10, 14–17]. Both nNOS and VIP have been used
+as parasympathetic nerve markers of the pelvic plexus
+branches [8–11]; nNOS is found in peripheral parasym-
+pathetic nerves and catalyzes the formation of nitric
+oxide [18], whereas, VIP is generally considered to be
+released from cholinergic
+the primary
+smooth muscle vasodilator and secretomotor fibers [19].
+With regard to lower urinary function, the bladder
+neck is innervated by dense noradrenergic nerves, which
+have been shown to cause smooth muscle contraction
+
+transmitter
+
+Fig. 6 Schema of pelvic plexus branches. The dominance of VIP-positive nerve fibers varied by site; nerves of the pelvic plexus branches were
+clearly classified into two types. The purple and orange areas indicate triple-positive mixed nerves (nNOS+, VIP+, TH+) and double-positive mixed
+nerves (nNOS+, VIP-, TH+), respectively. VIP-positive nerve fibers are distributed to the posterosuperior area between the rectum and levator ani,
+as well as to the posteroinferior area at and along the posterolateral corner of the prostate. BL, bladder; PR, prostate; SV, seminal vesicle; LA,
+levator ani muscle; REC, rectum
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 9 of 11
+
+Table 1 Summary of composite nerve fibers of the pelvic
+plexus branches
+
+The anterosuperior group between the bladder and seminal vesicle
+
+nNOS
+
+VIP
+
+TH
+
+nerve-1
+
+nerve-2
+
+nerve-3
+
+nerve-4
+
+nerve-5
+
+++
+
++
+
++++
+
++
+
++++
+
+–
+
+–
+
+–
+
+–
+
+–
+
+++
+
+++
+
++++
+
++
+
++++
+
+The middle and superior group between the seminal vesicle and rectum
+
+nerve-6
+
+nerve-7
+
+nerve-8
+
++++
+
++++
+
++++
+
+–
+
+–
+
+–
+
+The posterosuperior group between the rectum and levator ani
+
+nerve-9
+
+nerve-10
+
+nerve-11
+
+nerve-12
+
+++
+
++
+
++++
+
+++
+
++
+
+–
+
+++
+
++
+
++++
+
++++
+
++++
+
++++
+
+++
+
++
+
++
+
+The postero-inferior group at and along the posterolateral corner of the
+prostate
+
+nerve-13
+
+Nerves to BL
+
+Nerves to SV
+
++++
+
++
+
++
+
++
+
+–
+
+–
+
+Nerves to PR and CTs
+
++++
+
++ or ±
+
++++
+
++
+
++++
+
++
+
++, > 10 positive nerve fibers were seen in the nerve; ++, positive nerves
+occupied 30–70% of a cross-sectional area of the nerve; +++, positive fibers
+occupied nearly all parts of the nerve with a high density
+BL bladder, CTs cavernous tissues, PR prostate, SV seminal vesicle
+
+and subsequent closure of the bladder neck during the
+storage of urine [20]. During micturition, inhibition of
+the sympathetic pathway may lead to opening of the
+bladder neck and prostatic urethra [21]. Additionally,
+high NOS activity was found in the urethra, whereas
+intermediate activity was found in the bladder neck, and
+comparatively low activity was found in the detrusor
+muscle. VIP-containing nerves form a dense subepithe-
+lial plexus and project to the detrusor muscle bundles of
+the bladder [22]. VIP plays an important role in bladder
+neck opening by promoting relaxation of the smooth
+muscle [20]. With regard to sexual function, TH- and
+VIP-positive nerve fibers are very abundant in the hu-
+man prostate [23, 24] and are considered to play a role
+in the expulsion of the contents of the prostate gland
+during seminal emission, as well as during ejaculation,
+which is largely under adrenergic control [21]. Sympa-
+thetic innervation mediates corporeal vasoconstriction
+it
+and corporeal smooth muscle contraction;
+causes penile detumescence after orgasm, and (in the ab-
+sence of sexual arousal) maintains the penis in the flac-
+cid state [25]. The perivascular and trabecular nerve
+fibers within the corpus cavernosum exhibit positive
+
+further,
+
+immunostaining for both nNOS and VIP [16, 26]. Nitric
+oxide is released by parasympathetic fibers and is a potent
+vasodilator associated with the physiology of the male
+erection. Nitric oxide and VIP participate in the erectile
+process via activation of the nitric oxide/cGMP and ade-
+nylyl cyclase/cAMP pathways, respectively [23, 24].
+
+The present study demonstrated that nNOS-positive fi-
+bers are present in the pelvic plexus branches, as well as
+in the prostate, seminal vesicle, and bladder; further, the
+number of cut nerves per mm2 decreases with proximity
+to the periphery. Ganzer et al. reported that nerve planim-
+etry, using a polyclonal antibody against the neural protein
+S100, revealed that 75% of nerves from the seminal vesi-
+cles do not reach the striated urethral sphincter level
+along the prostate [27]. Thus, the nerves around the pros-
+tatic apex may be the remaining nerves of the pelvic
+plexus, after distribution to the prostate, seminal vesicle,
+and bladder. Although nNOS immunoreactivity has been
+used to identify cavernous nerves, previous data, suggest-
+ing that nNOS-positive periprostatic nerves are cavernous
+nerves, may have been overstated.
+
+VIP immunoreactivity is also found in the human
+penis, where the largest concentrations of VIP are
+present in the cavernosum body [28]. The present study
+demonstrated that approximately 10% of nerve fibers
+progressing toward the prostate and cavernous tissues
+were VIP-positive. Hinata et al. reported that there were
+few VIP-positive fibers adjacent to, and posterior to, the
+rhabdosphincter area [11]. Ehmke et al. reported that >
+50% of perivascular nerve fibers and > 90% of trabecular
+nerve fibers within the corpus cavernosum stained posi-
+tive for both nNOS and VIP. Furthermore, NOS/VIP im-
+munoreactivity was reduced (diabetes) or absent (lesion
+of the cavernous nerve) in penile tissue taken from pa-
+tients with neurogenic impotence [26]. Although nNOS-
+and VIP-positive nerve fibers from the prostatic apex to-
+ward the periphery are regarded as candidate cavernous
+nerves, there may be considerable interindividual vari-
+ation in nNOS and VIP immunoreactivity, correspond-
+ing to erectile function.
+
+the main route of
+
+Many excellent studies have been published regarding
+the macro- and microscopic anatomy of the pelvic auto-
+nomic nerve plexus and its branches. Takenaka et al. re-
+ported that
+the cavernous nerve
+branches from a location near the root of the pelvic
+splanchnic nerves, then joins in a spray-shaped distribu-
+tion to the central area of the neurovascular bundle,
+travelling along the distal side of the pelvic plexus [2].
+The distal pelvic plexus, including the cavernous nerves,
+passes through the rectourethral muscle [29, 30]. Clinic-
+ally, even after non-nerve sparing prostatectomy, erectile
+function may be maintained [31, 32], which implies that
+the cavernous nerves along the posterior side of the
+prostate and urethra are preserved, in some cases, after
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 10 of 11
+
+resecting the so-called neurovascular bundle. Further-
+more, differences in the postoperative recovery of erect-
+ile function depend on the quantity of damaged
+cavernous nerves. Therefore, athermal dissection and re-
+duced traction may lead to the preservation of function,
+even when non-nerve-sparing procedures are used.
+
+There are several limitations to the present study. Be-
+cause of the lack of immunohistochemical analysis of
+the hypogastric and pelvic splanchnic nerves, it was not
+possible to propose a complete scheme from a pregangli-
+onic fiber, via a ganglion cell and postganglionic fibers,
+to the target organs. Additionally, nNOS immunohisto-
+chemistry is difficult to successfully perform in cadaveric
+specimens that have undergone long periods of preser-
+vation [9]. Because the quality of nNOS immunohisto-
+chemistry varies among individuals, we did not perform
+a quantitative evaluation, which might have included a
+determination of the percentages of each nerve type.
+
+Conclusions
+Because the dominance of VIP-positive nerve fibers var-
+ied by site, nerves of the pelvic plexus branches were
+clearly categorized as those nerves around the bladder
+and seminal vesicle (VIP-negative) and those nerves
+around the prostate (VIP-positive). Furthermore, the re-
+sults confirmed that nNOS expression is a general char-
+acteristic of the pelvic plexus branches, rather than a
+specific characteristic of the cavernous nerve. Although
+nNOS- and VIP-positive nerve fibers are candidate cav-
+ernous nerves, the periprostatic nNOS-positive fibers
+may not be cavernous nerves, even when they are ob-
+served alongside VIP-positive fibers.
+
+Abbreviations
+H&E: hematoxylin and eosin; HRP: horseradish peroxidase; nNOS: nitric oxide
+synthase; TH: tyrosine hydroxylase; VIP: vasoactive intestinal polypeptide
+
+Acknowledgments
+We are grateful to the individuals who donated their bodies to Tokyo Dental
+College for research and education in human anatomy without any
+economic benefit. We also thank their families for agreeing to the donation,
+as well as for their patience in waiting for return of the bodies after
+completion of the study.
+
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available
+from the corresponding author on reasonable request.
+
+Authors’ contributions
+Conception and design: KM, SM, GM, SA, and AT. Acquisition of data: KM,
+SM, KH, and MH. Analysis and interpretation of data: KM, SM, and TS. Drafting
+of the manuscript: KM, GM, and AT. Critical review of the manuscript for
+important intellectual content: KM and AT. Statistical analysis: KM and AT.
+Administrative, technical, or material support: GM and SA. All authors read
+and approved the final manuscript.
+
+Ethics approval and consent to participate
+All cadavers had been donated to Tokyo Dental College for research and
+education on human anatomy in accordance with their consent, and their
+use in research was approved by the Ethics Committee of Tottori University
+Faculty of Medicine (the reference number 17A144).
+
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Author details
+1Department of Urology, Tottori University Faculty of Medicine, Yonago,
+Japan. 2Department of Urology, Hiroshima University Faculty of Medicine,
+Hiroshima, Japan. 3Division of Internal Medicine, Iwamizawa Kojin-kai
+Hospital, Iwamizawa, Japan. 4Department of Anatomy, Tokyo Dental College,
+Tokyo, Japan. 5Division of Urology, Department of Surgery, Tottori University
+Faculty of Medicine, 36-1 Nishi-cho, Yonago 683-8504, Japan.
+
+Received: 4 April 2017 Accepted: 16 May 2018
+
+References
+1. Mauroy B, Demondion X, Drizenko A, Goullet E, Bonnal JL, Biserte J, Abbou
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+C. The inferior hypogastric plexus (pelvic plexus): its importance in neural
+preservation techniques. Surg Radiol Anat. 2003;25(1):6–15.
+Takenaka A, Murakami G, Soga H, Han SH, Arai Y, Fujisawa M.
+Anatomical analysis of the neurovascular bundle supplying penile
+cavernous tissue to ensure a reliable nerve graft after radical
+prostatectomy. J Urol. 2004;172(3):1032–5.
+Sanda MG, Dunn RL, Michalski J, Sandler HM, Northouse L, Hembroff L, Lin
+X, Greenfield TK, Litwin MS, Saigal CS, et al. Quality of life and satisfaction
+with outcome among prostate-cancer survivors. N Engl J Med. 2008;358(12):
+1250–61.
+Beveridge TS, Johnson M, Power A, Power NE, Allman BL. Anatomy of the
+nerves and ganglia of the aortic plexus in males. J Anat. 2015;226(1):93–103.
+Kiyoshima K, Yokomizo A, Yoshida T, Tomita K, Yonemasu H, Nakamura M,
+Oda Y, Naito S, Hasegawa Y. Anatomical features of periprostatic tissue and
+its surroundings: a histological analysis of 79 radical retropubic
+prostatectomy specimens. Jpn J Clin Oncol. 2004;34(8):463–8.
+Lee SB, Hong SK, Choe G, Lee SE. Periprostatic distribution of nerves in
+specimens from non-nerve-sparing radical retropubic prostatectomy.
+Urology. 2008;72(4):878–81.
+Hisasue S, Hashimoto K, Kobayashi K, Takeuchi M, Kyoda Y, Sato S,
+Masumori N, Tsukamoto T. Baseline erectile function alters the
+cavernous nerve quantity and distribution around the prostate. J Urol.
+2010;184(5):2062–7.
+Butler-Manuel SA, Buttery LD, A'Hern RP, Polak JM, Barton DP. Pelvic nerve
+plexus trauma at radical and simple hysterectomy: a quantitative study of
+nerve types in the uterine supporting ligaments. J Soc Gynecol Investig.
+2002;9(1):47–56.
+Hieda K, Cho KH, Arakawa T, Fujimiya M, Murakami G, Matsubara A. Nerves
+in the intersphincteric space of the human anal canal with special reference
+to their continuation to the enteric nerve plexus of the rectum. Clin Anat.
+2013;26(7):843–54.
+
+10. Hinata N, Hieda K, Sasaki H, Murakami G, Abe S, Matsubara A, Miyake H,
+
+Fujisawa M. Topohistology of sympathetic and parasympathetic nerve fibers
+in branches of the pelvic plexus: an immunohistochemical study using
+donated elderly cadavers. Anat Cell Biol. 2014;47(1):55–65.
+
+11. Hinata N, Murakami G, Miyake H, Abe S, Fujisawa M. Histological study of
+
+the cavernous nerve mesh outside the periprostatic region: anatomical
+basis for erectile function after nonnerve sparing radical prostatectomy. J
+Urol. 2015;193(3):1052–9.
+
+12. Hinata N, Hieda K, Sasaki H, Kurokawa T, Miyake H, Fujisawa M, Murakami G,
+
+Fujimiya M. Nerves and fasciae in and around the paracolpium or
+paravaginal tissue: an immunohistochemical study using elderly donated
+cadavers. Anat Cell Biol. 2014;47(1):44–54.
+
+13. Bernard CE, Gibbons SJ, Gomez-Pinilla PJ, Lurken MS, Schmalz PF, Roeder JL,
+Linden D, Cima RR, Dozois EJ, Larson DW, et al. Effect of age on the enteric
+nervous system of the human colon. Neurogastroenterol Motil. 2009;21(7):
+746–e746.
+Jang HS, Cho KH, Hieda K, Kim JH, Murakami G, Abe S, Matsubara A.
+Composite nerve fibers in the hypogastric and pelvic splanchnic nerves: an
+immunohistochemical study using elderly cadavers. Anat Cell Biol. 2015;
+48(2):114–23.
+
+14.
+
+Muraoka et al. BMC Urology  (2018) 18:47 
+
+Page 11 of 11
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+Kraima AC, van Schaik J, Susan S, van de Velde CJ, Hamming JF, Lakke EA,
+DeRuiter MC. New insights in the neuroanatomy of the human adult superior
+hypogastric plexus and hypogastric nerves. Auton Neurosci. 2015;189:60–7.
+Tamura M, Kagawa S, Kimura K, Kawanishi Y, Tsuruo Y, Ishimura K.
+Coexistence of nitric oxide synthase, tyrosine hydroxylase and vasoactive
+intestinal polypeptide in human penile tissue–a triple histochemical and
+immunohistochemical study. J Urol. 1995;153(2):530–4.
+Takenaka A, Kawada M, Murakami G, Hisasue S, Tsukamoto T, Fujisawa M.
+Interindividual variation in distribution of extramural ganglion cells in the male
+pelvis: a semi-quantitative and immunohistochemical study concerning nerve-
+sparing pelvic surgery. Eur Urol. 2005;48(1):46–52. discussion 52
+Stanarius A, Uckert S, Machtens SA, Stief CG, Wolf G, Jonas U.
+Immunocytochemical distribution of nitric oxide synthase in the human
+corpus cavernosum: an electron microscopical study using the tyramide
+signal amplification technique. Urol Res. 2001;29(3):168–72.
+Lundberg JM. Evidence for coexistence of vasoactive intestinal polypeptide
+(VIP) and acetylcholine in neurons of cat exocrine glands. Morphological,
+biochemical and functional studies. Acta Physiol Scand Suppl. 1981;496:1–57.
+
+21.
+
+20. Gosling JA, Dixon JS, Jen PY. The distribution of noradrenergic nerves in the
+human lower urinary tract. A review. Eur Urol. 1999;36(Suppl 1):23–30.
+Iwata T, Ukimura O, Inaba M, Kojima M, Kumamoto K, Ozawa H, Kawata M,
+Miki T. Immunohistochemical studies on the distribution of nerve fibers in
+the human prostate with special reference to the anterior fibromuscular
+stroma. Prostate. 2001;48(4):242–7.
+Smet PJ, Moore KH, Jonavicius J. Distribution and colocalization of
+calcitonin gene-related peptide, tachykinins, and vasoactive intestinal
+peptide in normal and idiopathic unstable human urinary bladder. Lab
+Investig. 1997;77(1):37–49.
+
+22.
+
+23. Gonzalez-Cadavid NF, Ignarro LJ, Rajfer J. Nitric oxide and the cyclic GMP
+
+system in the penis. Mol Urol. 1999;3(2):51–9.
+
+25.
+
+24. Andersson KE. Mechanisms of penile erection and basis for pharmacological
+treatment of erectile dysfunction. Pharmacol Rev. 2011;63(4):811–59.
+Kandeel FR, Koussa VK, Swerdloff RS. Male sexual function and its disorders:
+physiology, pathophysiology, clinical investigation, and treatment. Endocr
+Rev. 2001;22(3):342–88.
+Ehmke H, Junemann KP, Mayer B, Kummer W. Nitric oxide synthase and
+vasoactive intestinal polypeptide colocalization in neurons innervating the
+human penile circulation. Int J Impot Res. 1995;7(3):147–56.
+
+26.
+
+27. Ganzer R, Stolzenburg JU, Neuhaus J, Weber F, Fuchshofer R, Burger M,
+
+Bründl J. Anatomical study of pelvic nerves in relation to seminal vesicles,
+prostate and urethral sphincter: Immunohistochemical staining,
+computerized Planimetry and 3-dimensional reconstruction. J Urol. 2015;
+193(4):1205–12. https://doi.org/10.1016/j.juro.2014.10.001. Epub 2014 Oct 6.
+
+28. Polak JM, Bloom SR. Localisation and measurement of VIP in the
+
+29.
+
+30.
+
+31.
+
+genitourinary system of man and animals. Peptides. 1984;5(2):225–30.
+Takenaka A, Murakami G, Matsubara A, Han SH, Fujisawa M. Variation in
+course of cavernous nerve with special reference to details of topographic
+relationships near prostatic apex: histologic study using male cadavers.
+Urology. 2005;65(1):136–42.
+Takenaka A, Leung RA, Fujisawa M, Tewari AK. Anatomy of autonomic nerve
+component in the male pelvis: the new concept from a perspective for robotic
+nerve sparing radical prostatectomy. World J Urol. 2006;24(2):136–43.
+Tewari AK, Srivastava A, Huang MW, Robinson BD, Shevchuk MM, Durand M,
+Sooriakumaran P, Grover S, Yadav R, Mishra N, et al. Anatomical grades of
+nerve sparing: a risk-stratified approach to neural-hammock sparing during
+robot-assisted radical prostatectomy (RARP). BJU Int. 2011;108(6 Pt 2):984–92.
+
+32. Moskovic DJ, Alphs H, Nelson CJ, Rabbani F, Eastham J, Touijer K,
+
+Guillonneau B, Scardino PT, Mulhall JP. Subjective characterization of nerve
+sparing predicts recovery of erectile function after radical prostatectomy:
+defining the utility of a nerve sparing grading system. J Sex Med. 2011;8(1):
+255–60.
+
+

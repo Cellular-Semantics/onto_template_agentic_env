@@ -1,0 +1,2975 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+Published in final edited form as:
+
+Pain. 2025 February 01; 166(2): 448–459. doi:10.1097/j.pain.0000000000003394.
+
+Persistent (NaV1.9) sodium currents in human dorsal root 
+ganglion neurons
+
+Xiulin Zhang1,2, Jane E Hartung1, Michael S Gold1,*
+1Department of Neurobiology, and the Pittsburgh Center for Pain Research University of 
+Pittsburgh School of Medicine, Pittsburgh, PA, United States
+
+2Department of Urology, the Second Hospital of Shandong University, 250032, P.R. China
+
+Abstract
+
+NaV1.9 is of interest to the pain community for a number of reasons, including the human 
+mutations in the gene encoding NaV1.9, SCN11a, that are associated with both pain and loss of 
+pain phenotypes. However, because much of what we know about the biophysical properties of 
+NaV1.9 has been learned through the study of rodent sensory neurons, and there is only 76% 
+identity between human and rodent homologs of SCN11a, there is reason to suggest that there 
+may be differences in the biophysical properties of the channels in human and rodent sensory 
+neurons, and consequently, the contribution of these channels to the control of sensory neuron 
+excitability, if not pain. Thus, the purpose of this study was to characterize NaV1.9 currents 
+in human sensory neurons and compare the properties of these currents to those in rat sensory 
+neurons recorded under identical conditions. Whole cell patch techniques were used to record 
+NaV1.9 currents in isolated sensory neurons in vitro. Our results indicate that several of the core 
+biophysical properties of the currents including persistence and a low threshold for activation are 
+the conserved across species. However, we noted a number of potentially important differences 
+between the currents in human and rat sensory neurons including a lower threshold for activation, 
+higher threshold for inactivation, slower deactivation, and faster recovery from slow inactivation. 
+Human NaV1.9 was inhibited by inflammatory mediators, while rat NaV1.9 was potentiated. Our 
+results may have implications for the role of NaV1.9 in sensory, if not nociceptive signaling.
+
+Introduction
+
+Voltage-gated sodium channels (VGSCs) are generally thought of in the context of action 
+potential generation and propagation, and eight of the nine VGSC alpha subunits expressed 
+in mammalian tissues have been shown to contribute to action potential generation and/or 
+propagation [6]. However, the ninth VGSC alpha subunit, NaV1.9, appears to be so slowly 
+activating and inactivating [7; 22], at least at room temperature [40], that it appears to play 
+
+*Corresponding author: Michael S Gold, University of Pittsburgh, 203 Lothrop St, BST W1451, Pittsburgh, PA 15213, 
+msg22@pitt.edu.
+Author contributions: XZ, JEH and MSG contributed to the experimental design, collected and analyzed data. XZ wrote the first 
+draft of the manuscript. XZ, JEH, and MSG contributed to all subsequent revisions of the manuscript.
+
+Competing interests: None
+
+None of the authors have a financial conflict of interest with any of the data in this manuscript.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 2
+
+a very different role in the control of neuronal excitability, largely impacting the resting 
+membrane potential, and therefore only indirectly influencing action potential generation 
+[9]. Nevertheless, NaV1.9 has remained a channel of interest to the pain research community 
+for a number of reasons. First, it is only expressed in the peripheral sensory [10] and enteric 
+[33; 37] neurons, and appears to be enriched in putative nociceptive afferents responsible 
+for pain associated with tissue injury [12]. Second, NaV1.9 currents are increased by 
+proinflammatory mediators [2; 3; 16; 27; 38], suggesting that NaV1.9 contributes to the 
+sensitization of nociceptive afferents thought to underlie inflammatory hyperalgesia. Third, 
+while data from NaV1.9 null mutant mice suggests the channel contributes little to baseline 
+nociceptive thresholds [35], consistent with the data from isolated neurons and ex-vivo 
+preparations [16], it appears to contribute to hypersensitivity evoked by pro-inflammatory 
+mediators [16; 38], as well as complete Freund’s adjuvant-induced inflammation [35], or 
+supernatant from inflamed human tissue applied to the gut [16]. In the skin, NaV1.9 appears 
+to play a more prominent role in heat than mechanical hypersensitivity [34; 35], while in 
+the gut, NaV1.9 contributes to hypersensitivity to slow rather than rapid stretch of the colon 
+[16]. Finally, mutations in SCN11a, the gene encoding NaV1.9, are associated with both loss 
+of function (insensitivity to pain) and gain of function (chronic pain) phenotypes [9]. The 
+contribution of NaV1.9 to neuropathic pain has yet to be fully characterized with largely 
+negative results in preclinical studies ([34; 35], but see [24; 26]), and a gain of function 
+mutation of NaV1.9 associated with neuropathic pain patients [19]. Taken together, these 
+data suggest NaV1.9 may play a particularly important role in inflammatory hypersensitivity 
+in both animal models and humans.
+
+Despite its potential importance in inflammatory if not neuropathic pain syndromes, 
+virtually all that is known about the biophysical and pharmacological properties of NaV1.9 
+currents has been obtained through the study of rodent sensory neurons and heterologous 
+expression systems. There is a report of NaV1.9 currents in human DRG neurons, in which 
+recordings were obtained from 14 neurons, nine of which had measurable levels of persistent 
+(NaV1.9-like) currents [11]. Yet given that rat and mouse homologs of SCN11a share 
+only 76% identity with human SCN11a [8; 22], species differences in both biophysical 
+and pharmacological properties should not be surprising [22]. Furthermore, given evidence 
+of the impact of heterologous expression systems on the biophysical and pharmacological 
+properties of VGSCs [29], it is important to characterize VGSCs in their native environment. 
+Thus, the goal of the present study was to characterize NaV1.9 currents in human DRG 
+neurons.
+
+Materials and Methods:
+
+Human Subjects
+
+Data were obtained from the L4 and L5 DRG recovered from 33 human organ donors with 
+the consent of family members for the use of their loved one’s tissue for research purposes. 
+All procedures were approved by the University of Pittsburgh Committee for Oversight of 
+Research and Clinical Training Involving Decedents.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 3
+
+Collection of human DRGs
+
+The detailed methods for collection of L4 and L5 DRGs have been described in our previous 
+reports ([15; 30; 31; 41–43]). Briefly, after L4 and L5 ganglia were recovered, the ganglia 
+were placed in ice cold collection media with the following composition: 129.5 mM NaCl, 
+5 mM KCl, 1.2 mM MgCl2, 30 mM HEPES, 2.5 mM glucose and 0.23% phosphoric acid 
+adjusted with Tris Base to a pH of 7.35.
+
+Isolation of human DRG neurons
+
+The protocol employed has been described in our previous studies ([31]). Briefly, ganglia 
+were cut into small (~2–5 mm3) pieces and transferred to collection media containing 1 
+mg/mL of collagenase P (Roche Bioscience), 1 mg/mL of Trypsin (TRL, Worthington) 
+and 0.1 mg/mL DNase 1 (Roche Bioscience), and placed on a shaking tray in a 37°C 
+water bath. Fresh enzyme solution was added every 90 minutes. The enzymatic treatment 
+was terminated when pieces of ganglia began to visibly fall apart. Pieces of ganglia were 
+transferred to a 15 mL tube and mechanically dissociated through a fire-polished Pasteur 
+pipette. Enzymatic activity was quenched by adding 7 mL of collection media supplemented 
+with 2 mg/mL soybean trypsin inhibitor (type II, Sigma-Aldrich), 1 mg/mL bovine serum 
+albumin (Sigma-Aldrich), fetal bovine serum (to a final concentration of 10%, Hyclone), and 
+2 mM CaCl2, and dispersed cells were centrifuged at 450G for 4 minutes. The pellet was 
+re-suspended in a Leibovitz L-15 (Invitrogen) based media (basal media) containing (per 
+500 mL): 60 mg imidizole, 15 mg aspartic acid, 15 mg glutamic acid, 15 mg cystine, 5 mg 
+β-alanine, 10 mg myo-inositol, 10 mg choline-Cl, 5 mg p-aminobenzoic acid, 25 mg fumaric 
+acid, 2 mg vitamin B12 and 5 mg of lipoic acid. All chemicals used to supplement the L-15 
+media were obtained from Sigma-Aldrich. Cells were spun again for 4 minutes at 450G, the 
+pellet was then resuspended in 1 mL of basal media. This was loaded on a Percoll (Sigma-
+Aldrich) gradient, and spun at 1800G for 10 min. The pellet was resuspended in complete 
+media which was composed of basal media diluted 1:10 with fetal bovine serum and then 
+supplemented to yield a final concentration of 50 ng/mL nerve growth factor (NGF 2.5S, 
+Invitrogen), 0.3 mg/mL glutamine (Invitrogen), 0.225 mg/mL glucose (Sigma-Aldrich), 
+2.55 mg/mL ascorbic acid (Sigma-Aldrich), and 0.12 mg/mL glutathione (Invitrogen), and 
+0.2% (w/v) NaHCO3 (Sigma-Aldrich). Cells were plated onto poly-L-lysine coated glass 
+coverslips (Invitrogen) placed in CO2 (5%) incubator at 37℃ for 4h prior to flooding with 
+Complete Media. Neurons were studied between 4 and 72 h in culture.
+
+Isolation of rat TG and DRG neurons
+
+Adult (250–320 g) male and female Sprague-Dawley rats (Envigo, Indianapolis, IN)) were 
+used for all experiments. Adult rat DRG and trigeminal ganglia (TG) were surgically 
+obtained, enzymatically treated and mechanically dissociated as previously described [25]. 
+Cells were also plated on poly-L-lysine coated glass coverslips (Invitrogen), which were 
+placed in 35 mm culture dishes and stored in a CO2 (5%) incubator at 37˚C for 2 hr prior to 
+flooding with Complete Media. Neurons were studied between 4 and 48h of plating.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Patch clamp recording
+
+Page 4
+
+Whole-cell patch-clamp recordings were performed with an Axopatch 200B controlled 
+with pClamp (v10.2) software (Molecular Devices, Carlsbad, CA) in combination with a 
+Digidata 1320A A/D converter (Molecular Devices) or with a HEKA EPC10 controlled 
+with Patchmaster software (v2×90.2). Data were acquired at 10–20 kHz and filtered at 2 
+kHz. Borosilicate glass (WPI, Sarasota, FL) electrodes were 1–1.5 MΩ were filled with an 
+electrode solutions containing (in mM): CsF 100, TEA-Cl 40, NaCl 5, CaCl 2 1, EGTA 11, 
+HEPES 10, Mg-ATP 2, and GTP 1; pH was adjusted to 7.2 with Tris-base and osmolality 
+was adjusted to 310 mOsm with sucrose. The bath solution consisted of (in mM): NaCl 35, 
+CholineCl 65, TEA-Cl 30, CaCl2 0.1, MgCl2 5, CdCl2 0.1, HEPES 10, and glucose 10; 
+pH was adjusted to 7.4 with Tris-Base, and the osmolality adjusted to 320 with sucrose. 
+Capacitive currents were minimized with amplifier circuitry. Series resistance compensation 
+was always employed, and if it was not possible to achieve compensation greater than 75%, 
+neurons were not included for further analysis. Similarly, if estimated voltage errors were 
+greater than 5 mV, data were not included for further analysis, where voltage errors were 
+estimated based on the peak inward current across the uncompensated series resistance.
+
+Steady-state properties:  The voltage-dependence of current activation and inactivation 
+was determined with standard current-voltage (I-V) and steady-state inactivation (H-infinity) 
+protocols. Neurons were held at −120 mV, total TTX-R I-V curves were generated in the 
+presence of 300 nM TTX unless indicated with a series of 50 ms test pulses between −110 
+and −10 mV, evoked every 5 seconds (Figure 1A), then I-V curves (NaV1.8 mediated) 
+were evoked at a holding potential of −50 mV to inactivate NaV1.9. NaV1.9 currents were 
+isolated from NaV1.8 currents post-hoc, via digital subtraction of the NaV1.8 I-V curves 
+from the total to obtain NaV1.9 I-V curves. In a subpopulation of neurons, the putative 
+NaV1.8 selective blocker A-803467 was used to block NaV1.8 currents. Of note, it was 
+necessary to use 10 μM A-803467 to block NaV1.8 currents in human DRG neurons. 
+Steady-state inactivation/availability curves were obtained with a voltage protocol in which 
+currents were evoked by a voltage step to −50 mV following a series of 500 ms pre-pulses 
+from −120 to −10 mV, the pre-pulse was increased by 10 mV increments every 5 seconds.
+
+Kinetics:  The time constant (tau) of current activation was determined with a single 
+exponential fitted to the rise phase of the current following depolarizing voltage-steps, where 
+the voltage-dependence of current activation was determined from the currents evoked with 
+the I-V protocols. The time constant (tau) of current inactivation was determined with a 
+single exponential fitted to the decay phase of the evoked current during sustained (500 ms) 
+voltage steps, where the current evoked during the conditioning voltage step used for the 
+generation of steady-state inactivation curves was most often used for this purpose. The time 
+constant (tau) of current deactivation was determined with a single exponential fitted to the 
+decay phase of the evoked current following a repolarizing voltage-step following current 
+activation with a voltage step to −50 mV. To determine the recovery of NaV1.9 currents 
+from slow inactivation, currents were evoked at −50 mV from a holding potential of −120 
+mV at 0.3 Hz following three minutes at a holding potential of −50 mV.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 5
+
+Temperature dependence:  Given a previous report suggesting that NaV1.9 currents 
+may be particularly sensitive to increases in temperature, currents in neurons from a 
+subgroup of donors were studied at room temperature (~20°C) and at 34°C (and in a smaller 
+group of neurons at 37°C). Temperature was controlled with a feedback-controlled resistive 
+heater in line with the perfusion system, where the thermocouple was positioned ~200 μm 
+from the neuron studied. For comparative purposes, we assessed the impact of temperature 
+controlled in the same manner on the properties of TTX-S and NaV1.8 currents.
+
+Impact of local anesthetics:  Given the importance of local anesthetics to pain control 
+we sought to assess the impact of the canonical local anesthetic lidocaine on persistent 
+currents in human DRG neurons. A 150 ms test pulse to −50mV from a holding potential 
+of −120 mV was applied in each neuron to evoke NaV1.9 current, and lidocaine at 
+concentrations of 0.1 to 3mM was applied.
+
+Inflammatory mediators:  Finally given evidence of a role for NaV1.9 in inflammatory 
+hyperalgesia, we sought to assess the impact of an inflammatory soup consisting of PGE2, 
+bradykinin, serotonin, and histamine on persistent currents. The inflammatory soup was 
+applied after establishment of a stable baseline.
+
+Test agents:  All salts used for electrophysiological recording were obtained from Sigma-
+Aldrich. TTX (Sigma-Aldrich) was dissolved in distilled water (dH2O) as a 1 mM stock 
+solution, and stored at 4°C until use. Prostaglandin E2 (Sigma-Aldrich) was dissolved in 
+ethanol as a 10 mM stock solution and stored at −20°C until use. Bradykinin was dissolved 
+in 1% acetic acid in a10 mM stock concentration and stored at −20°C until use. Lidocaine 
+was prepared as a 10 mM stock solution with 5 mM Na-HEPES buffered dH2O, with a pH 
+adjusted to 7.0 with TEA-OH, and stored at −20°C until use. Drugs were diluted to final 
+concentrations in bath solution from stock solutions at least 1000 times greater than the 
+highest concentration employed.
+
+Data analysis:  Amplifier circuitry was used to estimate membrane capacitance. Tail 
+currents evoked following membrane repolarization to −120 mV in association with the 
+I-V protocol, were used to generate conductance-voltage plots. Steady-state inactivation and 
+G-V curves were fitted with modified Boltzmann equations so as to determine maximal 
+conductance (Gmax), the voltage at which currents were either half inactivated or half 
+activated (V0.5), as well as the slopes of the two curves. Lidocaine concentration-response 
+curves were fitted with a modified Hill equation to enable estimation of the concentration 
+needed to block 50% of evoked current.
+
+All pooled data are presented as mean ± standard error of the mean. Unless otherwise stated, 
+a t-test was used for statistical comparisons between human and rat data, where a difference 
+with p < 0.05 was considered statistically significant.
+
+Results
+
+Neurons included in this study were obtained from 33 donors (21 males and 12 females). 
+The average age of the males was 38.8 years (range = 17–64 years) while that of females 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 6
+
+was 41.8 years (range = 17–61 years). The average membrane capacitance of the 144 
+human DRG neurons included in this study (i.e., those in which >200 pA of low threshold 
+persistent current was detected) was 149.5 ± 5.0 pF, with a range from 42.97 to 366.2 pF. 
+The average neuron capacitance per donor was 153.0 ± 4.8 pF. While rat neurons were 
+not systematically analyzed for the presence of low threshold persistent current across all 
+cell body sizes, average capacitance of rat neurons in which persistent current was detected 
+was 32.0 ± 1.3 pF (n = 138, p < 0.01). The average neuron capacitance per rat was 32.3 
+± 1.9 pF (n = 25, p < 0.01). Consistent with previous reports, rat DRG neurons with 
+NaV1.9 current tended to be small with a cell body diameter < 27 μm. In contrast, NaV1.9 
+currents were found in human DRG neurons of all sizes with a range that spanned the 
+smallest to the largest neurons studied. Nevertheless, of the 21 human DRG neurons with 
+persistent current tested for capsaicin (300 nM) sensitivity, 16 were capsaicin responsive, 
+suggesting most of the human neurons with persistent current are putative nociceptors. Of 
+note, while we have previously described a time in culture dependent increase in TTX-S and 
+the more rapidly inactivating TTX-R currents in human sensory neurons [42], there was not 
+significant influence of time in culture on NaV1.9 current density which was −47.3 ± 5.1 
+pA/pF on day 0, −64.2 ± 5.7 pA/pF on day 1, but only −52.8 ± 7.2 pA/pF on day 2.
+
+Biophysical properties of NaV1.9 currents in human and rat sensory neurons
+
+Recordings were made in solutions chosen to minimize potential contamination of voltage-
+gated Na+ currents by voltage-gated K+ or Ca2+ currents. To facilitate clamp control of 
+voltage-gated Na+ currents, extracellular Na+ was reduced to 35 mM. TTX-sensitive Na+ 
+currents are completely blocked in the presence of 300 nM TTX, which allowed us to record 
+TTX-R Na+ current in isolation. Two approaches were used to isolate NaV1.9 from NaV1.8 
+currents. One was voltage, where a depolarized holding potential (to ~−50 mV) enabled 
+complete inactivation of NaV1.9 channels, but the full availability of NaV1.8 channels. Any 
+inactivation of NaV1.8 currents at −50 mV could be rapidly recovered with a brief (10 ms) 
+hyperpolarizing voltage step to −60 or −70 mV. This allowed digital subtraction of NaV1.8 
+currents from the total current evoked from a holding potential of −120 mV, leaving NaV1.9 
+currents in isolation (Figure 1A). The second approach was with A-803467, which at 10 µM 
+(but not 300 nM), completely blocked NaV1.8 in human DRG neurons (Figure 1B). The 
+currents isolated by both methods evoked from human and rat sensory neurons were grossly 
+comparable, and had a low threshold for activation, demonstrated little fast inactivation at 
+voltage steps >−50 mV, and were comparatively slowly inactivating at voltage steps to more 
+depolarized potentials.
+
+I-V data were collected from 120 human DRG neurons and 89 rat DRG and TG neurons 
+under the same conditions with the same series of protocols. Pooled I-V data normalized 
+to cell capacitance (Figure 1C) revealed a species difference in current density, which was 
+much greater in rat sensory neurons despite the relatively large variability in current density 
+from neuron to neuron. This variance is illustrated in a plot of the current density at −50 mV, 
+where the violin plot is used to illustrate the distribution of current density at −50 mV per 
+cell (with an n = 144 for human and 138 for rat, respectively. This “n” is larger than that for 
+which there were complete I-V data, as some neurons were only studied with a test-pulse to 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 7
+
+−50 mV) and the dot-plot overlaying the violin plot are of the mean current density per rat (n 
+= 25) or human donor (n = 33) (Figure 1C inset).
+
+While difficult to see in the I-V plots, G-V plots normalized to maximal conductance 
+revealed a species difference in the voltage-dependence of current activation as well, which 
+was more hyperpolarized in human DRG neurons. G-V data for each neuron was fitted 
+with a Boltzmann equation to determine Gmax, and this fitted value was subsequently used 
+to normalize each G-V curve prior to pooling. As with Figure 1C, variability in the G-V 
+plots is illustrated in the inset to Figure 1D, where the violin plots include data from single 
+neurons and the overlaying dot plots are average values from individual humans or rats. The 
+V0.5 for activation in human DRG neurons was −63 ± 1.3 mV (n = 30 donors), while that 
+in rat sensory neurons was −58 ± 0.9 mV (n = 25 rats). The difference in V0.5 of activation 
+between groups is significant (p < 0.05). However, there were no differences between groups 
+with respect to the slope of the G-V curves, which was 6.7 ± 0.3 (n = 32) and 6.9 ± 0.3 (n = 
+25) mV/e-fold change in conductance in sensory neurons from human and rat, respectively.
+
+While no power analyses were performed prior to the start of this study to determine the 
+number of donors needed to detect an influence of demographic or other donor variables 
+on current density, we did perform a post-hoc analyses to assess the potential influence of 
+sex, age, and whether the donor had evidence of an opioid use disorder. Given that the rats 
+used in the study were largely a convenience sample where neurons were recovered from 
+otherwise healthy adult rats to be used for other purposes, comparable analyses were not 
+performed on rat neurons. We detected no influence of sex on current density which had 
+a median of −51.5 pA/pF in females (n = 7) and −54.0 pA/pF in males (n = 21, p > 0.05 
+Mann-Whitney Rank Sum Test). Nor was there evidence of an influence of age on current 
+density when donors were analyzed by those younger than 30 and older than 60, where 
+the median was −47.0 in the young (n = 7) and −35.3 in the old (n = 4). Finally, there 
+was no evidence of an influence of an opioid use disorder (OUD) as the density of NaV1.9 
+current in those without evidence of an OUD was −47.6 pF/pF (n = 20), while that in donors 
+with evidence of an OUD was −56.5 pF/pA (n = 20). We were able to assess the influence 
+of ganglia (TG vs DRG) in rat, and no significant influence of ganglia was detected: The 
+median current density was −107 pA/pF in TG (n = 6) and −120.4 pA/pF in DRG (n = 19).
+
+The voltage-dependence steady-state inactivation was qualitatively similar in human (n = 
+70 neurons from 15 donors) and rat (n = 78 neurons from 13 rats) sensory neurons (Figure 
+2A). However, there was a significant difference between human and rat neurons in the 
+V0.5 for inactivation (−44.8±1.1 mV in human vs −53±1.9mV in rat; p < 0.01) (Figure 2B). 
+The variability in the V0.5 for inactivation is illustrated in the inset to Figure 2B, with data 
+plotted as in Figure 1. There was a significant species difference with respect to the fraction 
+of current resistant to steady-state inactivation, which was larger in human neurons (15 ± 
+2.7% vs 9 ± 2.2%, p<0.05). There was also a small but significant species difference in 
+the slope of steady-state inactivation curves which was 9.6 ± 0.6 and 8.1 ± 0.3 mV/e-fold 
+decrease in current availability in human and rat sensory neurons, respectively (p = 0.04).
+
+The kinetics of NaV1.9 current were evaluated with the time constants obtained by a single 
+exponential equation fitted to the rising (activation), decay during sustained depolarization 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 8
+
+(inactivation), and tail currents evoked during with voltage-steps to potentials at which 
+channels were closed (deactivation) of NaV1.9 currents (Figure 3). Current evoked with 
+the protocol used for the generation of I-V/G-V curves were used to determine the voltage-
+dependence of the kinetics of current activation. The current evoked during the conditioning 
+voltage-step in the steady-state inactivation protocol and or during the I-V curve was used 
+to determine the voltage-dependence of the kinetics of current inactivation. A tail current 
+protocol involving a voltage-step to −50mV to evoke NaV1.9 currents, followed by a 
+voltage step to test potentials ranging from −120 to −80mV, was used to determine the 
+voltage-dependence of the kinetics of deactivation.
+
+There was no statistically significant species difference in the kinetics of current activation, 
+when data were analyzed per donor or rat (Figure 3A and B) which had a time constant of 
+6.8 ± 0.4 and 7.9 ± 0.6 at −50 mV in sensory neurons from human and rat, respectively. The 
+variance in the kinetics of activation is illustrated in the inset to Figure 3B with data plotted 
+as per the insets to Figure 1.
+
+There was a small but significant species difference in the kinetics of inactivation which 
+was faster at just about every voltage step in the rat, despite the hyperpolarizing shift in 
+the voltage-dependence of current activation in human DRG neurons (Figure 3C). The 
+variability in this endpoint is illustrated in the data obtained with voltage-steps to −40 mV 
+because it was not possible to detect any inactivation in so many human DRG neurons at 
+−50 mV over the 500 ms voltage step used in the inactivation protocol. Data in the inset to 
+Figure 3C are plotted as in previous figures.
+
+There was also a significant species difference in the kinetics of current deactivation which 
+again was faster in sensory neurons from rat than human (Figure 3D). While data for the 
+full tail-current protocol was only collected on neurons from three humans and three rats, 
+tail currents associated with a voltage step to −120 mV following a test pulse to −50 mV 
+was collected in the majority of neurons studied where the average rate of deactivation 
+was 1.55 ± 0.07 ms/neurons (n = 114) and 1.56 ±0.12 per donor (n = 27) for human 
+sensory neurons and 1.0 ± 0.04 ms/neuron (n = 129) and 1.01 ± 0.07 ms per rat (n = 25) 
+for rat sensory neurons (Figure 3D inset). Researchers have reported slow recovery from 
+inactivation for NaV1.9 in human and rodent DRG neurons [7; 11]. To examine recovery of 
+NaV1.9 current from slow inactivation, NaV1.9 currents in human and rat sensory neurons 
+were evoked at −50 mV from a holding potential of −120 mV at 0.2 Hz, following three 
+minutes at a holding potential of −50 mV (Figure 4A). NaV1.9 currents in human DRG 
+neurons recovered fully from slow inactivation over a process best fitted with a sigmoidal 
+equation, with an average slope of recovery of 95.2 ± 12 s (n = 36 neurons) and a median 
+recovery to 90% of max of 127 s (87 and 182 are the 25th and 75th percentiles). Interestingly, 
+there appeared to be three subpopulations of neurons that could be defined by the time 
+course of recovery (Figure 4B), with the majority 25 of 36, exhibiting a fast recovery 
+from inactivation (recovery to 90% of max in 100 ± 5.8 s), with smaller subpopulations 
+requiring with medium (200 ± 18 s to 90%, n = 6) and slow (349 ± 3.5 s to 90%, n = 
+5) rates of recovery. In contrast, NaV1.9 currents in rat sensory neurons recovered over a 
+process best fitted with a single exponential (Figure 4C). While not as clearly defined as 
+the three subpopulations of neurons in human, there appeared to be three subpopulations 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 9
+
+of rat sensory neurons as well that could be differentiated based on the time-course of the 
+recovery from slow inactivation. In contrast to human DRG neurons, the recovery from slow 
+inactivation in rat sensory neurons was best fitted with a single exponential equation (rising 
+to max), with an average time constant of 245.8 ± 46 s, and a median time to 90% of 
+max of 178s (117 and 257); this median time to 90% of max was significantly slower than 
+that in human DRG neurons (p = 0.01, Mann Whitney Rank Sum Test). Consistent with 
+this difference, NaV1.9 currents in the majority of sensory neurons from the rat (16 of 30) 
+recovered slowly (287 ± 24 s to 90% of max), while others had a medium (127 ± 7.8 s to 
+90%, n = 8) and fast (60.5 ± 4.2 s, n = 6) rate of recovery. The differences in the proportion 
+of neurons with fast, medium, and slow rates of recovery in human and rat sensory neurons 
+was significant (p < 0.01, Chi-Square).
+
+The influence of elevated temperature on NaV1.9 currents
+
+While NaV1.9 was originally considered to function as a subthreshold current [7], more 
+recent evidence from mice suggests that at more physiological temperatures, the kinetics 
+of current activation and inactivation are increased to the point that NaV1.9 contributes to 
+action potential generation [40]. There is also a dramatic increase in current density at more 
+physiological temperatures. To determine the extent to which NaV1.9 currents in human 
+DRG neurons are comparably temperature sensitive, we assessed the impact of raising the 
+bath temperature to 34°C. In some neurons, the temperature was subsequently raised to 
+37°C, to rule out the possibility that the relatively small changes observed in kinetics and 
+density were due to a particularly steep and narrow temperature dependence. Currents were 
+studied in 21 neurons from 5 donors. Increasing the bath temperature from 20°C to 34°C 
+was associated with a small but significant increase in the density of current evoked at −50 
+mV (Figure 5A), from −40.7 ± 5.8 pA/pF to −56.5 ± 9.5 pA/pF, for a 42.1 ± 7.5% increase 
+(Figure 5A). Importantly, the increase an increase in current density was detected in every 
+neuron tested. The increase in current density was not due to a hyperpolarizing shift in the 
+voltage-dependence of current activation, as is seen by the largely overlapping G-V curves 
+generated from current evoked at 20°C and 34°C (Figure 5B). However, the increase in 
+current density was associated with an increase in the current activation and deactivation 
+rates (Figure 5C). The activation rate increased from 6.3 ± 0.5 ms to 3.0 ± 0.3 ms at −50 mV, 
+for more than a 50% decrease (51.7 ± 3.7%) in the tau of current activation (p < 0.01). The 
+rate of current deactivation dropped from 1.03 ± 0.06 ms to 0.54 ± 0.05 ms, for a 47 ± 3.7% 
+decrease in the tau of current deactivation (p < 0.01). However, the small hyperpolarizing 
+shift in current inactivation (Figure 5D), was not significant. Comparable changes were 
+observed in NaV1.9 currents from rat DRG neurons (Figure 5A inset).
+
+In the face of relatively small changes in NaV1.9 currents when the bath temperature was 
+increased from 20°C to 34°C, we sought to determine whether TTX-S INa and TTX-R INa 
+(i.e., NaV1.8) may be comparably resistant to temperature. TTX-S and TTX-R INa were 
+isolated by changing a 500 ms prepulse potential to −100 mV from a holding potential 
+of −50 mV (to inactivate NaV1.9, Figure 6A), and currents were evoked in the same 
+neurons at 20oC and 34oC (Figure 6A). There were significant increases in peak TTX-R 
+and TTX-S INa density from −33.0 ± 4.3 to −47.4 ± 5.9 (p < 0.01) and from −44 ± 5.3 
+pA/pF to −68.4 ± 7.4 pF/pF (p < 0.01), respectively (Figure 6B). The increase in current 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 10
+
+density was associated with an increase in the rate of current activation (Figure 6C) and 
+inactivation (Figure 6D) as reflected by a decrease in the time constants (Tau) of activation 
+and inactivation for both TTX-R and TTX-S INa (although there was a subpopulation of 
+neurons in which the activation rate appeared to slow). While not assessed in TTX-S INa, 
+the rate of deactivation was also increased for TTX-R INa (Figure 6E).
+
+The impact of lidocaine on NaV1.9 currents in human DRG neurons
+
+Given the importance of local anesthetics for local and regional anesthesia we next sought 
+to assess the impact of the prototypical local anesthetic, lidocaine, on NaV1.9 currents in 
+human DRG neurons. Seven neurons from three donors were challenged with concentrations 
+of lidocaine ranging from 0.1 to 3 mM. Peak evoked current at −50 mV in the presence of 
+lidocaine was analyzed as a fractional block, relative to the peak current evoked prior to the 
+application of lidocaine (Figure 7A). Pooled data were fitted with a modified Hill equation 
+to yield an IC50 of 0.93 mM (Figure 7B). This value is considerably higher than our previous 
+estimates for the lidocaine induced block of TTX-S and TTX-R INa in rat DRG neurons, 
+which were 50.2 ± 8.2 µM and 119.5 ± 25 µM, respectively [13].
+
+Modulation of NaV1.9 currents by inflammation mediator in rat and human DRG neurons
+
+Inflammatory mediators such as bradykinin, ATP, histamine, prostaglandin E2, and 
+norepinephrine have been reported to potentiate NaV1.9 current in rodent DRG neurons 
+and contribute to the hyper-excitability of nociceptors observed during inflammatory pain 
+[1; 16; 27; 38]. To examine whether inflammatory mediators can potentiate NaV1.9 current 
+in human DRG neurons, an inflammatory soup (IS) consisting of PGE2 (1 µM), histamine 
+(1 µM), bradykinin (10 µM), and serotonin (1 µM) or control vehicle (0.1% ethanol) was 
+applied to neurons while NaV1.9 current was evoked at −50 mV every 5 seconds. While 
+vehicle had no effect on NaV1.9 current (n=7), IS produced a 50% decrease in current 
+amplitude in 7 of 8 neurons tested (Figure 8A). Pooled G-V data from these neurons 
+suggested that the decrease was due to a drop in peak conductance rather than a depolarizing 
+shift in channel activation (Figure 8B). In contrast to the largely inhibitory influence of IS on 
+NaV1.9 in human DRG neurons, IS resulted in an increase in NaV1.9 currents in 4 of 4 rat 
+DRG neurons tested from two preparations. Vehicle had no detectable influence on NaV1.9 
+currents in 6 of 6 rat DRG neurons tested (Figure 8C).
+
+Discussion:
+
+In the present study we compared the biophysical and pharmacological properties of NaV1.9 
+in human and rat sensory neurons. Our results indicate that while the current properties 
+are qualitatively similar in the two species, there are potentially important differences. 
+These include the distribution of the channel among sensory neurons, current density, 
+voltage-dependence of current activation, voltage-dependence of current inactivation, rates 
+of current inactivation and deactivation, recovery from slow inactivation, and the impact of 
+inflammatory mediators. In addition, we observed a relatively small impact of temperature 
+on both human and rat NaV1.9 currents, largely associated with faster kinetics of activation 
+and inactivation which were comparable in magnitude to the changes observed in human 
+TTX-S and TTX-R INa currents. Finally, we observed a relatively low potency lidocaine-
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 11
+
+induced block of NaV1.9 currents. Our results suggest that while still potentially important 
+in pain, NaV1.9 channels in human DRG neurons may play a larger role in the control of 
+sensory neuron excitability.
+
+Distribution of NaV1.9
+
+Initial reports of NaV1.9 suggested it was preferentially expressed in putative nociceptive 
+sensory neurons based on its expression in small-diameter rat [10; 39] and mouse [32] TG 
+and DRG neurons. RNAseq analysis confirmed that NaV1.9 is enriched in subpopulations 
+of putative nociceptive human DRG neurons, but more widely expressed in multiple 
+subpopulations of sensory neurons [5]. Initial electrophysiological analysis of human DRG 
+neurons confirmed the presence of NaV1.9 currents in small diameter (<30 µm) neurons, 
+although only small diameter neurons were studied [11]. Extending these initial observations 
+we confirmed NaV1.9 currents are present in many (16 of 21) putative nociceptive afferents 
+as defined by capsaicin (300 nM) sensitivity. However, in contrast to the distribution of 
+mRNA encoding NaV1.9, there was little evidence that functional protein was enriched 
+in small diameter human DRG neurons. There was a trend toward a significant negative 
+correlation between cell body capacitance and current density (p = 0.051), but with an R2 
+of 0.03. The fact that NaV1.9 currents were detected in >80% of neurons tested from each 
+donor, regardless of cell body diameter suggests that NaV1.9 may play a larger role in the 
+control of sensory neuron excitability. Interestingly, the density of NaV1.9 currents was 
+relatively stable across donors analyzed by sex, age, or evidence of an opioid-use disorder, 
+suggesting that changes in nociceptive processing observed in these different groups of 
+people are not due to regulation of NaV1.9 current density.
+
+Biophysical properties of human NaV1.9
+
+The dramatically higher current density in rat sensory neurons would suggest the channel 
+plays a more prominent role in the control of sensory neuron excitability in the rat. However, 
+the more hyperpolarized G-V curve in human DRG neurons, combined with the more 
+depolarized inactivation curve indicates that this current contributes to the establishment 
+of resting membrane potential over a broader voltage range in human sensory neurons. 
+Furthermore, the slower rates of current inactivation and deactivation suggest that the current 
+contributes a depolarizing drive over longer periods, and that following an action potential, 
+the current would play a larger role in driving the depolarization needed for a subsequent 
+action potential. The faster rate of recovery from slow inactivation observed in most human 
+DRG neurons would also facilitate the contribution of NaV1.9 to the excitability of human 
+DRG neurons. Importantly, these differences would be maximized in axons and terminals, 
+where differences in membrane capacitance between rat and human sensory neurons are 
+not as large as at the cell soma. Thus, despite the smaller current density in human DRG 
+neurons, the biophysical properties of the current in human DRG neurons suggest the 
+channel may play a larger role in controlling neuronal excitability in the human than in the 
+rat. Consistent with this suggestion, gain [4; 14; 18] and loss [20; 21] of function mutations 
+in human NaV1.9 appear to have a far more pronounced pain phenotype than is observed in 
+the complete knockout of NaV1.9 expression in mice [17; 23; 24; 28; 36].
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 12
+
+While the only previous biophysical characterization of NaV1.9 currents in human DRG 
+neurons involved a relatively limited data set, these authors did observe the hyperpolarized 
+shift in the NaV1.9 G-V curve, relative to that in mouse DRG neurons [11]. The authors 
+suggested that this difference in the G-V was due to differences in the amino acid sequences 
+of the S4 segment [11], which could be responsible for differences in several of the other 
+biophysical properties noted here.
+
+Influence of Temperature
+
+The observation that NaV1.9 may be particularly temperature sensitive [40] was intriguing 
+for a number of reasons, including the implication that the contribution of NaV1.9 to sensory 
+neuron excitability may change dramatically from the relatively cold distal appendages to 
+parts of the neuron sitting at ~37°C. The greater than four-fold increase in current combined 
+with the increase in the kinetics of channel activation at 37°C relative to 20°C suggested 
+NaV1.9 may contribute to action potential generation [40]. Our failure to replicate these 
+previous observations was not due to differences in the temperature range studied (i.e., 
+34°C vs 37°C, as suggested by Figure 5). Differences in results could be due to species 
+differences, given that we used human and rat neurons, while mice were used previously. 
+However, the fact that we also failed to replicate the largely negative impact of temperature 
+on TTX-S and more strikingly TTX-R (NaV1.8) currents previously reported [40], argues 
+against this possibility. That is, in contrast to the ~40% increase in TTX-R INa density we 
+observed, Touska et al reported a 12% decrease in NaV1.8 when the bath temperature was 
+increased from 20°C to 30°C. This would only leave the recording conditions as a possible 
+explanation, where Touska et al used 140 mM Na+ in the bath solution used to record 
+Na+ currents, while we reduced the extracellular Na+ concentration to 35 mM to maintain 
+clamp control over the relatively large NaV currents in rat and human sensory neurons. 
+Regardless, our results suggest that NaV1.9 in humans and rats contributes minimally to 
+changes in nociceptor excitability in response to changes in ambient temperature, at least 
+between 20°C and 37°C, and is unlikely to contribute directly to action potential generation 
+at any temperature.
+
+Impact of lidocaine
+
+Because a relatively small number of neurons were studied with lidocaine with a relatively 
+small number of concentrations, interpretation of our lidocaine results should be made 
+with caution. Nevertheless, our results are largely consistent with those obtained from 
+heterologously expressed human NaV1.9 channels, where the IC50 was 356 µM [22], 
+considerably higher than that for block of NaV1.7 or NaV1.8 channels. Given efficacy of 
+drugs like lidocaine for regional and local anesthesia, our results suggest it is unlikely that 
+NaV1.9 channels contribute to directly action potential initiation or propagation.
+
+Dynamic modulation of NaV1.9 by inflammatory mediators
+
+The observation that NaV1.9 currents were decreased in seven of eight neurons tested, was 
+a surprise given previous results in rodent sensory neurons [1; 3; 27]. These negative results 
+should be viewed with caution, given both the small number of neurons tested and the 
+possibility that the increase in current may develop more slowly [38]. We may have also 
+failed use the right combination and/or concentration of mediators [27]. Nevertheless, our 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 13
+
+Conclusions
+
+results suggest that in contrast to rodents, NaV1.9 may not contribute to acute inflammatory 
+hypersensitivity. On the other hand, given a primary role for NaV1.9 in the regulation 
+of resting membrane potential, and consequently, an influence on excitability secondary 
+to the influence on resting membrane, the impact of a change in NaV1.9 current density 
+and/or voltage-dependence of activation, will depend on the biophysical properties of the 
+other ion channels present in the cell membrane. Even a decrease in NaV1.9 current 
+could lead to an increase in excitability under the right conditions. Consistent with this 
+possibility is the observation that while a small depolarizing shift in the voltage-dependence 
+of NaV1.9 activation is associated with an increase in pain [14], an larger shift in the 
+voltage-dependence of NaV1.9 activation is associated with the loss of pain [20].
+
+Consistent with a previous description of NaV1.9 currents in human DRG neurons [11] 
+several of core biophysical features of these currents, including the low threshold for 
+activation and its persistence are conserved across species. However, we noted a number 
+of potentially important species differences were noted. Most striking among these was 
+the response to inflammatory mediators, which largely decreased currents in human DRG 
+neurons, but increased currents in rat neurons. Whether this difference in current regulation 
+has a differential impact on neuronal excitability, will require further experimentation. 
+However, given that the net effect a change in membrane potential will have on neuronal 
+excitability, and consequently pain, will depend on the biophysical properties of all the other 
+ion channels in the membrane, this observation raises the possibility that more species 
+differences in the density and distribution of ion channels controlling sensory neuron 
+excitability have yet to be revealed. Taken together, these results highlight yet again the 
+importance of the use of human tissue for the validation of potential therapeutic targets prior 
+to the initiation of costly phase I trials.
+
+Acknowledgements:
+
+The authors would like to thank Vidhya Nagarajan, Hannah Hathaway, Chris Scott for technical assistance, the team 
+at the Center for Organ Recovery and Education for their outstanding work in facilitating the recovery of human 
+tissue for research purposes, and most importantly the family of the loved ones whose tissue was used in this study. 
+This work supported by NIH Grants 1R01DE018252 (MSG), R01 NS122784 (MSG), RM1 NS128775 (MSG), and 
+F32NS103231 (JEH).
+
+Data and materials availability:
+
+Yes
+
+References:
+
+[1]. Amaya F, Wang H, Costigan M, Allchorne AJ, Hatcher JP, Egerton J, Stean T, Morisset V, 
+
+Grose D, Gunthorpe MJ, Chessell IP, Tate S, Green PJ, Woolf CJ. The voltage-gated sodium 
+channel Na(v)1.9 is an effector of peripheral inflammatory pain hypersensitivity. J Neurosci 
+2006;26(50):12852–12860. [PubMed: 17167076] 
+
+[2]. Baker MD. Protein kinase C mediates up-regulation of tetrodotoxin-resistant, persistent Na+ 
+
+current in rat and mouse sensory neurones. J Physiol 2005;567(Pt 3):851–867. [PubMed: 
+16002450] 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 14
+
+[3]. Baker MD, Chandra SY, Ding Y, Waxman SG, Wood JN. GTP-induced tetrodotoxin-resistant 
+
+Na+ current regulates excitability in mouse and rat small diameter sensory neurones. J Physiol 
+2003;548(Pt 2):373–382. [PubMed: 12651922] 
+
+[4]. Baker MD, Nassar MA. Painful and painless mutations of SCN9A and SCN11A voltage-gated 
+
+sodium channels. Pflugers Arch 2020;472(7):865–880. [PubMed: 32601768] 
+
+[5]. Bhuiyan SA, Xu M, Yang L, Semizoglou E, Bhatia P, Pantaleo KI, Tochitsky I, Jain A, Erdogan 
+
+B, Blair S, Cat V, Mwirigi JM, Sankaranarayanan I, Tavares-Ferreira D, Green U, McIlvried 
+LA, Copits BA, Bertels Z, Del Rosario JS, Widman AJ, Slivicki RA, Yi J, Woolf CJ, Lennerz 
+JK, Whited JL, Price TJ, Gereau RWt, Renthal W. Harmonized cross-species cell atlases of 
+trigeminal and dorsal root ganglia. bioRxiv 2023.
+
+[6]. Catterall WA, Goldin AL, Waxman SG. International Union of Pharmacology. XLVII. 
+
+Nomenclature and structure-function relationships of voltage-gated sodium channels. Pharmacol 
+Rev 2005;57(4):397–409. [PubMed: 16382098] 
+
+[7]. Cummins TR, Dib-Hajj SD, Black JA, Akopian AN, Wood JN, Waxman SG. A novel persistent 
+
+tetrodotoxin-resistant sodium current in SNS-null and wild-type small primary sensory neurons. J 
+Neurosci 1999;19(24):RC43. [PubMed: 10594087] 
+
+[8]. Dib-Hajj S, Black JA, Cummins TR, Waxman SG. NaN/Nav1.9: a sodium channel with unique 
+
+properties. Trends Neurosci 2002;25(5):253–259. [PubMed: 11972962] 
+
+[9]. Dib-Hajj SD, Black JA, Waxman SG. NaV1.9: a sodium channel linked to human pain. Nat Rev 
+
+Neurosci 2015;16(9):511–519. [PubMed: 26243570] 
+
+[10]. Dib-Hajj SD, Tyrrell L, Black JA, Waxman SG. NaN, a novel voltage-gated Na channel, is 
+
+expressed preferentially in peripheral sensory neurons and down-regulated after axotomy. Proc 
+Natl Acad Sci U S A 1998;95(15):8963–8968. [PubMed: 9671787] 
+
+[11]. Dib-Hajj SD, Tyrrell L, Cummins TR, Black JA, Wood PM, Waxman SG. Two tetrodotoxin-
+
+resistant sodium channels in human dorsal root ganglion neurons. FEBS Lett 1999;462(1–
+2):117–120. [PubMed: 10580103] 
+
+[12]. Fang X, Djouhri L, McMullan S, Berry C, Waxman SG, Okuse K, Lawson SN. Intense isolectin-
+B4 binding in rat dorsal root ganglion neurons distinguishes C-fiber nociceptors with broad 
+action potentials and high Nav1.9 expression. J Neurosci 2006;26(27):7281–7292. [PubMed: 
+16822986] 
+
+[13]. Gold MS, Thut PD. Lithium increases potency of lidocaine-induced block of voltage-gated na(+) 
+currents in rat sensory neurons in vitro. J Pharmacol Exp Ther 2001;299(2):705–711. [PubMed: 
+11602684] 
+
+[14]. Han C, Yang Y, Te Morsche RH, Drenth JP, Politei JM, Waxman SG, Dib-Hajj SD. Familial 
+gain-of-function Nav1.9 mutation in a painful channelopathy. J Neurol Neurosurg Psychiatry 
+2017;88(3):233–240. [PubMed: 27503742] 
+
+[15]. Hartung JE, Moy JK, Loeza-Alcocer E, Nagarajan V, Jostock R, Christoph T, Schroeder 
+
+W, Gold MS. Voltage-gated calcium currents in human dorsal root ganglion neurons. Pain 
+2022;163(6):e774–e785. [PubMed: 34510139] 
+
+[16]. Hockley JR, Boundouki G, Cibert-Goton V, McGuire C, Yip PK, Chan C, Tranter M, Wood 
+JN, Nassar MA, Blackshaw LA, Aziz Q, Michael GJ, Baker MD, Winchester WJ, Knowles 
+CH, Bulmer DC. Multiple roles for NaV1.9 in the activation of visceral afferents by noxious 
+inflammatory, mechanical, and human disease-derived stimuli. Pain 2014;155(10):1962–1975. 
+[PubMed: 24972070] 
+
+[17]. Hoffmann T, Kistner K, Carr RW, Nassar MA, Reeh PW, Weidner C. Reduced excitability 
+
+and impaired nociception in peripheral unmyelinated fibers from Nav1.9-null mice. Pain 
+2017;158(1):58–67. [PubMed: 27780178] 
+
+[18]. Huang J, Estacion M, Zhao P, Dib-Hajj FB, Schulman B, Abicht A, Kurth I, Brockmann K, 
+
+Waxman SG, Dib-Hajj SD. A Novel Gain-of-Function Nav1.9 Mutation in a Child With Episodic 
+Pain. Frontiers in neuroscience 2019;13:918. [PubMed: 31551682] 
+
+[19]. Huang J, Han C, Estacion M, Vasylyev D, Hoeijmakers JG, Gerrits MM, Tyrrell L, Lauria G, 
+
+Faber CG, Dib-Hajj SD, Merkies IS, Waxman SG. Gain-of-function mutations in sodium channel 
+Na(v)1.9 in painful neuropathy. Brain 2014;137(Pt 6):1627–1642. [PubMed: 24776970] 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 15
+
+[20]. Huang J, Vanoye CG, Cutts A, Goldberg YP, Dib-Hajj SD, Cohen CJ, Waxman SG, George 
+
+AL, Jr. Sodium channel NaV1.9 mutations associated with insensitivity to pain dampen neuronal 
+excitability. J Clin Invest 2017;127(7):2805–2814. [PubMed: 28530638] 
+
+[21]. Leipold E, Liebmann L, Korenke GC, Heinrich T, Giesselmann S, Baets J, Ebbinghaus M, Goral 
+RO, Stödberg T, Hennings JC, Bergmann M, Altmüller J, Thiele H, Wetzel A, Nürnberg P, 
+Timmerman V, De Jonghe P, Blum R, Schaible HG, Weis J, Heinemann SH, Hübner CA, Kurth 
+I. A de novo gain-of-function mutation in SCN11A causes loss of pain perception. Nat Genet 
+2013;45(11):1399–1404. [PubMed: 24036948] 
+
+[22]. Lin Z, Santos S, Padilla K, Printzenhoff D, Castle NA. Biophysical and Pharmacological 
+
+Characterization of Nav1.9 Voltage Dependent Sodium Channels Stably Expressed in HEK-293 
+Cells. PLoS One 2016;11(8):e0161450. [PubMed: 27556810] 
+
+[23]. Lolignier S, Amsalem M, Maingret F, Padilla F, Gabriac M, Chapuy E, Eschalier A, Delmas P, 
+Busserolles J. Nav1.9 channel contributes to mechanical and heat pain hypersensitivity induced 
+by subacute and chronic inflammation. PLoS One 2011;6(8):e23083. [PubMed: 21857998] 
+
+[24]. Lolignier S, Bonnet C, Gaudioso C, Noël J, Ruel J, Amsalem M, Ferrier J, Rodat-Despoix L, 
+
+Bouvier V, Aissouni Y, Prival L, Chapuy E, Padilla F, Eschalier A, Delmas P, Busserolles J. 
+The Nav1.9 channel is a key determinant of cold pain sensation and cold allodynia. Cell reports 
+2015;11(7):1067–1078. [PubMed: 25959819] 
+
+[25]. Lu SG, Zhang X, Gold MS. Intracellular calcium regulation among subpopulations of rat dorsal 
+
+root ganglion neurons. J Physiol 2006;577(Pt 1):169–190. [PubMed: 16945973] 
+
+[26]. Luiz AP, Kopach O, Santana-Varela S, Wood JN. The role of Nav1.9 channel in the development 
+of neuropathic orofacial pain associated with trigeminal neuralgia. Mol Pain 2015;11:72. 
+[PubMed: 26607325] 
+
+[27]. Maingret F, Coste B, Padilla F, Clerc N, Crest M, Korogod SM, Delmas P. Inflammatory 
+
+mediators increase Nav1.9 current and excitability in nociceptors through a coincident detection 
+mechanism. J Gen Physiol 2008;131(3):211–225. [PubMed: 18270172] 
+
+[28]. Martinez V, Melgar S. Lack of colonic-inflammation-induced acute visceral hypersensitivity 
+
+to colorectal distension in Na(v)1.9 knockout mice. Eur J Pain 2008;12(7):934–944. [PubMed: 
+18280187] 
+
+[29]. McGaraughty S, Chu KL, Scanio MJ, Kort ME, Faltynek CR, Jarvis MF. A selective 
+
+Nav1.8 sodium channel blocker, A-803467 [5-(4-chlorophenyl-N-(3,5-dimethoxyphenyl)furan-2-
+carboxamide], attenuates spinal neuronal activity in neuropathic rats. J Pharmacol Exp Ther 
+2008;324(3):1204–1211. [PubMed: 18089840] 
+
+[30]. Moy JK, Hartung JE, Duque MG, Friedman R, Nagarajan V, Loeza-Alcocer E, Koerber HR, 
+
+Christoph T, Schröder W, Gold MS. Distribution of functional opioid receptors in human dorsal 
+root ganglion neurons. Pain 2020;161(7):1636–1649. [PubMed: 32102022] 
+
+[31]. Moy JK, Loeza-Alcocer E, Gold MS. Electrophysiological Recording Techniques from Human 
+
+Dorsal Root Ganglion. In: Seal RP, editor. Contemporary Approaches to the Study of Pain: From 
+Molecules to Neural Networks, Vol. 178. New York: Springer, 2022. pp. 115–133.
+[32]. Ogata K, Jeong SY, Murakami H, Hashida H, Suzuki T, Masuda N, Hirai M, Isahara K, 
+
+Uchiyama Y, Goto J, Kanazawa I. Cloning and expression study of the mouse tetrodotoxin-
+resistant voltage-gated sodium channel alpha subunit NaT/Scn11a. Biochem Biophys Res 
+Commun 2000;267(1):271–277. [PubMed: 10623609] 
+
+[33]. Padilla F, Couble ML, Coste B, Maingret F, Clerc N, Crest M, Ritter AM, Magloire H, Delmas 
+
+P. Expression and localization of the Nav1.9 sodium channel in enteric neurons and in trigeminal 
+sensory endings: implication for intestinal reflex function and orofacial pain. Mol Cell Neurosci 
+2007;35(1):138–152. [PubMed: 17363266] 
+
+[34]. Porreca F, Lai J, Bian D, Wegert S, Ossipov MH, Eglen RM, Kassotakis L, Novakovic S, 
+
+Rabert DK, Sangameswaran L, Hunter JC. A comparison of the potential role of the tetrodotoxin-
+insensitive sodium channels, PN3/SNS and NaN/SNS2, in rat models of chronic pain. Proc Natl 
+Acad Sci U S A 1999;96(14):7640–7644. [PubMed: 10393873] 
+
+[35]. Priest BT, Murphy BA, Lindia JA, Diaz C, Abbadie C, Ritter AM, Liberator P, Iyer LM, Kash 
+SF, Kohler MG, Kaczorowski GJ, MacIntyre DE, Martin WJ. Contribution of the tetrodotoxin-
+resistant voltage-gated sodium channel NaV1.9 to sensory transmission and nociceptive behavior. 
+Proc Natl Acad Sci U S A 2005;102(26):9382–9387. [PubMed: 15964986] 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 16
+
+[36]. Ritter AM, Martin WJ, Thorneloe KS. The voltage-gated sodium channel Nav1.9 is required for 
+
+inflammation-based urinary bladder dysfunction. Neurosci Lett 2009;452(1):28–32. [PubMed: 
+19146922] 
+
+[37]. Rugiero F, Mistry M, Sage D, Black JA, Waxman SG, Crest M, Clerc N, Delmas P, Gola M. 
+Selective expression of a persistent tetrodotoxin-resistant Na+ current and NaV1.9 subunit in 
+myenteric sensory neurons. J Neurosci 2003;23(7):2715–2725. [PubMed: 12684457] 
+[38]. Rush AM, Waxman SG. PGE2 increases the tetrodotoxin-resistant Nav1.9 sodium current in 
+mouse DRG neurons via G-proteins. Brain Res 2004;1023(2):264–271. [PubMed: 15374752] 
+
+[39]. Tate S, Benn S, Hick C, Trezise D, John V, Mannion RJ, Costigan M, Plumpton C, Grose D, 
+
+Gladwell Z, Kendall G, Dale K, Bountra C, Woolf CJ. Two sodium channels contribute to TTX-R 
+sodium current in primary sensory neurons. Nature Neurosci 1998;1(8):653–655. [PubMed: 
+10196578] 
+
+[40]. Touska F, Turnquist B, Vlachova V, Reeh PW, Leffler A, Zimmermann K. Heat-resistant 
+
+action potentials require TTX-resistant sodium channels NaV1.8 and NaV1.9. J Gen Physiol 
+2018;150(8):1125–1144. [PubMed: 29970412] 
+
+[41]. Zhang X, Hartung JE, Friedman RL, Koerber HR, Belfer I, Gold MS. Nicotine Evoked Currents 
+
+in Human Primary Sensory Neurons. J Pain 2019.
+
+[42]. Zhang X, Priest BT, Belfer I, Gold MS. Voltage-gated Na+ currents in human dorsal root 
+
+ganglion neurons. eLife 2017;6.
+
+[43]. Zhang XL, Lee KY, Priest BT, Belfer I, Gold MS. Inflammatory mediator-induced modulation 
+
+of GABAA currents in human sensory neurons. Neuroscience 2015;310:401–409. [PubMed: 
+26415765] 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 17
+
+Figure 1. 
+Persistent low threshold sodium currents (INa) present in rat and human sensory neurons. 
+A. Total tetrodotoxin (TTX) resistant voltage-gated INa was evoked in rat sensory neurons 
+from a holding potential of −120 mV in the presence of 300 nM TTX (top trace). NaV1.8 
+currents were isolated from total currents by changing the holding potential to ~−50 mV 
+(middle traces). NaV1.9 currents were isolated by subtracting NaV1.8 currents from total 
+current (bottom traces). B. A second method used to isolate NaV1.9 currents is illustrated 
+in a human DRG neuron, where total TTX-resistant current (top traces) was evoked before 
+the application of A-803467 (10 µM) (bottom traces). In this case, NaV1.8 could be digitally 
+isolated (middle traces) by subtracting the current evoked in the presence of A-803467 from 
+total current. C. Pooled I-V data collected as illustrated in A, and B, were normalized to 
+membrane capacitance. Current density was significantly higher in rat than human sensory 
+neurons. Inset: Current density at −50 mV from all neurons studied was also greater in rat 
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 18
+
+than human. Violin plots are of all human (open) and rat (closed) neurons studied (with 
+median and 25th and 75th quartile indicated), while the overlaying dot plots are of the mean 
+from each donor (tan) or rat (green). The current density was larger in rat than human 
+neurons, even at −50 mV, despite the more depolarized G-V curve. D. Tail currents, or 
+instantaneous G-V data were used to generate G-V curves for each neuron. Each curve 
+was than fitted with a modified Boltzmann equation to estimate Gmax, the potential for 
+half activation (V0.5), and the slope of the G-V curve. G-V data for each neuron was then 
+normalized to the fitted Gmax prior to pooling. Inset, fitted V0.5 data for all neurons in which 
+I-V/G-V data were collected, are plotted in a manner comparable to the current density data 
+in C. There was a small but significant different between species with respect to the V0.5 of 
+activation. In this and subsequent figures ** is p < 0.01 and * is p < 0.05, where the n used 
+for comparisons was the number of rats or donors.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 19
+
+Figure 2. 
+Relatively fast inactivation of NaV1.9 currents evoked in rat and human sensory neurons. 
+A. A 500 ms conditioning pulse to potentials between −120 mV and −10 mV in 10 mV 
+steps was used to assess the voltage-dependence of inactivation in rat (top traces) and human 
+(bottom traces) sensory neurons. A brief (10 ms) hyperpolarizing voltage step to −120 mV 
+was used to close channel prior to assessing the current evoked with a voltage step to −50 
+mV. Inactivation data from each neuron were fitted with a modified Boltzmann curve to 
+estimate the maximal current (Imax), the voltage of half inactivation (V0.5), the slope of the 
+inactivation curve, and the fraction of non-activatable current. The difference in the fraction 
+of non-inactivatable current between rat and human neurons was significant (p < 0.01), as 
+was the V0.5 of inactivation, which was more hyperpolarized in rat neurons (Inset).
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 20
+
+Figure 3. 
+Kinetics of NaV1.9 current activation, inactivation, and deactivation. A. NaV1.9 current 
+evoked from a rat (black trace) and a human (grey trace) sensory neuron have been scaled to 
+peak current. As suggested by the current traces, rates of current activation are comparable, 
+but rates of deactivation are faster in rat sensory neurons. B. The time constant, or tau, of 
+current activation, is plotted as a function of test potential. Inset: Pooled inactivation data for 
+current evoked at −40 mV is plotted as in Figure 1C. C. Current inactivation is significantly 
+faster in rat sensory neurons. D. The time constant, or tau of current deactivation is faster 
+in rat than human sensory neurons. Inset: Pooled deactivation data for current evoked at 
+−50mV with a return to −120 mV, plotted as in the inset to Figure 1C. Current deactivation 
+is significantly faster in rat sensory neurons.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 21
+
+Figure 4. 
+Recovery from slow inactivation. A. Recovery from slow inactivation was monitored with a 
+test pulse to −50 mV evoked at 0.2Hz after the return of the holding potential to −120 mV 
+following 3 minutes at −50 mV to drive slow inactivation of NaV1.9. B. Recovery was best 
+described in human sensory neurons by a sigmoidal process, where recovery in the majority 
+of neurons studied was considered fast (i.e., 90% of max within 100 s), although there were 
+subpopulations in which recovery was medium (i.e., 90% of max within 200 s) or slow (i.e., 
+90% of max in >300 s. C. Recovery of currents in rat sensory neurons was best described 
+with a single exponential, where again, there were neurons that recovered with a time course 
+that would be considered fast, medium, and slow by the criteria used in human sensory 
+neurons. However, the majority of neurons from rat recovered slowly from slow inactivation.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 22
+
+Figure 5: 
+Impact of temperature on NaV1.9 currents. A. NaV1.9 currents in a human sensory neuron 
+evoked at −50 mV at 20°C (black trace) and 34°C (red trace). Inset a’: current density at 
+−50 mV in individual human neurons evoked at 20°C and 34°C. The increase in current 
+density is significant. Inset a”: current evoked in a rat DRG neuron at −50 mV with a bath 
+temperature at 20°C (black trace), 34°C (red trace), and 37°C (orange trace). B. There was 
+no influence of temperature on G-V curves for current evoked in human DRG neurons at 
+20°C and 34°C, which were normalized to Gmax as described in Figure 1. C. Time constant 
+(tau) of current activation and deactivation at 20°C and 34°C. Rates of both channel opening 
+and closing were significantly increased with an increase in temperature. D. There was 
+no influence of temperature on the voltage-dependence of current inactivation in human 
+sensory, which was normalized to the fitted Imax as described in Figure 2.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 23
+
+Figure 6: 
+Impact of temperature on TTX-S and NaV1.8 (TTX-R INa) currents in human DRG neurons. 
+TTX-S and TTX-R INa were isolated in human and rat (not shown) sensory neurons with 
+a voltage-protocol involving a 500 ms hyperpolarizing step to −100 mV to recover TTX-S 
+currents from inactivation. A. Current evoked following the pre-pulse to −100 mV was 
+considered Total current (Total INa, top traces). If the pre-pulse was changed to −50 mV, 
+TTX-R INa was the only currents evoked (middle traces). TTX-S currents were isolated by 
+digitally subtracting NaV1.8 current from Total INa (bottom traces). B. Peak NaV1.8 current 
+(top traces) and TTX-S current (bottom traces) in a human sensory neuron evoked at 20°C 
+(black trace) and 34°C (red trace). C. Increasing the bath temperature from 20°C to 34°C 
+resulted in a significant increase in the peak density of both TTX-R (left panel) and TTX-S 
+(right panel) INa in human sensory neurons. Increasing bath temperature from 20°C to 34°C 
+also increased activation rats (D) and inactivation rates (E) for both TTX-R and TTX-S INa, 
+as well as the deactivation rates for TTX-R INa (F). Comparable results were obtained for rat 
+neurons (not shown).
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 24
+
+Figure 7. 
+Persistent current in human sensory neurons is relatively insensitive to lidocaine. A. Current 
+evoked in a human sensory neuron before (Baseline – black trace) and after (1 mM) the 
+application of 1 mM lidocaine (blue trace). B. Concentration response data for human 
+sensory neurons exposed to lidocaine. Data are evoked current at −50 mV after a stable 
+value had been reached. Pooled data were fitted with a modified Hill equation to estimate 
+the IC50 of lidocaine.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Zhang et al.
+
+Page 25
+
+Figure 8. 
+The impact of inflammatory soup (IS) on NaV1.9 currents in human and rat sensory 
+neurons. A. Persistent current was evoked at −50 mV in human sensory neurons before 
+and then after an IS consisting of PGE2 (1 µM), histamine (1 µM), serotonin (1 µM), and 
+bradykinin (10 µM) or vehicle. Current decreased in 7 of 8 neurons tested with IS, whereas 
+no change was detected in vehicle treated neurons. An increase in current was observed in 
+one of the 8 neurons tested. B. The decrease in current was associated with an apparent 
+decrease in Gmax, with no changes in either the voltage-dependence of activation of the 
+slope of the G-V curve. C. In rat sensory neurons, IS, but not vehicle, was associated with a 
+consistent increase in current evoked at −50 mV.
+
+Pain. Author manuscript; available in PMC 2026 February 01.
+
+ 
+ 
+ 
+ 
+

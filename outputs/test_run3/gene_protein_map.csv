@@ -1,0 +1,16 @@
+source_marker,source_marker_id,hgnc_id,hgnc_symbol,hgnc_name,ncbi_gene_id,ncbi_gene_symbol,pro_id,pro_name,uniprot_ids,uniprot_names,recommended_protein_id,recommended_protein_source,all_synonyms,lookup_status,error_message
+POU4F1,http://identifiers.org/hgnc/9218,HGNC:9218,,,,,,,,,,,,hgnc_not_found,HGNC ID 9218 not found
+CGRP,https://purl.org/ccf/ASCTB-TEMP_cgrp,,,,,,,,,,,,,unresolved,Could not identify ID type or lookup failed
+EDN1,http://identifiers.org/hgnc/3176,HGNC:3176,,,,,,,,,,,,hgnc_not_found,HGNC ID 3176 not found
+SCN9A,http://identifiers.org/hgnc/10597,HGNC:10597,,,,,,,,,,,,hgnc_not_found,HGNC ID 10597 not found
+SCN11A,http://identifiers.org/hgnc/10583,HGNC:10583,,,,,,,,,,,,hgnc_not_found,HGNC ID 10583 not found
+Neurofilament 200 (NF200),https://purl.org/ccf/ASCTB-TEMP_neurofilament-200-nf200-,,,,,,,,,,,,,unresolved,Could not identify ID type or lookup failed
+PRPH,http://identifiers.org/hgnc/9461,HGNC:9461,,,,,,,,,,,,hgnc_not_found,HGNC ID 9461 not found
+PIEZO2,http://identifiers.org/hgnc/26270,HGNC:26270,,,,,,,,,,,,hgnc_not_found,HGNC ID 26270 not found
+receptor tyrosine kinase RET,https://purl.org/ccf/ASCTB-TEMP_receptor-tyrosine-kinase-ret,,,,,,,,,,,,,unresolved,Could not identify ID type or lookup failed
+substance P (SP),https://purl.org/ccf/ASCTB-TEMP_substance-p-sp-,,,,,,,,,,,,,unresolved,Could not identify ID type or lookup failed
+TRPV1,http://identifiers.org/hgnc/12716,HGNC:12716,,,,,,,,,,,,hgnc_not_found,HGNC ID 12716 not found
+VIP,http://identifiers.org/hgnc/12693,HGNC:12693,,,,,,,,,,,,hgnc_not_found,HGNC ID 12693 not found
+TH,http://identifiers.org/hgnc/11782,HGNC:11782,,,,,,,,,,,,hgnc_not_found,HGNC ID 11782 not found
+CHAT,http://identifiers.org/hgnc/1912,HGNC:1912,,,,,,,,,,,,hgnc_not_found,HGNC ID 1912 not found
+NOS1,http://identifiers.org/hgnc/7872,HGNC:7872,,,,,,,,,,,,hgnc_not_found,HGNC ID 7872 not found

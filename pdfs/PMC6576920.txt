@@ -1,0 +1,2178 @@
+The  Journal 
+
+of  Neuroscience, 
+
+June 
+
+1994, 
+
+14(6): 
+
+35403547 
+
+VIP  ModulateS  Neuronal  Nicotinic  Acetylcholine 
+by  a  Cyclic  AMP-Dependent 
+
+Mechanism 
+
+Receptor  Function 
+
+Devorah  Gurantz,’ 
+
+Alec  T.  Harootunian, 
+
+1v2,a Roger  Y.  Tsien,*  Vincent  E.  Dionne,lvb  and  Joseph 
+
+F.  Margiotta3 
+
+of  Pharmacology 
+
+‘Department 
+California  92093  and  3Department  of  Physiology  and  Biophysics 
+School  of  Medicine,  New  York,  New  York  10029 
+
+and  *Howard  Hughes  Medical 
+
+receptors 
+
+the  nervous 
+
+(AChRs)  mediate 
+system, 
+
+synaptic 
+and  are 
+reg- 
+include 
+that 
+In  the  case  of  chick 
+
+interactions 
+
+and 
+pathways. 
+
+activation 
+
+of  the  CAMP-dependent 
+
+within  minutes. 
+
+CAMP 
+
+peptide 
+
+neurons 
+
+nicotinic 
+
+nicotinic 
+
+neurons, 
+
+intestinal 
+
+intracellular 
+
+assays,  we 
+
+processes 
+signaling 
+
+ACh 
+throughout 
+
+pathway 
+in  a  manner 
+
+Neuronal 
+transmission 
+by  cellular 
+ulated 
+second  messenger 
+ciliary  ganglion 
+signaling 
+sitivity 
+of  functional 
+vasoactive 
+“first  messenger” 
+ulates  neuronal 
+ical  detection 
+elevates 
+glion 
+hances 
+recording. 
+appears 
+the 
+increase 
+ACh  sensitivity 
+alog. 
+known 
+pendent 
+CAMP  or  ACh  sensitivity 
+that  VIP  enhances 
+neurons 
+ably  by  interaction 
+immunoreactivity 
+minals  of  avian  ciliary  ganglia, 
+ulate  AChRs 
+
+calcitonin 
+to  regulate  muscle 
+
+in  CAMP,  and 
+produced 
+
+via  a  CAMP-dependent 
+
+The  enhanced 
+
+with  a  short 
+
+In  contrast, 
+
+is  present 
+
+pathway, 
+
+in  vivo. 
+
+neuronal 
+
+latency, 
+
+with  CAMP  analogs 
+consistent 
+
+with  an  increase 
+
+enhances 
+
+receptors. 
+
+We  have  now 
+(VIP)  as  a  neuromodulator 
+
+ACh  sen- 
+in  the  number 
+identified 
+
+or 
+reg- 
+
+pathway 
+
+that 
+and  biochem- 
+
+in  the  CAMP-mediated 
+
+AChRs.  Using  CAMP 
+
+imaging 
+that  bath  application 
+
+find 
+
+in  freshly 
+
+isolated 
+
+The  VIP 
+
+treatment 
+
+ciliary 
+
+of  VIP 
+gan- 
+also  en- 
+
+ACh  sensitivity 
+
+assessed 
+
+with  whole-cell 
+
+ACh  sensitivity 
+similar 
+
+produced 
+
+to  that  associated 
+
+by  VIP 
+with 
+
+is  not  additive  with 
+by  bath  application 
+gene-related 
+
+the  enhanced 
+of  a  CAMP  an- 
+peptide 
+(CGRP), 
+via  a  CAMP-de- 
+AChRs 
+effect  on  levels  of  either 
+indicate 
+results 
+ganglion 
+of  ciliary 
+presum- 
+pathway, 
+Since  VIP-like 
+nerve 
+
+The 
+
+ter- 
+could  mod- 
+
+receptor. 
+the  presynaptic 
+peptide 
+
+in 
+a  VIP-like 
+
+nicotinic 
+has  no  detectable 
+
+in  the  neurons. 
+the  ACh  sensitivity 
+signaling 
+
+with  a  specific 
+
+[Key  words:  ACh 
+
+receptor, 
+
+nicotinic 
+
+receptor, 
+
+regulation, 
+
+ACh 
+receptor 
+trophysiology, 
+
+function, 
+whole-cell 
+
+vasoactive 
+recording, 
+
+intestinal 
+patch 
+
+peptide, 
+
+elec- 
+
+clamp] 
+
+Neuronal nicotinic  ACh  receptors (AChRs) are ligand-gated ion 
+channels that  mediate rapid  synaptic transmission in  the  ner- 
+vous system. Two  types of  neuronal AChR  subunit genes (012- 
+
+Received 
+
+July  8,  1993; 
+
+revised  Nov. 
+
+15,  1993;  accepted  Dec.  21,  1993. 
+
+This  work  was  supported 
+and  DC00256 
+(R.Y.T. 
+
+and  A.T.H.), 
+ical 
+Institute 
+maceutical  Manufacturer’s 
+Scholar  Research  Award 
+dation 
+Spitzer 
+Pardi 
+
+(J.F.M.).  We 
+for  helpful 
+
+for  expert 
+Correspondence 
+
+ology  0357,  University 
+
+and  A.T.H.), 
+
+(V.E.D.), 
+
+by  NIH  Grants  NS244  17 (J.F.M.), 
+and  NS15344 
+
+by  a  predoctoral 
+(D.G.), 
+the  March 
+
+NS27  177  (R.Y.T. 
+by  the  Howard  Hughes  Med- 
+the  Phar- 
+fellowship 
+and  by  Basil  O’Connor 
+Starter 
+of  Dimes  Birth  Defects  Foun- 
+K.  Berg,  Leslie  Blair,  and  Nicholas  C. 
+and  Desiree 
+
+the  manuscript, 
+
+and  comments 
+
+Association 
+
+from 
+
+from 
+
+on 
+
+5-742 
+
+thank  Drs.  Darwin 
+
+discussions 
+
+technical  assistance. 
+
+should  be  addressed 
+of  California 
+
+to  Devorah 
+
+Department 
+at  San  Diego,  La  Jolla,  CA  92093. 
+
+Gurantz, 
+
+of  Bi- 
+
+=Present  address:  NPS  Pharmaceuticals, 
+
+420  Chipeta  Way,  Salt  Lake  City,  UT 
+
+84108. 
+
+bPresent  address:  Boston  University 
+
+Marine  Program,  MBL,  Woods  Hole,  MA 
+
+02543. 
+Copyright 
+
+0  1994  Society 
+
+for  Neuroscience 
+
+0270-6474/94/143540-08$05.00/O 
+
+Institute,  University  of  California  at  San  Diego,  La  Jolla, 
+
+and  Fishberg  Center 
+
+for  Neurobiology,  Mount  Sinai 
+
+a8 and /32-@4) encode proteins that assemble to form oligomeric 
+complexes (reviewed by  Schuetze and Role,  1987; Deneris et 
+al.,  1991; Role,  1992; Sargent, 1993)  possibly in  the  stoichi- 
+ometry  2cu:3@ (Cooper et al.,  1991). The efficiency of transmis- 
+sion at neuronal nicotinic  synapses will  depend on a number of 
+AChR  properties including their single-channel conductance and 
+kinetics, as well as their  distribution,  agonist affinity,  desensi- 
+tization  state, and overall ability  to function. While the observed 
+heterogeneity in  the conductance of  neuronal AChR  channels 
+can be explained by  diversity  in  subunit  composition,  other 
+AChR  properties are regulated posttranslationally by  cellular 
+interactions and mechanisms that  include second messenger- 
+mediated signaling pathways. 
+
+Second messenger pathways typically  culminate  in  protein 
+phosphorylation, which  is known  to  regulate the properties of 
+both  voltage-  and  ligand-gated ion  channels (Levitan,  1988; 
+Levitan  and Kaczmarek,  1991)  including  non-NMDA  gluta- 
+mate receptors (Greengard et al.,  199 1; Wang et al.,  199 1) and 
+nicotinic  AChRs (Huganir et al.,  1986; Miles et al.,  1989; Hu- 
+ganir and Greengard, 1990). Both  the  inositol  phosphate (IP) 
+and  CAMP  signaling pathways have  been shown to  regulate 
+neuronal AChR  function  (reviewed by  Sargent, 1993; Swope et 
+al.,  1993). Using phorbol esters to  mimic  activation  of  the  IP 
+pathway  enhances the  desensitization rate of  AChRs  on chick 
+sympathetic ganglion neurons (Downing and Role, 1987). Sub- 
+stance P (SP), a peptide known to activate  the IP  pathway, has 
+an effect similar to  phorbol esters in  sympathetic (Role,  1984; 
+Simmons et al., 1990) and ciliary  ganglion neurons (Role, 1984; 
+Margiotta  and Berg, 1986). SP may function  as an endogenous 
+AChR  modulator in vivo since SP-like immunoreactivity  is pres- 
+ent in both sympathetic (Hayashi et al.,  1983) and ciliary ganglia 
+(Reiner,  1987). Ciliary  ganglion neurons are also regulated by 
+a CAMP-dependent mechanism (Margiotta  et al.,  1987a; Mar- 
+giotta  and Gurantz,  1989). Treating  the  neurons with  mem- 
+brane-permeant analogs of  CAMP  and a phosphodiesterase in- 
+hibitor  produces a twofold  increase in ACh  sensitivity  within  6 
+hr,  and intracellular  application  of  CAMP  causes a  >60%  en- 
+hancement of ACh  sensitivity  within  minutes. The increase in 
+ACh  sensitivity  is independent of  protein  synthesis and is not 
+accompanied by detectable changes in either AChR  single-chan- 
+nel conductance or kinetics. To  account for  the increase, it  was 
+concluded that  CAMP  triggers a conversion of  nonfunctional 
+AChRs  in  the  neuronal plasma membrane to  a  functionally 
+available state (Margiotta  et al.,  1987a), possibly as a result of 
+CAMP-dependent phosphorylation. The CAMP-dependent con- 
+version hypothesis is consistent with earlier studies showing that 
+only  a small fraction  of surface AChRs on ciliary  ganglion neu- 
+rons is functional  under  control  conditions  (Margiotta  et  al., 
+1987b; Margiotta  and Gurantz,  1989) and that  the phosphor- 
+
+ylation  of  one  AChR  subunit 
+CAMP  analogs  and  phosphodiesterase 
+an  et al.,  1990). 
+
+is  induced  by  incubation  with 
+(Vijayaraghav- 
+
+inhibitors 
+
+In  contrast  with 
+
+the  ability  of  CAMP 
+
+to  enhance  ACh  sensi- 
+tivity  in neurons, elevating CAMP in muscle increases the AChR 
+desensitization rate (Middleton  et  al.,  1988). Calcitonin gene- 
+related peptide (CGRP) is a potent modulator of muscle AChRs 
+that  increases both the rate of AChR  desensitization (Mulle  et 
+al.,  1988) and 
+ylation  (Miles  et al.,  1989). In  addition,  CGRP  immunoreac- 
+tivity 
+is present in  motoneurons (Fontaine et  al.,  1986; New 
+and Mudge,  1986) and in motor  endplate terminals (Takami et 
+al., 1985; Matteoli  et al., 1988) suggesting that the peptide could 
+play  a physiological role in  regulating muscle AChR 
+by  CAMP-dependent 
+
+the  level  of  CAMP-dependent 
+
+AChR  phosphor- 
+
+phosphorylation. 
+
+function 
+
+Until 
+
+now,  modulators 
+
+or  “first  messengers” 
+
+that 
+
+regulate 
+
+neuronal AChRs via the CAMP  signaling pathway have not been 
+identified.  Vasoactive  intestinal  peptide  (VIP)  can  modulate 
+neuronal nicotinic  transmission presynaptically  by  enhancing 
+ACh  release (Takahashi et  al.,  1992)  and postsynaptically by 
+increasing the excitability  of myenteric neurons (Willard,  1990). 
+VIP-like  immunoreactivity  is observed in  nerve terminals dis- 
+tributed  throughout  the  nervous system (Power et  al.,  1988; 
+Sundler et al.,  1988; reviewed by Gozes and Brenneman, 1989) 
+and is often colocalized with  ACh  (Hockfelt  et al.,  1980; Lund- 
+berg, 1980; Eckenstein and Baughman, 1984; Whittaker,  1989), 
+as occurs in preganglionic 
+(Reiner, 1987). The colocalization with ACh suggests that a VIP- 
+(Said,  1986; 
+like  peptide  may  act  as  a  cholinergic 
+Willard,  1990) since VIP  is known to be released from  presyn- 
+aptic  terminals by  depolarization  (Giachetti  et  al.,  1977; re- 
+viewed by  Whittaker,  1989). In  addition,  VIP  has been shown 
+to increase levels ofintracellular  CAMP in brain and sympathetic 
+ganglia 
+1982),  pre- 
+sumably by  interacting with  a specific receptor coupled to a G,- 
+protein. 
+
+of  the  avian  ciliary  ganglion 
+
+et  al.,  1979;  Volle 
+
+and  Patterson, 
+
+cotransmitter 
+
+terminals 
+
+(Borghi 
+
+Since both  VIP  and  CGRP  are  present 
+
+in  cholinergic 
+
+terminals 
+
+of  intracel- 
+
+of  VIP  causes  elevation 
+
+and are thus well  positioned to  act  as modulators, we tested 
+their  ability  to  regulate AChRs on ciliary  ganglion neurons via 
+the  CAMP-dependent  pathway.  Using  a  recently  developed 
+CAMP  imaging technique (Adams et  al.,  199 1,  1993) we now 
+show that  bath  application 
+lular  CAMP  in  the  neurons within  a few minutes. Whole-cell 
+recordings reveal that VIP  enhances ACh-induced conductance 
+responses 
+that 
+the increase in ACh  sensitivity  produced by VIP  is not additive 
+with 
+CAMP).  In  contrast with  the effects of VIP,  bath application of 
+CGRP  has no detectable effect on either CAMP  or ACh  sensi- 
+tivity 
+neuronal  ACh  sensitivity 
+way 
+
+that  VIP  enhances 
+signaling  path- 
+in  vivo. 
+
+via  a CAMP-dependent 
+in  modulating 
+account  of  the  findings  has  appeared 
+
+in  the  neurons  with  a  similar 
+
+that  could  be  involved 
+
+time  course,  and 
+
+of  8-bromo-CAMP 
+
+that  produced 
+
+by  application 
+
+the  neurons. 
+
+(Gurantz 
+
+indicate 
+
+AChRs 
+
+results 
+
+(8Br- 
+
+The 
+
+in 
+
+A  preliminary 
+
+et  al.,  1991). 
+
+Materials  and  Methods 
+Neuron  isolation.  Ciliary  ganglion  neurons  were  freshly  dissociated  from 
+embryonic  day  13-l  4 (E 13,14)  chick  embryos  using  collagenase-A 
+treat- 
+ment  and  mechanical 
+in  detail  else- 
+where  (Margiotta  and  Gurantz,  1989;  Gurantz  et al.,  1993).  E13,14  was 
+chosen  because  at this  stage the  yield  of intact  neurons  is high  (75-80%) 
+and  the  neurons  express  large  nicotinic  ACh  responses  that  are  strongly 
+
+procedures  described 
+
+trituration 
+
+The  Journal 
+
+of  Neuroscience, 
+
+June 
+
+1994, 
+
+74(6) 
+
+3541 
+
+(Margiotta  and  Gurantz, 
+enhanced  by  a  CAMP-dependent  mechanism 
+1989).  Dissociated  neurons  were  plated  onto  glass  or  plastic  surfaces 
+precoated  with  poly-D-lysine.  Plating  densities  were  two  ganglion  equiv- 
+alents (about 8  x  lo3 cells) per 15mm-diameter glass coverslip, or 5- 
+1 5 ganglion  equivalents  per  35-mm-diameter 
+plastic  culture  dish.  Before 
+any  studies  were  performed, 
+the  neurons  were  incubated  at  37°C  in 
+(see below)  supplemented  with  10%  horse  serum  for 
+recording  solution 
+24  hr. 
+
+currents  were  obtained 
+
+Electrophysiology.  Whole-cell 
+
+from  ciliary 
+recording  methods 
+ganglion  neurons  held  at  -  70 mV  using  patch-clamp 
+as  previously  described 
+(Hamill  et  al.,  1981;  Margiotta  and  Gurantz, 
+1989).  Neurons  were  examined  on  glass coverslips  at room  temperature 
+(2 l-24°C)  using  Nomarski  optics  at  500  x  magnification.  The  recording 
+solution  contained 
+(in  mM)  NaCl,  145.0;  KCl,  5.3;  CaCl,,  5.4;  MgCl,, 
+0.8;  glucose,  5.6;  and  HEPES,  5.0;  pH  7.4.  For  ACh  trials,  the  patch 
+(in  mM)  CsCl,  145.6;  CaCl,,  1.2; EGTA,  2.0; 
+pipette  solution  contained 
+glucose,  15.4:  Na  HEPES.  5:  DH  7.3.  KC1  was  substituted 
+for  CsCl.  in 
+cases where  direct  effects of  ‘VIP  were  assessed. Depending  on  the  par- 
+ticular  experiment,  stock  solutions  of  chick  or  porcine  VIP,  or  chick 
+in  100  PM  aqueous  aliquots)  were  added 
+CGRP  (all  stored  at  -20°C 
+directly  to  the  recording  solution 
+final  concen- 
+trations.  8Br-CAMP  was  added  directly  to  recording  solution.  Neurons 
+were  incubated  with  the  peptides  or  8Br-CAMP  at  37°C  for  10-l  5  min 
+assay, which  was 
+to  and  then  throughout 
+prior 
+performed  at  room  temperature 
+
+the  electrophysiological 
+for  up  to  1 hr. 
+
+to  yield  the  appropriate 
+
+conductance 
+
+to  activate  maximally 
+
+(Axopatch  1B  or  lC,  Axon 
+
+Instruments,  Burlingame;CA). 
+
+Whole-cell  currents  were  induced  by  applying  0.5  or  1.0  mM  ACh 
+to  individual  neuron  somata  with  pres- 
+dissolved  in  recording  solution 
+at  0.35-0.70  kg/cm*  (5-10  psi).  ACh  applied  at  0.5 
+sure  microperfusion 
+the  AChR 
+or  1.0  mM  was  previously  shown 
+population  on  E 13,14  ciliary  ganglion  neurons  (Margiotta  and  Gurantz, 
+1989).  The  ACh-induced 
+currents  were  recorded  using  an  Axopatch 
+amplifier 
+four-Dole 
+The  currents  were  filtered  at  5  kHz  using  the  patch  amnlifier’s 
+Bessel  filter,  and  digitized  at  lOO-250-psecintervals-with 
+a  Cheshire 
+data  interface  (Indec  Systems, Inc.,  Sunnyvale,  CA)  and  laboratory  com- 
+puter  equipped  with  an  LSI-1  l/73  central  processor  (Digital  Equipment 
+Corp.,  Maynard,  MA).  The  whole-cell 
+for  each  digitized 
+current  value  was  determined  off line  as previously  described  (Gurantz 
+et al.,  1993).  Since  AChRs  on  the  neurons  desensitize  during  prolonged 
+from  the  maximal 
+agonist  application,  ACh  sensitivity  was  quantified 
+peak  conductance  at  time  t =  0  (G,).  For  each  cell,  G,, was  obtained  by 
+the  transformed  conductance  versus  time  records  to  time 
+extrapolating 
+t =  0  by  visual  fitting  with 
+functions  that  describe  the 
+for  differences  in 
+fast and  slow  processes  of  desensitization.  To  control 
+neuron  membrane  area,  each  G,  value  was  normalized 
+to  the  cell’s 
+just  before  the  ACh  trial.  The 
+membrane  capacitance  (C,,,) determined 
+normalized 
+conductance  values  (G,, =  G,/C,,)  thereby  provide  a measure 
+of the  peak  ACh  response  density  integrated  over  the  entire  functional 
+on  the  cell’s  plasma  membrane.  For  El  3,14  ciliary 
+AChR  population 
+the  G,, responses  were  normally  distributed,  and  are 
+ganglion  neurons, 
+expressed  here  as  mean 
+t  standard  error  of  the  mean  (SEM).  ACh 
+sensitivity  was  also  calculated  as  a  percentage  +  SEM  of  the  mean 
+control  G,  for  each  experiment.  Statistical  significance  of  differences 
+treated  and  control  neurons  was  determined  by  Student’s  un- 
+between 
+t test, or  for  comparisons  of more  than  two  conditions, 
+paired,  two-tailed 
+by  analysis  of  variance  (ANOVA) 
+computer  program 
+using  an  INSTAT 
+(Graphpad,  San  Diego,  CA). 
+
+two  exponential 
+
+into 
+
+injected 
+
+fluorescein 
+
+Fluorescence 
+
+isothiocyanate  and 
+
+labeled  with 
+isothiocyanate, 
+
+imaging  of unbound  CAMP  in  single  neurons.  Changes 
+labeled 
+in  free  intracellular  CAMP  were  monitored  with  a  fluorescent 
+reporter  enzyme 
+isolated  E 13,14  neurons  as  previously 
+described  (Gurantz  et al.,  1993).  The  method  utilizes  recombinant  cat- 
+(R)  subunits  of  mammalian  protein  kinase  A 
+alytic  (C)  and  regulatory 
+tetra- 
+(PKA)  covalently 
+methylrhodamine 
+respectively  (FlCRhR;  Adams  et  al., 
+199 1,  1993).  In  the  absence  of CAMP,  the  subunits  of  PKA  exist  as an 
+R,C,  holoenzyme  complex  that  holds  the  dye moieties  sufficiently  close 
+together  such that  excitation  of the  fluorescein  donor  results  in  emission 
+from  the  rhodamine  acceptor  by  resonance  energy  transfer.  Increased 
+levels of CAMP  cause the  subunits  to dissociate.  oreventine  enerev trans- 
+fer and  resulting 
+imensi&  at  two 
+in  an  increase  in  the  ratio  of emission 
+excitation  wavelengths:  500-530  nm  for  fluorescein  versus  >570  nm 
+for  rhodamine.  Because  the  imaging  assay  involves  CAMP  binding 
+to 
+an  enzyme,  the  relationship  between  free [CAMP]  and  fluorescence  emis- 
+in  Adams  et al.,  1993). 
+sion  ratio  is expected  to  be  saturable  (described 
+can  be  done  in  intact  cells 
+Calibration 
+
+of  CAMP-FlCRhR 
+
+interaction 
+
+3542 
+
+Gurantz 
+
+et  al.  -  Rapid 
+
+Modulation 
+
+of  Neuronal 
+
+AChRs 
+
+by  VIP 
+
+(IBMX, 
+
+diesterase  inhibitor 
+at  the  end  of  each  experiment 
+CAMP.  The 
+IBMX 
+
+few  neurons 
+
+1 mM)  was  employed  as a positive  control 
+to  verify  that  injected  cells  could  elevate 
+that  failed  to  display  increased  CAMP  after 
+
+treatment  were  considered  damaged  and  not  studied  further. 
+
+for  binding 
+
+Determining 
+
+total  cellular  CAMP.  Total  cellular  CAMP  (bound  plus 
+between  unlabeled,  cellular 
+free)  was  determined  by  the  competition 
+CAMP  and  a  fixed  quantity  of  ‘H-labeled  CAMP 
+to  bovine 
+PKA  using  an  assay kit.  Briefly,  E 13,14  ciliary  ganglion  neurons  were 
+isolated  and  plated  at  5-l  5 ganglion  equivalents/dish  on  35  mm  culture 
+dishes  coated  with  poly-o-lysine 
+in  recording  solution  supplemented 
+with  10%  horse  serum.  Prior  to  the  assay, the  neurons  were  incubated 
+recording  solution  alone,  with 
+for  10  min  at  37°C  with  supplemented 
+(20  FM), 
+forskolin 
+the  same  solution  containing  VIP  (1  ~MM),  or  with 
+which  directly  activates  adenylyl  cyclase and  served as a positive  control. 
+Following 
+test  agents,  the  medium  was  removed  and 
+1  ml  of  70%  ethanol  added  to  lyse  the  cells  and  extract  CAMP.  The 
+from  tubes  containing 
+amount  ofcAMP  was  determined 
+the  1 ml  extract 
+according 
+instructions  after  constructing  a  stan- 
+to  the  manufacturer’s 
+dard  curve  in  parallel  with  known  amounts  of  CAMP  ranging  from  0.2 
+to  16.0  pmol/tube. 
+
+incubation  with 
+
+Materials.  Fertilized  White  Leghorn  chicken  eggs were  obtained 
+
+from 
+
+McIntyre  Poultry  Farms  (San  Diego,  CA)  and  from  Spaffas (Norwich, 
+CT).  Horse  serum  was  nurchased  from  Gemini  Bio-Products 
+(Calabas- 
+(Indianapolis, 
+from  Boehringer  Mannheim 
+sas: CA)  and  collagenase-A 
+and  forskolin 
+IN).  Acetylcholine  chloride,  poly-o-lysine  hydrobromide, 
+were  obtained 
+from  Sigma  Chemical  Co.  (St.  Louis,  MO).  Glass  cov- 
+erslips  (#2,  15  mm  diameter)  were  purchased  from  Propper  Glass  Com- 
+pany  (Long  Island  City,  NY),  and  glass capillary  tubing  (Coming  #8 16 l), 
+from  Gamer  Glass  (Claremont,  CA).  VIP  and  CGRP  were  obtained 
+from  Peninsula  Laboratories 
+kit  (TRK.432)  was  purchased  from  Amersham 
+
+(Belmont,  CA).  The  ‘H-based  CAMP  assay 
+(Arlington  Heights,  IL). 
+
+Results 
+increases intracellular  levels offree  CAMP.  We  used  CAMP 
+VIP 
+(Adams et  al.,  1991, 1993) to  monitor  the effects of 
+imaging 
+VIP  and CGRP application on levels of free intracellular CAMP 
+in  individual  ciliary  ganglion neurons. In  16 of  17 neurons in- 
+jected  with  the fluorescent labeled reporter  enzyme FlCRhR, 
+subsequent bath application of 1 PM  VIP  caused a rapid increase 
+in  fluorescence ratio,  indicative  of  increased free intracellular 
+CAMP.  The signal was maximal after  l-2  min (Figs. 1, 2A)  and 
+was usually sustained in the presence of VIP  for  at least 30 min. 
+Similar results were obtained after the application of 2 mM 8Br- 
+CAMP,  a membrane-permeant CAMP  analog (data not  shown). 
+Application  of the phosphodiesterase inhibitor  IBMX  (l-2  mM) 
+also produced a CAMP  increase (Figs. 1, 2A)  that  appeared to 
+saturate the reporter enzyme since addition of 2 mM 8Br-CAMP 
+did not increase the fluorescence ratio signal further (not shown). 
+Application  of 20 PM 
+forskolin, which activates adenylyl cyclase 
+directly (Seamon and Daly,  1986) also produced increased CAMP 
+levels that  were similar in  magnitude to those seen with  IBMX 
+(n =  4 neurons; data not  shown). In  contrast with  the effects of 
+VIP,  IBMX,  and forskolin,  1 FM  chick CGRP did  not increase 
+intracellular CAMP  lcvcls above baseline. In  12 neurons tested, 
+bath  application of  CGRP  caused no detectable change in the 
+level  of  free  CAMP  after  l-10  min,  while  IBMX 
+induced a 
+substantial increase in  the same cells (e.g., Fig.  2B). 
+
+The ability  of  VIP  to  increase the  level  of  free cytoplasmic 
+CAMP in individual  ciliary ganglion neurons was confirmed with 
+a competitive binding assay that measures the total cellular level 
+of CAMP  (bound plus free) in the neurons. Dissociated neurons 
+were incubated in duplicate dishes at 5-l  5 ganglion equivalents/ 
+dish for  10 min in  recording solution supplemented with  10% 
+horse serum, or in  the same solution containing VIP  (1 WM)  or 
+forskolin (20 PM). 
+In  three separate experiments, the mean CAMP 
+level was significantly higher by  more than twofold  (p  <  0.05) 
+in  neurons treated  with  1 FM  VIP  (266  f  62 fmol/ganglion) 
+
+ciliary  gan- 
+Fq-ure  I.  VIP  increases  levels  of  free CAMP  in  individual 
+the  PKA 
+glion  neurons.  Ciliary  ganglion  neurons  were  injected  with 
+fluorescence  microscopy. 
+reporter  enzyme  FlCRhR  and  examined  with 
+the  ratio  of  fluorescein 
+The  figure  shows  pseudocolor 
+to  rhodamine  emission  (500-530  nm:570  nm)  in  a single  ciliary  ganglion 
+neuron  during 
+the  control  period  (top),  1 min  following 
+1  UM  chick  VIP  (middle).  and  following 
+(bottom).  The  change  in’  color 
+applications 
+
+the  addition  of  1  mM  IBMX 
+the  red  during  VIP  and  IBMX 
+
+in  free  intracellular  CAMP. 
+
+indicates  an  elevation 
+
+images  depicting 
+
+the  addition  of 
+
+toward 
+
+to  obtain  estimates  for  CAMP 
+bration  was  not  performed  here.  Instead,  since  the  imaging 
+structive,  has  good  spatial  and  temporal 
+rather  than  total  [CAMP],  we  used  the  assay to  determine  qualitatively 
+if  candidate 
+in  individual 
+
+levels  (Adams  et  al.,  1993).  A  full  cali- 
+is  nonde- 
+resolution,  and  measures  free 
+
+first  messenger  molecules  change  intracellular  CAMP  levels 
+cells,  and  to  estimate  the  time  course  of  the  changes. 
+
+Ciliary  ganglion  neurons 
+
+from  E13,14  chick  embryos  were  isolated 
+as described  above  and  plated  in  35  mm  culture  dishes  that  were  fitted 
+with  glass coverslip  bottoms  precoated  with  poly-D-lysine.  FlCRhR  (in 
+25  mM  K,PO,,  1 mM  EDTA,  0.5  mM  P-mercaptoethanol, 
+2.5%  glycerol, 
+into  cells  by  manual  pressure  injection.  Final 
+pH  7.3)  was  introduced 
+protein  concentrations  were  0.2-2.0 
+PM,  based  on  injection  of  l-10% 
+oftotal  cell  volume.  Cells  were  given  at least  30  min  to  recover  following 
+microinjections.  A  baseline  for  the  fluorescence  emission  ratio  (Adams 
+for  each  cell  by  repeated  measure- 
+et  al.,  199 1,  1993)  was  determined 
+ments  for  10 min.  Recording  solution  containing 
+the  test agent  was  then 
+applied,  and  the  fluorescence  emission 
+ratio  measurements  were  con- 
+tinued 
+for  another  5-30  min.  Chick  and  porcine  VIP  vary  slightly  in 
+their  amino  acid  sequence  (Mutt  and  Said,  1974;  Nilsson,  1975),  but 
+in  their  effects on  ciliary  ganglion 
+since  they  did  not  differ  dctcctably 
+from  both  forms  were  pooled.  A  phospho- 
+results  obtained 
+neurons, 
+
+The  Journal 
+
+of  Neuroscience, 
+
+June 
+
+1994, 
+
+14(6) 
+
+3543 
+
+-  Control 
+
+1 .o 
+0 
+
+i  CGRP 
+; 
+(111M) 
+I 
+10 
+
+; 
+; 
+I  , 
+20 
+Time  (min) 
+
+IBMX 
+
+(ImM) 
+
+30 
+
+- Control 
+
+2.0 ’ 
+0 
+
+I  VIP  (111M) 
+I  I 
+10 
+
+20 
+Time  (min) 
+
+i 
+
+IBMX  (ImM) 
+
+30 
+
+Figure  2.  VIP,  but not CGRP, rapidly increases free CAMP levels in ciliary ganglion neurons. Experimental results are presented as the emission 
+intensity ratio of fluorescein to rhodamine (500-530 nm:570 nm) for two separate neurons plotted against time. Following a control period, 1 PM 
+chick VIP  (A) or 1 PM  chick CGRP (B) was applied. For VIP, the ratio increased in 16 of 17 cells tested (e.g., A) indicating an increase in neuronal 
+CAMP concentration. Application of CGRP produced no detectable change of the ratio in 12 cells tested (e.g., B). Addition of 1 mM IBMX  resulted 
+in increased CAMP levels in the neurons following both types of treatments (A and B). The ratio measurements were taken at about 1 min intervals, 
+and the data points representing each ratio value were connected. The dashed  vertical  lines  separate the different treatments and are drawn at the 
+time of drug addition. 
+
+than  in  untreated controls (125  f  22 fmol/ganglion). Raising 
+the VIP  concentration from  1 PM 
+to  10 PM  produced only  a lO- 
+20% additional increase in CAMP accumulation (data not shown), 
+suggesting that  1 PM  VIP  is a near-maximal dose. Using the 
+forskolin also produced a robust increase in 
+same assay, 20 PM 
+total  CAMP levels to >4000  fmol/ganglia. Both the imaging and 
+the competition binding experiments reveal that brief exposures 
+to  VIP  lead to  increased levels of  CAMP  in  the  neurons. The 
+imaging experiments further indicate that VIP  elevates free neu- 
+ronal CAMP,  and suggest that  such elevation can account for  at 
+least some of the total  increase. 
+
+ACh  sensitivity.  We  next  examined the  ability  of  VIP  and 
+CGRP  to  enhance neuronal ACh  sensitivity.  Previous studies 
+showed that  ACh  at concentrations of  0.5-1.0  mM maximally 
+activated functional AChRs on El 3,14 ciliary ganglion neurons, 
+and that  such responses are enhanced twofold by incubating the 
+neurons with  8Br-CAMP  and IBMX 
+for  6  hr  (Margiotta  and 
+Gurantz,  1989). Since CAMP  levels were increased within  min- 
+utes by  VIP  (Figs. 1, 2) and 8Br-CAMP  but  not  by  CGRP,  we 
+compared the ability  of  8Br-CAMP,  VIP,  and CGRP  to  alter 
+ACh  responses of  ciliary  ganglion neurons following  brief  in- 
+cubations. Freshly dissociated E 13,14 ciliary  ganglion neurons 
+were incubated at  37°C for  lo-15  min,  either in recording so- 
+lution  alone or  in  recording solution  containing VIP  (1  PM), 
+CGRP  (1 PM),  or  8Br-CAMP  (2  mM). The  neurons were then 
+tested for  responses to  ACh  in  the  presence of  the same con- 
+centration  of test agents at room temperature. Consistent with 
+their  effects on intracellular  CAMP  levels, both  VIP  and 8Br- 
+CAMP  significantly  increased the  peak ACh-induced  conduc- 
+tance and  the  maximal  conductance (G,)  following  the  brief 
+incubations (Fig.  3). In  52 neurons treated with  VIP  for  a total 
+of  1 O-60 min, the maximal conductance response in VIP-treated 
+neurons normalized per unit  membrane capacitance (G,)  was 
+6.53  +  0.55 nS/pF,  compared with  4.35  ?  0.31 nS/pF  for  55 
+
+untreated controls (p  <  0.001). The  ability  of  VIP  to  enhance 
+the ACh  response did not appear to result from  a direct change 
+in resting membrane conductance. Application  of recording so- 
+lution containing 1 PM  VIP  induced only a small outward current 
+of  2040  pA  (n  =  6 neurons) that  coincided with  the pressure 
+pulse, and was not  detectably  different  from  the  current  pro- 
+duced by application of recording solution alone. The magnitude 
+of  the  increase in  ACh  response produced by  VIP  was also 
+expressed relative to the mean G, for  untreated control neurons 
+in  the  same experiment.  Using this approach, the mean ACh 
+response was seen to  increase by  52 +  11% after neurons were 
+treated with  VIP  (Fig.  3B, Table  1). A  similar enhancement of 
+80  f  17% was observed after  brief  incubations in  8Br-CAMP 
+(Fig. 3B, Table 1). The 80% increase in neuronal ACh  sensitivity 
+following treatment with  8Br-CAMP  is in good agreement with 
+the 66% increase reported previously  for  ciliary  ganglion neu- 
+
+Table  1.  VIP  and  SBr-CAMP  enhance  neuronal  ACh  sensitivity 
+
+Treatment 
+
+VIP  (1  PM) 
+Control 
+SBr-CAMP (2 mM) 
+Control 
+CGRP (1 PM) 
+Control 
+
+ACh response 
+(% of control) 
+
+ll* 
+152  + 
+100 ?  6 
+180 
+k  17* 
+100 f  6 
+120 ?  15 (NS) 
+100 2  18 
+
+# Neurons 
+
+52 
+55 
+39 
+44 
+15 
+14 
+
+conditions 
+conductance 
+
+ACh 
+centage (+SEM) 
+ACh 
+control 
+conditions 
+listed. 
+and  control  ACh 
+
+(CGRP 
+and 
+
+responses  under 
+
+the 
+of  the  normalized 
+
+indicated 
+
+are  expressed 
+response 
+
+(G,  =  G,/C,) 
+
+experiments), 
+treated  neurons 
+
+or  1 .O rnM  ACh 
+from  3-10 
+*  Significant 
+difference 
+responses;  NS  indicates  no  significant 
+
+experiments 
+individual 
+(p  <  0.001)  between 
+
+difference 
+
+(all  others).  Data  were  compiled 
+
+as  the  mean  per- 
+to  0.5  mM 
+for 
+for  each  of  the 
+
+the  experimental 
+(p  >  0.05). 
+
+3544 
+
+Gurantz 
+
+et  al.  -  Rapid  Modulation 
+
+of  Neuronal 
+
+AChRs 
+
+by  VIP 
+
+A 
+
+nS 
+mQ- 
+
+B 
+
+250 l- 
+
+200 
+
+150 
+
+100 
+
+50 
+
+0 
+
+nS 
+
+\ 
+
+Contro 
+
+1 
+
+VIP 
+
+(1lJM) 
+
+4  set 
+
+0 
+
+VIP 
+* 
+
+8BrcAMP 
+
++ 
+
+J 
+
+saline  containing 
+
+(left)  and  one  treated  (right)  neuron 
+
+following  brief  exposure  to  VIP  and  SBr-CAMP.  A,  Neurons  were  preincubated 
+temperature 
+
+chick  VIP  (1  PM)  at  37°C  and  then  tested  at  room 
+1 PM  VIP).  The  total  exposure  time  to  VIP  was  10-60  min.  Neurons  were  held  in  the  whole-cell 
+
+for  10  min  in 
+Figure  3.  Neuronal  ACh  responses  are  enhanced 
+(also 
+supplemented 
+configuration  at  -70  mV  and  were 
+containing 
+at time  t  =  0,  for  about  4  sec. ACh  induced  whole-cell  conductance  responses  that  are  displayed 
+challenged  with  1 mM  ACh  by  rapid  microperfusion 
+for  one  control 
+response 
+from  the  same  experiment. 
+activated  rapidly  and  then  decayed  in  the  continued  presence  of ACh  due  to  receptor  desensitization.  The  two  dashed  curves in  each  record  represent 
+fast and  slow  exponential  components  of desensitization,  and  the  solid  curve fitted  to  the  conductance  decay  is their  sum.  G,  represents  the  maximal 
+value  of  the  whole-cell  conductance  obtained  by extrapolating 
+to  time  t  =  0  when  ACh  application  began.  C,,, is  membrane 
+the  fitted  conductance 
+capacitance,  and  G,  represents  the  quotient  G,/C,.  For  the  control  cell  depicted,  G,, =  130.7  nS,  C,  =  29.2  pF,  and  G,  =  4.5  nS/pF,  for  the  VIP- 
+treated  cell  depicted,  G,  =  262.0  nS,  C,,, =  22.5  pF,  and  G,  =  11.6  nS/pF.  B,  Quantitation  of  ACh  responses  following  brief  and  sustained  exposure 
+for  each 
+to  VIP  or  8Br-CAMP.  Size-normalized 
+experiment.  Each  value  is  a  mean  2  SEM  of  39-55  G,  values  from  neurons  obtained 
+from  control  (open  bars),  VIP  (vertical  striped  bar),  or  8Br- 
+CAMP  (horizontal 
+(lo-60  min)  with  VIP  or  8Br-CAMP  enhanced  ACh  responses  by  about  50%  and  80%, 
+respectively,  relative 
+
+conductance  values  (G,  =  G,/C,J  obtained  as in  A  above  were  converted  to  percentage  of  control 
+
+to  untreated  controls.  The  asterisks  indicate  p  <  0.00  1, by  Student’s  t  test. 
+
+In  these  and  all  other  cases, the  whole-cell  conductance 
+
+for  ACh  responses  in  recording  solution 
+
+striped  bar)  groups.  Brief  treatments 
+
+rons 
+(Margiotta  et al.,  1987a) 
+
+in  culture  after  intracellular application of  100 PM  CAMP  Whole-cell conductance responses to  1 mM ACh  were obtained 
+from control neurons and from neurons treated for  15 min with 
+1 PM  VIP,  with  1 mM  8Br-CAMP,  or  with  the two  in  combi- 
+nation. In  the five experiments where additivity  was tested, the 
+individual  treatments all  significantly  increased the  ACh-in- 
+duced G,  response above control  levels (Fig. 4; p  <  0.005 for 
+
+If  the enhanced ACh  sensitivity produced by  a near-maximal 
+dose of  VIP  (1 PM) 
+is caused by  increased intracellular CAMP, 
+it  would  not  be expected to  add with  that  produced when in- 
+tracellular CAMP  is increased by  bath  exposure to  8Br-CAMP. 
+
+8Br-CAMP 
+
+VIP 
+
+VIP 
+
+8BriAMP 
+
+- 
+
+The  Journal 
+
+of  Neuroscience, 
+
+June 
+
+1994, 
+
+14(6) 
+
+3545 
+
+test-agents 
+
+in  a  manner  similar 
+
+4.  VIP  and  CAMP  effects on 
+Figure 
+ACh  sensitivity  are  not  additive.  G,  re- 
+from  five  experi- 
+sponses  were  pooled 
+ments,  and  for  each  of  the  indicated 
+treatments  are  presented  as  a  percent- 
+age  of  control, 
+to 
+that  in  Figure  3B.  Neurons  were  treated 
+in  recording  solution 
+with 
+for  15  min  at  37°C.  Whole-cell 
+con- 
+ductance  G,  responses  to  1  mM  ACh 
+were  subsequently  assayed  at  room 
+temperature 
+in  the  presence  of the  same 
+concentration of the  test agent. Each 
+treatment  and  control  group  contained 
+18-21  neurons.  The  asterisks 
+indicate 
+a  significant  difference  (p  <  0.005,  by 
+Student’s 
+to  untreated 
+controls. 
+
+t  test)  relative 
+
+that  obtained 
+
+from  neurons 
+
+each  treatment).  There  was  no  significant  difference,  however, 
+when  the enhanced  mean  ACh  response  of neurons  treated  with 
+treated 
+VIP  was  compared  with 
+with  8Br-CAMP,  or  with  VIP  plus  8Br-CAMP 
+Since  VIP 
+increased  the  level  of  intracellular  CAMP,  and  en- 
+hanced  ACh  sensitivity  up  to  but  not  beyond  that  seen  with 
+8Br-CAMP, 
+that  VIP  enhances  the  ACh  sensi- 
+intracellular 
+tivity  of  ciliary  ganglion  neurons  by  increasing 
+CAMP.  This  conclusion  does  not  exclude  the  less  likely  possi- 
+bility  that  the VIP  and  8Br-CAMP  effects  converge  at a common 
+point  in  the  signaling  pathway  distal  to  CAMP. 
+
+(Fig.  4; p  >  0.05). 
+
+it  seems  likely 
+
+(Fig.  2B),  short-term 
+
+in  three  experiments 
+
+(p  >  0.1,  by  Student’s 
+
+the  inability  of CGRP 
+in  the  neurons 
+
+to  increase  intracellular 
+In  accord  with 
+ex- 
+levels  of  free  CAMP 
+In  one 
+posure  to  CGRP  did  not  alter  neuronal  ACh  sensitivity. 
+treatment 
+(1  PM,  1 O-60  min)  ap- 
+of  three  experiments,  CGRP 
+peared  to  enhance  the  ACh 
+response  of  five  treated  neurons 
+over  that  from  four  untreated  neurons  by  about  60%.  However, 
+revealed  that  the  apparent  dif- 
+subsequent  statistical  analysis 
+t  test).  Data 
+ference  was  not  significant 
+from  15 treated  neurons 
+revealed  no  sig- 
+nificant  difference  in  the mean  G, values  for  CGRP-treated  neu- 
+(Table  1).  Others  have  also  noted 
+rons  and  control  neurons 
+variability 
+to  modulate  the  ACh  sen- 
+sitivity  of  sympathetic  neurons  (L.  Role,  personal  communi- 
+cation).  The  VIP,  CGRP,  and  8Br-CAMP 
+treatments  did  not 
+rates  of  desensitization,  or  the 
+change  either  the  fast  or  slow 
+relative  contributions  of  the  fast  and  slow  desensitization  com- 
+ponents  to  the  ACh  responses  of  ciliary  ganglion  neurons.  In  all 
+cases,  the  time  constants  of  the  fast  and  slow  components  of 
+for  both  treated  and  control  neurons  were  0.3- 
+desensitization 
+0.5  set  and  3.5-4.8  set,  respectively,  and  the  contribution  of 
+the  fast  component  amplitude  relative  to  G,, was  between  71% 
+and  79%. 
+
+in  the  capacity  of  CGRP 
+
+Discussion 
+The  present  results  indicate  that  VIP  can  act  as a modulator  or 
+“first  messenger” 
+signaling  cascade  in- 
+volved 
+in  regulating  nicotinic  AChRs  on  chick  ciliary  ganglion 
+neurons  (Margiotta  et al.,  1987a;  Margiotta  and  Gurantz,  1989; 
+to  VIP, 
+Vijayaraghavan  et  al.,  1990).  Minutes  after  exposure 
+increases  in  both  intracellular 
+the  neurons  displayed  sustained 
+
+in  the  CAMP-dependent 
+
+CAMP  and ACh  sensitivity.  The coordinated increases in neu- 
+ronal  CAMP  and ACh  sensitivity  following  exposure to  VIP 
+suggest that  the peptide accomplishes both effects by  activating 
+the  CAMP-dependent  signaling pathway.  This  conclusion is 
+strengthened by  experiments where VIP  and 8Br-CAMP  were 
+applied, either separately or in combination. The results reveal 
+increased neuronal ACh  sensitivity  shortly  after  each reagent 
+was applied separately, but  no  added enhancement when the 
+two were applied together. Given  the relatively  small size of the 
+enhancements produced by the individual  treatments (50-80%) 
+compared with those seen after longer incubations in 8Br-CAMP 
+(loo-200%  after 6 hr;  Margiotta  et al.,  1987a), it  seems unlikely 
+that  the lack  of  additivity  represents a simple ceiling effect at 
+the AChR  level. Instead, the results suggest that  the individual 
+treatments increase neuronal CAMP  sufficiently to  saturate ini- 
+tially  a downstream component of the signaling pathway, pos- 
+sibly  the  PKA.  It  seems likely  that  the  increase in  neuronal 
+CAMP  results from activation  of a VIP-like  peptide receptor. A 
+VIP  receptor cDNA  clone that  elevates CAMP  in  transfected 
+cells has recently been isolated, and VIP  receptor mRNA  tran- 
+scripts detected in  rat  brain  (Ishihara et  al.,  1993). Thus, the 
+simplest conclusion from our observations is that VIP,  presum- 
+ably  by  acting on its own receptor, modulates neuronal AChR 
+function  by  rapidly  increasing the  levels of  free  intracellular 
+CAMP. 
+
+In contrast with  the effects of VIP  on ciliary ganglion neurons, 
+CGRP, a peptide associated with CAMP-dependent modulation 
+of  muscle AChRs  but  without  detectable homology  to  VIP, 
+produced neither an increase in free CAMP  nor a change in the 
+size or  kinetics of  the neuronal ACh  response. Peptide degra- 
+dation  cannot  explain  the  absence of  a  CGRP  effect  on  the 
+neurons; when applied to myotubes in culture without  peptidase 
+inhibitors,  CGRP  was still able to induce AChR  phosphoryla- 
+tion  (Miles  et  al.,  1989). The  inability  of  CGRP  to  alter ACh 
+responses or intracellular levels of CAMP here may indicate that 
+ciliary  ganglion neurons lack CGRP receptors coupled to CAMP. 
+Substantial VIP-induced  increases in  CAMP  were detected 
+within minutes in individual ciliary ganglion neurons using CAMP 
+imaging, and in  populations of  the  neurons using a standard 
+competition  binding assay. The imaging experiments indicate 
+that  at least some of the increased CAMP  freely associates with 
+
+3546 
+
+Gurantz 
+
+et  al. 
+
+l  Rapid 
+
+Modulation 
+
+of  Neuronal 
+
+AChRs 
+
+by  VIP 
+
+the  PKA  reporter  enzyme,  PlCRhR.  Since CAMP  interacts  with 
+(Adams  et  al.,  1991,  1993),  it  is  expected  that  in  un- 
+FlCRhR 
+injected  cells  a portion  of  the  CAMP  increase  produced  by  VIP 
+will  rapidly  associate  with  native  PKA.  Previous  studies  con- 
+cluded  that  increasing  neuronal  CAMP  levels  acted  to  convert 
+a portion  of  a preexisting,  nonfunctional  AChR  pool  on  ciliary 
+ganglion  neurons  (Margiotta  et  al.,  1987b)  into  a  functionally 
+available  state  (Margiotta  et al.,  1987a),  and  that  such  increases 
+also  result 
+of  at  least  one  AChR  subunit 
+(Vijayaraghavan  et al.,  1990).  While  the  present  results  do  not 
+receptor  conversion, 
+link  AChR  subunit  phosphorylation  with 
+they  are  consistent  with  such  a  mechanism  since  VIP  induces 
+a  rapid  increase 
+that  is  able  to  interact  with  a 
+PKA. 
+
+in  phosphorylation 
+
+in  free  CAMP 
+
+The  present  experiments 
+
+indicate  coupling  between 
+
+first  and 
+signaling  pathway 
+second  messengers  of  the  CAMP-dependent 
+that  regulates  neuronal  AChRs.  AChRs  on ciliary  ganglion  neu- 
+to  at  least  one  other  modulator,  bovine 
+rons  are  also  sensitive 
+increase  in 
+serum  albumin  (BSA),  which  produces  a threefold 
+(Gurantz  et  al., 
+ACh  sensitivity  within  minutes  of  application 
+the  same  imaging  assay,  however,  BSA  did  not 
+1993).  Using 
+elevate  free  CAMP 
+that  its 
+levels  in  the  neurons,  suggesting 
+ability  to  modulate  AChRs 
+rapidly  involves  a different  form  of 
+signal  transduction. 
+
+relevance 
+
+VIP  may  have  physiological 
+
+in  the  chick  ciliary 
+immuno- 
+ganglion.  A  previous  study  demonstrated  VIP-like 
+terminals  of  pi- 
+reactivity  colocalized  with  ACh  in  presynaptic 
+there  is  good 
+geon  ciliary  ganglia  (Reiner,  1987).  In  addition, 
+from  presynaptic 
+evidence  that  VIP  and  ACh  are  co-released 
+terminals  by  depolarizing  stimuli  (reviewed  by  Whittaker,  1989), 
+suggesting  the  peptide  normally  acts  as  a  cholinergic  cotrans- 
+(e.g.,  Willard,  1990).  The  co-release  of  ACh  and  VIP 
+mitter 
+from  cholinergic  terminals 
+in salivary  gland and  myenteric  plex- 
+frequencies 
+us  is  approximately  equal  at  the  low  stimulation 
+(about  10 Hz;  Agoston,  1988;  Lundberg,  1981)  associated  with 
+efficient  cholinergic 
+in  the  chick  ciliary  ganglion 
+(Landmesser  and  Pilar,  1972;  Dryer  and  Chiappenelli,  1985). 
+indicate  that  VIP,  pituitary  adenylate  cyclase- 
+Recent  studies 
+secretin,  and  glucagon  com- 
+activating  polypeptide 
+to  adenylyl 
+prise  a  family  of  peptides,  all  positively  coupled 
+cyclase  and  having  a  high  degree  of  amino  acid  identity 
+(Ari- 
+mura,  1992).  Because  of  the  similar  sequences  of  the  peptides, 
+studies  may 
+antisera  used  in  previous 
+not  have  been  completely  specific  for  VIP.  Thus,  the  identity 
+of  the  VIP-like  peptide  actually  present  in  the  chick  ciliary  gan- 
+glion  still  remains 
+
+immunohistochemical 
+
+to  be  determined. 
+
+transmission 
+
+(PACAP), 
+
+survival, 
+
+differentiation, 
+
+and  neuromodulation 
+
+VIP  displays  a  broad  spectrum  of  biological  activities 
+
+in- 
+volved  in  metabolism,  secretion,  vascular  and  muscle  tone,  cell 
+growth, 
+(re- 
+viewed  by  Said,  1982;  Gazes  and  Brenneman,  1989).  Several 
+neuromodulatory 
+roles  for  VIP  are  suggested  from  electrophys- 
+reveal  both  pre-  and  postsynaptic  ac- 
+iological  studies,  which 
+tions  at  cholinergic  synapses.  At  neuromuscular 
+(Gold,  1982) 
+and  neuronal  synapses  (Takahashi  et  al.,  1992),  VIP  enhances 
+transmission  by  increasing  ACh  release  from  presyn- 
+nicotinic 
+aptic  terminals. 
+to the  enhancement  of postsynaptic 
+function  seen here,  it  is  possible  that  a VIP-like  peptide 
+AChR 
+present  in  the  ciliary  ganglion  also  acts  presynaptically 
+to  mod- 
+ulate  ACh  release.  Such  an effect  would  not  have  been detected 
+terminals  are  re- 
+in  the  present  experiments,  since  presynaptic 
+the 
+moved  when 
+In  contrast  with 
+seen  here  for  chick  par- 
+50%  enhancement  of  ACh  sensitivity 
+
+the  neurons  are  dissociated. 
+
+In  addition 
+
+from 
+
+regulatory  mechanisms  are 
+
+to affect  AChRs  on muscle  fibers  and neurons  (Margiotta 
+
+asympathetic  neurons,  no increase  in nicotinic  response  size was 
+to  the  frog  motor  endplate 
+detected  following  VIP  application 
+(Gold,  1982),  or  to  mammalian  sympathetic  neurons  (MO  and 
+Dun,  1984;  Takahashi  et  al.,  1992).  VIP  would  not  have  been 
+expected  to  enhance  motor  endplate  ACh  sensitivity,  however, 
+since  different  CAMP-dependent 
+known 
+et  al.,  1987a;  Middleton  et  al.,  1988;  Miles  et  al.,  1989).  The 
+to  produce  a  detectable  change  in  nicotinic 
+inability  of  VIP 
+the  AChR  population  on  mammalian  sympa- 
+response 
+thetic  neurons  (MO  and  Dun,  1984; Takahashi  et al.,  1992)  may 
+from  the  different  methods  used,  or  may  reflect 
+have  resulted 
+true  differences 
+in  the  regulation  of  AChR  subtypes  expressed 
+in  sympathetic  and  parasympathetic  ganglia  of  mammals  and 
+avians  (reviewed  by  Sargent,  1993).  Previously 
+reported  post- 
+increased  sensitivity  of  mus- 
+synaptic  actions  of  VIP  include 
+carinic  receptors 
+in  sympathetic  ganglia  (MO  and  Dun,  1984) 
+and  increased  excitability  of  postsynaptic  neurons  at  nicotinic 
+synapses  in myenteric  ganglia  (Willard,  1990).  The  relevance  of 
+such  postsynaptic  effects  to  the  present  results  seems  doubtful, 
+however,  since  VIP  did  not  detectably  alter  the  holding  current 
+in  ciliary  ganglion  neurons,  and  since  ACh  responses 
+from  the 
+neurons  were  unaffected  by  the  muscarinic 
+receptor  antagonist 
+atropine  (Margiotta  and  Gurantz,  1989).  Based  on  the available 
+that  the  modulation  of 
+data,  it  seems  reasonable  to  conclude 
+nicotinic  AChR 
+function  observed  here  represents  a  distinct 
+biological  activity  of  VIP,  or  a  related  peptide.  Such  AChR 
+modulation  may  involve  a  CAMP-dependent 
+increase  in  the 
+(Margiotta  et al.,  1987a).  Since 
+availability  of  functional  AChRs 
+neuronal  AChRs  are  distributed  at  both  nonsynaptic  and  syn- 
+aptic  sites,  a VIP-like  peptide  may  serve  to  regulate  the  AChR 
+population  on  ciliary  ganglion  neurons,  and  thereby  have  rel- 
+evance  over  periods 
+that  include  and  extend  beyond  episodes 
+of  synaptic  activity. 
+
+References 
+Adams  SR,  Harootunian  AT,  Buechler  YJ,  Taylor  SS, Tsien  RY  (199  1) 
+in  sinale  cells.  Nature  349: 
+
+Fluorescence  ratio  imagine,  of cvclic  AMP 
+694-697. 
+
+- -  
+
+I  
+
+Adams  SR,  Bacskai  BJ,  Taylor  SS,  Tsien  RY 
+
+(1993)  Optical  probes 
+In:  Fluorescent  and  luminescent  nrobes  for  biological 
+techniques  series  (Mason  WT,  ed),  pp  133-149. 
+
+for  cyclic  AMP. 
+activity;  biological 
+San  Diego:  Academic. 
+
+Agoston  DV,  Conlon  JM,  Whittaker  VP  (1988)  Selective  depletion  of 
+the  acetylcholine  and  vasoactive  intestinal  polypeptide  of  guinea-pig 
+myentetic  plexus  by  differential  mobilization 
+transmitter 
+pools.  Exp  Brain  Res  72:535-542. 
+
+of  distinct 
+
+Arimura  A 
+
+(1992)  Pituitary  adenylate  cyclase  activating  polypeptide 
+(PACAP):  discovery  and  current  status  of  research.  Regul  Peptides 
+37:287-303. 
+
+Borghi  C, Nicosia  S, Giachetti  A,  Said  SI  (1979)  Vasoactive  intestinal 
+(VIP)  stimulates  adenylate  cyclase in  selected  areas  of rat 
+
+polypeptide 
+brain.  Life  Sci  24~65-70. 
+
+Cooper  E,  Couturier  S,  Ballivet  M 
+
+subunit  stoichiometry  of  a  neuronal  acetylcholine 
+350:235-238. 
+
+(199  1)  Pentameric  structure  and 
+receptor.  Nature 
+
+Deneris  ES,  Connolly  J,  Rogers  SW,  Duvoisin  R  (1991)  Pharmaco- 
+logical  and  functional  diversity  of  neuronal  nicotinic  acetylcholine 
+receptors.  Trends  Pharmacol  Sci  12:34-40. 
+
+Downing  JEG,  Role  LW 
+
+acetylcholine 
+rons.  Proc  Nat1  Acad  Sci  USA  84~7739-7743. 
+
+receptor  desensitization 
+
+(1987)  Activators  of protein  kinase  C enhance 
+in  sympathetic  ganglion  neu- 
+
+Dryer  SE,  Chiappinelli  VA 
+
+(1985)  Properties  of  choroid  and  ciliary 
+neurons  in  the  avian  ciliary  ganglion  and  evidence  for  substance  P as 
+a  neurotransmitter. 
+
+J  Neurosci  5:2654-266  1. 
+
+Eckenstein  F,  Baughman  RW 
+
+(1984)  Two 
+
+types  of  cholinergic 
+
+inner- 
+
+vation  in  cortex,  one  colocalized  with  vasoactive  intestinal  polypep- 
+tide.  Nature  309:  153-l  55. 
+
+Fontaine  B,  Klarsfeld  A,  Hokfelt  T,  Changeaux  JP  (1986)  Calcitonin 
+gene-related  peptide,  a  peptide  present  in  spinal  cord  motoneurons, 
+increases  the  number  of  acetylcholine 
+receptors  in  primary  cultures 
+of chick  embryo  myotubes.  Neurosci  Lett  59:65. 
+
+Giachetti  A,  Said  SI,  Reynolds  RC,  Koniges  FC 
+
+intestinal  polypeptide 
+lated  nerve  terminals.  Proc  Nat1  Acad  Sci  USA  74:3424-3428. 
+
+localization 
+
+in  brain: 
+
+(1977)  Vasoactive 
+in  and  release  from  iso- 
+
+Gold  MR 
+
+(1982)  The  effects of  vasoactive  intestinal  peptide  on  neu- 
+
+romuscular 
+
+transmission 
+Gozes  I,  Brenneman  DE 
+
+in  the  frog.  J  Physiol  (Land)  327:325-335. 
+(1989)  VIP:  molecular  biology  and  neuro- 
+
+biological 
+
+function.  Mol  Neurobiol 
+
+3:201-236. 
+
+Greengard  P,  Jen  J,  Naim  AC,  Stevens  CF 
+response  by  CAMP-dependent 
+138. 
+
+the  glutamate 
+pocampal  neurons.  Science  253:1135-l 
+
+(1991)  Enhancement  of 
+protein  kinase  in  hip- 
+
+Gurantz  D,  Harootunian  AT,  Tsien  R, Dionne  VE,  Margiotta  JF  (199  1) 
+(ACh)  responses  in  chick  ciliary 
+
+Rapid  enhancement  of acetylcholine 
+ganglion  neurons.  Sot  Neurosci  Abstr  17:959. 
+
+Gurantz  D,  Margiotta  JF,  Harootunian  AT,  Dionne  VE  (1993)  Mod- 
+sensitivity.  Mol  Phar- 
+
+ulation  by  albumin  of  neuronal  cholinergic 
+macol  43:807-g  12. 
+
+Hamill  OP,  Marty  A,  Neher  E,  Sakmann  B,  Sigworth  FJ  (198  1)  Im- 
+proved  patch-clamp 
+current  recording 
+from  cells  and  cell-free  membrane  patches.  Pfluegers  Arch  391:85- 
+100. 
+
+for  high-resolution 
+
+techniques 
+
+Hayashi  M,  Edgar  D,  Thoenen  H 
+
+(1983)  The  development  of  sub- 
+stance  P,  somatostatin  and  vasoactive  intestinal  polypeptide 
+in  sym- 
+pathetic  and  spinal  sensory  ganglia  ofthe  chick  embryo.  Neuroscience 
+10:3 l-39. 
+
+Hockfelt  T,  Johansson  0,  Ljungdahl  A,  Lundberg  JM,  Schultzberg  M 
+
+(1980)  Peptidergic  neurones.  Nature  284:5  15-52  1. 
+
+Huganir  RL,.Greengard  P  (1990)  Regulation  of  neurotransmitter 
+
+re- 
+by  protein  phosphorylation.  Neuron  5:555- 
+
+ceptor  desensitization 
+567. 
+
+Huganir  RL,  Delcour  AH,  Greengard  P,  Hess  GP 
+
+(1986)  Phosphor- 
+
+ylation  of  the  nicotinic  acetylcholine 
+desensitization.  Nature  32 11774-776. 
+
+receptor  regulates 
+
+its  rate  of 
+
+Ishihara  T,  Shiegemoto  R,  Mori  K,  Takahashi  K,  Nagata  S  (1992) 
+of  a novel  receptor  for 
+
+Functional  expression  and  tissue  distribution 
+vasoactive  intestinal  polypeptide.  Neuron  8:s 1 l-8  19. 
+
+IB 
+
+Landmesser  L,  Pilar  G  (1972)  The  onset  and  development  of  trans- 
+mission  in  the  chick  ciliary  ganglion.  J Physiol  (Lond)  272:69  l-7  13. 
+in  neurons  and  other 
+
+(1988)  Modulation 
+
+of  ion  channels 
+
+Levitan 
+
+cells.  Annu  Rev’Neurosci 
+Levitan  IB,  Kaczmarek  LK 
+
+11:119-136. 
+(199  1)  Neuromodulation:  mechanisms  of 
+induced  changes  in  the  electrical  behavior  of  nerve  cells.  In:  The 
+neuron  cell  and  molecular  biology  (Levitan 
+IB,  Kaczmarek  LK,  eds), 
+pp  247-272.  New  York:  Oxford  UP. 
+
+(198  1)  Evidence  for  coexistence  of vasoactive  intestinal 
+in  neurons  of cat exocrine  glands. 
+(VIP)  and  acetylcholine 
+
+Lundberg  JM 
+polypeptide 
+Acta  Physiol  Stand 
+
+[Suppl]  496:  l-57. 
+Lundberg  JM,  Anggard  A,  Fahrenkrug  J,  Hockfelt  T,  Mutt  V 
+
+Vasoactive 
+intestinal  polypeptide 
+glands:  functional  significance  of  coexisting 
+lation  and  secretion.  Proc  Nat1  Acad  Sci  USA  77: 165 l-l  655. 
+
+(1980) 
+in  cholinergic  neurons  of  exocrine 
+for  vasodi- 
+transmitters 
+
+Margiotta  JF,  Berg  DK 
+
+synaptic  properties  of  chick  ciliary  ganglion  neurons 
+Neuroscience  18: 175-l  82. 
+
+(1986)  Enkephalin  and  substance  P  modulate 
+in  cell  culture. 
+
+(1989)  Changes  in  the  number, 
+
+function, 
+receptors  during  neuronal 
+
+Margiotta 
+
+JF,  Gurantz  D 
+
+and  regulation  of  nicotinic  acetylcholine 
+development.  Dev  Biol  135:326-339. 
+
+Margiotta  JF,  Berg  DK,  Dionne  VE 
+
+of  functional  acetylcholine 
+
+proportion 
+ganglion  neurons.  84:8  15 5-8  159. 
+Margiotta  JF,  Berg  DK,  Dionne  VE 
+
+(1987a)  Cyclic  AMP 
+
+regulates  the 
+receptors  on  chicken  ciliary 
+
+(1987b)  The  properties  and  reg- 
+ulation  of  functional  acetylcholine  receptors  on  chick  ciliary  ganglion 
+neurons.  J Neurosci  7:3612-3622. 
+Matteoli  M,  Haimann  C,  Toni-Tarelli 
+
+F,  Polak  JM,  Ceccarelli  B,  De 
+Camilli  P 
+on  exocytosis 
+from  small  synaptic  vesicles  and  from  large  dense-core  vesicles  con- 
+taining  calcitonin  gene related  peptide  at the  frog  neuromuscular 
+junc- 
+tion.  Proc  Nat1  Acad  Sci  USA  85:7366-7370. 
+
+(1988)  Differential  effect  of  a-latrotoxin 
+
+Middleton  P,  Rubin  LL,  Schuetze  SM 
+
+(1988)  Desensitization  of  ace- 
+
+The  Journal 
+
+of  Neuroscience, 
+
+June 
+
+1994, 
+
+M(6) 
+
+3547 
+
+tylcholine  receptors  in  rat  myotubes  is enhanced  by agents  that  elevate 
+intracellular  CAMP.  J Neurosci 
+Miles  K,  Greengard  P,  Huganir  RL 
+peptide  regulates  phosphorylation 
+ceptor  in  rat  myotubes.  Neuron  2: 15 17-l  524. 
+
+(1989)  Calcitonin  gene-related 
+re- 
+
+of  the  nicotinic  acetylcholine 
+
+f&3405-3412. 
+
+MO  N,  Dun  NJ 
+muscarinic 
+rosci  Lett  52: 19-23. 
+
+transmission 
+
+(1984)  Vasoactive 
+
+in  mammalian 
+
+intestinal  polypeptide 
+
+facilitates 
+sympathetic  ganglia.  Neu- 
+
+Mulle  C,  Benoit  P,  Pinset  C,  Roa  M,  Changeux  JP  (1988)  Calcitonin 
+gene-related  peptide  enhances  the  rate  of  desensitization  of  the  nic- 
+otinic  acetylcholine 
+in  cultured  mouse  muscle  cells.  Proc 
+Nat1  Acad  Sci  USA  8515728-5732. 
+
+receptor 
+
+Mutt  V,  Said  SI  (1974)  Structure  of  the  porcine  vasoactive  intestinal 
+in  its 
+
+sequence:  use  of  kallikrein 
+
+octacosapeptide.  The  amino-acid 
+determination.  Eur  J  Biochem  42:58  l-589. 
+
+New  HV,  Mudge  AW 
+muscle  acetylcholine 
+
+(1986)  Calcitonin  gene-related  DeDtide  regulates 
+receptor  synthesis.  Nature  325809-8  11. 
+
+Nilsson  A  (1975)  Structure  ofthe  vasoactive  intestinal  octacosapeptide 
+from  chicken  intestine.  The  amino  acid  sequence.  FEBS  Lett  60:322- 
+326. 
+
+Power  RF,  Bishop  AE,  Wharton  J,  et  al. 
+
+distri- 
+sites  in  peripheral 
+bution  of  vasoactive 
+intestinal  peptide  binding 
+in- 
+In:  Vasoactive 
+tissues  investigated  by  in  vitro  autoradiography. 
+testinal  peptide  and  related  peptides  (Said  SI,  Mutt  Y,  eds),  pp  3 14- 
+325.  New  York:  New  York  Academy  of  Science. 
+
+(1988)  Anatomical 
+
+Reiner  A 
+
+(1987)  A  VIP-like  peptide  co-occurs  with  substance  P  and 
+terminals  of  the  avian  ciliary 
+
+in  cholinergic  preganglionic 
+
+enkephalin 
+ganglion.  Neurosci  Lett  78:22-28. 
+
+Role  LW 
+
+(1984)  Substance  P  modulation 
+
+of  acetylcholine-induced 
+
+currents  in  embryonic  chicken  sympathetic  and  ciliary  ganglion  neu- 
+rons.  Proc  Nat1  Acad  Sci  USA  8 1:2924-2928. 
+
+Role  LW 
+
+(1992)  Diversity  in  primary  structure  and  function  of  neu- 
+receptor  channels.  Curr  Opin  Neurobiol 
+
+ronal  nicotinic  acetylcholine 
+2:254-262. 
+
+Said  SI  (1982)  Vasoactive  intestinal  peptide.  J Endocrinol 
+
+Invest  9: 19 l- 
+
+200. 
+Sargent  PB 
+
+(1993)  The  diversity  of  neuronal  nicotinic  acetylcholine 
+
+receptors.  Annu  Rev  Neurosci  16:403+43. 
+
+Schuetze  SM,  Role  LW 
+
+(1987)  Developmental 
+
+regulation  of nicotinic 
+
+acetylcholine 
+
+receptors.  Annu  Rev  Neurosci  10:4031157. 
+
+Seamon  KB,  Daly  JW 
+
+(1986)  Forskolin: 
+
+its  biological  and  chemical 
+
+properties.  Adv  Cyclic  Nucleotide  Res  20:  l-l  50. 
+
+Simmons  LK,  Schuetze  SM,  Role  LW 
+
+(1990)  Substance  P  modulates 
+recep- 
+
+single-channel  properties  of  neuronal  nicotinic  acetylcholine 
+tors.  Neuron  4:393-403. 
+
+Sundler  F,  Ekblad  E,  Grunditz  T,  Hakanson  R,  Uddman  R 
+
+(1988) 
+intestinal  peptide 
+in  the  peripheral  nervous  system.  In: 
+intestinal  peptide  and  related  peptides  (Said  SI,  Mutt  Y, 
+
+Vasoactive 
+Vasoactive 
+eds),  pp  143-l  67.  New  York:  New  York  Academy  of  Science. 
+
+Swope  SL,  Moss  SJ,  Blackstone  CD,  Huganir  RL 
+
+(1993)  Phosphor- 
+ion  channels:  a  possible  mode  of  synaptic 
+
+ylation  of  ligand-gated 
+plasticity.  FASEB  J  6:25  14-2523. 
+
+Takahashi  M,  Ogawa  M,  Ohta  H,  Ikeda  H  (1992)  Vasoactive  intestinal 
+in  cul- 
+
+polypeptide  presynaptically  enhances  synaptic  transmission 
+tured  sympathetic  neurons.  Brain  Res  579:204-210. 
+
+Takami  K,  Kawai  Y,  Uchida  S,  Tokyama  M,  Shiotani  Y,  Akami  H, 
+I  (1985) 
+Yoshida  H,  Emson  PC,  Girgis  SH,  Hillyard  CJ,  MacIntyre 
+Effect  of  calcitonin  gene-related  peptide  on  contraction  of  striated 
+muscle  in  the  mouse.  Neurosci  Lett  60:227-230. 
+
+Vijayaraghavan  S, Schmid  HA,  Halvorsen  SW,  Berg  DK 
+
+AMP-  dependent  phosphorylation 
+tor  alpha-type  subunit.  J Neurosci  10:3255-3262. 
+
+of a  neuronalacetylcholine 
+
+(1990)  Cyclic 
+recep- 
+
+Volle  RL,  Patterson  BA 
+
+(1982)  Regulation  of  cyclic  AMP  accumu- 
+in  a  rat  sympathetic  ganglion:  effects of  vasoactive  intestinal 
+
+lation 
+polypeptide.  J Neurochem  39: 1195-l  197. 
+
+Wang  LY,  Salter  MW,  MacDonald 
+receptors  by CAMP-dependent 
+ence  253:1132-1135. 
+
+JF  (199  1)  Regulation  of  kainate 
+protein  kinase  andphosphatases.  Sci- 
+
+Whittaker  VP 
+
+(1989)  Vasoactive 
+
+cholinergic  co-transmitter: 
+1039-1051. 
+
+intestinal  polypeptide 
+
+(VIP)  as  a 
+some  recent  results.  Cell  Biol  Int  Rep  13: 
+
+Willard  AL 
+
+(1990)  A  vasoactive  intestinal  peptide-like  cotransmitter 
+at  cholinergic  synapses between  rat  myenteric  neurons  in  cell  culture. 
+J  Neurosci  10:1025-1034. 
+
+

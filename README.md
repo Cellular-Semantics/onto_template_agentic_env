@@ -112,11 +112,18 @@ git push -u origin project-kidney-arteries
 
 ```
 .
+├── .claude/
+│   ├── agents/       # Subagent definitions
+│   │   ├── gene-protein-lookup.md
+│   │   └── ontology-term-lookup.md
+│   └── skills/       # Skill definitions
+│       └── fetch-wiki-info/
 ├── scripts/          # Python automation scripts
 ├── source_data/      # Input templates and source materials
 ├── outputs/          # Generated outputs and reports
 ├── pdfs/             # Downloaded papers and conversions
 ├── Instructions.md   # Project-specific instructions
+├── AGENTS.md         # AI assistant instructions (do not edit)
 ├── CLAUDE.md         # AI assistant instructions (do not edit)
 └── README.md         # This file
 ```
@@ -125,11 +132,13 @@ See individual folder README files for more details.
 
 ## Available Tools
 
-The framework includes access to:
+The framework uses:
+- **gene-protein-lookup subagent**: Maps gene/marker identifiers to HGNC, NCBI Gene, UniProt, and PRO IDs via playwright
+- **ontology-term-lookup subagent**: Finds ontology terms and synonyms via OLS4 MCP
 - **OLS4 MCP**: Ontology term lookup and validation
 - **ARTL MCP**: Europe PMC literature search and retrieval
-- **Playwright MCP**: Web scraping for complex pages
-- **Python scripts**: Custom automation and processing
+- **Playwright MCP**: Web database queries (HGNC, NCBI, UniProt)
+- **fetch-wiki-info skill**: Wikipedia and Wikidata lookups
 
 ## Resources
 

@@ -1,0 +1,2185 @@
+Molecular Pain
+
+BioMed Central
+
+Research
+Activation of the neurokinin-1 receptor by substance P triggers the 
+release of substance P from cultured adult rat dorsal root ganglion 
+neurons
+He-Bin Tang1, Yu-Sang Li2, Koji Arihiro2 and Yoshihiro Nakata*1
+
+Open Access
+
+Address: 1Department of Pharmacology, Graduate School of Biomedical Sciences, Hiroshima University, Kasumi 1-2-3, Minami-ku, Hiroshima 
+734-8553, Japan and 2Department of Anatomical Pathology, Hiroshima University Hospital, Kasumi 1-2-3, Minami-ku, Hiroshima 734-8551, 
+Japan
+
+Email: He-Bin Tang - hbtang2006@hiroshima-u.ac.jp; Yu-Sang Li - lys200201@yahoo.co.jp; Koji Arihiro - arihiro@hiroshima-u.ac.jp; 
+Yoshihiro Nakata* - ynakata@hiroshima-u.ac.jp
+* Corresponding author    
+
+Published: 25 December 2007
+
+Molecular Pain 2007, 3:42
+
+doi:10.1186/1744-8069-3-42
+
+Received: 23 August 2007
+Accepted: 25 December 2007
+
+This article is available from: http://www.molecularpain.com/content/3/1/42
+
+© 2007 Tang et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Abstract
+Background: Although substance P (SP) is an important primary afferent modulator in nociceptive
+processes, it is unclear whether SP regulates its own release from primary sensory neurons.
+
+Results:  Using  a  highly  sensitive  radioimmunoassay  for  SP,  we  have  demonstrated  that  the
+activation of neurokinin-1 receptor by SP or GR73632 (a potent neurokinin-1 receptor agonist)
+triggered an increase of SP release from cultured adult rat dorsal root ganglion (DRG) neurons
+depending  on  the  dose  and  exposure  time  within  60  min,  and  thereafter,  the  SP  release  level
+gradually  decreased  over  360  min.  Accompanying  the  SP  release,  a  significant  reduction  in  the
+percentage of neurons expressing neurokinin-1 receptor on their membranes during exposure to
+SP  (200  pg/dish)  occurred  time  dependently  (56  ±  5%  and  32  ±  2%  at  180  and  360  min,
+respectively).  The  GR73632-evoked  (10  nM,  60  min)  SP  release  was  attenuated  by  several
+inhibitors for mitogen-activated protein kinase kinase, p38 mitogen-activated protein (MAP) kinase
+and cyclooxygenase-2 (COX-2), protein kinase C (PKC), respectively. In contrast, a c-Jun NH2-
+terminal kinase inhibitor increased the GR73632-evoked SP release.
+
+Conclusion:  These  results  indicate  that  the  neurokinin-1  receptor  activation  by  its  agonists
+regulates the SP release process involving the activation of MAP kinases, PKCs and COX-2 from
+cultured DRG neurons.
+
+Background
+Substance  P  (SP)  is  one  member  of  the  tachykinin
+neuropeptide  family  that  shares  a  carboxy-terminal
+sequence Phe-X-Gly-Leu-Met-NH2 [1], along with neuroki-
+nin A, neurokinin B and neuropeptide K, neuropeptide-γ.
+SP is derived from the preprotachykinin-A gene, and is syn-
+thesized  in  the  dorsal  root  ganglion  (DRG)  neurons  [2].
+SP is  released  through  a  very  complex  process  involving
+
+some important intracellular effectors, such as extracellular
+calcium  influx,  1,4,5-inositol  trisphosphate-induced  cal-
+cium release, the activation of extracellular signal-regulated
+kinase  (ERK),  cyclooxygenases  (COXs)  and  prostagland-
+ins, and the cyclic AMP-dependent protein kinase A (PKA)
+from  primary  afferent  neurons  to  convey information
+about various noxious stimuli [3-6]. Previous studies have
+important
+demonstrated 
+
+functions  as  an 
+
+that  SP 
+
+Page 1 of 10
+(page number not for citation purposes)
+
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+neurotransmitter and/or, as a primary afferent modulator
+in  nociceptive  processes,  thereby  potentiating  excitatory
+input to nociceptive neurons [7-10].
+
+The biological effects of SP are mediated through binding
+to  the  specific  G-protein-coupled  neurokinin  receptors
+designated neurokinin-1, -2 and -3 receptors [11]. Once
+activated by SP, the neurokinin receptor induces the acti-
+vation of several second messenger systems, such as phos-
+pholipase  C  (PLC)  and  adenylate  cyclase,  thereby
+increasing the consequent production of 1,4,5-inositol tri-
+sphosphate and cyclic AMP [12]. Moreover SP has been
+shown  to  induce  the  activation  of  ERK1/2  and  p38
+mitogen-activated protein (MAP) kinases, nuclear factor-
+kappa  B  and  protein  kinase  C  (PKC),  and  thereafter  to
+increase  the  production  of  prostaglandin  E2  and  the
+expression of COX-2 [13-15]. Interestingly, both anatom-
+ical and functional evidence have also suggested that neu-
+rokinin-1  receptors  may  function  as  auto-receptors  in
+DRG  neurons  [16,17].  In  view  of  the  above-mentioned
+observations  on  the  release  and  the  biological  effects  of
+SP,  it  is  considered  important  to  clarify  whether  the
+release of SP is induced via the activation of neurokinin-1
+receptor, while also elucidating what type of signaling can
+occur  in  the  process  of  SP  release  via  the  neurokinin-1
+receptor from cultured adult rat DRG neurons. Hence, the
+objective of the present study is designed to demonstrate
+whether  the  release  of  SP  may  be  stimulated  by  itself
+through  the  activation  of  its  receptors  and  the  involve-
+ment  of  some  important  intracellular  effectors  (such  as
+MAP kinase, PLC and PKC, COX and PKA) from cultured
+DRG neurons.
+
+Results
+The release of SP induced by itself from cultured rat DRG 
+neurons
+To  investigate  whether  SP  induces  its  own  release  from
+cultured DRG neurons, we examined the effects of SP on
+the release of SP in a dose- and time-dependent manner.
+Based on the amount of the SP release induced by various
+chemicals in our previous study [5,6,18], we selected 200
+pg/dish  of  SP  as  an  appropriate  concentration  for  our
+experimental  conditions  for  investigating  the  possibility
+of  self-induced  SP  release.  A  time-course  of  SP  release
+induced by SP (200 pg/dish) from cultured DRG neurons
+is shown in Fig. 1A. As a peak of SP release was observed
+after the 60 min incubation, we decided to use the 60 min
+incubation with SP (200 pg/dish) as an experimental con-
+dition for examining various drugs on the self-induced SP
+release. As shown in Fig. 1B, SP evoked a dose-dependent
+release of SP during a 60 min incubation of cultured DRG
+neurons.
+
+It  is  well  known  that  all  three  neurokinin  receptors
+(neurokinin-1, -2 and -3 receptors) are expressed in DRG
+
+neurons. We therefore investigated whether neurokinin-1
+and/or  other  neurokinin  receptor(s)  are  involved  in  the
+SP release induced by itself. The increase in the SP release
+evoked by itself was partially significantly attenuated by 1
+μM  CP-96,345  (a  selective  antagonist  of  neurokinin-1
+receptor) [19] and by 100 nM GR94800 (a selective antag-
+onist  of  neurokinin-2  receptor)  [20],  not  by  1  μM
+SB222200 (a selective antagonist of neurokinin-3 recep-
+tor) [20] as shown in Fig. 1C, whereas these antagonists
+did  not  have  any  effect  when  used  alone  (Data  not
+
+A         
+
+control
+substance P (200 pg/dish)
+
+B       
+
+C     
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+120
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+90
+
+60
+
+30
+
+0
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+100
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+80
+
+60
+
+40
+
+20
+
+0
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+80
+
+60
+
+40
+
+20
+
+0
+
+***
+
+   ***
+
+      **
+
+10
+
+60
+
+180
+
+360 (min)
+
+ ***
+
+   ***
+
+  ***
+
+       **
+
+control
+
+  100
+
+ 200
+
+ 800
+
+   1000
+
+substance P (pg/dish) for 1 h
+
+   *
+
+   *
+
+***
+
+control
+
+CP-96,345 SB222200   GR94800
+
+substance P (200 pg/dish) for 1 h
+
+The SP release induced by itself from cultured adult rat DRG 
+Figure 1
+neurons
+The SP release induced by itself from cultured adult 
+rat DRG neurons. Time-dependent (A) and dose-depend-
+ent (B) effects of SP on its own release from cultured DRG 
+neurons. (C) Effects of neurokinin receptor antagonists (1 
+μM CP-96,345, 1 μM SB222200 and 100 nM GR94800) on 
+the SP release from cultured DRG neurons exposed to SP. 
+The data are expressed as means ± S.E.M. (bars) from 3–5 
+(A), 4 (B) or 3 (C) separate experiments. *, ** and *** denote 
+p < 0.05, 0.01 and 0.001, respectively.
+
+Page 2 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+shown). Based on the results shown in Fig. 1C, both the
+neurokinin-1 and -2 receptors seem to be involved in the
+process of SP release, however, the detailed pharmacolog-
+ical  action(s)  of  the  neurokinin-2  receptor  in  the  sub-
+stance P release will be examined in future experiments.
+
+Immunocytochemical localization of the neurokinin-1 
+receptor and SP
+We next investigated the time-dependent changes in the
+expression of SP and its neurokinin-1 receptor in cultured
+DRG  cells  incubated  in  serum-free  DMEM  (containing
+peptidase inhibitors) with or without SP (200 pg/dish) in
+the  presence/absence  of  1  μM  CP-96,345.  The  specific
+type of cells indicated by arrows in Figs 2A and 2B can eas-
+ily be identified to be DRG neurons by the morphology
+(characteristic phase bright cell bodies bearing either bi-
+or  multi-polar  neurites  observed  by  using  the  Olympus
+IX71 inverted microscope with a 20X Ph1 objective) and
+by the Schwann cell marker S100 (Rabbit anti-cow S100;
+1:1,000  dilution;  Dako,  Glostrup,  Denmark)-  and  the
+fibrillary
+astrocyte  marker  GFAP  (Mouse  anti-glial 
+acidic protein; 1:800 dilution; Chemicon, Temecula, CA)-
+negative  expression  (Data  not  shown).  As  shown  in
+Figs 2Ai–iv,  the  neurokinin-1  receptors  were  distributed
+on the membrane and in the cytoplasm of smaller DRG
+neurons in a naive state. The ratio of the number of neu-
+rons expressing the neurokinin-1 receptor on their mem-
+branes  to  the  total  number  of  neurokinin-1  receptor-
+positive  neurons  in  a  randomly  selected  field  in  each
+image  from  three  separate  experiments  was  simultane-
+ously  calculated.  The  percentage  of  neurons  expressing
+neurokinin-1 receptor on their membrane in a naive state
+was 91 ± 5%, 82 ± 4% and 74 ± 4%, 71 ± 3% in Figs 2Ai–
+iv, respectively. Interestingly, a significant reduction in the
+percentage  of  neurons  expressing  neurokinin-1  receptor
+on their membranes was observed after the time-depend-
+ent stimulation of 200 pg/dish SP (85 ± 4%, 71 ± 7% and
+56 ± 5%, 32 ± 2% in Figs 2Av–viii, respectively) in com-
+parison to their respective controls (p > 0.05, p > 0.05 and
+p < 0.05, p < 0.001, respectively). Furthermore, the reduc-
+tion  induced  by  SP  was  attenuated  by  the  pretreatment
+(10 min) with 1 μM CP-96,345 (86 ± 4%, 85 ± 7% and 84
+± 2%, 84 ± 5% in Figs 2Aix–xii, respectively). On the other
+hand, we observed the SP content to be mainly distributed
+in the cytoplasm of the smaller DRG neurons (Fig. 2B).
+The long-term (60 to 360 min) exposure of the DRG neu-
+rons to SP (200 pg/dish) thus resulted in a reduction of
+the SP content in their cytoplasm (Figs 2Bv–viii), whereas
+the pretreatment with 1 μM CP-96,345 blocked the reduc-
+tion  of  the  SP  content  (Figs  2Bix–xii).  The  SP-evoked
+expression change of the neurokinin-1 receptor from the
+membrane to the intracellular compartment in somas of
+DRG neurons should therefore be considered as the recep-
+tor internalization (a pharmacologically specific index of
+neurokinin-1 receptor-SP interaction).
+
+The SP-induced changes of neurokinin-1 receptor 
+expression in the cytosolic and membrane fractions
+Based  on  the  neurokinin-1  receptor  localization  results
+shown in Fig. 2A, we attempted to further quantify the lev-
+els  of  neurokinin-1  receptor  in  the  cytosolic  and  mem-
+brane  fractions  of  cultured  DRG  neurons.  As  shown  in
+
+A         
+
+(i)
+
+(v)
+
+(ix)
+
+B 
+
+Control (10 min)
+
+(ii)
+
+Control (60 min)
+
+Substance P 
+(10 min)
+
+(vi)
+
+Substance P + 
+CP-96,345 (10 min)
+
+(x)
+
+Substance P 
+(60 min)
+
+Substance P + 
+CP-96,345 (60 min)
+
+(iii)
+
+(vii)
+
+(xi)
+
+Control (180 min)
+
+(iv)
+
+Substance P 
+(180 min)
+
+(viii)
+
+Control (360 min)
+
+Substance P 
+(360 min)
+
+Substance P + 
+CP-96,345 (180 min)
+
+(xii)
+
+Substance P + 
+CP-96,345 (360 min)
+
+(i)
+
+(v)
+
+(ix)
+
+Control (10 min)
+
+(ii)
+
+Substance P 
+(10 min)
+
+(vi)
+
+Substance P + 
+CP-96,345 (10 min)
+
+(x)
+
+Control (60 min)
+
+Substance P 
+(60 min)
+
+Substance P + 
+CP-96,345 (60 min)
+
+(iii)
+
+(iv)
+
+(vii)
+
+(xi)
+
+Control (180 min)
+
+Substance P 
+(180 min)
+
+(viii)
+
+Substance P + 
+CP-96,345 (180 min)
+
+(xii)
+
+Control (360 min)
+
+Substance P 
+(360 min)
+
+Substance P + 
+CP-96,345 (360 min)
+
+The immunocytochemical localization of the neurokinin-1 
+Figure 2
+receptor and SP in cultured adult rat DRG cells
+The immunocytochemical localization of the neurok-
+inin-1 receptor and SP in cultured adult rat DRG 
+cells. The time-dependent expression of the neurokinin-1 
+receptor (A) and SP (B) in cultured DRG neurons divided 
+into three groups: control group (i-iv), 200 pg/dish SP group 
+(v-viii) and 200 pg/dish SP plus 1 μM CP-96,345 group (ix-xii). 
+Photomicrographs were taken with the Olympus IX71 
+inverted microscope (x40). The arrows indicate the neuroki-
+nin-1 receptor- or SP-positive neurons (brown). The red 
+arrows indicate the DRG neurons where the neurokinin-1 
+receptors are not expressed in their membrane. Scale bars: 
+20 μm.
+
+Page 3 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+Figs  3A  and  3B,  the  time-dependent  (10–360  min)
+exposure  of  cultured  DRG  neurons  to  SP  (200  pg/dish)
+resulted  in  a  significant  decrease  of  the  neurokinin-1
+receptor  expression  in  the  membrane  fractions  (104  ±
+15%, 74 ± 4% and 42 ± 5%, 14 ± 1% in Figs 3A and 3B,
+respectively, compared with the control at 10 min). The
+SP-induced  decrease  of  that  was  completely  blocked  by
+the 10 min pretreatment with 1 μM CP-96,345 (102 ± 9%,
+100 ± 7% and  74  ± 11%, 61 ±  14%  in  Figs 3A and 3B,
+respectively, compared with the control at 10 min). There-
+fore  the  activation  of  neurokinin-1  receptor  by  SP  is
+accompanied by the internalization of its receptors, how-
+ever, we could not identify the proteins detected by anti-
+substance  P  receptor  antibody  in  the  cytosol  as  a  func-
+tional neurokinin-1 receptor. Interestingly, we observed a
+gradual decrease of the neurokinin-1 receptor expression
+in the membrane fraction from the untreated DRG neu-
+rons (the control). These data suggest the endogenous SP
+released from the DRG neurons could enhance the turno-
+ver of neurokinin-1 receptor from the membrane to the
+cytosol as the released SP is not taken into the DRG cells.
+However,  after  the  induction  of  internalization  by  the
+stimulation  of  SP,  the  level  of  the  cytosolic  proteins
+detected by anti-substance P receptor antibody does not
+change, thus suggesting a part of internalized neurokinin-
+1  receptor  protein  could  be  degraded  to  maintain  the
+amount  of  neurokinin-1  receptor  to  some  extent within
+the cytosol.
+
+Characteristics of the GR73632-induced release of SP
+The data shown in Figs 1C and 2 indicate that the activa-
+tion of neurokinin-1 receptor is involved in the SP release
+induced by SP. We therefore selected another potent neu-
+rokinin-1  receptor  agonist  GR73632  (showing  no  cross-
+reactivity with anti-SP serum in radioimmunoassay) to fur-
+ther  investigate  the  molecular  mechanisms  of  the  SP
+release via the activation of the neurokinin-1 receptor in
+cultured  DRG  neurons.  As  shown  in  Fig.  4A,  it  was
+observed that a 60 min incubation with GR73632 (1–100
+nM) stimulated a significant increase in the SP release in a
+dose-dependent manner from the cultured DRG neurons.
+The increases in the SP release induced by GR73632 at var-
+ious  concentrations  were  almost  completely  blocked  by
+the  10  min  pretreatment  with  CP-96,345.  Based  on  the
+results shown in Fig. 4B, we thought that the 60 min incu-
+bation  with  10  nM  GR73632  was  an  appropriate  condi-
+tion  in  our  experiments.  However,  we  observed  that  a
+time-dependent treatment (10 min to 24 h) of GR73632
+(10 nM) did not cause any detectable change in the total
+amount of SP content from cultured DRG neurons and the
+culture medium (Fig. 4C). In addition, significant changes
+of the preprotachykinin mRNA expression were not caused
+by the time-dependent (10–360 min) exposure of cultured
+DRG  neurons  to  10  nM  GR73632  (Data  not  shown).
+Therefore, the effect of GR73632 under our experimental
+
+conditions  should  not  be  considered  to  cause  a  rapid
+increase in the synthesis of the SP content in cultured DRG
+neurons.
+
+Whether  the  complex  process  of  SP  release  induced  by
+GR73632 requires the activation of MAP kinases, COXs,
+PLC or PKCs, PKA in cultured DRG neurons, still remains
+
+A     
+
+B     
+
+C 
+
+Membrane 
+
+Cytosol
+
+Time (min)
+
+control
+
+SP 
+
+SP + 
+CP-96,345
+
+control
+
+SP 
+
+SP + 
+CP-96,345
+
+10
+
+60
+
+180
+
+360
+
+150
+
+100
+
+50
+
+0
+
+)
+n
+i
+m
+0
+1
+
+t
+a
+
+l
+o
+r
+t
+n
+o
+c
+
+f
+o
+%
+
+(
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+
+r
+o
+t
+p
+e
+c
+e
+r
+
+1
+-
+n
+i
+n
+i
+k
+o
+r
+u
+e
+N
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+n
+o
+i
+s
+s
+e
+r
+p
+x
+e
+
+r
+o
+t
+p
+e
+c
+e
+r
+
+1
+-
+n
+i
+n
+i
+k
+o
+r
+u
+e
+N
+
+)
+n
+i
+m
+0
+1
+
+t
+a
+
+l
+o
+r
+t
+n
+o
+c
+
+f
+o
+%
+
+(
+
+control
+SP (200 pg/dish)
+SP (200 pg/dish) + CP-96,345 (1μM ) 
+
+*
+
+*
+
+#
+
+**
+
+ 10
+
+60
+
+180
+
+360 (min)
+
+control
+SP (200 pg/dish)
+SP (200 pg/dish) + CP-96,345 (1μM ) 
+
+ 10
+
+60
+
+180
+
+360 (min)
+
+Time-course studies of the SP-induced neurokinin-1 recep-
+Figure 3
+cultured adult rat DRG neurons
+tor expression in the cytosolic and membrane fractions from 
+Time-course studies of the SP-induced neurokinin-1 
+receptor expression in the cytosolic and membrane 
+fractions from cultured adult rat DRG neurons. (A) 
+Representative blots of the neurokinin-1 receptor expres-
+sion in the cytosolic and membrane fractions from cultured 
+DRG neurons exposed to SP for 10 to 360 min. All data have 
+been quantified by normalizing the neurokinin-1 receptor 
+expression level of control in the membrane (B) or cytosolic 
+(C) fraction at 10 min, respectively. The data are expressed 
+as the means ± S.E.M. (bars) from 3 separate experiments. # 
+denotes a p < 0.05 as compared to the effect of untreated 
+control at 10 min, *p < 0.05 and **p < 0.01 versus the effect 
+of the untreated control at the same time by a one-way 
+analysis of variance followed by Bonferroni's test.
+
+Page 4 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+A     
+
+Without 1 μM  CP-96,345
+With 1 μM  CP-96,345
+
+e
+s
+a
+e
+l
+e
+r
+P
+
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+60
+
+40
+
+20
+
+0
+
+       *
+
+   **
+
+     **
+
+   **
+
+     *
+
+control
+
+ 1
+
+10
+
+  100 (nM )
+
+                GR73632 for 1 h
+
+B 
+
+C 
+
+control
+Treatment with 10 nM  GR73632 and 1 μM  CP-96,345
+Treatment with 10 nM  GR73632
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+60
+
+40
+
+20
+
+0
+
+   *
+
+   *
+
+   **
+
+    **
+
+     0
+
+       10
+
+      30
+
+     60 (min)
+
+control
+Treatment with GR73632 10 nM
+
+P
+e
+c
+n
+a
+t
+s
+b
+u
+s
+
+l
+a
+t
+o
+T
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+t
+n
+e
+t
+n
+o
+c
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+10
+
+30
+  60
+incubation time (min)
+
+180
+
+1440
+
+Effects of GR73632 on the release and total content of SP 
+Figure 4
+from cultured adult rat DRG neurons
+Effects of GR73632 on the release and total content 
+of SP from cultured adult rat DRG neurons. Dose-
+dependent (A) and time-dependent (B) effects of GR73632 
+on the release of SP from cultured adult rat DRG neurons. 
+(C) Total SP content from cultured DRG neurons and the 
+culture medium. The data are expressed as means ± S.E.M. 
+(bars) from 3–4 (A), 4 (B) or 3 (C) separate experiments. * 
+and ** denote p < 0.05 and 0.01, respectively.
+
+to  be  elucidated.  As  shown  in  Fig. 5A,  both  U0126  and
+SB203580 exhibited a significant inhibitory effect on the
+SP release evoked by GR73632, whereas SP600125 stimu-
+lated  an  increase  in  the  SP  release.  When  these  three
+inhibitors [6] of MAP kinases were used alone, only a c-
+Jun NH2-terminal kinase (JNK) inhibitor SP600125 had a
+weak tendency to increase the SP release (Fig. 5A). We also
+observed  that  the  GR73632-induced  SP  release  (Figs  5B
+
+and 5D) was significantly attenuated by NS-398 (a highly
+selective inhibitor of COX-2) [5], indomethacin (a non-
+selective inhibitor of COX1/2) [6] or by PKCε transloca-
+tion inhibitor peptide [21], Gö6976 (a selective inhibitor
+for PKCα-, βI-isozymes) [22] or bisindolylmaleimide I (a
+broad  inhibitor  for  PKCα-,  βI-,  βII-,  γ-,  δ-,  ε-isozymes)
+[22].  However,  neither  U73122  (a  selective  inhibitor  of
+PLC) [23] nor H89 (a selective inhibitor of PKA) [4] influ-
+enced the SP release induced by GR73632 (Figs  5C and
+5D).
+
+Up-regulation of COX-2 expression induced by SP and by 
+GR73632
+To  clarify  the  possible  signal  transduction  pathway(s)
+involved in the SP release via the activation of neurokinin-
+1  receptor,  the  activation  status  of  COX-2  was  assessed
+using specific antibodies for COX-2 after the stimulation
+of SP or GR73632 in the absence or presence of various
+inhibitors. The time-dependent exposure of DRG neurons
+to SP (200 pg/dish) resulted in the significant increase of
+de novo protein synthesis of COX-2 (Fig. 6A). The 60 min
+incubation  with  10  nM  GR73632  also  up-regulated  the
+expression  of  COX-2  protein  (Fig.  6B),  whereas  the
+increase  in  the  expression  of  COX-2  protein  evoked  by
+GR73632 was significantly attenuated by the pretreatment
+with  CP-96,345,  U0126,  NS-398  or  three  inhibitors  for
+PKC isozymes (Gö6976, bisindolylmaleimide I and PKCε
+translocation  inhibitor  peptide),  respectively.  However,
+neither SB203580 nor SP600125 influenced the up-regu-
+lation of COX-2 expression induced by GR73632.
+
+Discussion
+In  the  present  study,  we  demonstrated  for  the  first  time
+that the activation of neurokinin-1 receptor by its agonists
+(SP or GR73632) modulates the SP release from cultured
+DRG  neurons  through  some  important  intracellular
+effectors.
+
+During the 360 min exposure of DRG to SP (200 pg/dish),
+a peak response in the SP release was observed within the
+first 60 min, whereas a gradual decrease in the SP release
+level was obtained at later time points (180 and 360 min)
+(Fig. 1A). The release pattern of SP induced by itself may
+be  explained  by  the  internalization  and  recycling  of  the
+neurokinin-1  receptor  [24],  because  the  immunocyto-
+chemical  and  Western  blotting  results  (Figs  2A  and  3)
+showed the existence of neurokinin-1 receptor internali-
+zation induced by SP, and it also indicated an inhibitory
+effect of the continuous exposure to SP on the neurokinin-
+1  receptor  recycling.  In  addition,  the  time-dependent
+reduction in SP content of the DRG neurons exposed to SP
+provides  an  explanation  for  the  existence  of  SP  release
+(Fig. 2B). Our present findings are therefore in agreement
+with  the  hypothesis  that  SP  induces  its  own  release  via
+its auto-receptor, the neurokinin-1 receptor [16,17]. Our
+
+Page 5 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+80
+
+60
+
+40
+
+20
+
+0
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+80
+
+60
+
+40
+
+20
+
+0
+
+90
+
+60
+
+30
+
+0
+
+A     
+
+B 
+
+C 
+
+D         
+
+e
+s
+a
+e
+l
+e
+r
+P
+e
+c
+n
+a
+t
+s
+b
+u
+S
+
+)
+h
+s
+i
+d
+/
+g
+p
+(
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+     **
+
+control
+
+         *
+
+          *
+
+              *
+
+              *
+
+          *
+
+control
+
+SB
+203580
+
+U0126
+
+SP
+600125
+
+GR73632 10 nM  for 1 h
+
+ ***
+
+ control
+
+         *
+
+control
+
+  **
+
+ ***
+
+NS-398
+1 μM
+
+indomethacin
+1 μM
+
+             GR73632 10 nM for 1 h
+
+U73122
+10 μM
+
+U73122
+10 μM
+
+    GR73632 10 nM for 1 h
+
+PKCεI: protein kinase Cε translocation
+inhibitor peptide; Bis: bisindolylmaleimide I
+
+           *
+
+             *
+
+               *
+
+Bis
+1μM
+
+Gö6976
+1μM
+
+PKCεI
+200 μM
+
+H89
+10 μM
+
+ GR73632 10 nM  for 1 h
+
+Characteristics of the GR73632-evoked SP release from cul-
+Figure 5
+tured adult rat DRG neurons
+Characteristics of the GR73632-evoked SP release 
+from cultured adult rat DRG neurons. Some cells were 
+left untreated as a control, all other cells were treated with 
+GR73632 alone or together with three MAP kinases cascades 
+inhibitors (10 μM U0126, 15 μM SB203580 and 30 μM 
+SP600125), PLC inhibitor (10 μM U73122) or with COX 
+inhibitors (1 μM NS-398 and 1 μM indomethacin), PKC inhib-
+itors (1 μM Gö6976, 1 μM bisindolymaleimide, 200 μM PKCε 
+translocation inhibitor peptide) or with PKA inhibitor (10 μM 
+H89) in DMEM (serum free) for 60 min. The data are 
+expressed as the means ± S.E.M. (bars) from 3–5 (A), 6 (B) 
+or 4 (C), 4 (D) separate experiments. *, ** and *** denote p 
+< 0.05, 0.01 and 0.001, respectively.
+
+indicated 
+
+that  SP  may 
+
+data  also 
+function  as  a
+neuromodulator in the slow release response itself from
+cultured  DRG  neurons.  The  precise  mechanism  of  the
+association between the SP release and the neurokinin-1
+receptor  internalization  should  be  revealed  by  further
+studies.
+
+The neurokinin-1 receptor has a preferential affinity for SP
+[25].  The  expression  of  the  neurokinin-1  receptor  is
+observed mainly in the small rat DRG neurons by in situ
+hybridization [26]. We have therefore focused our atten-
+tion on the involvement of the neurokinin-1 receptor in
+the SP release from cultured DRG neurons. GR73632 (a
+selective agonist of the neurokinin-1 receptor) stimulated
+a significant increase in the release of SP via acting on the
+neurokinin-1 receptor. To clarify the characteristics of SP
+release via the neurokinin-1 receptor, we further investi-
+gated  the  possible  involvement  of  several  intracellular
+effectors, such as MAPKs, COX-2 and PLC, PKA and PKCs.
+
+The MAPKs family contains at least three protein kinases
+in series: JNK, p38 MAP kinase and MEK (a kinase imme-
+diately upstream of ERK that phosphorylates the tyrosine
+and  threonine  residues  on  ERK1/2  required  for  activa-
+tion).  They  are  often  involved  in  the  intracellular  trans-
+mission  of  extracellular  signals  [27].  In  our  previous
+study, the activation of ERK1/2 was demonstrated to be
+involved in the SP release evoked by bradykinin [6]. Fie-
+bich  et  al.  [13]  and  Yang  et  al.  [28]  also  indicated  that
+ERK1/2 and p38 MAP kinase can be rapidly activated by
+SP  in  a  dose-dependent  manner.  In  view  of  the  above-
+mentioned observations and the results shown in Fig. 5A,
+p38 MAP kinase and MEK seem to play a role in increasing
+the release of SP. In contrast, the data shown in Fig. 5A
+suggest that the JNK is likely to be associated with the sup-
+pression  of  SP  release  from  cultured  DRG  neurons,
+although  this  kinase  was  reported  to  function  as  an
+important factor involved in SP-stimulated secretion and
+production  of  inflammatory  mediators  in  rat  peritoneal
+mast cells [29].
+
+It is well known that the binding of the ligand to the neu-
+rokinin-1 receptor activates several second messenger sys-
+tems,  including  1,4,5-inositol  trisphosphate  formation
+via PLC activation and cyclic AMP accumulation via ade-
+nylate cyclase [12]. The activation of cyclic AMP-depend-
+ent PKA was also reported to be involved in the SP release
+caused  by  prostaglandin  E2[30].  However,  we  observed
+that PLC and PKA did not influence the SP release via the
+neurokinin-1 receptor from cultured DRG neurons.
+
+PKC is a family of serine- and threonine-specific protein
+kinases,  which  has  been  suggested  to  function  as  an
+important  intracellular  signaling  molecule  in  primary
+afferent nociceptors, while also being implicated in acute
+
+Page 6 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+and  chronic  inflammatory  as  well  as  neuropathic  pain.
+The  activation  of  PKC  was  also  reported  to  induce  the
+synthesis of COX-2 and the release of prostaglandin E2 in
+primary  midbrain  astrocytes  [31].  Previous  study  in  our
+laboratory [32] has shown that the time-dependent and
+transient induction of COX-2 mRNA was observed 30 min
+after  bradykinin  (a  potent  pro-inflammatory  mediator)
+stimulation  in  cultured  DRG  neurons.  The  short-term
+exposure of the DRG neurons to bradykinin at 1 μM for 30
+min also induced small but significant amounts of pros-
+taglandin  E2  release  depending  on  the  activation  of
+COX1/2. Our present findings also demonstrated a signif-
+icant increase in COX-2 expression stimulated during a 60
+min exposure of cultured DRG neurons to SP (Fig. 6A).
+Moreover,  the  de  novo  protein  synthesis  of  COX-2
+requires the activation of PKCs and MEK (Fig. 6B). In view
+of the above-mentioned observations and results shown
+in Figs 5D and 6, it is suggested that PKC isozymes includ-
+ing ε type play the important roles in the de novo protein
+synthesis  of  COX-2  via  the  neurokinin-1  receptor,  and
+thereby  increase  the  SP  release  from  cultured  DRG
+neurons.
+
+Interestingly, our results in the present work are partially
+consistent with several previous observations in vivo. For
+example,  the  activation  of  neurokinin-1  receptors  by
+intrathecal  injection  of  SP  evokes  thermal  hyperalgesia
+and spinal prostaglandin E2 release which can be reversed
+by spinal COX-2 inhibition and by the intrathecal delivery
+of the  p38  MAP  kinase  inhibitor SB203580; spinal PKC
+inhibition blocks the intrathecal injection of SP-mediated
+thermal hyperalgesia [34-37]. Moreover, the inhibition of
+PLC-β and PKC-ε can completely block both the neuroki-
+nin-1 receptor agonist-induced TRPV1 (transient receptor
+potential  vanilloid  subtype  1)  potentiation  and  heat
+hyperalgesia [38]. Similar to the observation reported by
+Zhang et al. [38], we also observed that the activation of
+neurokinin-1 receptor by its agonist GR73632 to enhance
+the  capsaicin-evoked  substance  P  release  in  our  latest
+research, which thus demonstrated that the potentiation
+of capsaicin-evoked substance P release by GR73632 via
+the  activation  of  neurokinin-1  receptor  depends  on  the
+activation of PKCs, MEK and p38 MAP kinase, PLC and
+COXs  from  cultured  DRG  neurons  (Unpublished  data).
+However, the detailed relationships among the activation
+of  PLC,  PKC,  MAP  kinases  and  COXs  regarding  the
+enhancement of capsaicin-evoked substance P release by
+GR73632 via the activation of neurokinin-1 receptor will
+be described in a study to be published in the not-so-dis-
+tant  future.  Based  on  our  findings  and  the  above-men-
+tioned  observations  reported  previously,  we  proposed  a
+possible molecular mechanism underlying the SP release
+induced  by  the  neurokinin-1  receptor  agonists  (SP  and
+GR73632) from cultured rat DRG neurons. The long-term
+exposure of DRG neurons to SP or GR73632 resulted in
+
+30
+-
+
+10
+-
+
+0
+-
+control
+substance P (200 pg/dish)
+
+60
+-
+
+120
+-
+
+0
++
+
+10
++
+
+30
++
+
+60
++
+
+120
++
+
+   **
+
+   **
+
+ 0
+
+10
+
+30
+
+60
+
+120 (min)
+
+A     
+
+COX-2  72 kDa
+ββββ-actin 42 kDa
+Time (min)
+
+Substance P
+
+n
+i
+t
+c
+a
+-
+β
+/
+2
+-
+X
+O
+C
+
+)
+l
+o
+r
+t
+n
+o
+c
+
+f
+o
+%
+
+(
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+B 
+
+COX-2  72 kDa
+
+β-actin 42 kDa
+
+400
+
+300
+
+200
+
+100
+
+n
+i
+t
+c
+a
+-
+β
+/
+2
+-
+X
+O
+C
+
+)
+l
+o
+r
+t
+n
+o
+c
+
+f
+o
+%
+
+(
+
+PKCεI: protein kinase Cε translocation inhibitor
+peptide; Bis: bisindolylmaleimide I; Gö: Gö6976
+
+  **          *
+
+    ***
+
+     *
+
+**
+
+                       **
+
+  ***
+
+0
+
+  control
+
+CP-96,
+345
+
+U0126 SB
+
+SP
+600125
+
+Bis
+1μM
+
+203580
+GR73632 10 nM for 1 h
+
+Gö
+1μM
+
+PKCεI
+200 μM
+
+NS-398
+1 μM
+
+Effects of SP and GR73632 on COX-2 protein expression in 
+Figure 6
+cultured adult rat DRG neurons
+Effects of SP and GR73632 on COX-2 protein expres-
+sion in cultured adult rat DRG neurons. (A) The time-
+dependence of COX-2 expression in cultured DRG neurons 
+exposed to SP. (B) The protein levels of COX-2 in DRG neu-
+rons treated with GR73632, either alone or together with 1 
+μM CP-96,345, three MAP kinases cascades inhibitors (10 
+μM U0126, 15 μM SB203580 and 30 μM SP600125) or with 1 
+μM NS-398, PKC inhibitors (1 μM Gö6976, 1 μM bisindoly-
+maleimide, 200 μM PKCε translocation inhibitor peptide) for 
+60 min were measured by Western blot analysis. All data 
+have been normalized to the COX-2 expression level of con-
+trol group. The data are expressed as the means ± S.E.M. 
+(bars) from 4 (A) or 4 (B) separate experiments. *, ** and *** 
+denote p < 0.05, 0.01 and 0.001, respectively.
+
+the  activation  of  MEK,  p38  MAP  kinase  and  PKC  at  an
+early stage and thereafter induced the synthesis of COX-2,
+which  they  contribute  to  the  SP  release  triggered  by  the
+neurokinin-1 receptor.
+
+Conclusion
+This  study  demonstrated  that  the  activation  of  neuroki-
+nin-1 receptor by its agonists (SP and GR73632) regulates
+the  SP  release  process  depending  on  the  activation  of
+
+Page 7 of 10
+(page number not for citation purposes)
+
+ 
+ 
+ 
+ 
+ 
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+MEK, p38 MAP kinase and PKC, and the de novo protein
+synthesis  of  COX-2,  while  also  indicating  that  the  JNK
+likely  has  an  inhibitory  effect  on  the  SP  release.  These
+observations  provide  important  evidence  to  help  us
+understand  the  molecular  mechanisms  of  inflammatory
+pain modulated by SP in primary afferent neurons.
+
+Methods
+Isolation and culture of rat DRG cells
+According  to  a  previously  described  method  [5,6,23],
+DRGs of young adult Wistar rats (6–9 weeks of age) were
+dissociated into  single  isolated  neurons and  non-neuro-
+nal cells by the treatment of collagenase (Sigma, St. Louis,
+MO, USA) and trypsin (Invitrogen, Burlington, ON, Can-
+ada). The cells (3 DRGs/dish) were maintained at 37°C in
+a  water-saturated  atmosphere  with  5%  CO2  for  5  days
+before the initiation of the experiments. All procedures for
+animal  experiments  were  performed  according  to  the
+Guide  for  Animal  Experimentation,  Hiroshima  Univer-
+sity, and the Committee of Research Facilities for Labora-
+tory  Animal  Sciences,  Graduate  School  of  Biomedical
+Sciences, Hiroshima University, Japan.
+
+Measurement of SP content in the culture medium and in 
+the cultured rat DRG neurons
+Except for some cultured cells treated by peptidase inhib-
+itors containing 1 μM phosphoramidon (Sigma), 4 μg/ml
+bacitracin (Sigma) and 1 μM captopril (Sigma) alone (as
+a control), other cultured cells were exposed to SP (Pep-
+tide  Institute,  Osaka,  Japan)  or  to  GR73632  (Sigma),
+either  alone  or  together  with  various  inhibitors  such  as
+Gö6976 (Calbiochem, Darmstadt, Germany), PKCε trans-
+location inhibitor peptide (Calbiochem) and bisindolyl-
+maleimide  I  (Calbiochem),  indomethacin  (Sigma)  and
+SB222200  (Sigma),  GR94800  (Sigma)  and  U73122
+(Sigma), SP600125 (Sigma) and H89 (Seikagaku, Tokyo,
+Japan) in 1 ml serum-free DMEM (Nissui, Tokyo, Japan)
+containing peptidase inhibitors for a designated period of
+time  at  37°C  in  a  water-saturated  atmosphere  with  5%
+CO2. Thereafter, the SP content collected from the culture
+medium and the cultured DRG neurons was measured by
+a highly sensitive radioimmunoassay [5,18], respectively.
+For examining the amount of SP-induced SP release in the
+present experiments, we developed a new computational
+method. Briefly, SP at a specified concentration (100, 200
+and 800, 1,000 pg/dish) was used to stimulate two groups
+of cultured DRG neurons in both the absence and pres-
+ence of various antagonists for three neurokinin receptors
+(neurokinin-1, -2 and -3 receptors). The SP content was
+immediately  collected  from  the  culture  medium  (1  ml)
+after  the  SP  stimulation  for  the  first  group,  and  the
+amount  of  SP  content  was  examined  from  the  culture
+medium (1 ml) after the SP stimulation lasted for 10, 60,
+180, 360 minutes, respectively, for the second group. The
+numerical  difference  in  the SP  content  between  the  two
+
+groups  is  considered  to  be  the  amount  of  SP  release
+induced  by  this  specified  concentration  of  SP  during  a
+specific  time  period  from  cultured  DRG  neurons.
+
+Immunocytochemical staining for the neurokinin-1 
+receptor and SP in the cultured rat DRG neurons
+Immunocytochemical  staining  for  the  neurokinin-1
+receptor and SP in cultured DRG neurons on coverglasses
+was performed with a standard immunoperoxidase tech-
+nique [Histofine Simple Stain Rat MAX-PO (MULTI) kit;
+Nichirei,  Tokyo,  Japan]  according  to  the  manufacturer's
+instructions. Briefly, 4% paraformaldehyde-fixed cultured
+DRG cells on coverglasses were incubated with anti-neu-
+rokinin-1  receptor  (1:2,000  dilution;  Sigma)  or  anti-SP
+serum (1:1,000 dilution; a gift of Dr. J.S. Hong, National
+Institute  of  Environmental  Health  Sciences,  NIH,  USA)
+[33].  After  the  treatment  with  Histofine  simple  stain  rat
+MAX-PO (MULTI), color development (brown) was per-
+formed using a DAB substrate kit (Nichirei), and the cov-
+erglasses  were  counterstained  with  hematoxylin  (blue).
+According  to  the  manufacturer's  instructions  for  the
+datasheet  of  anti-substance  P  receptor  antibody  (S8305,
+Sigma), it is guaranteed that the antibody specifically rec-
+ognizes  the  neurokinin-1  receptor  peptide  (rat,  amino
+acids 393–407) in immunoblotting. Immunocytochemi-
+cal  controls  demonstrating  antibody  specificity  for  the
+neurokinin-1 receptor and SP included immunostaining
+cultured  cells  on  coverglasses,  but  the  primary  antibody
+was  omitted.  The  omission  of  the  primary  antibody
+resulted in no staining in the cells.
+
+Subcellular fractionation
+After a 10 min pretreatment with the presence or absence
+of  1  μM  CP-96,345  (Pfizer,  Groton,  CT,  USA),  the  cul-
+tured  DRG  cells  were  incubated  in  serum-free  DMEM
+(containing peptidase inhibitors) with or without SP (200
+pg/dish) for 10, 60, 180, 360 minutes, respectively. The
+isolation of cytosolic and membrane fractions from these
+DRG  cells  was  performed  with  a  standard  cell  compart-
+ment kit fractionation procedure (Cell compartment kit;
+Qiagen,  Tokyo,  Japan)  according  to  the  manufacturer's
+instructions.  Protein  concentrations  were  determined,
+and  then  the  neurokinin-1  receptor  levels  in  the  same
+amounts of cytosolic and membrane proteins were ana-
+lyzed separately by a Western blot analysis.
+
+Western blot analysis
+At the end of the SP release experiments, the cell samples
+were  processed  for  Western  blot  analysis  as  previously
+described  [6].  Primary  antibodies  were  raised  against
+COX-2  (1:1,000  dilution;  COX-2  polyclonal  antibody;
+Cayman Chemical, Ann Arbor, MI), β-actin (1:5,000 dilu-
+tion; the mouse monoclonal antibody for β-actin; Sigma)
+or  anti-substance  P  receptor  (1:2,000  dilution;  Sigma).
+The  horseradish  peroxidase-conjugated  anti-rabbit  and
+
+Page 8 of 10
+(page number not for citation purposes)
+
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+anti-mouse  secondary  antibodies  (1:2,000  dilution;
+Cell Signaling  Technology,  Beverly,  MA)  were  used  for
+chemiluminescence detection according to the manufac-
+turer's instructions, respectively.
+
+2.
+
+3.
+
+Statistical analysis
+The  data  are  presented  as  the  mean  ±  S.E.M.  Statistical
+analyses  were  performed  using  a  one-way  ANOVA  fol-
+lowed  by  Bonferroni's  test. P  values  less  than 0.05  were
+considered significant.
+
+Abbreviations
+COX: cyclooxygenase; 
+
+DMEM: Dulbecco's modified Eagle's medium; 
+
+DRG: dorsal root ganglion; 
+
+ERK: extracellular signal-regulated kinase; 
+
+MAP: mitogen-activated protein; 
+
+MEK: mitogen-activated protein kinase kinase; 
+
+PKA: protein kinase A; 
+
+PKC: protein kinase C; 
+
+PLC: phospholipase C; SP: substance P.
+
+Competing interests
+The author(s) declare that they have no competing inter-
+ests.
+
+Authors' contributions
+HBT participated in the design of the study, carried out all
+the experiments outlined in the manuscripts, performed
+the data analysis and wrote the manuscript. YSL designed
+and  performed  the  immunocytochemical  staining,  and
+contributed to the analysis and interpretation of the data.
+KA designed  the  immunocytochemical  staining,  assisted
+with the data analysis and interpretation. YN participated
+in the design of the study, assisted with the data analysis
+and interpretation, and wrote the manuscript. All authors
+have read and approved the final manuscript.
+
+Acknowledgements
+This study was supported by a Grant-in-Aid for Scientific Research (B) from 
+the Japan Society for the Promotion of Science (JSPS) to H.B. Tang (No. 
+19790189). We thank Dr. Brian Quinn (Kyushu University, Japan) for his 
+critical reading of the manuscript.
+
+References
+1.
+
+Carter MS, Krause JE: Structure, expression, and some regula-
+tory mechanisms of the rat preprotachykinin gene encoding
+substance P, neurokinin A, neuropeptide K, and neuropep-
+tide gamma.  J Neurosci 1990, 10(7):2203-2214.
+
+Inoue  A,  Ikoma  K,  Morioka  N,  Kumagai  K,  Hashimoto  T,  Hide  I,
+Nakata Y: Interleukin-1beta induces substance P release from
+primary afferent neurons through the cyclooxygenase-2 sys-
+tem.  J Neurochem 1999, 73(5):2206-2213.
+Purkiss  J,  Welch  M,  Doward  S,  Foster  K:  Capsaicin-stimulated
+release  of  substance  P  from  cultured  dorsal  root  ganglion
+neurons:  involvement  of  two  distinct  mechanisms.    Biochem
+Pharmacol 2000, 59(11):1403-1406.
+
+6.
+
+5.
+
+4. Oshita K, Inoue A, Tang HB, Nakata Y, Kawamoto M, Yuge O: CB(1)
+cannabinoid  receptor  stimulation  modulates  transient
+receptor potential vanilloid receptor 1 activities in calcium
+influx  and  substance  P  release  in  cultured  rat  dorsal  root
+ganglion cells.  J Pharmacol Sci 2005, 97(3):377-385.
+Tang HB, Inoue A, Oshita K, Hirate K, Nakata Y: Zaltoprofen inhib-
+its bradykinin-induced responses by blocking the activation
+of  second  messenger  signaling  cascades  in  rat  dorsal  root
+ganglion cells.  Neuropharmacology 2005, 48(7):1035-1042.
+Tang HB, Inoue A, Iwasa M, Hide I, Nakata Y: Substance P release
+evoked by capsaicin or potassium from rat cultured dorsal
+root ganglion neurons is conversely modulated with bradyki-
+nin.  J Neurochem 2006, 97(5):1412-1418.
+Snider  RM,  Constantine  JW,  Lowe  JA  III,  Longo  KP,  Lebel  WS,
+Woody HA, Drozda SE, Desai MC, Vinick FJ, Spencer RW: A potent
+nonpeptide  antagonist  of  the  substance  P  (NK1)  receptor.
+Science 1991, 251(4992):435-437.
+Cao YQ, Mantyh PW, Carlson EJ, Gillespie AM, Epstein CJ, Basbaum
+AI: Primary afferent tachykinins are required to experience
+moderate to intense pain.  Nature 1998, 392(6674):390-394.
+Kramer MS, Cutler N, Feighner J, Shrivastava R, Carman J, Sramek JJ,
+Reines SA, Liu G, Snavely D, Wyatt-Knowles E, Hale JJ, Mills SG, Mac-
+Coss M, Swain CJ, Harrison T, Hill RG, Hefti F, Scolnick EM, Cascieri
+MA, Chicchi GG, Sadowski S, Williams AR, Hewson L, Smith D, Carl-
+son EJ, Hargreaves RJ, Rupniak NM: Distinct mechanism for anti-
+depressant  activity  by  blockade  of  central  substance  P
+receptors.  Science 1998, 281(5383):1640-1645.
+
+9.
+
+8.
+
+7.
+
+10. Grady EF, Yoshimi SK, Maa J, Valeroso D, Vartanian RK, Rahim S, Kim
+EH, Gerard C, Gerard N, Bunnett NW, Kirkwood KS: Substance P
+mediates  inflammatory  oedema  in  acute  pancreatitis  via
+activation of the neurokinin-1 receptor in rats and mice.  Br J
+Pharmacol 2000, 130(3):505-512.
+
+13.
+
+12.
+
+11. Brechenmacher C, Larmet Y, Feltz P, Rodeau JL: Cultured rat sen-
+sory  neurones  express  functional  tachykinin  receptor  sub-
+types 1, 2 and 3.  Neurosci Lett 1998, 241(2–3):159-162.
+Snijdelaar DG, Dirksen R, Slappendel R, Crul BJ: Substance P.  Eur J
+Pain 2000, 4(2):121-135.
+Fiebich  BL,  Schleicher  S,  Butcher  RD,  Craig  A,  Lieb  K:  The  neu-
+ropeptide substance P activates p38 mitogen-activated pro-
+tein kinase resulting in IL-6 expression independently from
+NF-kappa B.  J Immunol 2000, 165(10):5606-5611.
+Ebner K, Singewald N: The role of substance P in stress and anx-
+iety responses.  Amino Acids 2006, 31(3):251-272.
+
+14.
+
+15. Koon  HW,  Zhao  D,  Zhan  Y,  Rhee  SH,  Moyer  MP,  Pothoulakis  C:
+Substance P stimulates cyclooxygenase-2 and prostaglandin
+E2  expression  through  JAK-STAT  activation  in  human
+colonic epithelial cells.  J Immunol 2006, 176(8):5050-5059.
+16. Hu HZ, Li ZW, Si JQ: Evidence for the existence of substance
+P autoreceptor in the membrane of rat dorsal root ganglion
+neurons.  Neuroscience 1997, 77(2):535-541.
+
+17. Malcangio  M,  Bowery  NG:  Peptide  autoreceptors:  does  an
+autoreceptor for substance P exist.  Trends Pharmacol Sci 1999,
+20(10):405-407.
+
+18. Tang HB, Nakata Y: Olopatadine attenuates the enhancement
+of capsaicin-evoked substance P release by bradykinin from
+cultured  dorsal  root  ganglion neurons.   Eur  J  Pharmacol 2006,
+552(1–3):78-82.
+
+19. Dianzani C, Collino M, Lombardi G, Garbarino G, Fantozzi R: Sub-
+stance P increases neutrophil adhesion to human umbilical
+vein endothelial cells.  Br J Pharmacol 2003, 139(6):1103-1110.
+
+20. Kojima S, Ikeda M, Kamikawa Y: Loperamide inhibits tachykinin
+NK3-receptor-triggered serotonin release without affecting
+NK2-receptor-triggered  serotonin  release  from  guinea  pig
+colonic mucosa.  J Pharmacol Sci 2005, 98(2):175-180.
+
+21. Huang X, Walker JW: Myofilament anchoring of protein kinase
+Sci  2004,
+
+in  cardiac  myocytes. 
+
+J  Cell 
+
+C-epsilon 
+117(10):1971-1978.
+
+Page 9 of 10
+(page number not for citation purposes)
+
+ 
+Molecular Pain 2007, 3:42
+
+http://www.molecularpain.com/content/3/1/42
+
+22.
+
+Suzuki Y, Zhang H, Saito N, Kojima I, Urano T, Mogami H: Gluca-
+gon-like peptide 1 activates protein kinase C through Ca2+-
+dependent activation of phospholipase C in insulin-secreting
+cells.  J Biol Chem 2006, 281(39):28499-28507.
+
+23. Tang HB, Inoue A, Oshita K, Nakata Y: Sensitization of vanilloid
+receptor 1 induced by bradykinin via the activation of second
+messenger  signaling  cascades  in  rat  primary  afferent  neu-
+rons.  Eur J Pharmacol 2004, 498(1–3):37-43.
+
+24. Grady EF, Garland AM, Gamp PD, Lovett M, Payan DG, Bunnett NW:
+Delineation of the endocytic pathway of substance P and its
+seven-transmembrane domain NK1 receptor.  Mol Biol 1995,
+6(5):509-524.
+
+26.
+
+27.
+
+J  Neurochem 
+
+25. Mussap CJ, Geraghty DP, Burcher E: Tachykinin receptors: a radi-
+1993,
+
+oligand  binding  perspective. 
+60(6):1987-2009.
+Li HS, Zhao ZQ: Small sensory neurons in the rat dorsal root
+ganglia  express  functional  NK-1  tachykinin  receptor.    Eur  J
+Neurosci 1998, 10(4):1292-1299.
+Pearson G, Robinson F, Beers Gibson T, Xu BE, Karandikar M, Ber-
+man  K,  Cobb  MH:  Mitogen-activated  protein  (MAP)  kinase
+pathways: regulation and physiological functions.  Endocr Rev
+2001, 22(2):153-183.
+
+28. Yang  CM,  Hsiao  LD,  Chien  CS,  Lin  CC,  Luo  SF,  Wang  CC:  Sub-
+stance  P-induced  activation  of  p42/44  mitogen-activated
+protein  kinase  associated  with  cell  proliferation  in  human
+tracheal smooth muscle cells.  Cell Signal 2002, 14(11):913-923.
+29. Azzolina A, Guarneri P, Lampiasi N: Involvement of p38 and JNK
+MAPKs  pathways  in  Substance  P-induced  production  of
+TNF-alpha by peritoneal mast cells.  Cytokine 2002, 18(2):72-80.
+30. Kopp UC, Cicha MZ, Smith LA: PGE2 increases release of sub-
+stance P from renal sensory nerves by activating the cAMP-
+PKA transduction cascade.  Am J Physiol Regul Integr Comp Physiol
+2002, 282(6):R1618-1627.
+
+31. Hüll M, Müksch B, Akundi RS, Waschbisch A, Hoozemans JJ, Veerhuis
+R, Fiebich BL: Amyloid beta peptide (25–35) activates protein
+kinase C leading to cyclooxygenase-2 induction and prostag-
+landin E2 release in primary midbrain astrocytes.  Neurochem
+Int 2006, 48(8):663-672.
+Inoue A, Iwasa M, Nishikura Y, Ogawa S, Nakasuka A, Nakata Y: The
+long-term exposure of rat cultured dorsal root ganglion cells
+to bradykinin induced the release of prostaglandin E2 by the
+activation  of  cyclooxygenase-2. 
+Lett  2006,
+401(3):242-247.
+
+  Neurosci 
+
+32.
+
+33. Hong JS, Costa E, Yang HY: Effects of habenular lesions on the
+substance P content of various brain regions.  Brain Res 1976,
+118(3):523-525.
+
+34. Hua XY, Chen P, Marsala M, Yaksh TL: Intrathecal substance P-
+induced thermal hyperalgesia and spinal release of prostag-
+landin E2 and amino acids.  Neuroscience 1999, 89(2):525-534.
+35. Malmberg AB, Yaksh TL: Hyperalgesia mediated by spinal gluta-
+mate or substance P receptor blocked by spinal cyclooxyge-
+nase inhibition.  Science 1992, 257(5074):1276-1279.
+Svensson CI, Hua XY, Protter AA, Powell HC, Yaksh TL: Spinal p38
+MAP  kinase  is  necessary  for  NMDA-induced  spinal  PGE2
+release  and  thermal  hyperalgesia. 
+  Neuroreport  2003,
+14(8):1153-1157.
+
+36.
+
+37. Wajima Z, Hua XY, Yaksh TL: Inhibition of spinal protein kinase
+C blocks substance P-mediated hyperalgesia.  Brain Res 2000,
+877(2):314-321.
+
+38. Zhang H, Cang CL, Kawasaki Y, Liang LL, Zhang YQ, Ji RR, Zhao ZQ:
+Neurokinin-1 receptor enhances TRPV1 activity in primary
+sensory  neurons  via  PKCepsilon:  a  novel  pathway  for  heat
+hyperalgesia.  J Neurosci 2007, 27(44):12067-12077.
+
+Publish with BioMed Central   and  every 
+Publish with BioMed Central   and  every 
+scientist can read your work  free of charge
+scientist can read your work  free of charge
+
+"BioMed Central will be  the most  significant development for 
+"BioMed Central will be  the most  significant development for 
+disseminating the results of biomedical researc h in our lifetime."
+disseminating the results of biomedical researc h in our lifetime."
+
+Sir Paul Nurse, Cancer Research UK
+Sir Paul Nurse, Cancer Research UK
+
+Your research papers will be:
+Your research papers will be:
+
+available free of charge to the entire biomedical community
+available free of charge to the entire biomedical community
+
+peer reviewed and published immediately upon acceptance
+peer reviewed and published immediately upon acceptance
+
+cited in PubMed and archived on PubMed Central 
+cited in PubMed and archived on PubMed Central 
+
+yours  — you keep the copyright
+yours  — you keep the copyright
+
+Submit your manuscript here:
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+http://www.biomedcentral.com/info/publishing_adv.asp
+
+BioMedcentral
+BioMedcentral
+
+Page 10 of 10
+(page number not for citation purposes)
+
+ 
+

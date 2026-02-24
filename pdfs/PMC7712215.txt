@@ -1,0 +1,2192 @@
+Review
+The Intrinsic Cardiac Nervous System and Its Role in
+Cardiac Pacemaking and Conduction
+
+Laura Fedele * and Thomas Brand *
+
+Developmental Dynamics, National Heart and Lung Institute (NHLI), Imperial College, London W12 0NN, UK
+* Correspondence: l.fedele@imperial.ac.uk (L.F.); t.brand@imperial.ac.uk (T.B.);
+
+Tel.: +44-(0)-207-594-6531 (L.F.); +44-(0)-207-594-8744 (T.B.)
+
+Received: 17 August 2020; Accepted: 20 November 2020; Published: 24 November 2020
+
+Abstract: The cardiac autonomic nervous system (CANS) plays a key role for the regulation of
+cardiac activity with its dysregulation being involved in various heart diseases, such as cardiac
+arrhythmias. The CANS comprises the extrinsic and intrinsic innervation of the heart. The intrinsic
+cardiac nervous system (ICNS) includes the network of the intracardiac ganglia and interconnecting
+neurons. The cardiac ganglia contribute to the tight modulation of cardiac electrophysiology, working
+as a local hub integrating the inputs of the extrinsic innervation and the ICNS. A better understanding
+of the role of the ICNS for the modulation of the cardiac conduction system will be crucial for targeted
+therapies of various arrhythmias. We describe the embryonic development, anatomy, and physiology
+of the ICNS. By correlating the topography of the intracardiac neurons with what is known regarding
+their biophysical and neurochemical properties, we outline their physiological role in the control
+of pacemaker activity of the sinoatrial and atrioventricular nodes. We conclude by highlighting
+cardiac disorders with a putative involvement of the ICNS and outline open questions that need to be
+addressed in order to better understand the physiology and pathophysiology of the ICNS.
+
+Keywords: nervous system; development; neural crest cells; innervation; ganglia; sympathetic
+neurons; parasympathetic neurons; neurotransmitter; neurocardiac junction
+
+1. Introduction
+
+The intrinsic cardiac nervous system (ICNS) is sometimes referred as the “little brain” of the
+heart [1]. It makes continuous adjustments of the cardiac mechanical and electrical activity and it
+consists of a network of neurons that communicate with each other and with neurons located in
+the extracardiac thoracic ganglia, all under the control of the central nervous system. The ICNS
+comprises aﬀerent (sensory), interconnecting (local circuit), and cardio-motor (eﬀerent sympathetic and
+parasympathetic) neurons [1,2]. The intrinsic cardiac neurons are mainly concentrated in intracardiac
+ganglia residing in speciﬁc regions of the heart, mostly in the atria, and each ganglion has a preferential
+region of action [2]. The activation of eﬀerent neurons results in the modulation of the heart rate,
+atrio-ventricular node conduction as well as inotropism of atria and ventricles. Local circuit neurons
+(LCNs) work as inter- and intra-ganglionic connections, whilst aﬀerent neurons transduce information
+of the cardiovascular milieu [1,3].
+
+The control of the heart by the cardiac autonomic nervous system (CANS) is hierarchically organized
+and it can be subdivided into three levels (Figure 1). Level 1 is composed of the neurons in the medulla
+oblongata (brainstem) and spinal cord, which are controlled by higher cortical neurons (e.g., insular cortex,
+anterior cingulate cortex, medial prefrontal cortex, and amygdala) in the central nervous system [2,4,5].
+Level 2 and 3 are in the periphery, level 2 comprises the intrathoracic extracardiac ganglia, and level 3 the
+ICNS [2]. Notably, the ICNS can modulate regional cardiac function in a beat-to-beat fashion and it can
+regulate heart function, even when disconnected from the higher levels [2]. Overall, the CANS plays a
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54; doi:10.3390/jcdd7040054
+
+www.mdpi.com/journal/jcdd
+
+Journal ofCardiovascular Development and Disease(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+2 of 33
+
+fundamental role in modulating contractility (inotropy), relaxation (lusitropy), beating rate (chronotropy),
+conduction velocity (dromotropy), and myocyte cohesion (adhesiotropy), and therefore affects both the
+electrophysiology and hemodynamics of the heart [6]. Importantly, clinical studies have demonstrated an
+implication of the cardiac nervous system in atrial and ventricular arrhythmias [7].
+
+Figure 1. Model of the hierarchical control of the heart by the cardiac autonomic nervous system
+(CANS). The intrinsic cardiac nervous system (ICNS) contains efferent (parasympathetic and sympathetic)
+neurons, local afferent neurons and local circuit neurons. The intrathoracic extracardiac ganglia (stellate
+ganglia and middle cervical ganglia) contain sympathetic neurons, local afferent and local circuit neurons.
+The intrathoracic ganglia (intra- and extracardiac) work in close coordination as a nested loop, which is
+further tuned by the CNS (spinal cord, brainstem, hypothalamus, and forebrain) resulting in the regulation
+of cardiac function on a beat-to-beat basis. DRG: dorsal root ganglion; β1AR: beta 1 adrenergic receptor,
+M2: muscarinic acetylcholine receptor type 2. Neurite: local afferent neurites embedded in the cardiac
+walls. Figure adapted from Ardell & Armour J. Phys published by Wiley 2016 [2].
+
+Various cardiothoracic reﬂexes depend on the sensory transduction of the local aﬀerent neurons
+(in the intrathoracic intra- and extracardiac ganglia) as well as the aﬀerent neurons in the spinal
+cord, dorsal root, and nodose ganglia. Their transductions result in the initiation of the reﬂex both
+in the central and peripheral nervous system [2]. The aﬀerent neurons can transduce mechanical
+(mechanosensory neurons) and chemical (chemosensory neurons) stimuli, with the majority of the
+intrinsic cardiac aﬀerent neurons transducing both modalities [3].
+
+Cardiomyocytes and coronary vessels are regulated by the eﬀerent neurons, as well as by circulating
+hormones. The eﬀerent cardiac neuronal outputs depend on both pre-ganglionic and post-ganglionic
+neurons [2,8]. The sympathetic branch comprehends the pre-sympathetic eﬀerent neurons in the
+brainstem that project to the pre-ganglionic neurons in the spinal cord (intermediolateral column),
+which, in turn synapse to the post-ganglionic sympathetic neurons residing in the intrathoracic
+
+J. Cardiovasc. Dev. Dis. 2020, 7, x FOR PEER REVIEW 2 of 33 extracardiac ganglia, and level 3 the ICNS [2]. Notably, the ICNS can modulate regional cardiac function in a beat-to-beat fashion and it can regulate heart function, even when disconnected from the higher levels [2]. Overall, the CANS plays a fundamental role in modulating contractility (inotropy), relaxation (lusitropy), beating rate (chronotropy), conduction velocity (dromotropy), and myocyte cohesion (adhesiotropy), and therefore affects both the electrophysiology and hemodynamics of the heart [6]. Importantly, clinical studies have demonstrated an implication of the cardiac nervous system in atrial and ventricular arrhythmias [7].  Figure 1. Model of the hierarchical control of the heart by the cardiac autonomic nervous system (CANS). The intrinsic cardiac nervous system (ICNS) contains efferent (parasympathetic and sympathetic) neurons, local afferent neurons and local circuit neurons. The intrathoracic extracardiac ganglia (stellate ganglia and middle cervical ganglia) contain sympathetic neurons, local afferent and local circuit neurons. The intrathoracic ganglia (intra- and extracardiac) work in close coordination as a nested loop, which is further tuned by the CNS (spinal cord, brainstem, hypothalamus, and forebrain) resulting in the regulation of cardiac function on a beat-to-beat basis. DRG: dorsal root ganglion; β1AR: beta 1 adrenergic receptor, M2: muscarinic acetylcholine receptor type 2. Neurite: local afferent neurites embedded in the cardiac walls. Figure adapted from Ardell & Armour J. Phys published by Wiley 2016 [2]. Various cardiothoracic reflexes depend on the sensory transduction of the local afferent neurons (in the intrathoracic intra- and extracardiac ganglia) as well as the afferent neurons in the spinal cord, dorsal root, and nodose ganglia. Their transductions result in the initiation of the reflex both in the central and peripheral nervous system [2]. The afferent neurons can transduce mechanical (mechanosensory neurons) and chemical (chemosensory neurons) stimuli, with the majority of the intrinsic cardiac afferent neurons transducing both modalities [3]. J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+3 of 33
+
+ganglia (cervical and stellate ganglia) [2]. As depicted in Figure 1, some spinal cord neurons
+(although a small number) form synapses with sympathetic post-ganglionic neurons in the ICNS [2,8].
+The parasympathetic pre-ganglionic neurons reside in the brainstem (mainly in the nucleus ambiguous),
+and project to post-ganglionic neurons that are located in the ICNS ganglia [2]. Both the sympathetic
+and parasympathetic eﬀerent neurons in the ICNS are located in the major atrial and ventricular
+ganglia and regulate the electrical and mechanical activity of the heart [2,8].
+
+The cardiac conduction system (CCS) plays an essential role in the initiation and coordination of
+the heart’s electrophysiology. It is composed of the sinoatrial node (SAN), the atrioventricular node
+(AVN) and the His–Purkinje system. The SAN residing in the inﬂow tract of the right atrium, acts
+as the primary pacemaker initiating the cardiac action potential. The AVN retards the conduction of
+the action potential from the atria to the ventricles and works as a “back-up” pacemaker in the case
+of a failure of the SAN. The His-Purkinje system is composed of a common bundle (the bundle of
+His) branching into the left and right networks of Purkinje ﬁbers and propagates the action potential
+throughout the ventricles to permit their simultaneous electrical activation [9].
+
+In this review, we will describe the role of the ICNS for cardiac electrophysiology with a particular
+focus on its role in modulating the function of the CCS. We discuss the embryonic development of the
+ICNS, the anatomy and physiological role, and its interaction with the CCS. We conclude the review
+with some examples of heart disease that might also involve a disruption of the ICNS and highlighting
+gaps that we identiﬁed in the literature that need to be addressed in the future.
+
+2. Development of the Innervation of the Heart
+
+The development of the innervation of the heart is a tightly regulated process, both spatially
+and temporally, which occurs concurrently with the development of the cardiovascular system [10,11].
+The ICNS originates from the neuroectoderm, whereas the heart is a mesoderm derivative [12]. Cardiac
+innervation starts during the fifth week of human development (E10-E11 in mice) and it is characterized
+by four developmental stages: (1) the migration of neural crest cells (NCCs) to the dorsal aorta; (2) their
+differentiation into neurons; (3) the formation of the paravertebral sympathetic chain and parasympathetic
+cardiac ganglia through migration and aggregation of neuronal precursors; and (4) patterning and
+differentiation of the neuronal projection in the heart [13]. The parasympathetic innervation of the heart
+becomes functional before sympathetic neurons start to differentiate. The developing heart is initially
+relying on intrinsic cardiac adrenergic (ICA) cells as a source of catecholamines [10]. Cholinesterase
+activity appears in cardiac neurons between the fourth and seventh month of gestation in humans and at
+postnatal day 4 (P4) in rats; while, acetylcholine appears at E19 in rats [14,15].
+
+2.1. Intrinsic Cardiac Adrenergic Cells (ICA)
+
+Catecholamines play a key role in cardiac embryonic development, even in the pre-innervation
+stages and before chromaﬃn cells of the adrenal glands can synthesize them (E15.5 in mice). Targeted
+disruption in mice of the genes encoding the enzymes that are involved in catecholamine biosynthesis,
+dopamine β-hydroxylase (DBH), and tyrosine hydroxylase (TH) are embryonic lethal [16,17]. In the
+early embryo (E8.5 in mice), the myocardium itself expresses the catecholamine synthesizing enzyme
+phenylethanolamine-N-methyltransferase (PNMT), with the ICA cells being the major source of
+catecholamine synthesis [18].
+
+ICA cells are transiently found during development, their fate is not clear, and some might
+diﬀerentiate into pacemaker cells [13].
+In accordance with this, in the mouse embryo, ICA cells
+are present in regions that are associated with the CCS, which suggests a speciﬁc role in its
+development [19,20].
+Interestingly, some ICA cells persist in the adult ventricular myocardium,
+and they might act as a “backup” system when innervation is lost [21]. In fact, after denervation due to
+cardiac transplantation, the number of ICA cells increased along with the expression of TH, DBH, and
+PNMT. ICA cells might have a cardioprotective role, as they also express cardioprotective genes, e.g.,
+calcitonin gene related peptide (CGRP) [22,23].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+4 of 33
+
+2.2. Migration of Neural Crest Cells
+
+Neural crest cells (NCCs) migrate into the developing heart in the ﬁfth week in humans
+(E8.5 in mice). Depending on their region of origin, they give rise to distinct cell types, among
+them the sympathetic, sensory, and parasympathetic neurons [10].
+
+Sympathetic neurons originate from the trunk NCCs that migrate along the ventral pathway
+towards the dorsal aorta; they then migrate into rostral and caudal direction to form the paravertebral
+sympathetic chain. On their migratory route, the NCCs are guided by attracting and repelling factors,
+among them ephrins and semaphorins (SEMA) [13]. Ephrins orchestrate the direction of the migration
+along the ventral pathway: EphrinB, present in the posterior side of the somite, has a repulsive eﬀect
+on NCCs, which express the EphB2 receptor [24]. The migration towards the dorsal aorta is directed
+by SEMA acting on its receptors (e.g., Neuropilin-1/2), which are expressed in NCCs. SEMA3C is
+expressed in the myocardial cuﬀ cells in the outﬂow tract and it acts as an attractive cue for NCCs,
+contrasting to the action of the repelling SEMA6B and SEMA6B present in the dorsal neural tube.
+In accordance with the key role of SEMA in the migration of NCCs destined to form sympathetic
+neurons, Nrp1 and Sema3a knock-out mice display a sinus bradycardia phenotype as a result of
+sympathetic ganglia dysfunction, e.g., ectopic sympathetic ganglia and malformed stellate ganglia [25].
+The cardiac parasympathetic ganglia originate from the so-called “cardiac NCCs”, which is a subset
+of the vagal neural crest (Figure 2). In contrast to the sympathetic counterparts, they migrate either through
+or lateral to the somites, entering the heart and forming the cardiac ganglia from E12.5 onwards [26].
+Interestingly, NCCs are not the only source of parasympathetic neurons, as they can also originate from
+the nodose placode. This was demonstrated by the ablation of the NCCs in quail to chick chimeras and by
+Wnt1-Cre lineage tracing in mice [26,27]. Further research is needed in order to elucidate the potential role
+of guidance cues in the migration of the parasympathetic neurons, as some factors have been proposed,
+purely based on their transient immunoreactivity during development, e.g., HNK1 (human natural
+killer-1/CD57) in regions with ingrowing parasympathetic fibers in the basal region of the heart [28].
+
+Figure 2. (A) Regionalization of the neural crest along the dorsal neural tube of the mouse embryo
+(E10.5): cranial (purple), vagal (green), trunk (orange), and sacral (yellow). Vagal neural crest cells
+(NCCs) are further subdivided into: cardiac (red) and enteric (blue) lineages. (B) Migration of cardiac
+NCCs through or lateral to the somites into the branchial arch arteries and further into the outﬂow tract.
+(C) Transcriptional network involved in the speciﬁcation and diﬀerentiation of NCCs into sympathetic
+and parasympathetic neurons. White box: factors involved in both pathways; blue: factors involved in
+the diﬀerentiation of sympathetic neurons and red: of parasympathetic neurons. Abbreviations: BMPs-
+bone morphogenic proteins; ChAT- choline acetyltransferase; DBH- dopamine β-hydroxylase; GATA3-
+GATA binding protein 3; HAND2: heart and neural crest derivative expressed 2; MASH1- mammalian
+achaete-scute homologue; PHOX2 (A or B)- paired-like homeobox 2A or 2B; TH- tyrosine hydroxylase;
+vAChT- vesicular acetylcholine transporter. (A) reproduced with permission from Hutchins, E.J., et al.
+Dev. Biol published by Elsevier 2018 [29]; (B) reproduced with permission from Végh A.M.D., et al.
+JCDD by MDPI 2016 [10]; (C) adapted from Végh A.M.D., et al. JCDD by MDPI 2016 [10].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, x FOR PEER REVIEW 4 of 33 as a “backup” system when innervation is lost [21]. In fact, after denervation due to cardiac transplantation, the number of ICA cells increased along with the expression of TH, DBH, and PNMT. ICA cells might have a cardioprotective role, as they also express cardioprotective genes, e.g., calcitonin gene related peptide (CGRP) [22,23]. 2.2. Migration of Neural Crest Cells Neural crest cells (NCCs) migrate into the developing heart in the fifth week in humans (E8.5 in mice). Depending on their region of origin, they give rise to distinct cell types, among them the sympathetic, sensory, and parasympathetic neurons [10]. Sympathetic neurons originate from the trunk NCCs that migrate along the ventral pathway towards the dorsal aorta; they then migrate into rostral and caudal direction to form the paravertebral sympathetic chain. On their migratory route, the NCCs are guided by attracting and repelling factors, among them ephrins and semaphorins (SEMA) [13]. Ephrins orchestrate the direction of the migration along the ventral pathway: EphrinB, present in the posterior side of the somite, has a repulsive effect on NCCs, which express the EphB2 receptor [24]. The migration towards the dorsal aorta is directed by SEMA acting on its receptors (e.g., Neuropilin-1/2), which are expressed in NCCs. SEMA3C is expressed in the myocardial cuff cells in the outflow tract and it acts as an attractive cue for NCCs, contrasting to the action of the repelling SEMA6B and SEMA6B present in the dorsal neural tube. In accordance with the key role of SEMA in the migration of NCCs destined to form sympathetic neurons, Nrp1 and Sema3a knock-out mice display a sinus bradycardia phenotype as a result of sympathetic ganglia dysfunction, e.g., ectopic sympathetic ganglia and malformed stellate ganglia [25]. The cardiac parasympathetic ganglia originate from the so-called “cardiac NCCs”, which is a subset of the vagal neural crest (Figure 2). In contrast to the sympathetic counterparts, they migrate either through or lateral to the somites, entering the heart and forming the cardiac ganglia from E12.5 onwards [26]. Interestingly, NCCs are not the only source of parasympathetic neurons, as they can also originate from the nodose placode. This was demonstrated by the ablation of the NCCs in quail to chick chimeras and by Wnt1-Cre lineage tracing in mice [26,27]. Further research is needed in order to elucidate the potential role of guidance cues in the migration of the parasympathetic neurons, as some factors have been proposed, purely based on their transient immunoreactivity during development, e.g., HNK1 (human natural killer-1/CD57) in regions with ingrowing parasympathetic fibers in the basal region of the heart [28].  Figure 2. (A) Regionalization of the neural crest along the dorsal neural tube of the mouse embryo (E10.5): cranial (purple), vagal (green), trunk (orange), and sacral (yellow). Vagal neural crest cells (NCCs) are further subdivided into: cardiac (red) and enteric (blue) lineages. (B) Migration of cardiac NCCs through or lateral to the somites into the branchial arch arteries and further into the outflow tract. (C) Transcriptional network involved in the specification and differentiation of NCCs into sympathetic and parasympathetic neurons. White box: factors involved in both pathways; blue: J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+5 of 33
+
+2.3. Diﬀerentiation of Neural Crest Cells
+
+After NCCs have reached the dorsal aorta (E9.5) and the outﬂow tract (E10.5), they encounter
+various factors that are involved in their speciﬁcation towards sympathetic or parasympathetic
+neuronal identity [10]. It has been suggested that sympathetic and parasympathetic neurons share a
+common precursor, with a potential role of bone morphogenetic protein (BMP)2 in their speciﬁcation.
+In accordance with this, sympathetic neurons can transdiﬀerentiate in vitro into parasympathetic
+neurons upon stimulation with low BMP2 levels [30]. High levels of BMP2 favors sympathetic
+diﬀerentiation, whilst low levels induce parasympathetic identity [10].
+
+The initial steps in the diﬀerentiation process are similar between sympathetic and parasympathetic
+neurons (Figure 2). BMPs that are released by the epicardial and vascular cells elicit a transcriptional
+diﬀerentiation cascade, which is shared by both, sympathetic and parasympathetic neuronal precursors.
+The disruption of BMPs results in compromised diﬀerentiation into sympathetic neurons. For example,
+inhibition of BMP4-7 in avian embryos prevents sympathetic diﬀerentiation and sympathetic neuronal
+progenitors die after they have reached the dorsal aorta in Alk3 (the type 1 BMP receptor) conditional
+knockout mice [31,32]. Regarding parasympathetic neurons, BMP5 and 7 are present in ciliary
+neurons [33]. In both sympathetic and parasympathetic neuronal diﬀerentiation, BMPs initiate the
+expression of paired-like homeobox 2b (PHOX2B) and the mammalian achaete-scute homolog (MASH1).
+Accordingly, Phox2b and Mash1 knockout mice display a disruption of the development of all autonomic
+ganglia [34–36]. PHOX2B and MASH1 have a key role in the induction of the expression of the enzymes
+that are involved in catecholamine biosynthesis, TH, and DBH (Figure 2). The former through the action
+of PHOX2B via GATA3, whilst the latter through the action of PHOX2B and MASH1 via PHOX2A
+and heart and neural crest derivative expressed 2 (HAND2) [10]. Gata3
+mice die
+in utero (E9.5-E11) and they both display a reduction of Th and Dbh expression [37–39]. Likewise,
+mice with a speciﬁc deletion of Hand2 in NCCs also displayed an impaired formation of sympathetic
+neurons [37–39].
+
+and Hand2
+
+−/−
+
+−/−
+
+Studies using ciliary ganglia have reported that parasympathetic neurons do not express GATA3
+and HAND2, nor do they synthesize catecholamine enzymes [33]. By contrast, they express the
+parasympathetic markers choline acetyltransferase (ChAT) and vesicular acetylcholine transporter
+(vAChT), possibly via a pathway downstream of PHOX2B through the action of the glial cell line-derived
+neurotrophic factor GDNF/Ret, as shown in cranial parasympathetic ganglia [10,40]. In accordance
+with a role of the signaling pathway downstream of GDNF and the involvement of the GDNF receptor
+Ret, E18 Ret knockout mice present a reduction in the volume of cardiac ganglia together with decreased
+innervation in the ventricular CCS [41].
+
+The diﬀerentiation of cardiac parasympathetic neurons has not been extensively studied.
+The extrapolation or conclusions drawn from research done on ciliary and/or cranial parasympathetic
+ganglia might not be very accurate and, therefore, more research is needed in this regard.
+
+2.4. Survival and Patterning
+
+Once the target destinations have been reached, both sympathetic and parasympathetic neurons
+require various factors that are released by cardiomyocytes, vascular smooth muscle cells, and glial
+cells in order to ensure that the neurons are matched to their targets and to prevent apoptosis [10].
+
+In the case of sympathetic neurons, nerve growth factor (NGF) and neurotrophin-3 (NT-3)
+are among the most important trophic factors [10]. NGF is secreted in its proform (proNGF) and
+extracellularly cleaved by neuron-speciﬁc matrix metalloproteinases, with the ratio of proNGF to
+NGF determining the cell fate [42,43]. ProNGF in fact, has a high aﬃnity to the neurotrophin receptor
+p75 (NGFR), which triggers the apoptotic pathway with minimal activation of the survival pathway
+mediated by NTRK1 (TRKA). In contrast, NGF has a higher aﬃnity to NTRK1, hence triggering the
+“survival” signaling [42]. The transient expression (E13.5–E15.5) of NGF from venous smooth muscle
+cells dictates the pattern of sympathetic growth. It directs the nerve growth along the subepicardial
+layer of the developing heart, establishing an epicardial-endocardial gradient [10]. NGF is not only
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+6 of 33
+
+−/−
+
+produced by vascular smooth muscle cells, but is also synthesized by cardiomyocytes. The expression
+of NGF is upregulated by endothelin-1 (ET-1), which plays a key role in sympathetic innervation.
+Accordingly, Et1
+mice display a signiﬁcant reduction of NGF expression and a decrease in the
+number of stellate ganglia. The defects can be rescued by the forced expression of cardiac NGF [44].
+The NGF levels decrease at birth (P0), but reach a second peak at P8 and a low level persists from
+P21 onwards (in rats) [10]. In addition to neuronal survival/patterning, NGF is also involved in
+the formation and strengthening of the neurocardiac varicosities between sympathetic neurons and
+cardiomyocytes [45,46]. These varicosities and neurocardiac junction will be addressed in more details
+in Section 5.
+
+−/−
+
+and Ntrk3
+
+NT-3 is secreted from smooth muscle cells of blood vessels that are located adjacent to sympathetic
+ganglia. During sympathetic neuronal development in rats, there is a switch from the NT-3 to the
+NGF pathway. This is consistent with the developmental regulation of their respective receptors:
+NTRK3 (TRKC), which is expressed in early stages, whilst NTRK1 (which binds to NGF) from E15 [47].
+Nt3
+mice present a more severe loss
+of sympathetic ganglia, indicating that other receptors might also be involved [48]. Interestingly,
+the sympathetic neuronal loss occurs at P0, and there are no diﬀerences in neuroblast numbers at
+E15 between the knockout and wild-type counterparts [49]. These results would suggest either a
+concomitant role of the two trophic factors; potential diﬀerences in developmental expression between
+rats and mice or other compensatory mechanisms should not be excluded.
+
+mice show similar cardiac defects, but Nt3
+
+−/−
+
+−/−
+
+The four glial cell-line-derived neurotrophic factor family of ligands (GFLs) and their receptors
+are involved in parasympathetic neuron survival. Despite their name, they are also expressed in
+cardiomyocytes [50]. GFLs are produced as preproGFL, followed by a cleavage of the signal sequence
+to generate proGFL. The activation of proGFL possibly requires another cleavage, but the speciﬁc
+proteases that are involved are yet to be identiﬁed [51]. The four ligands are called glial cell line derived
+neurotrophic factor, neurturin, artemin, and persephin and they act on their respective receptors:
+GFRa1, GFRa2, GFRa3, and GFRa4 [51]. The GFRas work as co-receptors of the receptor tyrosine
+kinase RET [51]. Ligand binding elicits the activation of downstream signaling, e.g., the inhibition
+of apoptosis and promotion of cell survival via the AKT signaling pathway [52]. Ret and GFRa2 are
+highly expressed in cardiac ganglia at E18 and P21 in rat hearts. The role of these signaling pathways
+in cardiac innervation is evident by studies using knock-out mice: neurturin knock-out (Ntn
+) mice
+−/−
+exhibit cardiac innervation defects and Gfra2
+mice display reduced innervation in both ventricles
+(by 40%) and in the ventricular CCS (by 60%) [41,53,54].
+
+−/−
+
+Apart from the GDNF family, there is some evidence of the potential involvement of NGF in
+the survival of parasympathetic neurons. The NGF receptor NTRK1 was, in fact, identiﬁed in adult
+−/−
+cholinergic cardiac ganglia, and both sympathetic and parasympathetic ganglia are lost in Ngf
+mice [55–57]. From a more functional perspective, it has been shown that in vivo application of NGF
+in mice potentiates the excitability of the parasympathetic neurons, it also decreases their cumulative
+afterhyperpolarization in vitro and increases their dendritic growth in vivo [58]. The eﬀects of NGF on
+neurite growth were also shown while using dissociated parasympathetic ciliary ganglia [59].
+
+3. Anatomy of the ICNS
+
+Cardiac innervation was ﬁrst studied in the myocardium of frogs and various large mammals
+(dogs, lambs, cats, monkey) while using bright ﬁeld microscopy [60,61]. Methylene blue staining
+permitted the visualization of neurons, their ramiﬁcation, and the identiﬁcation of ganglionated
+plexi (GP) in the heart in various species, including humans [62]. GP are deﬁned as a cluster of
+neuronal somata and nerve ﬁbers [7]. The wider employment of electron microscopy allowed for the
+ultrastructural investigation of the neuronal organization of both atrial and ventricular walls [62–64]
+as well as providing the ﬁrst evidence for a neuro-cardiac communication [65–67]. In the last 50 years,
+immunohistochemistry/immunoﬂuorescence studies allowed for the characterization of the innervation
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+7 of 33
+
+of the heart during development, their higher density in speciﬁc regions of the heart (e.g., CCS), the
+transmural pattern of innervation [68], and diﬀerences in health and disease [64,69,70].
+
+These anatomical studies have elucidated the location of GP, the majority of them are located
+in supraventricular regions, either on the epicardium or embedded in fat pads on the surface of the
+heart hilum [7]. The distribution of GPs is diﬀerent across species, they are more scattered in larger
+(e.g., sheeps, pigs) [71,72] when compared to smaller mammals (e.g., mice and rats), with a lower
+density of innervation of the cell bodies in smaller mammals [7,73,74] (Figure 3). Moreover, intracardiac
+ganglia in the ventricles are only present in larger mammals, with innervation originating from atrial
+ganglia [7,73]. In larger mammals (e.g., rabbit, dog, sheep, and humans, the GP can be located in
+5–7 subregions: dorsal right atrial, ventral right atrial, ventral left atrial, left dorsal, middle dorsal, right
+coronary, left coronary [7] (Figure 3). For a more detailed comparison across species of the intrinsic
+innervation of the heart, refer to Wake and Brack 2016 [7]. The left and right coronary GP emerge from
+the arterial regions, the dorsal right atrial GP from either the right caudal vein or the vena cava, the
+middle dorsal GP is located between the pulmonary veins with some contact with the left dorsal, and
+the ventral ganglia are positioned ventrally from the left pulmonary vein [7,11]. From an anatomical
+perspective, the SAN is innervated by post-ganglionic ﬁbers from the ventral and dorsal right atrial,
+whilst the AVN from the middle dorsal and in part from the left dorsal [11].
+
+Recent studies have established the isolated zebraﬁsh heart as an alternative model for studying the
+autonomic modulation of the primary pacemaker of the zebraﬁsh, which is a ring-like structure termed
+the sinoatrial ring (SAR), in order to address the limitations that are present in larger animals [75,76]
+(Figure 3). Using the zebraﬁsh heart preparation with an intact intrinsic and extrinsic innervation, it has
+been shown that cardiac pacemaking can be modulated by both sympathetic and parasympathetic
+pathways. This work has also revealed that the zebraﬁsh pacemaker cells express both muscarinic
+acetylcholine (M2) and β2-adrenergic receptors [75]. Similar to mammals, most of the zebraﬁsh
+intracardiac ganglia are located adjacent to the SAR and they are immunoreactive to ChAT, some to
+TH, together with other “non-classical” neurotransmitters (e.g., nitric oxide) [77]. These ganglia are
+innervated by the right and left vagus nerve. Moreover, neuronal somata in the ganglia projecting
+back to the central nervous system were observed, possibly acting as aﬀerent neurons providing a
+link between the ICNS and central nervous system [78]. The zebraﬁsh has been widely employed in
+cardiovascular research [79]. It has become a powerful model, as the human and zebraﬁsh genomes are
+similar (70% of the protein-coding human genes are found in zebraﬁsh and 84% of human disease genes
+have a zebraﬁsh counterpart) [80]. Despite signiﬁcant anatomical diﬀerences, the functional properties
+of the zebraﬁsh heart (e.g., comparable heart rate, action potential morphology) are surprisingly similar
+the human heart [79]. The zebraﬁsh genome has been fully sequenced and it can be easily manipulated
+and, in addition, cardiac function can be examined in vivo [77].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+8 of 33
+
+Intracardiac innervation of the zebraﬁsh, rat and mouse hearts.
+
+Figure 3.
+(A) Whole mount
+immunostaining using antibodies directed against acetylated tubulin (AcT) and human neuronal protein
+(Hu) to label the ICNS of the zebraﬁsh heart. (B) Schematic overview of the major elements of cardiac
+innervation. Boxed areas: sinoatrial plexus (SAP) and atrioventricular plexus (AVP). Abbreviations for
+A and B: A—atrium; AVP—atrioventricular plexus; BA—bulbus arteriosus; DC—ducts of Cuvier; LX
+and RX, left and right vagosympathetic trunks; SAP- sinoatrial plexus; SV—sinus venosus; V—ventricle;
+VA—ventral aorta (to the gills). (C) Posterior view of a 3D reconstructed male rat heart showing the
+context, extent, and distribution of the intrinsic cardiac neurons (yellow labelled), located on superior
+and posterior surfaces of the atria (D) Schematic overview of the intracardiac ganglia in the mouse
+heart, dorsal view. Dotted lines delineate the heart hilum, polygonal areas the main locations of
+the cardiac ganglia. Abbreviations for C and D: Ao- aorta; CS- coronary sinus veins; CV—caudal
+vein; DRA—dorsal right atrial; IAS—interatrial septum; LA—left atrium; LAA (or LAu)—left auricle;
+LCV—left cranial; LD—left dorsal; LPV—left pulmonary; LV—left ventricle; MPV—middle pulmonary
+veins: PA—pulmonary artery; PVs—pulmonary veins; RA—right atrium; RAA (or Rau) —right auricle;
+RCV—right cranial (superior caval) vein; RV—right ventricle; SVC—superior vena cava. Panel (A-B)
+reproduced with permission from Stoyek, M.R. et al., J. Comp. Neurol. Published by Wiley, 2015 [78].
+(C) Reproduced with permission from Achanta, S. et al. iScience published by Elsevier, 2020 [81] (D)
+reproduced with permission from Rysevaite, K. et al., Heart Rhythm published by Elsevier, 2011 [74].
+
+3.1. Morphology and Electrophysiological Properties of Cardiac Ganglia
+
+Intracardiac ganglia are heterogeneous and they also include the small intensely ﬂuorescent (SIF)
+cells that can have various functions: endocrine, chemoreceptive and interneuronal [82]. On the
+basis of their three-dimensional cell shape, size, and acetylcholinesterase (AChE) staining, Pauza and
+co-workers distinguished them into globular and plain ganglia. The former are more densely packed,
+
+J. Cardiovasc. Dev. Dis. 2020, 7, x FOR PEER REVIEW 8 of 33  Figure 3. Intracardiac innervation of the zebrafish, rat and mouse hearts. (A) Whole mount immunostaining using antibodies directed against acetylated tubulin (AcT) and human neuronal protein (Hu) to label the ICNS of the zebrafish heart. (B) Schematic overview of the major elements of cardiac innervation. Boxed areas: sinoatrial plexus (SAP) and atrioventricular plexus (AVP). Abbreviations for A and B: A—atrium; AVP—atrioventricular plexus; BA—bulbus arteriosus; DC—ducts of Cuvier; LX and RX, left and right vagosympathetic trunks; SAP- sinoatrial plexus; SV—sinus venosus; V—ventricle; VA—ventral aorta (to the gills). (C) Posterior view of a 3D reconstructed male rat heart showing the context, extent, and distribution of the intrinsic cardiac neurons (yellow labelled), located on superior and posterior surfaces of the atria (D) Schematic overview of the intracardiac ganglia in the mouse heart, dorsal view. Dotted lines delineate the heart hilum, polygonal areas the main locations of the cardiac ganglia. Abbreviations for C and D: Ao- aorta; CS- coronary sinus veins; CV—caudal vein; DRA—dorsal right atrial; IAS—interatrial septum; LA—left atrium; LAA (or LAu)—left auricle; LCV—left cranial; LD—left dorsal; LPV—left pulmonary; LV—left ventricle; MPV—middle pulmonary veins: PA—pulmonary artery; PVs—pulmonary veins; RA—right atrium; RAA (or Rau) —right auricle; RCV—right cranial (superior caval) vein; RV—right ventricle; SVC—superior vena cava. Panel (A-B) reproduced with permission from Stoyek, M.R. et al., J. Comp. Neurol. Published by Wiley, 2015 [78]. (C) Reproduced with permission from Achanta, S. et al. iScience published by Elsevier, 2020 [81] (D) reproduced with permission from Rysevaite, K. et al., Heart Rhythm published by Elsevier, 2011 [74]. 3.1. Morphology and Electrophysiological Properties of Cardiac Ganglia Intracardiac ganglia are heterogeneous and they also include the small intensely fluorescent (SIF) cells that can have various functions: endocrine, chemoreceptive and interneuronal [82]. On the basis of their three-dimensional cell shape, size, and acetylcholinesterase (AChE) staining, Pauza and co-workers distinguished them into globular and plain ganglia. The former are more densely packed, containing 100–200 neurons occupying 0.01–0.17 mm2, whilst the latter present a more intense J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+9 of 33
+
+containing 100–200 neurons occupying 0.01–0.17 mm2, whilst the latter present a more intense staining
+for AChE, neurons reside side-by-side and they contain no more than 50 cells [83]. The size of neuronal
+somata is similar to the ones in other autonomic ganglia: 15–30 µm in the short axis and 20–45 µm in
+the long axes [83] and they are classiﬁed into large (80%) and small neurons (20%) [84].
+
+According to their morphological and electrophysiological features, intracardiac neurons have
+been classiﬁed into type I (or phasic, also known as somatic (S) cells) and type II (or tonic). Type II
+neurons are further subclassiﬁed into slow afterhyperpolarization (SAH) cells, and pacemaker (P) cells)
+(Figure 4) [85–88]. S-cells receive local excitatory inputs; they have small somata and are monopolar;
+their action potentials have a phasic proﬁle that is characterized by brief afterhyperpolarizations [85,86].
+SAH and P cells are both deﬁned by their prominent afterhyperpolarization. SAH cells are multipolar
+principal neurons; they receive strong eﬀerent connections from the vagus and present a tonic proﬁle [85].
+P cells (or pacemaker cells) are neurons that present a pseudounipolar or bipolar morphology. They are
+named after their electrophysiological proﬁle: they present an hyperpolarization-activated inward
+current that is similar to the one in cardiac pacemaker cells [85]. Interestingly, immunostaining with
+synaptophysin to visualize synaptic boutons revealed that P-cells were the only types that did not receive
+any synaptic inputs and may act as sensory neurons [86]. Using a working heart-brainstem preparation,
+McAllen and colleagues further reported that about 40% of intracardiac neurons received vagal inputs
+(principal cells) (Figure 4). The remaining were classiﬁed as quiescent, as they did not respond to vagal
+stimulation, supporting their role as interneurons or sensory neurons [89]. Contrasting to the above
+subdivision, Rimmer and Harper did not ﬁnd any spontaneous rhythmic activity (i.e., in P-cells) and
+classiﬁed the intracardiac neurons on the basis of their excitatory post-synaptic potentials into phasic,
+multiply adapting, and tonic neurons [90].
+
+Figure 4. Neurocardiac transmission in the sinoatrial node (SAN). (A) Diagram illustrating the distinct
+cell types of the intracardiac ganglia and their putative roles: SAH (slow afterhyperpolarization) cells
+are the principal cells and the only ones receiving pre-ganglionic inputs. S (somatic) cells and some
+SAH cells can receive inputs from P (pacemaker) cells. P cells are putative sensory neurons. (B) Electron
+micrograph of the neurocardiac junction at the level of the sinus venosus of the toad. Cholinergic (C)
+and adrenergic (A) varicosities in contact with a cardiomyocyte (M). No membrane specializations
+are visible except for an electron dense area as indicated by the arrows. (C) Reconstruction of the
+neurocardiac junction depicted in (B). Cholinergic vesicles are present in the prejunctional membrane
+facing the cardiomyocyte and the adrenergic varicosity, respectively whilst adrenergic vesicles are
+mainly present in close opposition to the cardiomyocyte. The black area between the neuronal varicosity
+and the cardiomyocyte represents the cleft. Panel (A) reproduced with permission from Jänig, W., J.
+Physiol. published by Wiley, 2011 [91]. Panel (B,C) reproduced with permission from Klemm, M. et al.,
+J. Auton. Nerv. Syst. published by Elsevier, 1992 [92].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, x FOR PEER REVIEW 9 of 33 staining for AChE, neurons reside side-by-side and they contain no more than 50 cells [83]. The size of neuronal somata is similar to the ones in other autonomic ganglia: 15–30 μm in the short axis and 20–45 μm in the long axes [83] and they are classified into large (80%) and small neurons (20%) [84]. According to their morphological and electrophysiological features, intracardiac neurons have been classified into type I (or phasic, also known as somatic (S) cells) and type II (or tonic). Type II neurons are further subclassified into slow afterhyperpolarization (SAH) cells, and pacemaker (P) cells) (Figure 4) [85–88]. S-cells receive local excitatory inputs; they have small somata and are monopolar; their action potentials have a phasic profile that is characterized by brief afterhyperpolarizations [85,86]. SAH and P cells are both defined by their prominent afterhyperpolarization. SAH cells are multipolar principal neurons; they receive strong efferent connections from the vagus and present a tonic profile [85]. P cells (or pacemaker cells) are neurons that present a pseudounipolar or bipolar morphology. They are named after their electrophysiological profile: they present an hyperpolarization-activated inward current that is similar to the one in cardiac pacemaker cells [85]. Interestingly, immunostaining with synaptophysin to visualize synaptic boutons revealed that P-cells were the only types that did not receive any synaptic inputs and may act as sensory neurons [86]. Using a working heart-brainstem preparation, McAllen and colleagues further reported that about 40% of intracardiac neurons received vagal inputs (principal cells) (Figure 4). The remaining were classified as quiescent, as they did not respond to vagal stimulation, supporting their role as interneurons or sensory neurons [89]. Contrasting to the above subdivision, Rimmer and Harper did not find any spontaneous rhythmic activity (i.e., in P-cells) and classified the intracardiac neurons on the basis of their excitatory post-synaptic potentials into phasic, multiply adapting, and tonic neurons [90].  Figure 4. Neurocardiac transmission in the sinoatrial node (SAN). (A) Diagram illustrating the distinct cell types of the intracardiac ganglia and their putative roles: SAH (slow afterhyperpolarization) cells are the principal cells and the only ones receiving pre-ganglionic inputs. S (somatic) cells and some SAH cells can receive inputs from P (pacemaker) cells. P cells are putative sensory neurons. (B) Electron micrograph of the neurocardiac junction at the level of the sinus venosus of the toad. Cholinergic (C) and adrenergic (A) varicosities in contact with a cardiomyocyte (M). No membrane specializations are visible except for an electron dense area as indicated by the arrows. (C) Reconstruction of the neurocardiac junction depicted in (B). Cholinergic vesicles are present in the prejunctional membrane facing the cardiomyocyte and the adrenergic varicosity, respectively whilst adrenergic vesicles are mainly present in close opposition to the cardiomyocyte. The black area between the neuronal varicosity and the cardiomyocyte represents the cleft. Panel (A) reproduced with permission from Jänig, W., J. Physiol. published by Wiley, 2011 [91]. Panel (B,C) reproduced with permission from Klemm, M. et al., J. Auton. Nerv. Syst. published by Elsevier, 1992 [92]. J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+10 of 33
+
+3.2. Neurochemical Characteristics
+
+Various immunohistochemical studies have reported the immunoreactivity of intracardiac ganglia
+to various neuromodulators and neurotransmitters, debunking the former belief that these were purely
+post-ganglionic parasympathetic eﬀerent neurons [7]. They were found to stain positive for cholinergic
+(choline acetyltransferase, ChAT), adrenergic (TH), as well as putative sensory neuronal (substance P
+and CGRP) markers along with other co-transmitters, such as neuropeptide Y (NPY), neuronal nitric
+oxide synthase (nNOS), and vasoactive intestinal peptide (VIP) [7]. The functional relevance of these
+co-transmitters is discussed in more detail in Section 5.3. The majority of ganglia in various species
+(e.g., mouse, rat, guinea pig, human) were immunoreactive to ChAT [93–95]. It has been shown that
+cholinergic ganglia innervate both the sinoatrial and atrioventricular regions as well as the ventricles,
+supporting evidence for the parasympathetic regulation of the ventricles. TH immunoreactivity was
+found in both small intensely ﬂuorescent cells as well as in larger neurons [96,97]. SIF cells are either
+present as small cell clusters in large ganglia or dispersed across the cardiac walls. There is some
+contrasting evidence on the percentage of ganglia positive to TH, with some studies reporting their
+absence in P neurons and presence in ﬁbers [95], whilst others showing staining in larger neurons [98].
+Notably, a study on human intrinsic cardiac ganglia reported a colocalization of TH and the vesicular
+monoamine transporter 2 (VMAT-2) [99]. VMAT-2 is usually required for catecholamine storage and
+release. This colocalization suggests the ability of a subset of the intrinsic cardiac neurons to synthesize,
+store, and release catecholamines [99] Interestingly, several investigators have reported a group of
+neurons (10–20%) that are labelled with both ChAT and TH antibodies [94,100].
+
+Contrasting to the atria with higher levels of ChAT immunoreactivity in the somata and ﬁbers,
+the ventricles present a dominance of TH labelled ﬁbers [97]. There is some variability across various
+studies on the proportion of nNOS immunoreactive cells, but mostly they are co-localized with ChAT
+neurons [7,95,99] consistent with the role of NO as co-transmitter in parasympathetic neurons [101].
+A number of studies found VIP to be expressed mainly in neuronal ﬁbers, with immunoreactivity in
+neuronal somata being absent or present in a low number of neurons [99,102,103]. NPY is co-released
+with norepinephrine (NE) in sympathetic neurons [104] and is found to co-localize in TH, nNOS,
+and ChAT immunoreactive neurons [7,95]. Substance P (SP) and CGRP are generally considered
+to be markers of aﬀerent neurons, i.e., neurons that monitor the chemical and physical state of the
+myocardium, for example, giving feedback about the heart rate. They have a similar pattern, although
+SP is less abundant [94]. The number of SP or CGRP immunoreactive neuronal ﬁbers is higher near
+the heart hilum with various bifurcations near the atrial regions and the roots of the pulmonary
+veins. SP-positive ﬁbers were found to be around nNOS and ChAT immunoreactive somata, possibly
+suggesting an aﬀerent role related to cholinergic and nitrogenic neurons [7]. Notably, the ICNS contain
+no or very little cell bodies that are immunoreactive to SP and CGRP. These ﬁndings suggest that the
+cell bodies of these immunoreactive aﬀerent ﬁbers reside either in the nodose or stellate ganglia [7],
+although one study identiﬁed SP and CGRP somata in the ICNS of the guinea pig [84]. On the basis of
+their molecular proﬁle and spatial distribution, Achanta and coworkers have recently classiﬁed the
+intracardiac neurons in various clusters employing laser captured neuronal microdissection paired
+with RT-qPCR. Consistent with the previously reported immunohistochemical characteristics, in
+some neurons some genes were expressed in a pairwise fashion, e.g., neuropeptide Y and tyrosine
+hydroxylase [81]. However, the biophysical characteristics are yet to be correlated with the molecular
+proﬁle of each class of neurons. This could be, for example, undertaken while using the Patch-seq
+technology [105] either in cultured cardiac neurons or from neurons patched from the intact atrial
+preparation. This technology would allow for the analyses of the neuronal biophysical proﬁle using
+whole-cell patch clamp, followed by the aspiration of the somatic compartment for single-cell RNA seq
+analysis [105].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+11 of 33
+
+4. Physiological Role of Innervation in the CCS
+
+The neurochemical heterogeneity of the intrinsic cardiac neurons that are mentioned in Section 3.2
+provide evidence for diﬀerent neuronal populations, suggesting the presence of eﬀerent cholinergic
+and adrenergic neurons all in close vicinity to the aﬀerent ﬁbers [7,106]. In this section, we will discuss
+their function in the modulation of the conduction system, through their direct action, their interactions
+within the ICNS, or with the intrathoracic extracardiac neurons.
+
+4.1. Direct Action of the Cardiac Ganglia on the CCS
+
+A functional contribution of both sympathetic and parasympathetic intracardiac eﬀerent neurons
+has been demonstrated, employing the decentralized and non-decentralized canine heart [107] and the
+Langendorﬀ-perfused rabbit hearts [108]. Speciﬁc stimulation of selective loci in intracardiac ganglia
+(with nicotine) or with electrical stimulation elicited bradycardia, tachycardia, or bradycardia, followed
+by tachycardia. These eﬀects depended on the activation of the intracardiac ganglia through nicotinic
+agonists and they were abolished in the presence of the hexamethonium [108]. The bradycardic eﬀects
+were mediated by parasympathetic eﬀerent neurons, as they were abolished in the presence of the
+muscarinic antagonist atropine. By contrast, the tachycardia was blocked by β-adrenergic antagonists
+(e.g., metoprolol and propranolol) in the presence of atropine. Moreover, a subset of intrinsic cardiac
+neurons was found to be responsive to NE in vitro through α-adrenergic receptors [108,109]. These data
+support a physiological relevance of both parasympathetic and sympathetic eﬀerent neurons in the
+ICNS [107,108]. Some more speciﬁc studies have focused on the action of the intracardiac ganglia on
+the CCS. Zarzoso and coworkers reported a biphenotypic (adrenergic and cholinergic) action of the
+pulmonary vein ganglia on the SAN [100]. They employed a right atrial or a Langendorﬀ-perfused
+heart preparation from mice, together with a combination of adrenergic and cholinergic antagonists
+(propanol and atropine, respectively). The high frequency stimulation of the pulmonary vein ganglia
+evoked ﬁrst a slowing of the heartbeat followed by an acceleration [100]. This biphasic response was
+explained by various factors: a delayed sympathetic response, the modulation of sympathetic neurons
+by parasympathetic neurons, and the faster breakdown of acetylcholine [100]. Employing a right
+atrial preparation and optical mapping, they further demonstrated that stimulation of the pulmonary
+vein ganglia evoked a downward shift of the leading pacemaker of the SAN in the majority of cases
+(68.2%) and an upward shift in the minority of cases (31.8%) [100]. These data are in accordance with
+a dominant parasympathetic response, consistent with other studies that reported either an inferior
+or superior shift of the leading pacemaker site, in response to the direct stimulation of cholinergic
+neurons or ACh [110–112]. Sampaio and coworkers investigated the eﬀects of the stimulation of two
+clusters of intracardiac ganglia on the heart rate and atrioventricular conduction in rats. They reported
+that stimulating the SAN ganglion (the one located between the right atrium and superior vena cava)
+elicited a bradycardia, but had no eﬀects on conduction; in contrast, the stimulation of the AVN
+ganglion (located between the pulmonary vein and the right atrium) did not aﬀect heart rate, but
+slowed conduction [113]. Using subthreshold stimulation in the inferior node extension and compact
+atrioventricular area, Hucker and coworkers [114] showed that the eﬀects on the AVN resulted from
+an involvement of both the parasympathetic and sympathetic branches, in contrast to other studies
+reporting that subthreshold stimulation elicited a purely vagal eﬀect [115]. In contrast to the shifts in
+the leading pacemaker site in the SAN upon ganglia stimulation, in the rabbit atrial preparation, the
+location of the AVN pacemaker was found to be stable upon autonomic stimulation [114]. By contrast,
+a similar protocol resulted in a shift of the AVN pacemaker site in atrial preparations from failing
+human hearts, i.e., closer to the bundle of His [116].
+
+Overall, these data on the modulation of the ICNS of the SAN and AVN by the ICNS are in
+accordance with the anatomical distribution of the cardiac ganglia. The dual action of the ganglia
+innervating the SAN and AVN is consistent with the observation of the presence of both adrenergic
+and cholinergic neurons in the same ganglia, as discussed in Section 3.2.
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+12 of 33
+
+4.2. Interaction with Peripheral Nerves
+
+The control of the heart by the CANS is hierarchically organized with high levels of interactions
+within and across the diﬀerent levels, as mentioned in the introduction and summarized in Figure 1.
+Notably, using intracellular recordings (in vitro and in vivo) and microelectrode arrays, it was shown
+that around 40% of neurons in the ICNS receive pre-ganglionic inputs and are classiﬁed as principal
+cells or SAH cells (Figure 4) [85,89,117]. The synaptic transmission from the pre-ganglionic neurons
+to the post-ganglionic neurons (in the ICNS) has been classiﬁed based on the response of excitatory
+postsynaptic potentials (EPSPs) into three groups: weak (subthreshold), secure, and strong (generally
+suprathreshold) [90]. In vitro (using the right atrial preparation in conjunction with the vagus nerve),
+most of the synapses were classiﬁed as secure and strong across diﬀerent developmental stages
+(neonatal, juvenile, and adult), with only a small proportion being weak [90]. By contrast, using the
+working heart-brainstem preparation, McAllen and co-workers reported that the synaptic transmission
+between the pre-ganglionic and post-ganglionic neurons is less than 1:1. A limited number of synapses
+were, in fact, classiﬁed as secure and the majority being strong or weak, some were silent synapses [89].
+Notably, the cardiac neurons presenting spontaneous activity were excited by the cardiorespiratory
+stimuli that elicited bradycardic reﬂexes (e.g., peripheral chemoreceptors, arterial baroreceptors, and
+nasotrigeminal receptors). These results were consistent with their role as principal neurons and
+suggested a convergence of these reﬂexes on the cardiac ganglia [89]. The contrasting results across the
+two diﬀerent preparations might be due to an ongoing synaptic activity in the working heart-brainstem
+that could have caused a frequency-dependent depression of transmission [89].
+
+As shown in Figure 1, the interactions between the diﬀerent levels of the CANS are not only
+between pre- and post-ganglionic neurons, but also through the LCNs. LCNs receive inputs from
+CNS neurons (e.g., from spinal cord or medulla oblongata), from sympathetic neurons, as well as local
+aﬀerent neurons. They participate in the transduction of signals within the intrathoracic (intra- and
+extracardiac) ganglia; this constant communication also persists when chronically disconnected from
+the central nervous system [2]. LCNs are classiﬁed in three main subsets, depending on the cells from
+which they receive the inputs. The eﬀerent-related LCNs receive inputs from the parasympathetic and
+sympathetic eﬀerent neurons; the aﬀerent-related transduce regional inputs from local aﬀerent neurons.
+The third group consists of the convergent LCNs, which integrate information from central eﬀerent
+(sympathetic and parasympathetic) projections as well as aﬀerent inputs [2,117]. LCNs have also be
+found to play a role in the initiation and maintenance of tachyarrhythmias. For example, experiments
+in dogs have shown that the stimulation of mediastinal projections within the ICNS results in atrial
+ﬁbrillations that can be reduced by selective inhibition of the LCNs [2,118]. In accordance, targeting
+these subsets of neurons has been suggested as a putative therapy for reducing the nervous system
+imbalance in cardiac arrhythmias [2].
+
+Cardiac innervation from the stellate ganglia and the vagus nerve presents a high degree of
+anatomical and functional lateralization. Their lateralization is paired with the GP location in
+the right and left side of the heart, suggesting a contribution of the intracardiac ganglia in this
+context [89,119,120]. The right branches of the sympathetic and vagal nerves regulate the SAN,
+whilst the left branch mainly acts through the AVN inﬂuencing ventricular contractility and electrical
+conduction mainly on the left side [119–121]. The role of the GP as integration centers between the
+extrinsic and intrinsic cardiac nervous system was studied by various groups employing either selective
+ablation of the GP or via the selective inhibition of nicotinic receptors in the ganglia while using
+hexamethonium [122,123]. Consistent with the lateralization of the vagal and sympathetic branches, the
+SAN is controlled by the GP located in the right pulmonary vein, the right atrium, and the superior vena
+cava, whilst the AVN is regulated by the ones located between the inferior vena cava and the inferior
+left atrium [122,124,125]. The interactions between the sympathetic and parasympathetic branches
+are complex. It was reported that reduction in heart rate by vagal stimulation was greater under
+sympathetic tonic activation [126]. The term “accentuated antagonism” was later coined by Levy [127]
+to explain the enhanced parasympathetic eﬀect under background sympathetic tone. This is not only
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+13 of 33
+
+observed in case of the heart rate, but also aﬀect the regulation of ventricular performance, intracellular
+Ca2+
+levels and cardiac electrophysiology [126]. Various factors might contribute to this response.
+Muscarinic acetylcholine receptors at the sympathetic terminals inhibit NE release, but adrenergic
+receptors are not present on parasympathetic terminals [128]. Only under tonic sympathetic activation,
+the activation of postjunctional muscarinic M2 receptors by parasympathetic terminals results in the
+inhibition of cAMP production together with the upregulation of PDE2 activity, resulting in cAMP
+hydrolysis [129]. Apart from the eﬀects at the neurocardiac junction, the accentuated antagonism by
+the parasympathetic branch can also be modulated at higher brain centers (e.g., cholinergic neurons in
+the medulla oblongata) [130].
+
+4.3. Interaction within the ICNS
+
+It was previously believed that individual GPs were purely responsible for the modulation of
+the neighboring regions, for example, the right atrial GP for the SAN [7]. However, there is now
+substantial evidence that the GP can innervate both neighboring regions but also form an intricate
+network [106,131,132]. Anatomical studies injecting ﬂuorescent tracers in selected ganglia have
+demonstrated that multiple ganglia can innervate the same cardiac regions and that can also form an
+inter-ganglionic neuronal circuit [123].
+
+It has been proposed that the short-latency (20–40 ms) reﬂexes are the results of the action of
+the neuronal somata in the ICNS located adjacent to cardiomyocytes and, thereby, regulating each
+cardiac cycle. By contrast longer latency reﬂexes (100–200 ms) are suggested to be dependent on
+polysynaptic transmission that involves LCNs modulating eﬀerent neurons for the following cycles
+also upon stimulus removal [1,3]. Employing decentralized canine hearts, it has been demonstrated
+that ICNS neurons can work independently from the higher levels. The intrinsic neurons from
+atrial and ventricular GPs are able to transduce chemical and mechanical modiﬁcations: sensing
+mechanical stimuli from discrete cardiac regions and their spontaneous activity is correlated with the
+respiratory cycle. Moreover, their spontaneous activity is not modiﬁed when the extracardiac tissue is
+disconnected [133].
+
+Hou and colleagues provided functional evidence for the role of the interplay between various GPs
+in the regulation of SAN and AVN function [131]. The ablation of selective GPs further demonstrated
+the collective role of the right atrial and posterior atrial plexi in heart rate regulation. The ones in
+the right atria directly regulate the heart, whilst the ones on the posterior side are involved in the
+interaction of the sympathetic and parasympathetic modulation of the heart rate [132].
+
+5. Neurocardiac Communication
+
+The foundations of the neuro-cardiac communication have been laid down in the second half
+of the 20th century employing ultrastructural examinations of heart sections and analyzing the
+relationship between axon varicosities and the cardiomyocytes [134]. The autonomic neuroeﬀector
+communication has long been described as a non-specialized junction that is characterized by a lack
+of any speciﬁc pre- and postjunctional membrane domains with a release of the neurotransmitter en
+passage upon neuronal stimulation [135,136]. However, various studies, especially on sympathetic
+neurotransmission, suggested a quasi-synaptic mode that is similar, at least to some extent, to the
+neuromuscular junction (NMJ) [68,137]. The measurement of the distance between the pre- and
+post-junctional membrane in various species (e.g., toad, guinea pig, mole, and mouse) resulted in the
+classiﬁcation of the neurocardiac junction into three groups: intimate (<20 nm), close (20–100 nm),
+and separated (>100 nm) [67,92,138,139]. Many of these studies were undertaken using random
+sections; however, when the same varicosity was analyzed in serial sections, most of the varicosities
+that lost their Schwann cell coating revealed close or intimate contacts [67]. Analyzing serial sections
+of post-ganglionic varicosities, in the SAN region in amphibian and mammalian species, revealed
+that the majority of them formed specialized neurocardiac junction with a gap of less than 100 nm in
+both sympathetic and parasympathetic junctions [67,92]. These junctions presented a high density of
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+14 of 33
+
+synaptic vesicles in the varicosities facing the eﬀector cell and a lower population of vesicles in other
+parts, with the latter containing larger peptide vesicles, although no pre- or post-synaptic membrane
+specialization (e.g., thickening) was observed [67,92] (Figure 4).
+
+5.1. The Sympathetic-Cardiac Junction
+
+Sympathetic neurons release NE and, together with epinephrine released by the adrenal medulla,
+act on adrenergic receptors in the heart. β1-, β2-, and β3- adrenergic receptors (ARs) are expressed in the
+heart, with higher overall levels of β1ARs and they are all G protein-coupled receptors (GPCRs) [140].
+The βARs signaling cascade downstream of the βARs is distinct: β1AR couples to Gs, eliciting an
+increase in cAMP and inducing an activation of its downstream eﬀector proteins. By contrast, β2
+and β3ARs can act on both Gs and Gi, with the latter being involved in the attenuation of the cAMP
+signaling with β2ARs able to modulate β1AR signaling [140]. The activation of β3ARs can also result
+into cGMP production via eNOS activation [140,141]. Another factor inﬂuencing their downstream
+eﬀects is the microdomain localization with β1ARs being widely distributed in the sarcolemma and
+β2- and β3ARs mostly conﬁned to T-tubules in ventricular myocytes, with receptor redistribution
+occurring in disease, e.g., in heart failure [141,142]. Cardiomyocytes also express α1-adrenoceptors
+(α1a and α1b), which are coupled to Gq/11. Their activation results in positive inotropic eﬀects, and
+chronic stimulation induces hypertrophy [140].
+
+As mentioned in Section 3.2, a subset of intrinsic cardiac neurons has been found to express the
+enzymes that are involved in catecholamine biosynthesis [99]. Moreover, as mentioned in Section 4.1 a
+subgroup of intrinsic neurons has been reported to elicit a tachycardia eﬀect, which was blocked by
+βARs antagonists further supporting their functional relevance [2,108]. The sympathetic neuro-cardiac
+communication has been mainly investigated in vitro using, as a model system, co-cultures of
+neonatal cardiomyocytes with sympathetic neurons that are isolated from superior cervical or stellate
+ganglia. It has been reported that sympathetic neurons in vitro can diﬀerentiate into cholinergic or
+adrenergic neurons [143]. Neurotrophic factors can alter their fate (e.g., BDNF induces cholinergic
+diﬀerentiation [144]) and that NGFs strengthen the excitatory transmission between sympathetic
+neuron and cardiomyocytes in culture [45,46]. Many groups that use NGF in the culture medium
+reported nearly exclusive catecholamine release from sympathetic neurons, recapitulating in vitro
+sympathetic innervation, and revealed the structure and function of the sympathetic neurocardiac
+junction [45,46,145,146]. In axons, which are in contact with cardiomyocytes, activity-dependent
+recycling of synaptic vesicles can be observed, together with the presence of markers for neuroexocytosis
+in the prejunctional region (e.g., synapsin 1, synaptosomal-associated protein 25 (SNAP25), and
+synaptotagmin) [145,146]. The post-junctional cardiomyocyte membrane is characterized by the
+presence of scaﬀolding proteins (e.g., synapse-associated protein 97 (SAP97), A kinase anchoring
+protein 79 (AKAP79), and ankyrin G) and molecular complexes potentially stabilizing cell-cell adhesion
+(e.g., cadherin and β-catenin) both in vitro and in vivo [145–147]. Moreover, the postjunctional
+membrane reorganization was also deﬁned by the enrichment of speciﬁc channels (e.g., voltage gated
+sodium channel 1.5 (Nav1.5) and the voltage activated K
+channel subfamily Q member 1 (KCNQ1))
+and receptors (e.g., β1ARs), with the exclusion of caveolin-3 at contact sites and the removal of
+β2ARs upon neuronal stimulation [145,147]. Interestingly, in accordance with a role of β1ARs in the
+post-junctional membrane, the tachycardia that is induced in pacemaker cells by sympathetic neural
+stimulation is mostly blocked by a β1AR-selective antagonist. In contrast, little inhibition is elicited
+by β2ARs antagonists in a guinea pig atrial preparation in contiguity with the thoracic ganglia [148].
+Evidence of distinct functional pools of adrenergic receptors at extra-junctional and post-junctional
+sites was also obtained using the toad atrial preparation and the catecholamine reuptake inhibitor
+desmethylimipramine (DMI) to allow for the escape of catecholamines from the junction [149].
+
++
+
+In sympathetic neuron-cardiomyocytes co-cultures, NE release in the neurocardiac junction peaks
+at around 200 ms after neuronal stimulation and declines after 460 ms. The time-course of NE in the
+cleft is mainly determined by the NE reuptake transporter (NET) in the prejunctional membrane [150].
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+15 of 33
+
+NET dysfunction has been reported in various cardiac diseases. Polymorphisms of the human gene
+encoding NET-1 (SLC6A2), which are often associated with a reduction of its function, have, for example,
+been associated with postural tachycardia syndrome and congestive heart failure [151]. In accordance
+with the release of NE in a “diﬀusion-restricted” manner, in sympathetic neuron-cardiomyocyte
+−1 in the cleft resulting in
+co-cultures, NE concentration was estimated to be around 100 nmol L
+a spatially restricted increase of cAMP in the innervated cardiomyocyte [146]. Furthermore, the
+prejunctional membrane presents various receptors that are involved in the regulation of NE release,
+with β2ARs facilitating and α2-adrenergic receptors inhibiting the release [152–154]. Notably, in atrial
+preparations from mammals and amphibians, the adrenergic responses in the pacemaker cells elicited by
+stellate ganglia stimulation do not appear to be mediated by the cAMP-dependent pathways. However,
+catecholamines bath application, in the same preparation, elicited an increase in cAMP [148,149].
+Interestingly, studies employing Förster resonance energy transfer (FRET) sensors in co-cultures of
+sympathetic neurons and cardiomyocytes revealed an increase of cAMP in cardiomyocytes, which
+were in direct contact with the stimulated neuron [146]. The rise in cAMP levels was faster and
+greater in the region of the cardiomyocyte proximal to the neuronal contact site when compared to
+distal regions [146]. These ﬁndings are consistent with the highly compartmentalized nature of cAMP
+signaling, which is characterized by changes in nanodomain signaling upon localized stimulation [142].
+This could perhaps explain the absence of a cAMP response at the whole-cell level when pacemaker
+cells were recorded upon stellate ganglia stimulation. Further experiments are needed and employing
+for example FRET sensors targeted to distinct cellular microdomains [155]. However, a putative
+involvement of cAMP-independent pathways downstream of β-adrenergic stimulation should not be
+excluded. Accordingly, in rabbit cardiomyocytes, a direct eﬀect of isoproterenol causes an enhancement
+of the Na
+
+current (INa) via a Gs-coupled pathway, which is independent of cAMP signaling [156].
+from the eﬀects on pacemaker cells, sympathetic neurons also modulate the
+contractility of rodent cardiomyocytes [46,157,158] and induced pluripotent stem cells (iPSC)-derived
+cardiomyocytes [159,160]. Sympathetic innervation in the murine heart is more abundant in the
+epicardial layer and it diminishes towards the endocardium [161–163]. This transmural innervation
+gradient may be responsible for size diﬀerence of cardiomyocytes in the epicardial and endocardial
+layer. Accordingly, a trophic role of sympathetic neurons on cardiomyocytes has been reported [164].
+Sympathetic innervation also plays a role in cardiac regeneration in neonatal mouse with sympathetic
+cardiac denervation completely inhibiting this process [165].
+
+Apart
+
++
+
+5.2. The Parasympathetic-Neurocardiac Junction
+
+In the heart, acetylcholine that is released by nerve terminals acts on the metabotropic muscarinic
+acetylcholine receptors, which are classiﬁed into M1–5. M2 is highly expressed in cardiac tissue
+and is coupled to Gi, resulting into a decrease in cAMP signaling. There is also some evidence of
+the presence of M1 and M3 in the heart, which, in contrast to M2, are coupled to Gq/11 and trigger
+the PLC signaling pathways [140]. Evidence for the formation of functional neurocardiac junctions
+between parasympathetic neurons and myocytes was obtained in neuron-myocytes co-cultures.
+Stimulation of the parasympathetic neurons (isolated from sacral cord explants or ciliary muscle or
+iPSC-derived) elicits a negative chronotropic eﬀect in innervated cardiomyocytes (ventricular, sinoatrial
+node, or iPSC-derived) [160,166–168]. In neurocardiac co-cultures from either rat or chicken, the
+functional neuromodulation of cardiomyocytes develops after three days in culture. The mere vicinity
+between neurons and cardiomyocytes does not necessarily implicate the formation of functional
+contacts [167,168]. An increase in the expression levels of speciﬁc Gα subunits is concomitant with the
+enhancement of the muscarinic responsiveness of the cardiomyocytes only when co-cultured with
+neurons [168]. Similar to the sympathetic neurocardiac junction, changes in protein localization in the
+pre- and postjunctional membrane may occur upon parasympathetic neurocardiac junction formation
+and neuronal stimulation or triggered by molecules that are involved in cell–cell adhesion. Although
+this has not been investigated in the heart, various cadherins have been reported to be involved in
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+16 of 33
+
+parasympathetic neuroeﬀector junction formation. Accordingly, the expression of N-cadherin in CHO
+cells induces a partial diﬀerentiation of presynaptic cholinergic terminals of brainstem neurons when
+cell–cell contact are established [169].
+
++
+
++
+
+The parasympathetic neurocardiac junction at the level of the SAN has been studied by the Hirst
+group in an atrial preparation in contiguity with the vagus nerve using intracellular recordings of
+the sinoatrial pacemaker cells, in order to compare the eﬀects of either ACh application or vagal
+stimulation [85,170,171]. Both treatments result in a decrease in action potential generation and beating
+rate. ACh also elicits membrane hyperpolarization, action potential shortening, and an increase in its
+peak potential, whilst vagus nerve stimulation induces membrane depolarization and has little or no
+eﬀects on the peak potential and its duration [170–172]. Using pharmacological tools, e.g., cesium for
+blocking the funny current channels and Ba2+
+current channels, they proposed the existence
+for K
+of post-junctional and extra-junctional muscarinic receptors, with both eﬀects being inhibited by
+muscarinic antagonists. Vagal stimulation result in the reduction of the funny current (if) without
+an involvement of the K
+channels (i.e., IKACh) downstream of a pool of muscarinic postjunctional
+receptors, whilst bath application of ACh activates also muscarinic extra-junctional receptors that
+channels [134,170–172]. The distinct eﬀects of exogenous application of agonists
+are coupled to K
+compared to neuronal stimulation, debunked the idea that the exogenous application of agonist mimics
+physiological conditions [4]. Other groups assessing the beating rate of a mammalian atrial preparation
+using Ba2+
+[173] or the diastolic tension in the preparation while using the selective IKACh blocker
+tertiapin-Q [174] obtained diﬀerent results. They described an involvement of the IKACh downstream
+of the muscarinic receptor upon vagal stimulation. A contribution of IKACh was also postulated
+by the reduction of cardiac autonomic regulation in a mouse mutant lacking Kir3.4 channels [175].
+These results raise questions regarding the contribution of IKACh in pacemaker cells upon vagal
+stimulation. Do these channels reside at the post-junctional membrane or are they activated by, for
+example, spillover ACh? The carefully executed experiments by the Hirst group should not be refuted
+without reproducing them [176]. When comparing the experimental results across diﬀerent studies, it
+is also important to keep in mind the structural heterogeneity of SAN tissue with distinct densities of
+ion channels, innervation levels, and the expression of diﬀerent connexin isoforms [177].
+
++
+
+At the level of the parasympathetic neurocardiac junction, acetylcholine in the cleft is cleaved
+by AChE, which is a hydrolytic enzyme that is present at both pre- and postsynaptic membranes.
+Choline, which results from this enzymatic reaction, is readily transported back into the neuron by a
+high aﬃnity choline uptake mechanism, ACh can then be re-synthesized by choline acetyltransferase
+and subsequently released again [135]. The AChE levels are higher surrounding the SAN when
+compared to atrial muscle and they are even lower in the ventricles [178]. The lower AChE levels in
+atrial tissue are probably the reason for the slower rate of recovery in atrial muscle after vagal nerve
+stimulation [179]. There is some evidence using the right atrial preparation that acetylcholine can
+inhibit its own release from parasympathetic terminals through its action on muscarinic autoreceptors.
+In accordance with this, the muscarinic receptor antagonist atropine strongly increases ACh release
+from the vagus nerve in the right atrial preparation [180].
+
+Apart from the role of cholinergic neurons in action potential modulation, they have also been
+implicated in cardiac regeneration in both zebraﬁsh and neonatal mice. Their pharmacological or genetic
+blockade prevents cardiac regeneration upon nerve injury, resulting in a decrease of cardiomyocyte
+proliferation paired with a decrease of cell cycle genes [181].
+
+5.3. Co-Transmission
+
+The idea according to which neurons could only release one neurotransmitter, known as “Dale’s
+principle”, was ﬁrst challenged by Geoﬀrey Burnstock in 1976, who suggested that neurons of the
+same class could release more than one neurotransmitter [182]. Dales’ principle was hence rectiﬁed by
+Sir John Eccles into ‘at all the axonal branches of a neuron, there is liberation of the same transmitter
+substance or substances’ [183]. Sympathetic neurons, in addition to NE, can release neuropeptide
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+17 of 33
+
+Y (NPY) and adenosine triphosphate (ATP), with distinct stimulation parameters favoring some
+neurotransmitters over others: e.g., low frequency favors ATP release, longer period NE, and high
+frequency with sporadic burst towards NPY [135]. In contrast, parasympathetic neurons can release,
+in addition to ACh, vasoactive intestinal peptide (VIP), ATP, and NO [135]. Figure 5 summarizes the
+co-transmitters released at the neurocardiac junction and the cross-talks between the sympathetic and
+parasympathetic varicosities at the level of the sinoatrial node.
+
+Figure 5. Diagram illustrating the crosstalk by the sympathetic and parasympathetic varicosities at
+the level of a sinoatrial node myocyte. The parasympathetic neuron can release acetylcholine, nitric
+oxide and vasoactive intestinal peptide, whilst the sympathetic neuron norepinephrine, ATP and
+neuropeptide Y. This ﬁgure was created using images from Servier Medical Art Commons Attribution
+3.0 Unported License (http://smart.servier.com). Servier Medical Art by Servier is licensed under a
+Creative Commons Attribution 3.0 Unported License.
+
+NPY can be released together with NE and it can inhibit cholinergic release [183]. The analyses of
+the perfusate from the atrial preparation in vitro and the coronary sinus blood in vivo demonstrated
+that electrical stimulation protocols of sympathetic neurons (e.g., stellate ganglia). known to inhibit
+the vagal bradycardia, result in the release of NPY [183,184]. NPY acts on GPCRs that are coupled to
+the Gi/o pathway. Y1, Y2 and Y5 receptors are expressed in the heart and neuropeptide Y detected in
+the CCS, atria and coronary vessels [185]. NPY receptors have been reported to be present both at
+presynaptic sites inhibiting neurotransmitter release as well as postjunctional sites enhancing the NE
+eﬀects [185]. In the heart, the full action of NPY is not clear, with inconsistent changes in heart rates [186].
+Y1 receptors are found in ventricular cardiomyocyte and they enhance the response of NE [183,184].
+In contrast, Y2 receptors are expressed in prejunctional cholinergic terminals (e.g., from intrinsic cardiac
+neurons as shown in the guinea pig atrial preparation) and upon activation they inhibit ACh release
+via a PKC-dependent pathway [104,183,184]. Y2 receptors in these terminals have been shown to be
+functionally active, as NPY application in the atrial preparation in conjunction with the right vagal
+nerve reduced the heart rate response to vagal stimulation and decreased acetylcholine release [104,184].
+Moreover, these eﬀects were blocked by Y2 antagonists or through genetic ablation [183,184].
+
+Some intrinsic cardiac somata and ﬁbers in the guinea pig atria are found to be reactive to
+quinacrine, which is a marker of high ATP content in vesicles containing neuropeptides. These ﬁndings
+suggested that these neurons could release ATP [187]. Purinergic receptors binding ATP are classiﬁed
+into P1 (A1, A2A, A2B and A3) and P2 receptors. P2 receptors are sub-categorized into P2X (P2X1–7)
+and P2Y (P2Y1,2,4,6,11,12,13,14). P1 is most sensitive to adenosine, which results from ATP breakdown,
+
+J. Cardiovasc. Dev. Dis. 2020, 7, x FOR PEER REVIEW 18 of 33  Figure 5. Diagram illustrating the crosstalk by the sympathetic and parasympathetic varicosities at the level of a sinoatrial node myocyte. The parasympathetic neuron can release acetylcholine, nitric oxide and vasoactive intestinal peptide, whilst the sympathetic neuron norepinephrine, ATP and neuropeptide Y. This figure was created using images from Servier Medical Art Commons Attribution 3.0 Unported License (http://smart.servier.com). Servier Medical Art by Servier is licensed under a Creative Commons Attribution 3.0 Unported License. VIP-positive fibers are present in high density around the SAN of all mammals [193]. Despite being released from parasympathetic terminals, VIP has the opposite effects of ACh i.e., it increases the synthesis of cAMP, which results in the enhancement of the heart rate. It has been suggested to be involved in postvagal tachycardia, as its removal from the neuroeffector junction is slower when compared to ACh [175]. Vagal nerve stimulation in the presence of muscarinic and adrenergic antagonist results in an increase in heart rate. This effect was found to be mediated by VIP receptors, as their antagonists prevented it and it was mimicked by VIP application [193]. VIP acts on two receptor types (VPAC1 and VPAC2), both being expressed in the heart; they are both Gs-coupled GPCRs. In SAN, AVN, and Purkinje fibers, VIP application results in a positive shift in the funny current activation curve, resulting in a chronotropic effect [175,186]. VIP receptor distribution is affected in various diseases (e.g., heart failure and hypertension) also affecting their responsiveness to agonists [186]. Nitric oxide (NO) is a fundamental intra/intercellular signaling molecule that can act in an autocrine/paracrine manner [101,194]. NO is tonically released and it can reach 1–3 μM during diastole. NO has a dual action on its modulation of heart rate. Its action on prejunctional receptors facilitates ACh release and decreasing heart rate, whilst its postjunctional action on If can increase heart rate [101]. NO can modulate neurotransmitter release from autonomic neurons: it inhibits NE and facilitates ACh release [101]. It can facilitate the cholinergic suppression of βARs signaling in cardiomyocytes, although there is some debate on its physiological action [194]. It is produced from L-arginine by nitric oxide synthases. There are three isoforms of this enzyme with distinct cellular expression: eNOS (in endothelium and plasma membrane of cardiomyocytes), nNOS (neurons and sarcoplasmic reticulum of cardiomyocytes), and iNOS expressed during inflammation [140]. NO increases the intracellular cGMP production by binding to the soluble form of guanylyl cyclase, which, in turn, activates various signaling partners e.g., PKG and PDEs modulating heart rate, for example, by reducing ICaL in the SAN [186]. There is some controversy regarding the functional effects of nNOS on heart rate regulation of parasympathetic neurons [101]. It has been reported that nNOS levels vary across development with an increase of nNOS in older animals, which might explain the discrepancy of the data in the literature [101]. In accordance to changes across developmental stages, Herring and coworkers have shown that the inhibition of nNOS and guanylyl cyclase significantly J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+18 of 33
+
+whilst P2 to ATP. P2X receptors are inotropic (ligand-gated ion channel) receptors, whereas P1 and
+P2Y GPCRs [135]. A1 and A3 receptors are coupled to Gi and Gq/11 pathways mimicking downstream
+eﬀects that are similar to muscarinic M2 receptors, whilst A2 receptors are coupled to Gs; the sinoatrial
+node expresses A1 receptors [186]. Adenosine and ATP reduce the pacemaker activity of the SAN, the
+conduction of the AVN, and the automaticity of the His bundle and Purkinje ﬁbers. In human patients,
+intravenous administration of ATP produces AV block via P1 receptors. In patients with paroxysmal
+supraventricular tachycardia, bolus injection of adenosine (Adenocard) is employed in order to reduce
+the conduction time of the AVN [187]. In the heart, the P2 receptor has a distinct spatial distribution
+with P2X1/3/4/5/6 being expressed in the ventricles, whilst P2X1-6 in the atria [188]. P2X activation
+and the resulting increase of intracellular cations (e.g., Na
+) elicits cardiomyocyte contractility [189].
+P2X receptors are also found in the prejunctional regions of cardiac sympathetic neurons, and their
+activation promotes NE release [190]. Studies of sympathetic neuro-eﬀector junctions of smooth muscle
+cells have reported that, when ATP is co-released with NE, the action of ATP on the eﬀector cell is faster
+due to the faster P2X receptor response as compared to the slower eﬀects of NE via GPCRs [146,150].
+A subset of intracardiac neurons present P2Y2 receptors and they are sensitive to ATP application
+and, to a lesser extent, to ADP (but not to AMP or adenosine) [187], although there is some evidence of
+a putative role of P1 receptors in prejunctional regions [191].
+
++
+
+The application of ATP elicits distinct eﬀects on intrinsic cardiac neurons via P2Y receptors,
+resulting in three diﬀerent responses. In the ﬁrst group of cells, it elicits a rapid transient depolarization;
+in the second group, the depolarization is followed by an hyperpolarization and a slow prolonged
+depolarization; in the third subset, ATP induces a slow depolarization [187,192]. These results
+suggest that some intrinsic cardiac neurons are local aﬀerent neurons, playing a role in the regional
+cardiac reﬂexes, in accordance with this, nodose aﬀerent neurons can be activated by ATP and
+adenosine [187,192].
+
+VIP-positive ﬁbers are present in high density around the SAN of all mammals [193]. Despite being
+released from parasympathetic terminals, VIP has the opposite eﬀects of ACh i.e., it increases the
+synthesis of cAMP, which results in the enhancement of the heart rate. It has been suggested to be
+involved in postvagal tachycardia, as its removal from the neuroeﬀector junction is slower when
+compared to ACh [175]. Vagal nerve stimulation in the presence of muscarinic and adrenergic
+antagonist results in an increase in heart rate. This eﬀect was found to be mediated by VIP receptors,
+as their antagonists prevented it and it was mimicked by VIP application [193]. VIP acts on two
+receptor types (VPAC1 and VPAC2), both being expressed in the heart; they are both Gs-coupled
+GPCRs. In SAN, AVN, and Purkinje ﬁbers, VIP application results in a positive shift in the funny
+current activation curve, resulting in a chronotropic eﬀect [175,186]. VIP receptor distribution is
+aﬀected in various diseases (e.g., heart failure and hypertension) also aﬀecting their responsiveness to
+agonists [186].
+
+Nitric oxide (NO) is a fundamental intra/intercellular signaling molecule that can act in an
+autocrine/paracrine manner [101,194]. NO is tonically released and it can reach 1–3 µM during diastole.
+NO has a dual action on its modulation of heart rate. Its action on prejunctional receptors facilitates
+ACh release and decreasing heart rate, whilst its postjunctional action on If can increase heart rate [101].
+NO can modulate neurotransmitter release from autonomic neurons: it inhibits NE and facilitates
+ACh release [101]. It can facilitate the cholinergic suppression of βARs signaling in cardiomyocytes,
+although there is some debate on its physiological action [194]. It is produced from L-arginine by
+nitric oxide synthases. There are three isoforms of this enzyme with distinct cellular expression: eNOS
+(in endothelium and plasma membrane of cardiomyocytes), nNOS (neurons and sarcoplasmic reticulum
+of cardiomyocytes), and iNOS expressed during inﬂammation [140]. NO increases the intracellular
+cGMP production by binding to the soluble form of guanylyl cyclase, which, in turn, activates various
+signaling partners e.g., PKG and PDEs modulating heart rate, for example, by reducing ICaL in the
+SAN [186]. There is some controversy regarding the functional eﬀects of nNOS on heart rate regulation
+of parasympathetic neurons [101]. It has been reported that nNOS levels vary across development
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+19 of 33
+
+with an increase of nNOS in older animals, which might explain the discrepancy of the data in the
+literature [101]. In accordance to changes across developmental stages, Herring and coworkers have
+shown that the inhibition of nNOS and guanylyl cyclase signiﬁcantly reduces the heart rate response of
+vagal stimulation on the atrial preparation in older guinea pigs, but not in younger ones [195]. It seems
+that the eﬀects of NO on heart rate, are mainly through its action on prejunctional receptors. Sodium
+nitroprusside (the nitric oxide donor) increases 3H-ACh release, the application of NO activators in the
+presence of carbamylcholine (the stable analogue of ACh), and NOS and guanylyl cyclase inhibitors
+do not result in any changes in heart rate [101].
+
+6. Cardiac Innervation and Heart Disease
+
+Disruption in cardiac innervation has been implicated in various disorders (as summarized in
+Table 1), for example, dysautonomia (i.e., diseases arising from disrupted autonomic interactions),
+as well as in cardiac arrhythmia (e.g., in atrial ﬁbrillation). In other cases, for example, after heart
+transplantation, the cardiac aﬀerent and eﬀerent neurons (to and from the extrinsic cardiac nervous
+system) are completely removed. This results in the loss of the functional interaction with the
+stellate ganglia and vagus nerve and, ultimately, causes a depletion of the modulation by the higher
+brain centers.
+
+Table 1. Summary of the contribution of the ICNS in some cardiac diseases.
+
+Disease
+
+Ageing
+
+Involvement of the ICNS
+
+General reduction of parasympathetic and sympathetic
+function in aged animals [196,197]
+
+Dysautonomia
+
+General reduction of NE synthesis. Speciﬁc contribution of the
+ICNS not known [198].
+
+Atrial ﬁbrillation
+
+Stimulation of GPs can elicit whilst their ablation can prevent
+atrial ﬁbrillation [199,200], evidence of neuronal remodeling [7]
+
+Conduction disorders
+
+Heart transplantation
+
+Expression of some “cardiac” proteins associated with the
+disease pathology in the ICNS [201]. Evidence of pathology
+secondary to increased autonomic activity [202,203].
+Loss of the extrinsic innervation (eﬀerent and aﬀerent) to/from
+the heart [204]; changes in ICNS membrane properties [205]
+
+Anatomical studies of the human heart have shown age-dependent changes of innervation. It has
+been reported that, during infancy, there is a dominance of sympathetic innervation of the CCS. There
+is a codominance of sympathetic and parasympathetic innervation during adulthood and an overall
+reduction of innervation in the elderly, with a speciﬁc reduction of parasympathetic function [196].
+Moreover, anatomical and functional studies using aged mice reported a reduction in sympathetic
+heart rate regulation in the atria and ventricles of aged animals, which was the result of a reduction in
+ventricular sympathetic innervation and atrial β-adrenergic responsiveness [197].
+
+The most common forms of dysautonomia are the familial ones. Patients with familial
+dysautonomia express low levels of dopamine-beta-hydroxylase resulting in a reduction of NE synthesis.
+This syndrome has been associated with mutations in the inhibitor of kappa light polypeptide gene
+enhancer in B-cells, kinase complex-associated protein (IKBKAP) gene. Individuals with familial
+dysautonomia have an abnormal heart rate, cardiac tone, and blood pressure together with higher risk
+of sudden death [198,206,207]. Another disease that is associated with abnormal development of the
+autonomic nervous system, possibly due to delayed maturation, is sudden infant death syndrome
+(SIDS), which is characterized by a reduction of the cardiac sympathovagal balance and anomalies in
+sleeping pattern [198].
+
+Atrial ﬁbrillation arises from multiple factors, among them: elevated vagal tone and ectopic
+ﬁring in the region that surrounds the pulmonary vein. This region contains various intrinsic cardiac
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+20 of 33
+
+ganglia and myocytes with speciﬁc electrophysiological properties making them more susceptible
+to arrhythmogenesis [200,208]. Moreover, the stimulation of GP in the left atrial fat pad lowers the
+threshold for atrial ﬁbrillation, whilst their ablation can prevent it [199,200]. However, because of the
+intricated GP network, their role in physiological regulation of the CCS, innervation, and modulation of
+ventricles, ablation procedures can have serious side-eﬀects, among them ventricular ﬁbrillation [209].
+Furthermore, neuronal remodeling (e.g., an increased presence of sympathetic neurons) has been
+reported in atrial ﬁbrillation, which could have an eﬀect on the outcome of ablation therapy [7].
+
+Some studies investigating the pathophysiology of sick sinus syndrome in patients reported that the
+disease phenotype was mainly the result of an intrinsic abnormality of the SAN. Nonetheless, in some
+cases it was secondary to increased autonomic activity, in fact, autonomic blockade restored normal heart
+rate [202,203]. From the patient pathological phenotypes, it was difficult to distinguish whether the SAN
+bradycardia was the result of SAN or autonomic nervous system dysfunction [202]. It is also important to
+note that, some ion channels, which have been associated with cardiac arrhythmogenic disorders, are
+expressed not only in cardiomyocytes, but also in intracardiac ganglia. One example is the sodium channel
+Nav1.5, whose functional expression has been reported in canine intracardiac ganglia implying a potential
+role of the ICNS in the pathophysiology of various disorders [201]. In accordance with this, mutations in
+its gene (SCN5A) have been associated with various cardiac arrhythmic disorders, e.g., long QT syndrome
+3 (LQT3), Brugada syndrome and progressive conduction disease [201]. LQT3 is often linked to SAN
+dysfunction (e.g., sinus bradycardia and pauses), together with atrial standstill [201]. A number of studies
+on the dysfunction of the CCS have focused on ion channels, transmembrane and membrane-associated
+proteins in the SAN e.g., ankyrin B [111], CaV1.3, CaV3.1 [210], GIRK [211], POPDC1 [212], POPDC2 [213],
+or studied the effects of muscarinic or βAR agonists and/or antagonists on SAN excitability [111,210].
+However, little work has been undertaken so far on the putative contribution of the ICNS in these diseases.
+There are some preliminary data on a potential role of the cAMP-binding transmembrane protein POPDC1
+in the ICNS (unpublished data). Mutations in the POPDC1 gene have been associated with skeletal
+muscle and cardiac disorders, specifically causing a disruption of CCS function e.g., atrioventricular
+block in patients and zebrafish mutants and a stress-induced sinus bradycardia in mutant mice [212,214].
+Interestingly, popdc1 expression has recently been detected in the ICNS of the zebrafish (unpublished
+data). The recessive POPDC1S201F missense mutation causes a second-degree atrio-ventricular block in
+patients [214]. A subset of zebrafish mutants carrying the homologous mutation (popdc1S191F) showed
+electrocardiogram (ECG) changes at baseline (atrioventricular block) [214]; isoproterenol and neuronal
+stimulation elicited arrhythmia, including sinus pauses (unpublished data). Notably, fishes with the most
+severe abnormalities also presented dysfunctions at the level of the ICNS. Significantly, the phenotype was
+rescued by cholinergic agonist suggesting a role of POPDC1 for the proper ICNS function (unpublished
+data). Interestingly, Mangoni and coworkers undertook extensive research on mouse models with SAN
+and AVN dysfunction and reported a rescue of the pathological phenotype after either pharmacological
+blockade or genetic ablation of the IKACh channel (GIRK4), which acts downstream of the muscarinic
+receptors [210,215]. These data suggest distinct pathophysiological mechanisms that are involved in
+conduction disorders with a beneficial role of either muscarinic agonist or antagonist, depending on the
+underlying disease mechanisms. Until now, the question of the role of the ICNS or the cardiac nervous
+system, in general, in heart rhythm disorders has not been sufficiently experimentally addressed. Further
+studies involving, for example, the conditional ablation of genes in neurons and SAN myocytes could
+reveal the potential contribution of the ICNS in these disorders.
+
+Heart transplantation is characterized by the surgical interruption of the extrinsic eﬀerent and
+aﬀerent neurons to and from the heart (e.g., vagal input, extrinsic cardiac ganglia) leading to axonal
+degeneration and impairments of the cardiac reﬂexes [204]. Abnormal aﬀerent-eﬀerent communications
+have also been reported in various diseases, for example, in ischemic ventricles resulting in an increased
+susceptibility of sudden cardiac death [2].
+
+Because of the allograft denervation, abnormal cardiac function at rest and during exercise,
+e.g., higher heart rate, slower changes in heart rate, and abnormal cardiac output, have been
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+21 of 33
+
+reported [204]. After heart transplantation, it has been reported that the intracardiac neurons
+preserve synaptic neurotransmission, but they undergo changes in membrane properties, e.g., reducing
+their afterhyperpolarization current, hence increasing the proportion of phasic neurons, and possibly
+increasing their excitability [205]. Interestingly, in 40–70% patients, partial restoration of the innervation
+after heart transplantation has been reported, but is sometimes deﬁned as partial or patchy reinnervation,
+with some patients presenting little or no innervation after 10 years [204]. The sympathetic branch can
+arise after six months and the parasympathetic after 1–3 years following sympathetic innervation [204].
+The delay in the parasympathetic reinnervation can result into unbalanced autonomic innervation
+causing abnormal heart rate and response to stimuli [204]. Sympathetic ventricular innervation was
+reported to be time-dependent starting from the base towards the apex, whilst innervation of the
+sinoatrial node was more variable [204]. Another factor aﬀecting adrenergic-cholinergic balance
+is the upregulation of the neural-crest derived ICA cells, which, however, has only been reported
+so far in mice [22]. Given the partial innervation after heart transplantation and the resulting
+abnormal sympathetic-parasympathetic balance, promoting cardiac innervation opens up a research
+scope for tissue engineering, e.g., triggering neo-innervation before heart transplantation or prior to
+implantation [216].
+
+7. Conclusions
+
+There is increasing appreciation of the important function of the ICNS in the modulation of heart
+function through its regulation of the CCS. However, the full degree of its physiological action and
+how it is aﬀected in various cardiovascular disorders remains to be properly studied. There are still
+many open questions that need to be addressed.
+
+The cardiac parasympathetic innervation as compared to sympathetic innervation is generally
+understudied. For example, during development, some information has been extrapolated from ciliary
+ganglia and, therefore, might not be fully correct. Various animal models could be employed in order
+to address this question; one could, for example, take advantage of the transparency of the zebraﬁsh
+embryo, as the zebraﬁsh has recently been established as a novel model for studying the ICNS [78].
+
+Despite evidence of a neurocardiac junction similar to the sympathetic branch, less work has been
+undertaken for the parasympathetic junction. Moreover, the protocols often used to study the eﬀect
+of sympathetic and parasympathetic innervation involved bath application of agonists/antagonists,
+which does not recapitulate the physiological condition. It is important to keep in mind the role
+of co-transmitters and the structure of the neurocardiac junction with a diﬀerential distribution of
+channels and receptors at post-junctional versus extra-junctional membrane domains. The neurocardiac
+junction could be further studied, for example, employing FRET sensors localized to distinct cellular
+microdomains in neuron-cardiomyocyte co-cultures. Moreover, co-cultures of iPSC-derived neurons
+and cardiomyocytes form functional neurocardiac junctions and may also permit modelling various
+neurocardiac diseases while using patient-derived cells.
+
+Despite the advances in the classification of neurons of intracardiac ganglia based on their molecular
+profile, their biophysical profile is yet to be paired to their neurochemical characteristics. This could be
+achieved, for example, using Patch-seq, as already mentioned in Section 3.2. Elucidating the transcriptome
+of ICNS neurons could reveal whether some genes that are known to be involved in the pathophysiology
+of cardiovascular diseases (e.g., SCN5A in Brugada syndrome) are also expressed in the ICNS. Further
+insights in their molecular expression profile in combination with the generation of animal models with
+neuron or cardiomyocyte-specific ablation of genes will allow for the assessment of the contribution
+of different cell types in the disease pathology possibly resulting in the identification of novel drug
+targets. Further research is also needed in order to study the role of the ICNS in atrial fibrillation.
+Tissue engineering approaches may help to restore cardiac innervation after heart transplantation.
+
+Research on the ICNS has long been a neglected area in cardiac biology. However, with the recent
+development of single-cell sequencing and the availability of marker genes for cell sorting, it is likely
+that we will soon have deeper insight into the makeup of the ICNS and its role in health and disease.
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+22 of 33
+
+Funding: Research in the authors’ laboratory is funded through the British Heart Foundation (BHF) (PG//19/13/34247).
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The funders had no role in the design of the
+study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to
+publish the results.
+
+Abbreviations
+
+β1AR
+β2AR
+ACh
+AChE
+ATP
+AVN
+BMP
+CANS
+CCS
+CGRP
+ChAT
+DBH
+ECG
+ET-1
+FRET
+GATA3
+GDNF
+GFL
+GP
+GPCRs
+HAND2
+ICA
+ICNS
+IPSCs
+IKBKA
+LCNs
+MASH1
+M2
+NCCs
+NE
+NET
+NGF
+nNOS
+NO
+NOS
+NPY
+PHOX2A
+PHOX2B
+PNMT
+SAN
+SAR
+SIF
+SP
+TH
+vAChT
+VMAT-2
+VIP
+
+beta1 adrenergic receptor
+beta2 adrenergic receptor
+acetylcholine
+acetylcholinesterase
+adenosine triphosphate
+atrioventricular node
+bone morphogenetic protein
+cardiac autonomic nervous system
+cardiac conduction system
+calcitonin gene related peptide
+choline acetyltransferase
+dopamine β-hydroxylase
+electrocardiogram
+endothelin-1
+Förster Resonance Energy Transfer
+GATA binding protein 3
+glial cells neurotrophic factors
+Glial cell-line derived neurotrophic factor family of ligands
+ganglionated plexi
+G-protein coupled receptors
+heart and neural crest derivative expressed 2
+intrinsic cardiac adrenergic
+intrinsic cardiac nervous system
+induced-pluripotent stem cells
+kinase complex-associated protein
+local circuit neurons
+mammalian achaete-scute homolog
+muscarinic acetylcholine receptors type 2
+neural crest cells
+norepinephrine
+norepinephrine reuptake transporter
+nerve growth factor
+neuronal nitric oxide synthase
+nitric oxide
+nitric oxide synthase
+neuropeptide Y
+paired- like homeobox 2a
+paired- like homeobox 2b
+phenylethanolamine-N-methyltransferase
+sinoatrial node
+sinoatrial ring
+small intensely ﬂuorescent cells
+substance P
+tyrosine hydroxylase
+vesicular acetylcholine transporter
+vesicular monoamine transporter 2
+vasoactive intestinal peptide
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+23 of 33
+
+References
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Armour, J.A. Potential clinical relevance of the ‘little brain’ on the mammalian heart. Exp. Physiol. 2008,
+93, 165–176. [CrossRef]
+Ardell, J.L.; Armour, J.A. Neurocardiology: Structure-Based Function. In Comprehensive Physiology; Wiley:
+Hoboken, NJ, USA, 2016; pp. 1635–1653.
+Armour, J.A. Cardiac neuronal hierarchy in health and disease. Am. J. Physiol. 2004, 287, R262–R271.
+[CrossRef]
+Jaenig, W. Neurocardiology: A neurobiologist’s perspective. J. Physiol. 2016, 594, 3955–3962. [CrossRef]
+[PubMed]
+Shivkumar, K.; Ajijola, O.A.; Anand, I.; Armour, J.A.; Chen, P.-S.; Esler, M.; De Ferrari, G.M.; Fishbein, M.C.;
+Goldberger, J.J.; Harper, R.M.; et al. Clinical neurocardiology deﬁning the value of neuroscience-based
+cardiovascular therapeutics. J. Physiol. 2016, 594, 3911–3954. [CrossRef]
+Zipes, D.P.; Jalife, J.; Stevenson, W.G. Cardiac Electrophysiology: From Cell to Bedside, 7th ed.; Elsevier:
+Philadelphia, PA, USA, 2018; ISBN 978-0-323-44733-1.
+
+7. Wake, E.; Brack, K. Characterization of the intrinsic cardiac nervous system. Auton. Neurosci. 2016, 199, 3–16.
+
+8.
+
+9.
+
+[CrossRef] [PubMed]
+Ardell, J.L.; Andresen, M.C.; Armour, J.A.; Billman, G.E.; Chen, P.; Foreman, R.D.; Herring, N.; O’Leary, D.S.;
+Sabbah, H.N.; Schultz, H.D.; et al. Translational neurocardiology: Preclinical models and cardioneural
+integrative aspects. J. Physiol. 2016, 594, 3877–3909. [CrossRef] [PubMed]
+Boyett, M. ‘And the beat goes on’ The cardiac conduction system: The wiring system of the heart. Exp. Physiol.
+2009, 94, 1035–1049. [CrossRef] [PubMed]
+
+10. Végh, A.M.D.; Duim, S.N.; Smits, A.M.; Poelmann, R.E.; Harkel, A.D.J.T.; DeRuiter, M.C.; Goumans, M.J.;
+Jongbloed, M.R.M. Part and Parcel of the Cardiac Autonomic Nerve System: Unravelling Its Cellular Building
+Blocks during Development. J. Cardiovasc. Dev. Dis. 2016, 3, 28. [CrossRef] [PubMed]
+
+11. Campos, I.D.; Pinto, V.; Sousa, N.; Pereira, V.H. A brain within the heart: A review on the intracardiac
+
+nervous system. J. Mol. Cell. Cardiol. 2018, 119, 1–9. [CrossRef]
+
+12. Coskun, V.; Lombardo, D.M. Studying the pathophysiologic connection between cardiovascular and nervous
+
+systems using stem cells. J. Neurosci. Res. 2016, 94, 1499–1510. [CrossRef]
+
+13. Hasan, W. Autonomic cardiac innervation. Organogenesis 2013, 9, 176–193. [CrossRef] [PubMed]
+14. Marvin, W.J.; Hermsmeyer, K.; McDonald, R.I.; Roskoski, L.M.; Roskoski, R. Ontogenesis of cholingergic
+
+innervation in the rat heart. Circ. Res. 1980, 46, 690–695. [CrossRef] [PubMed]
+
+15. Navaratnam, V. The ontogenesis of cholinesterase activity within the heart and cardiac ganglia in man, rat,
+
+rabbit and guinea-pig. J. Anat. 1965, 99, 459–467.
+
+16. Zhou, Q.-Y.; Quaife, C.J.; Palmiter, R.D. Targeted disruption of the tyrosine hydroxylase gene reveals that
+catecholamines are required for mouse fetal development. Nat. Cell Biol. 1995, 374, 640–643. [CrossRef]
+[PubMed]
+
+17. Thomas, S.A.; Matsumoto, A.M.; Palmiter, R.D. Noradrenaline is essential for mouse fetal development.
+
+Nat. Cell Biol. 1995, 374, 643–646. [CrossRef] [PubMed]
+
+18. Ebert, S. Expression of phenylethanolamine n-methyltransferase in the embryonic rat heart. J. Mol. Cell. Cardiol.
+
+1996, 28, 1653–1658. [CrossRef]
+
+19. Ebert, S.N.; Thompson, R.P. Embryonic epinephrine synthesis in the rat heart before innervation. Circ. Res.
+
+2001, 88, 117–124. [CrossRef]
+
+20. Ebert, S.N.; Rong, Q.; Boe, S.; Thompson, R.P.; Grinberg, A.; Pfeifer, K. Targeted insertion of the
+Cre-recombinase gene at the phenylethanolamine n-methyltransferase locus: A new model for studying the
+developmental distribution of adrenergic cells. Dev. Dyn. 2004, 231, 849–858. [CrossRef]
+
+21. Owji, A.; Varudkar, N.; Ebert, S.N. Therapeutic potential of Pnmt+ primer cells for neuro/myocardial
+
+regeneration. Am. J. Stem Cells 2013, 2, 137–154.
+
+22. Tamura, Y.; Sano, M.; Nakamura, H.; Ito, K.; Sato, Y.; Shinmura, K.; Ieda, M.; Fujita, J.; Kurosawa, H.;
+Ogawa, S.; et al. Neural crest-derived resident cardiac cells contribute to the restoration of adrenergic
+function of transplanted heart in rodent. Cardiovasc. Res. 2015, 109, 350–357. [CrossRef]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+24 of 33
+
+23. Huang, M.H.; Nguyen, V.; Wu, Y.; Rastogi, S.; Lui, C.Y.; Birnbaum, Y.; Wang, H.-Q.; Ware, D.L.; Chauhan, M.;
+Garg, N.; et al. Reducing ischaemia/reperfusion injury through delta-opioid-regulated intrinsic cardiac
+adrenergic cells: Adrenopeptidergic co-signalling. Cardiovasc. Res. 2009, 84, 452–460. [CrossRef] [PubMed]
+24. Kasemeier-Kulesa, J.C.; Bradley, R.; Pasquale, E.B.; Lefcort, F.; Kulesa, P.M. Eph/ephrins and N-cadherin
+coordinate to control the pattern of sympathetic ganglia. Development 2006, 133, 4839–4847. [CrossRef]
+[PubMed]
+Ieda, M.; Kanazawa, H.; Kimura, K.; Hattori, F.; Ieda, Y.; Taniguchi, M.; Lee, J.-K.; Matsumura, K.; Tomita, Y.;
+Miyoshi, S.; et al. Sema3a maintains normal heart rhythm through sympathetic innervation patterning.
+Nat. Med. 2007, 13, 604–612. [CrossRef] [PubMed]
+
+25.
+
+26. Hildreth, V.; Webb, S.; Bradshaw, L.; Brown, N.A.; Anderson, R.H.; Henderson, D.J. Cells migrating from the
+neural crest contribute to the innervation of the venous pole of the heart. J. Anat. 2007, 212, 1–11. [CrossRef]
+[PubMed]
+
+27. Kirby, M.L. Nodose placode contributes autonomic neurons to the heart in the absence of cardiac neural
+
+crest. J. Neurosci. 1988, 8, 1089–1095. [CrossRef] [PubMed]
+
+28. Verberne, M.E.; Groot, A.C.G.-D.; Poelmann, R.E. Distribution of antigen epitopes shared by nerves and the
+myocardium of the embryonic chick heart using diﬀerent neuronal markers. Anat. Rec. Adv. Integr. Anat.
+Evol. Biol. 2000, 260, 335–350. [CrossRef]
+
+29. Hutchins, E.J.; Kunttas, E.; Piacentino, M.L.; Howard, A.G.; Bronner, M.E.; Uribe, R.A. Migration and
+
+diversiﬁcation of the vagal neural crest. Dev. Biol. 2018, 444, S98–S109. [CrossRef]
+
+30. White, P.M.; Morrison, S.J.; Orimoto, K.; Kubu, C.J.; Verdi, J.M.; Anderson, D.J. Neural crest stem cells
+undergo cell-intrinsic developmental changes in sensitivity to instructive diﬀerentiation signals. Neuron
+2001, 29, 57–71. [CrossRef]
+
+31. Morikawa, Y.; Zehir, A.; Maska, E.; Deng, C.; Schneider, M.D.; Mishina, Y.; Cserjesi, P. BMP signaling
+regulates sympathetic nervous system development through Smad4-dependent and -independent pathways.
+Development 2009, 136, 3575–3584. [CrossRef]
+Schneider, C.; Wicht, H.; Enderich, J.; Wegner, M.; Rohrer, H. Bone morphogenetic proteins are required
+in vivo for the generation of sympathetic neurons. Neuron 1999, 24, 861–870. [CrossRef]
+
+32.
+
+33. Müller, F. Molecular control of ciliary neuron development: BMPs and downstream transcriptional control
+
+in the parasympathetic lineage. Development 2002, 129, 5707–5717. [CrossRef] [PubMed]
+
+34. Pattyn, A.; Morin, X.; Cremer, H.; Goridis, C.; Brunet, J.-F. The homeobox gene Phox2b is essential for the
+
+development of autonomic neural crest derivatives. Nat. Cell Biol. 1999, 399, 366–370. [CrossRef]
+
+35. Pattyn, A.; Guillemot, F.; Brunet, J.-F. Delays in neuronal diﬀerentiation in Mash1/Ascl1 mutants. Dev. Biol.
+
+2006, 295, 67–75. [CrossRef]
+
+36. Guillemot, F.; Lo, L.-C.; Johnson, J.E.; Auerbach, A.; Anderson, D.J.; Joyner, A.L. Mammalian achaete-scute
+homolog 1 is required for the early development of olfactory and autonomic neurons. Cell 1993, 75, 463–476.
+[CrossRef]
+
+37. Lim, K.-C.; Lakshmanan, G.; Crawford, S.E.; Gu, Y.; Grosveld, F.; Engel, J.D. Gata3 loss leads to embryonic
+lethality due to noradrenaline deﬁciency of the sympathetic nervous system. Nat. Genet. 2000, 25, 209–212.
+[CrossRef] [PubMed]
+
+38. Hendershot, T.J.; Liu, H.; Clouthier, D.E.; Shepherd, I.T.; Coppola, E.; Studer, M.; Firulli, A.B.; Pittman, D.L.;
+Howard, M.J. Conditional deletion of Hand2 reveals critical functions in neurogenesis and cell type-speciﬁc
+gene expression for development of neural crest-derived noradrenergic sympathetic ganglion neurons.
+Dev. Biol. 2008, 319, 179–191. [CrossRef] [PubMed]
+
+39. Morikawa, Y.; D’Autréaux, F.; Gershon, M.D.; Cserjesi, P. Hand2 determines the noradrenergic phenotype in
+
+the mouse sympathetic nervous system. Dev. Biol. 2007, 307, 114–126. [CrossRef]
+
+40. Enomoto, H.; Heuckeroth, R.O.; Golden, J.P.; Johnson, E.M.; Milbrandt, J. Development of cranial
+parasympathetic ganglia requires sequential actions of GDNF and neurturin. Development 2000, 127,
+4877–4889.
+
+41. Hiltunen, J.O.; Laurikainen, A.; Airaksinen, M.S.; Saarma, M. GDNF family receptors in the embryonic and
+postnatal rat heart and reduced cholinergic innervation in mice hearts lacking Ret or GFRalpha2. Dev. Dyn.
+2000, 219, 28–39. [CrossRef]
+
+42. Lee, R.; Kermani, P.; Teng, K.K.; Hempstead, B.L. Regulation of cell survival by secreted proneurotrophins.
+
+Science 2001, 294, 1945–1948. [CrossRef]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+25 of 33
+
+43. Bruno, M.A.; Cuello, A.C. Activity-dependent release of precursor nerve growth factor, conversion to
+mature nerve growth factor, and its degradation by a protease cascade. Proc. Natl. Acad. Sci. USA 2006,
+103, 6735–6740. [CrossRef] [PubMed]
+Ieda, M.; Fukuda, K.; Hisaka, Y.; Kimura, K.; Kawaguchi, H.; Fujita, J.; Shimoda, K.; Takeshita, E.; Okano, H.;
+Kurihara, Y.; et al. Endothelin-1 regulates cardiac sympathetic innervation in the rodent heart by controlling
+nerve growth factor expression. J. Clin. Investig. 2004, 113, 876–884. [CrossRef] [PubMed]
+
+44.
+
+45. Lockhart, S.T.; Mead, J.N.; Pisano, J.M.; Slonimsky, J.D.; Birren, S.J. Nerve growth factor collaborates with
+myocyte-derived factors to promote development of presynaptic sites in cultured sympathetic neurons.
+J. Neurobiol. 2000, 42, 460–476. [CrossRef]
+
+46. Lockhart, S.T.; Turrigiano, G.G.; Birren, S.J. Nerve growth factor modulates synaptic transmission between
+
+sympathetic neurons and cardiac myocytes. J. Neurosci. 1997, 17, 9573–9582. [CrossRef] [PubMed]
+
+47. Birren, S.J.; Lo, L.; Anderson, D.J. Sympathetic neuroblasts undergo a developmental switch in trophic
+
+dependence. Development 1993, 119, 597–610. [PubMed]
+
+48. Tessarollo, L.; Tsoulfas, P.; Donovan, M.J.; Palko, M.E.; Blair-Flynn, J.; Hempstead, B.L.; Parada, L.F. Targeted
+deletion of all isoforms of the trkC gene suggests the use of alternate receptors by its ligand neurotrophin-3
+in neuronal development and implicates trkC in normal cardiogenesis. Proc. Natl. Acad. Sci. USA 1997, 94,
+14776–14781. [CrossRef]
+Francis, N.; Fariñas, I.; Brennan, C.; Rivas-Plata, K.; Backus, C.; Reichardt, L.; Landis, S. NT-3, like NGF,
+is required for survival of sympathetic neurons, but not their precursors. Dev. Biol. 1999, 210, 411–427.
+[CrossRef]
+
+49.
+
+50. Martinelli, P.M.; Camargos, E.R.S.; Morel, G.; Tavares, C.A.P.; Nagib, P.R.A.; Machado, C.R. Rat heart GDNF:
+
+Eﬀect of chemical sympathectomy. Histochem. Cell Biol. 2002, 118, 337–343. [CrossRef]
+
+51. Airaksinen, M.S.; Saarma, M. The GDNF family: Signalling, biological functions and therapeutic value.
+
+Nat. Rev. Neurosci. 2002, 3, 383–394. [CrossRef]
+
+52. Garcia-Lavandeira, M.; Diaz-Rodriguez, E.; García-Rendueles, M.E.; Rodrigues, J.S.; Perez-Romero, S.;
+Bravo, S.; Alvarez, C.V. Functional role of the RET dependence receptor, GFRa co-receptors and ligands in
+the pituitary. Front. Horm. Res. 2010, 38, 127–138. [CrossRef]
+
+53. Rossi, J.; Luukko, K.; Poteryaev, D.; Laurikainen, A.; Sun, Y.F.; Laakso, T.; Eerikäinen, S.; Tuominen, R.;
+Lakso, M.; Rauvala, H.; et al. Retarded growth and deﬁcits in the enteric and parasympathetic nervous
+system in mice lacking GFR alpha2, a functional neurturin receptor. Neuron 1999, 22, 243–252. [CrossRef]
+
+54. Heuckeroth, R.O.; Enomoto, H.; Grider, J.R.; Golden, J.P.; Hanke, J.A.; Jackman, A.; Molliver, D.; Bardgett, M.E.;
+Snider, W.D.; Johnson, E.M.; et al. Gene targeting reveals a critical role for neurturin in the development and
+maintenance of enteric, sensory, and parasympathetic neurons. Neuron 1999, 22, 253–263. [CrossRef]
+55. Hoard, J.L.; Hoover, D.B.; Mabe, A.M.; Blakely, R.D.; Feng, N.; Paolocci, N. Cholinergic neurons of mouse
+intrinsic cardiac ganglia contain noradrenergic enzymes, norepinephrine transporters, and the neurotrophin
+receptors tropomyosin-related kinase A and p75. Neuroscience 2008, 156, 129–142. [CrossRef] [PubMed]
+56. Levi-Montalcini, R.; Booker, B. Destruction of the sympathetic ganglia in mammals by an antiserum to a
+
+nerve-growth protein. Proc. Natl. Acad. Sci. USA 1960, 46, 384–391. [CrossRef] [PubMed]
+
+57. Chen, K.S.; Nishimura, M.C.; Armanini, M.P.; Crowley, C.; Spencer, S.D.; Phillips, H.S. Disruption of a Single
+Allele of the Nerve Growth Factor Gene Results in Atrophy of Basal Forebrain Cholinergic Neurons and
+Memory Deﬁcits. J. Neurosci. 1997, 17, 7288–7296. [CrossRef] [PubMed]
+
+58. Hazari, M.S.; Pan, J.H.; Myers, A.C. Nerve growth factor acutely potentiates synaptic transmission in vitro
+and induces dendritic growth in vivo on adult neurons in airway parasympathetic ganglia. Am. J. Physiol.
+2007, 292, L992–L1001. [CrossRef] [PubMed]
+
+59. Collins, F.; Dawson, A. An eﬀect of nerve growth factor on parasympathetic neurite outgrowth. Proc. Natl.
+
+Acad. Sci. USA 1983, 80, 2091–2094. [CrossRef]
+
+60. Miller, M.R.; Kasahara, M. Studies on the nerve endings in the heart. Am. J. Anat. 1964, 115, 217–233.
+
+[CrossRef]
+
+61. Woollard, H.H. The innervation of the heart. J. Anat. 1926, 60, 345–373.
+62. Armour, J.A.; Murphy, D.A.; Yuan, B.-X.; Macdonald, S.; Hopkins, D.A. Gross and microscopic anatomy of
+the human intrinsic cardiac nervous system. Anat. Rec. Adv. Integr. Anat. Evol. Biol. 1997, 247, 289–298.
+[CrossRef]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+26 of 33
+
+63. Pauziene, N.; Pauza, D.H.; Stropus, R. Morphology of human intracardiac nerves: An electron microscope
+
+study. J. Anat. 2000, 197, 437–459. [CrossRef] [PubMed]
+
+64. Pauziene, N.; Rysevaite-Kyguoliene, K.; Alaburda, P.; Pauza, A.G.; Skukauskaite, M.; Masaityte, A.;
+Laucaityte, G.; Saburkina, I.; Inokaitis, H.; Plisiene, J.; et al. Neuroanatomy of the Pig Cardiac Ventricles.
+A Stereomicroscopic, Confocal and Electron Microscope Study. Anat. Rec. Adv. Integr. Anat. Evol. Biol. 2017,
+300, 1756–1780. [CrossRef] [PubMed]
+Fawcett, D.W.; Selby, C.C. Observations on the Fine Structure of the Turtle Atrium. J. Cell Biol. 1958, 4, 63–72.
+[CrossRef] [PubMed]
+
+65.
+
+66. Price, Z.; Eide, B.; Printzmetal, M.; Carpenter, C. Ultrastructure of the Dog Cardiac Muscle Cell. Circ. Res.
+
+1959, 7, 858–865. [CrossRef]
+
+67. Choate, J.K.; Klemm, M.; Hirst, G. Sympathetic and parasympathetic neuromuscular junctions in the
+
+guinea-pig sino-atrial node. J. Auton. Nerv. Syst. 1993, 44, 1–15. [CrossRef]
+
+68. Di Bona, A.; Vita, V.; Costantini, I.; Zaglia, T. Towards a clearer view of sympathetic innervation of cardiac
+
+and skeletal muscles. Prog. Biophys. Mol. Biol. 2020, 154, 80–93. [CrossRef]
+
+69. Kimura, K.; Ieda, M.; Fukuda, K. Development, maturation, and transdiﬀerentiation of cardiac sympathetic
+
+70.
+
+71.
+
+nerves. Circ. Res. 2012, 110, 325–336. [CrossRef]
+Franzoso, M.; Zaglia, T.; Mongillo, M. Putting together the clues of the everlasting neuro-cardiac liaison.
+Biochim. Biophys. Acta 2016, 1863, 1904–1915. [CrossRef]
+Saburkina, I.; Rysevaite, K.; Pauziene, N.; Mischke, K.; Schauerte, P.; Jalife, J.; Pauza, D.H. Epicardial neural
+ganglionated plexus of ovine heart: Anatomic basis for experimental cardiac electrophysiology and nerve
+protective cardiac surgery. Heart Rhythm. 2010, 7, 942–950. [CrossRef]
+
+72. Batulevicius, D.; Skripka, V.; Pauziene, N.; Pauza, D.H. Topography of the porcine epicardiac nerve plexus as
+
+revealed by histochemistry for acetylcholinesterase. Auton. Neurosci. 2008, 138, 64–75. [CrossRef]
+
+73. Batulevicius, D.; Pauziene, N.; Pauza, D.H. Topographic morphology and age-related analysis of the neuronal
+
+number of the rat intracardiac nerve plexus. Ann. Anat. 2003, 185, 449–459. [CrossRef]
+
+74. Rysevaite, K.; Saburkina, I.; Pauziene, N.; Noujaim, S.F.; Jalife, J.; Pauza, D.H. Morphologic pattern of the
+
+75.
+
+intrinsic ganglionated nerve plexus in mouse heart. Heart Rhythm. 2011, 8, 448–454. [CrossRef]
+Stoyek, M.R.; Quinn, T.A.; Croll, R.P.; Smith, F.M. Zebraﬁsh heart as a model to study the integrative
+autonomic control of pacemaker function. Am. J. Physiol. 2016, 311, H676–H688. [CrossRef] [PubMed]
+76. Poon, K.-L.; Liebling, M.; Kondrychyn, I.; Brand, T.; Korzh, V. Development of the cardiac conduction system
+
+in zebraﬁsh. Gene Expr. Patterns 2016, 21, 89–96. [CrossRef] [PubMed]
+
+77. Macdonald, E.A.; Stoyek, M.R.; Rose, R.A.; Quinn, T.A. Intrinsic regulation of sinoatrial node function and
+the zebraﬁsh as a model of stretch eﬀects on pacemaking. Prog. Biophys. Mol. Biol. 2017, 130, 198–211.
+[CrossRef]
+Stoyek, M.R.; Croll, R.P.; Smith, F.M. Intrinsic and extrinsic innervation of the heart in zebraﬁsh (Danio rerio).
+J. Comp. Neurol. 2015, 523, 1683–1700. [CrossRef]
+
+78.
+
+79. Poon, K.L.; Brand, T. The zebraﬁsh model system in cardiovascular research: A tiny ﬁsh with mighty
+
+prospects. Glob. Cardiol. Sci. Pr. 2013, 2013, 9–28. [CrossRef]
+
+80. Howe, K.; Clark, M.D.; Torroja, C.F.; Torrance, J.; Berthelot, C.; Muﬀato, M.; Collins, J.E.; Humphray, S.;
+McLaren, K.; Matthews, L.; et al. The zebraﬁsh reference genome sequence and its relationship to the human
+genome. Nature 2013, 496, 498–503. [CrossRef]
+
+81. Achanta, S.; Gorky, J.; Leung, C.; Moss, A.; Robbins, S.; Eisenman, L.; Chen, J.; Tappan, S.; Heal, M.;
+Farahani, N.; et al. A Comprehensive Integrated Anatomical and Molecular Atlas of Rat Intrinsic Cardiac
+Nervous System. iScience 2020, 23, 101140. [CrossRef]
+
+82. Kuder, T.; Nowak, E. Autonomic cardiac nerves: Literature review. Folia Morphol. 2015, 74, 1–8. [CrossRef]
+83. Pauza, D.H.; Pauziene, N.; Pakeltyte, G.; Stropus, R. Comparative quantitative study of the intrinsic cardiac
+ganglia and neurons in the rat, guinea pig, dog and human as revealed by histochemical staining for
+acetylcholinesterase. Ann. Anat. 2002, 184, 125–136. [CrossRef]
+
+84. Horackova, M.; Armour, J.A.; Byczko, Z. Distribution of intrinsic cardiac neurons in whole-mount guinea pig
+atria identiﬁed by multiple neurochemical coding. Cell Tissue Res. 1999, 297, 409–421. [CrossRef] [PubMed]
+85. Edwards, F.R.; Hirst, G.D.; Klemm, M.F.; Steele, P.A. Diﬀerent types of ganglion cell in the cardiac plexus of
+
+guinea-pigs. J. Physiol. 1995, 486, 453–471. [CrossRef] [PubMed]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+27 of 33
+
+86. Klemm, M.F.; Wallace, D.J.; Hirst, G. Distribution of synaptic boutons around identiﬁed neurones lying in
+
+87.
+
+the cardiac plexus of the guinea-pig. J. Auton. Nerv. Syst. 1997, 66, 201–207. [CrossRef]
+Selyanko, A. Membrane properties and ﬁring characteristics of rat cardiac neurones in vitro. J. Auton.
+Nerv. Syst. 1992, 39, 181–189. [CrossRef]
+
+88. Dyavanapalli, J.; Rimmer, K.; Harper, A.A. The action of high K+ and aglycaemia on the electrical properties
+and synaptic transmission in rat intracardiac ganglion neurones in vitro. Exp. Physiol. 2008, 94, 201–212.
+[CrossRef] [PubMed]
+
+89. McAllen, R.M.; Salo, L.M.; Paton, J.F.R.; Pickering, A.E. Processing of central and reﬂex vagal drives by rat
+
+cardiac ganglion neurones: An intracellular analysis. J. Physiol. 2011, 589, 5801–5818. [CrossRef]
+
+90. Rimmer, K.; Harper, A.A. Developmental Changes in Electrophysiological Properties and Synaptic
+Transmission in Rat Intracardiac Ganglion Neurons. J. Neurophysiol. 2006, 95, 3543–3552. [CrossRef]
+Jaenig, W. Transmission of impulses in the parasympathetic cardiomotor pathway to the sino-atrial node.
+J. Physiol. 2011, 589, 5911–5913. [CrossRef]
+
+91.
+
+92. Klemm, M.; Hirst, G.; Campbell, G. Structure of autonomic neuromuscular junctions in the sinus venosus of
+
+the toad. J. Auton. Nerv. Syst. 1992, 39, 139–150. [CrossRef]
+
+93. Hoard, J.L.; Hoover, D.B.; Wondergem, R. Phenotypic properties of adult mouse intrinsic cardiac neurons
+
+maintained in culture. Am. J. Physiol. 2007, 293, C1875–C1883. [CrossRef] [PubMed]
+
+94. Rysevaite, K.; Saburkina, I.; Pauziene, N.; Vaitkevicius, R.; Noujaim, S.F.;
+
+Jalife, J.; Pauza, D.H.
+Immunohistochemical characterization of the intrinsic cardiac neural plexus in whole-mount mouse
+heart preparations. Heart Rhythm. 2011, 8, 731–738. [CrossRef] [PubMed]
+
+95. Richardson, R.J.; Grkovic, I.; Anderson, C.R. Immunohistochemical analysis of intracardiac ganglia of the rat
+
+heart. Cell Tissue Res. 2003, 314, 337–350. [CrossRef] [PubMed]
+
+96. Coote, J. Myths and realities of the cardiac vagus. J. Physiol. 2013, 591, 4073–4085. [CrossRef]
+97. Pauziene, N.; Alaburda, P.; Rysevaite-Kyguoliene, K.; Pauza, A.G.; Inokaitis, H.; Masaityte, A.; Rudokaite, G.;
+Saburkina, I.; Plisiene, J.; Pauza, D.H. Innervation of the rabbit cardiac ventricles. J. Anat. 2015, 228, 26–46.
+[CrossRef] [PubMed]
+
+98. Horackova, M.; Slavikova, J.; Byczko, Z. Postnatal development of the rat intrinsic cardiac nervous system:
+A confocal laser scanning microscopy study in whole-mount atria. Tissue Cell 2000, 32, 377–388. [CrossRef]
+99. Hoover, D.B.; Isaacs, E.; Jacques, F.; Hoard, J.; Pagé, P.; Armour, J. Localization of multiple neurotransmitters
+in surgically derived specimens of human atrial ganglia. Neuroscience 2009, 164, 1170–1179. [CrossRef]
+[PubMed]
+
+100. Zarzoso, M.; Rysevaite, K.; Milstein, M.L.; Calvo, C.J.; Kean, A.C.; Atienza, F.; Pauza, D.H.; Jalife, J.;
+Noujaim, S.F. Nerves projecting from the intrinsic cardiac ganglia of the pulmonary veins modulate sinoatrial
+node pacemaker function. Cardiovasc. Res. 2013, 99, 566–575. [CrossRef]
+
+101. Paterson, D.J. Nitric oxide and the autonomic regulation of cardiac excitability. Exp. Physiol. 2001, 86, 1–12.
+
+[CrossRef] [PubMed]
+
+102. Steele, P.A.; Gibbins, I.L.; Morris, J.L. Projections of intrinsic cardiac neurons to diﬀerent targets in the
+
+guinea-pig heart. J. Auton. Nerv. Syst. 1996, 56, 191–200. [CrossRef]
+
+103. Parsons, R.L.; Locknar, S.A.; Young, B.A.; Hoard, J.L.; Hoover, D.B. Presence and co-localization of vasoactive
+intestinal polypeptide with neuronal nitric oxide synthase in cells and nerve ﬁbers within guinea pig intrinsic
+cardiac ganglia and cardiac tissue. Cell Tissue Res. 2005, 323, 197–209. [CrossRef] [PubMed]
+
+104. Herring, N.; Lokale, M.N.; Danson, E.J.; Heaton, D.A.; Paterson, D.J. Neuropeptide Y reduces acetylcholine
+release and vagal bradycardia via a Y2 receptor-mediated, protein kinase C-dependent pathway. J. Mol.
+Cell. Cardiol. 2008, 44, 477–485. [CrossRef]
+
+105. Fuzik, J.; Zeisel, A.; Máté, Z.; Calvigioni, D.; Yanagawa, Y.; Szabó, G.; Linnarsson, S.; Harkany, T. Integration
+of electrophysiological recordings with single-cell RNA-seq data identiﬁes neuronal subtypes. Nat. Biotechnol.
+2016, 34, 175–183. [CrossRef] [PubMed]
+
+106. Ripplinger, C.M.; Noujaim, S.F.; Linz, D. The nervous heart. Prog. Biophys. Mol. Biol. 2016, 120, 199–209.
+
+[CrossRef]
+
+107. Yuan, B.-X.; Ardell, J.L.; Hopkins, D.A.; Armour, J.A. Diﬀerential cardiac responses induced by nicotine
+
+sensitive canine atrial and ventricular neurones. Cardiovasc. Res. 1993, 27, 760–769. [CrossRef] [PubMed]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+28 of 33
+
+108. Allen, E.; Coote, J.H.; Grubb, B.D.; Batten, T.F.; Pauza, D.H.; Ng, G.A.; Brack, K.E. Electrophysiological eﬀects
+of nicotinic and electrical stimulation of intrinsic cardiac ganglia in the absence of extrinsic autonomic nerves
+in the rabbit heart. Heart Rhythm. 2018, 15, 1698–1707. [CrossRef] [PubMed]
+
+109. Xu, Z.J.; Adams, D.J. Alpha-adrenergic modulation of ionic currents in cultured parasympathetic neurons
+
+from rat intracardiac ganglia. J. Neurophysiol. 1993, 69, 1060–1070. [CrossRef]
+
+110. Fedorov, V.V.; Hucker, W.J.; Dobrzynski, H.; Rosenshtraukh, L.V.; Eﬁmov, I.R. Postganglionic nerve stimulation
+induces temporal inhibition of excitability in rabbit sinoatrial node. Am. J. Physiol. 2006, 291, H612–H623.
+[CrossRef]
+
+111. Glukhov, A.V.; Fedorov, V.V.; Anderson, M.E.; Mohler, P.J.; Eﬁmov, I.R. Functional anatomy of the murine
+sinus node: High-resolution optical mapping of ankyrin-B heterozygous mice. Am. J. Physiol. 2010, 299,
+H482–H491. [CrossRef]
+
+112. Shibata, N.; Inada, S.; Mitsui, K.; Honjo, H.; Yamamoto, M.; Niwa, R.; Boyett, M.; Kodama, I. Pacemaker
+shift in the rabbit sinoatrial node in response to vagal nerve stimulation. Exp. Physiol. 2001, 86, 177–184.
+[CrossRef]
+
+113. Sampaio, K.N.; Mauad, H.; Spyer, K.M.; Ford, T.W. Diﬀerential chronotropic and dromotropic responses to
+
+focal stimulation of cardiac vagal ganglia in the rat. Exp. Physiol. 2003, 88, 315–327. [CrossRef] [PubMed]
+
+114. Hucker, W.J.; Nikolski, V.P.; Eﬁmov, I.R. Autonomic control and innervation of the atrioventricular junctional
+
+pacemaker. Heart Rhythm. 2007, 4, 1326–1335. [CrossRef] [PubMed]
+
+115. Mazgalev, T.N.; Garrigue, S.; Mowrey, K.A.; Yamanouchi, Y.; Tchou, P.J. Autonomic modiﬁcation of the
+
+atrioventricular node during atrial ﬁbrillation. Circulation 1999, 99, 2806–2814. [CrossRef]
+
+116. Fedorov, V.V.; Ambrosi, C.M.; Kostecki, G.; Hucker, W.J.; Glukhov, A.V.; Wuskell, J.P.; Loew, L.M.; Moazami, N.;
+Eﬁmov, I.R. Anatomic localization and autonomic modulation of atrioventricular junctional rhythm in failing
+human hearts. Circ. Arrhythm. Electrophysiol. 2011, 4, 515–525. [CrossRef] [PubMed]
+
+117. Beaumont, E.; Salavatian, S.; Southerland, E.M.; Vinet, A.; Jacquemet, V.; Armour, J.A.; Ardell, J.L. Network
+interactions within the canine intrinsic cardiac nervous system: Implications for reﬂex control of regional
+cardiac function. J. Physiol. 2013, 591, 4515–4533. [CrossRef]
+
+118. Gibbons, D.D.; Southerland, E.M.; Hoover, N.B.; Beaumont, E.; Armour, J.A.; Ardell, J.L. Neuromodulation
+targets intrinsic cardiac neurons to attenuate neuronally mediated atrial arrhythmias. Am. J. Physiol. 2012,
+302, R357–R364. [CrossRef]
+
+119. Ng, G.A.; Brack, K.E.; Coote, J.H. Eﬀects of direct sympathetic and vagus nerve stimulation on the physiology
+of the whole heart—A novel model of isolated Langendorﬀ perfused rabbit heart with intact dual autonomic
+innervation. Exp. Physiol. 2001, 86, 319–329. [CrossRef]
+
+120. Winter, J.; Tanko, A.S.; Brack, K.E.; Coote, J.H.; Ng, G.A. Diﬀerential cardiac responses to unilateral
+sympathetic nerve stimulation in the isolated innervated rabbit heart. Auton. Neurosci. 2012, 166, 4–14.
+[CrossRef]
+
+121. Brack, K.E. The heart’s ‘little brain’ controlling cardiac function in the rabbit. Exp. Physiol. 2014, 100, 348–353.
+
+[CrossRef]
+
+122. Hou, Y.; Scherlag, B.J.; Lin, J.; Zhang, Y.; Lu, Z.; Truong, K.; Patterson, E.; Lazzara, R.; Jackman, W.M.; Po, S.S.
+Ganglionated plexi modulate extrinsic cardiac autonomic nerve input. J. Am. Coll. Cardiol. 2007, 50, 61–68.
+[CrossRef]
+
+123. Gray, A.L.; Johnson, T.A.; Ardell, J.L.; Massari, V.J. Parasympathetic control of the heart.
+
+II. A novel
+interganglionic intrinsic cardiac circuit mediates neural control of heart rate. J. Appl. Physiol. 2004, 96,
+2273–2278. [CrossRef] [PubMed]
+
+124. Gatti, P.J.; Johnson, T.A.; Phan, P.; Jordan, I.; Coleman, W.; Massari, V.; Iii, I.J. The physiological and anatomical
+demonstration of functionally selective parasympathetic ganglia located in discrete fat pads on the feline
+myocardium. J. Auton. Nerv. Syst. 1995, 51, 255–259. [CrossRef]
+
+125. Dickerson, L.W.; Rodak, D.J.; Fleming, T.J.; Gatti, P.J.; Massari, V.J.; McKenzie, J.C.; Gillis, R.A. Parasympathetic
+neurons in the cranial medial ventricular fat pad on the dog heart selectively decrease ventricular contractility.
+J. Auton. Nerv. Syst. 1998, 70, 129–141. [CrossRef]
+
+126. Shen, M.J.; Zipes, D.P. Role of the autonomic nervous system in modulating cardiac arrhythmias. Circ. Res.
+
+2014, 114, 1004–1021. [CrossRef]
+
+127. Levy, M.N. Brief reviews: Sympathetic-parasympathetic interactions in the heart. Circ. Res. 1971, 29, 437–445.
+
+[CrossRef] [PubMed]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+29 of 33
+
+128. Kubista, H.; Boehm, S. Molecular mechanisms underlying the modulation of exocytotic noradrenaline release
+
+via presynaptic receptors. Pharmacol. Ther. 2006, 112, 213–242. [CrossRef]
+
+129. Sasaki, S.; Daitoku, K.; Iwasa, A.; Motomura, S. NO is involved in MCh-induced accentuated antagonism
+via type II PDE in the canine blood-perfused SA node. Am. J. Physiol. 2000, 279, H2509–H2518. [CrossRef]
+[PubMed]
+
+130. Rajendran, P.S.; Challis, R.C.; Fowlkes, C.C.; Hanna, P.; Tompkins, J.D.; Jordan, M.C.; Hiyari, S.;
+Gabris-Weber, B.A.; Greenbaum, A.; Chan, K.Y.; et al.
+Identiﬁcation of peripheral neural circuits that
+regulate heart rate using optogenetic and viral vector strategies. Nat. Commun. 2019, 10, 1–13. [CrossRef]
+[PubMed]
+
+131. Hou, Y.; Scherlag, B.J.; Lin, J.; Zhou, J.; Song, J.; Zhang, Y.; Patterson, E.; Lazzara, R.; Jackman, W.M.; Po, S.S.
+Interactive atrial neural network: Determining the connections between ganglionated plexi. Heart Rhythm.
+2007, 4, 56–63. [CrossRef] [PubMed]
+
+132. Randall, D.C.; Brown, D.R.; McGuirt, A.S.; Thompson, G.W.; Armour, J.A.; Ardell, J.L. Interactions within the
+intrinsic cardiac nervous system contribute to chronotropic regulation. Am. J. Physiol. 2003, 285, R1066–R1075.
+[CrossRef]
+
+133. Ardell, J.L.; Butler, C.K.; Smith, F.M.; Hopkins, D.A.; Armour, J.A. Activity of in vivo atrial and ventricular
+neurons in chronically decentralized canine hearts. Am. J. Physiol. 1991, 260, H713–H721. [CrossRef]
+[PubMed]
+
+134. Hirst, G.; Choate, J.; Cousins, H.; Edwards, F.; Klemm, M. Transmission by post-ganglionic axons of the
+autonomic nervous system: The importance of the specialized neuroeﬀector junction. Neurosci. 1996, 73,
+7–23. [CrossRef]
+
+135. Burnstock, G. Autonomic Neurotransmission: 60 Years since Sir Henry Dale. Annu. Rev. Pharmacol. Toxicol.
+
+2009, 49, 1–30. [CrossRef] [PubMed]
+
+136. Burnstock, G. Non-synaptic transmission at autonomic neuroeﬀector junctions. Neurochem. Int. 2008, 52,
+
+14–25. [CrossRef]
+
+137. Zaglia, T.; Mongillo, M. Cardiac sympathetic innervation, from a diﬀerent point of (re)view. J. Physiol. 2017,
+
+595, 3919–3930. [CrossRef]
+
+138. Kikuchi, S. The structure and innervation of the sinu-atrial node of the mole heart. Cell Tissue Res. 1976, 172,
+
+345–356. [CrossRef]
+
+139. Thaemert, J.C. Atrioventricular node innervation in ultrastructural three dimensions. Am. J. Anat. 1970, 128,
+
+239–263. [CrossRef]
+
+140. Finlay, M.C.; Harmer, S.C.; Tinker, A. The control of cardiac ventricular excitability by autonomic pathways.
+
+Pharmacol. Ther. 2017, 174, 97–111. [CrossRef]
+
+141. Schobesberger, S.; Wright, P.T.; Poulet, C.; Mardones, J.L.S.A.; Mansﬁeld, C.; Friebe, A.; Harding, S.E.;
+Balligand, J.-L.; Nikolaev, V.O.; Gorelik, J. β3-Adrenoceptor redistribution impairs NO/cGMP/PDE2 signalling
+in failing cardiomyocytes. eLife 2020, 9. [CrossRef]
+
+142. Nikolaev, V.O.; Moshkov, A.; Lyon, A.R.; Miragoli, M.; Novak, P.; Paur, H.; Lohse, M.J.; Korchev, Y.E.;
+Harding, S.E.; Gorelik, J. Beta2-adrenergic receptor redistribution in heart failure changes cAMP
+compartmentation. Science 2010, 327, 1653–1657. [CrossRef]
+
+143. Furshpan, E.J.; MacLeish, P.R.; O’Lague, P.H.; Potter, D.D. Chemical transmission between rat sympathetic
+neurons and cardiac myocytes developing in microcultures: Evidence for cholinergic, adrenergic, and
+dual-function neurons. Proc. Natl. Acad. Sci. USA 1976, 73, 4225–4229. [CrossRef] [PubMed]
+
+144. Yang, B.; Slonimsky, J.D.; Birren, S.J. A rapid switch in sympathetic neurotransmitter release properties
+
+mediated by the p75 receptor. Nat. Neurosci. 2002, 5, 539–545. [CrossRef] [PubMed]
+
+145. Shcherbakova, O.G.; Hurt, C.M.; Xiang, Y.; Dell’Acqua, M.L.; Zhang, Q.; Tsien, R.W.; Kobilka, B.K.
+Organization of β-adrenoceptor signaling compartments by sympathetic innervation of cardiac myocytes.
+J. Cell Biol. 2007, 176, 521–533. [CrossRef] [PubMed]
+
+146. Prando, V.; Da Broi, F.; Franzoso, M.; Plazzo, A.P.; Pianca, N.; Francolini, M.; Basso, C.; Kay, M.W.; Zaglia, T.;
+Mongillo, M. Dynamics of neuroeﬀector coupling at cardiac sympathetic synapses. J. Physiol. 2018, 596,
+2055–2075. [CrossRef]
+
+147. Shcherbakova, O.G. Localization of Ankyrin G, Nav and KCNQ1 channels to neuro-cardiac junctions.
+
+BioRxiv 2019. [CrossRef]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+30 of 33
+
+148. Choate, J.K.; Edwards, F.R.; Hirst, G.D.; O’Shea, J.E. Eﬀects of sympathetic nerve stimulation on the sino-atrial
+
+node of the guinea-pig. J. Physiol. 1993, 471, 707–727. [CrossRef]
+
+149. Bramich, N.J.; Brock, J.A.; Edwards, F.R.; Hirst, G.D. Responses to sympathetic nerve stimulation of the sinus
+
+venosus of the toad. J. Physiol. 1993, 461, 403–430. [CrossRef]
+
+150. Gonon, F.; Msghina, M.; Stjärne, L. Kinetics of noradrenaline released by sympathetic nerves. Neuroscience
+
+1993, 56, 535–538. [CrossRef]
+
+151. Schroeder, C.;
+
+Jordan, J. Norepinephrine transporter function and human cardiovascular disease.
+
+Am. J. Physiol. 2012, 303, H1273–H1282. [CrossRef]
+
+152. Abadie, C.; Foucart, S.; Pagé, P.; Nadeau, R. Modulation of noradrenaline release from isolated human atrial
+
+appendages. J. Auton. Nerv. Syst. 1996, 61, 269–276. [CrossRef]
+
+153. Rump, L.C.; Riera-Knorrenschild, G.; Schwertfeger, E.; Bohmann, C.; Spillner, G.; Schollmeyer, P.
+Dopaminergic and α-adrenergic control of neurotransmission in human right atrium. J. Cardiovasc. Pharmacol.
+1995, 26, 462–470. [CrossRef]
+
+154. Bardsley, E.N.; Paterson, D.J. Neurocardiac regulation: From cardiac mechanisms to novel therapeutic
+
+approaches. J. Physiol. 2020, 598, 2957–2976. [CrossRef] [PubMed]
+
+155. Surdo, N.C.; Berrera, M.; Koschinski, A.; Brescia, M.; Machado, M.R.; Carr, C.; Wright, P.; Gorelik, J.;
+Morotti, S.; Grandi, E.; et al. FRET biosensor uncovers cAMP nano-domains at β-adrenergic targets that
+dictate precise tuning of cardiac contractility. Nat. Commun. 2017, 8, 15031. [CrossRef] [PubMed]
+
+156. Matsuda, J.J.; Lee, H.; Shibata, E.F. Enhancement of rabbit cardiac sodium channels by beta-adrenergic
+
+stimulation. Circ. Res. 1992, 70, 199–207. [CrossRef] [PubMed]
+
+157. Lloyd, T.R. Sympathetic innervation improves the contractile performance of neonatal cardiac ventricular
+
+myocytes in culture. J. Mol. Cell. Cardiol. 1990, 22, 333–342. [CrossRef]
+
+158. Zaika, O.; Zhang, J.; Shapiro, M.S. Functional role of M-type (KCNQ) K+ channels in adrenergic control of
+cardiomyocyte contraction rate by sympathetic neurons. J. Physiol. 2011, 589, 2559–2568. [CrossRef]
+159. Winbo, A.; Ramanan, S.; Eugster, E.; Jovinge, S.; Skinner, J.R.; Montgomery, J.M. Functional coculture of
+sympathetic neurons and cardiomyocytes derived from human induced pluripotent stem cells. Am. J. Physiol.
+2020, 319, H927–H937. [CrossRef]
+
+160. Takayama, Y.; Kushige, H.; Akagi, Y.; Suzuki, Y.; Kumagai, Y.; Kida, Y.S. Selective induction of human
+
+autonomic neurons enables precise control of cardiomyocyte beating. Sci. Rep. 2020, 10, 1–13. [CrossRef]
+
+161. Zaglia, T.; Milan, G.; Franzoso, M.; Bertaggia, E.; Pianca, N.; Piasentini, E.; Voltarelli, V.A.; Chiavegato, D.;
+Brum, P.C.; Glass, D.J.; et al. Cardiac sympathetic neurons provide trophic signal to the heart via
+β2-adrenoceptor-dependent regulation of proteolysis. Cardiovasc. Res. 2013, 97, 240–250. [CrossRef]
+162. Atkins, D.L.; Rosenthal, J.K.; Krumm, P.A.; Marvin, W.J. Application of stereological analysis of cell volume
+to isolated myocytes in culture with and without adrenergic innervation. Anat. Rec. 1991, 231, 209–217.
+[CrossRef]
+
+163. Kreipke, R.E.; Birren, S.J. Innervating sympathetic neurons regulate heart size and the timing of cardiomyocyte
+
+cell cycle withdrawal. J. Physiol. 2015, 593, 5057–5073. [CrossRef] [PubMed]
+
+164. Pianca, N.; Di Bona, A.; Lazzeri, E.; Costantini, I.; Franzoso, M.; Prando, V.; Armani, A.; Rizzo, S.; Fedrigo, M.;
+Angelini, A.; et al. Cardiac sympathetic innervation network shapes the myocardium by locally controlling
+cardiomyocyte size through the cellular proteolytic machinery. J. Physiol. 2019, 597, 3639–3656. [CrossRef]
+[PubMed]
+
+165. White, I.A.; Gordon, J.; Balkan, W.; Hare, J.M. Sympathetic Reinnervation Is Required for Mammalian Cardiac
+
+Regeneration. Circ. Res. 2015, 117, 990–994. [CrossRef] [PubMed]
+
+166. Atkins, D.L.; Marvin, W.J. Chronotropic responsiveness of developing sinoatrial and ventricular rat myocytes
+to autonomic agonists following adrenergic and cholinergic innervation in vitro. Circ. Res. 1989, 64,
+1051–1062. [CrossRef]
+
+167. Marvin, W.J.; Atkins, D.L.; Chittick, V.L.; Lund, D.D.; Hermsmeyer, K. In vitro adrenergic and cholinergic
+
+innervation of the developing rat myocyte. Circ. Res. 1984, 55, 49–58. [CrossRef]
+
+168. Barnett, J.V.; Taniuchi, M.; Yang, M.B.; Galper, J.B. Co-culture of embryonic chick heart cells and ciliary
+ganglia induces parasympathetic responsiveness in embryonic chick heart cells. Biochem. J. 1993, 292,
+395–399. [CrossRef]
+
+169. Flannery, R.J.; Brusés, J.L. N-cadherin induces partial diﬀerentiation of cholinergic presynaptic terminals in
+heterologous cultures of brainstem neurons and CHO cells. Front. Synaptic Neurosci. 2012, 4, 6. [CrossRef]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+31 of 33
+
+170. Bywater, R.A.; Campbell, G.; Edwards, F.R.; Hirst, G.D.; O’Shea, J.E. The eﬀects of vagal stimulation and
+
+applied acetylcholine on the sinus venosus of the toad. J. Physiol. 1989, 415, 35–56. [CrossRef]
+
+171. Campbell, G.D.; Edwards, F.R.; Hirst, G.D.; O’Shea, J.E. Eﬀects of vagal stimulation and applied acetylcholine
+
+on pacemaker potentials in the guinea-pig heart. J. Physiol. 1989, 415, 57–68. [CrossRef]
+
+172. Hartzell, H.C. Distribution of muscarinic acetylcholine receptors and presynaptic nerve terminals in
+
+amphibian heart. J. Cell Biol. 1980, 86, 6–20. [CrossRef]
+
+173. Choate, J.K.; Feldman, R. Neuronal control of heart rate in isolated mouse atria. Am. J. Physiol. 2003, 285,
+
+H1340–H1346. [CrossRef] [PubMed]
+
+174. Han, S.Y.; Bolter, C.P. The muscarinic-activated potassium channel always participates in vagal slowing of
+
+the guinea-pig sinoatrial pacemaker. Auton. Neurosci. 2011, 164, 96–100. [CrossRef] [PubMed]
+
+175. Mangoni, M.E.; Nargeot, J. Genesis and regulation of the heart automaticity. Physiol. Rev. 2008, 88, 919–982.
+
+[CrossRef]
+
+176. Jaenig, W. Reply to the Letter of Otto Hutter ‘The vagus and the heart: Revisiting an early contribution to a
+
+still on-going dispute’. J. Physiol. 2012, 590, 2537. [CrossRef]
+
+177. Boyett, M.R.; Honjo, H.; Kodama, I. The sinoatrial node, a heterogeneous pacemaker structure. Cardiovasc. Res.
+
+2000, 47, 658–687. [CrossRef]
+
+178. Löﬀelholz, K.; Pappano, A.J. The parasympathetic neuroeﬀector junction of the heart. Pharmacol. Rev. 1985,
+
+37, 1–24.
+
+179. Kodama, I.; Boyett, M.; Suzuki, R.; Honjo, H.; Toyama, J. Regional diﬀerences in the response of the isolated
+
+sino-atrial node of the rabbit to vagal stimulation. J. Physiol. 1996, 495, 785–801. [CrossRef]
+
+180. Manabe, N.; Foldes, F.; Tör˝ocsik, A.; Nagashima, H.; Goldiner, P.; Vizi, E. Presynaptic interaction between
+vagal and sympathetic innervation in the heart: Modulation of acetylcholine and noradrenaline release.
+J. Auton. Nerv. Syst. 1991, 32, 233–242. [CrossRef]
+
+181. Mahmoud, A.I.; O’Meara, C.C.; Gemberling, M.; Zhao, L.; Bryant, D.M.; Zheng, R.; Gannon, J.B.; Cai, L.;
+Choi, W.-Y.; Egnaczyk, G.F.; et al. Nerves regulate cardiomyocyte proliferation and heart regeneration.
+Dev. Cell 2015, 34, 387–399. [CrossRef]
+
+182. Burnstock, G. Do some nerve cells release more than one transmitter? Neuroscience 1976, 1, 239–248.
+
+[CrossRef]
+
+183. Herring, N. Autonomic control of the heart: Going beyond the classical neurotransmitters. Exp. Physiol.
+
+2014, 100, 354–358. [CrossRef] [PubMed]
+
+184. Herring, N.; Cranley, J.; Lokale, M.N.; Li, D.; Shanks, J.; Alston, E.N.; Girard, B.M.; Carter, E.; Parsons, R.L.;
+Habecker, B.A.; et al. The cardiac sympathetic co-transmitter galanin reduces acetylcholine release and vagal
+bradycardia: Implications for neural control of cardiac excitability. J. Mol. Cell. Cardiol. 2012, 52, 667–676.
+[CrossRef] [PubMed]
+
+185. Beaulieu, P. Peptidic regulation of heart rate and interactions with the autonomic nervous system.
+
+Cardiovasc. Res. 1998, 37, 578–585. [CrossRef]
+
+186. Macdonald, E.A.; Rose, R.A.; Quinn, T.A. Neurohumoral control of sinoatrial node activity and heart rate:
+Insight from experimental models and ﬁndings from humans. Front. Physiol. 2020, 11, 170. [CrossRef]
+
+187. Burnstock, G. Purinergic signaling in the cardiovascular system. Circ. Res. 2017, 120, 207–228. [CrossRef]
+188. Burnstock, G. Introduction and perspective, historical note. Front. Cell. Neurosci. 2013, 7, 7. [CrossRef]
+189. Shen, J.-B.; Yang, R.; Pappano, A.; Liang, B.T. Cardiac P2X purinergic receptors as a new pathway for
+
+increasing Na+ entry in cardiac myocytes. Am. J. Physiol. 2014, 307, H1469–H1477. [CrossRef]
+
+190. Ralevic, V. P2X receptors in the cardiovascular system. WIREs Membr. Transp. Signal. 2012, 1, 663–674.
+
+[CrossRef]
+
+191. Horackova, M.; Huang, M.H.; Armour, J.A. Purinergic modulation of adult guinea pig cardiomyocytes in
+long term cultures and co-cultures with extracardiac or intrinsic cardiac neurones. Cardiovasc. Res. 1994, 28,
+673–679. [CrossRef]
+
+192. Burnstock, G.; Pelleg, A. Cardiac purinergic signalling in health and disease. Purinergic Signal. 2015, 11, 1–46.
+
+[CrossRef]
+
+193. Henning, R.J. Vasoactive intestinal peptide: Cardiovascular eﬀects. Cardiovasc. Res. 2001, 49, 27–37.
+
+[CrossRef]
+
+194. Schultz, H.D. Nitric oxide regulation of autonomic function in heart failure. Curr. Heart Fail. Rep. 2009, 6,
+
+71–80. [CrossRef] [PubMed]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+32 of 33
+
+195. Herring, N.; Golding, S.; Paterson, D.J. Pre-synaptic NO-cGMP Pathway Modulates Vagal Control of Heart
+Rate in Isolated Adult Guinea Pig Atria. J. Mol. Cell. Cardiol. 2000, 32, 1795–1804. [CrossRef] [PubMed]
+196. Chow, L.T.C.; Chow, S.S.M.; Anderson, R.H.; Gosling, J.A. Autonomic innervation of the human cardiac
+conduction system: Changes from infancy to senility–an immunohistochemical and histochemical analysis.
+Anat. Rec. 2001, 264, 169–182. [CrossRef] [PubMed]
+
+197. Stuart, S.D.F.; Wang, L.; Woodard, W.R.; Ng, G.A.; Habecker, B.A.; Ripplinger, C.M. Age-related changes in
+cardiac electrophysiology and calcium handling in response to sympathetic nerve stimulation. J. Physiol.
+2018, 596, 3977–3991. [CrossRef]
+
+198. Hildreth, V.; Anderson, R.H.; Henderson, D.J. Autonomic innervation of the developing heart: Origins and
+
+function. Clin. Anat. 2009, 22, 36–46. [CrossRef] [PubMed]
+
+199. Scherlag, B.J.; Nakagawa, H.; Jackman, W.M.; Yamanashi, W.S.; Patterson, E.; Po, S.; Lazzara, R. Electrical
+J. Interv.
+
+Stimulation to Identify Neural Elements on the Heart: Their Role in Atrial Fibrillation.
+Card. Electrophysiol. 2005, 13, 37–42. [CrossRef]
+
+200. Herring, N.; Kalla, M.; Paterson, D.J. The autonomic nervous system and cardiac arrhythmias: Current
+
+concepts and emerging therapies. Nat. Rev. Cardiol. 2019, 16, 707–726. [CrossRef]
+
+201. Scornik, F.S.; Desai, M.; Brugada, R.; Guerchicoﬀ, A.; Pollevick, G.D.; Antzelevitch, C.; Pérez, G.J. Functional
+expression of “cardiac-type” Nav1.5 sodium channel in canine intracardiac ganglia. Heart Rhythm. 2006, 3,
+842–850. [CrossRef]
+
+202. Kang, P.S.; Gomes, J.A.; Kelen, G.; El-Sherif, N. Role of autonomic regulatory mechanism in sinoatrial
+
+conduction and sinus node automaticity in sick sinus syndrome. Circulation 1981, 64, 832–838. [CrossRef]
+
+203. Jordan, J.L.; Yamaguchi, I.; Mandel, W.J. Studies on the mechanism of sinus node dysfunction in the sick
+
+sinus syndrome. Circulation 1978, 57, 217–223. [CrossRef] [PubMed]
+
+204. Awad, M.; Czer, L.S.C.; Hou, M.; Golshani, S.S.; Goltche, M.; De Robertis, M.; Kittleson, M.; Patel, J.;
+Azarbal, B.; Kransdorf, E.; et al. Early Denervation and Later Reinnervation of the Heart Following Cardiac
+Transplantation: A Review. J. Am. Heart Assoc. 2016, 5, e004070. [CrossRef] [PubMed]
+
+205. Smith, F.; McGuirt, A.S.; Leger, J.; Armour, J.A.; Ardell, J.L. Eﬀects of chronic cardiac decentralization
+on functional properties of canine intracardiac neurons in vitro. Am. J. Physiol. 2001, 281, R1474–R1482.
+[CrossRef] [PubMed]
+
+206. Close, P.; Hawkes, N.; Cornez, I.; Creppe, C.; Lambert, C.A.; Rogister, B.; Siebenlist, U.; Merville, M.-P.;
+Slaugenhaupt, S.A.; Bours, V.; et al.
+Transcription Impairment and Cell Migration Defects in
+Elongator-Depleted Cells: Implication for Familial Dysautonomia. Mol. Cell 2006, 22, 521–531. [CrossRef]
+[PubMed]
+
+207. Anderson, S.L.; Coli, R.; Daly, I.W.; Kichula, E.A.; Rork, M.J.; Volpi, S.A.; Ekstein, J.; Rubin, B.Y. Familial
+Dysautonomia Is Caused by Mutations of the IKAP Gene. Am. J. Hum. Genet. 2001, 68, 753–758. [CrossRef]
+[PubMed]
+
+208. Egorov, Y.V.; Kuz’Min, V.S.; Glukhov, A.V.; Rosenshtraukh, L.V. Electrophysiological Characteristics, Rhythm,
+Disturbances and Conduction Discontinuities under Autonomic Stimulation in the Rat Pulmonary Vein
+Myocardium. J. Cardiovasc. Electrophysiol. 2015, 26, 1130–1139. [CrossRef]
+
+209. Ashton, J.L.; Burton, R.A.B.; Bub, G.; Smaill, B.H.; Montgomery, J.M. Synaptic Plasticity in Cardiac Innervation
+
+and Its Potential Role in Atrial Fibrillation. Front. Physiol. 2018, 9, 240. [CrossRef]
+
+210. Mesirca, P.; Bidaud, I.; Mangoni, M.E. Rescuing cardiac automaticity in L-type Cav1.3 channelopathies and
+
+beyond. J. Physiol. 2016, 594, 5869–5879. [CrossRef]
+
+211. Kuß, J.; Stallmeyer, B.; Goldstein, M.; Rinné, S.; Pees, C.; Zumhagen, S.; Seebohm, G.; Decher, N.; Pott, L.;
+Kienitz, M.-C.; et al. Familial Sinus Node Disease Caused by a Gain of GIRK (G-Protein Activated Inwardly
+Rectifying K+ Channel) Channel Function. Circ. Genom. Precis. Med. 2019, 12. [CrossRef]
+
+212. Froese, A.; Breher, S.S.; Waldeyer, C.; Schindler, R.F.; Nikolaev, V.O.; Rinné, S.; Wischmeyer, E.; Schlueter, J.;
+Becher, J.; Simrick, S.; et al. Popeye domain containing proteins are essential for stress-mediated modulation
+of cardiac pacemaking in mice. J. Clin. Investig. 2012, 122, 1119–1130. [CrossRef]
+
+213. Rinné, S.; Ortiz-Bonnin, B.; Stallmeyer, B.; Kiper, A.K.; Fortmüller, L.; Schindler, R.F.; Herbort-Brand, U.;
+Kabir, N.S.; Dittmann, S.; Friedrich, C.; et al. POPDC2 a novel susceptibility gene for conduction disorders.
+J. Mol. Cell. Cardiol. 2020, 145, 74–83. [CrossRef] [PubMed]
+
+J. Cardiovasc. Dev. Dis. 2020, 7, 54
+
+33 of 33
+
+214. Schindler, R.F.; Scotton, C.; Zhang, J.; Passarelli, C.; Ortiz-Bonnin, B.; Simrick, S.; Schwerte, T.; Poon, K.-L.;
+Fang, M.; Rinné, S.; et al. POPDC1S201F causes muscular dystrophy and arrhythmia by aﬀecting protein
+traﬃcking. J. Clin. Investig. 2015, 126, 239–253. [CrossRef] [PubMed]
+
+215. Bidaud, I.; Chong, A.C.Y.; Carcouet, A.; De Waard, S.; Charpentier, F.; Ronjat, M.; De Waard, M.; Isbrandt, D.;
+Wickman, K.; Vincent, A.; et al. Inhibition of G protein-gated K+ channels by tertiapin-Q rescues sinus
+node dysfunction and atrioventricular conduction in mouse models of primary bradycardia. Sci. Rep. 2020,
+10, 1–13. [CrossRef] [PubMed]
+
+216. Das, S.; Gordián-Vélez, W.J.; Ledebur, H.C.; Mourkioti, F.; Rompolas, P.; Chen, H.I.; Serruya, M.D.; Cullen, D.K.
+Innervation: The missing link for biofabricated tissues and organs. NPJ Regen. Med. 2020, 5, 1–19. [CrossRef]
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional
+aﬃliations.
+
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

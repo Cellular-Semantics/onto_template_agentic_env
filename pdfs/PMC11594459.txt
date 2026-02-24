@@ -1,0 +1,2119 @@
+Review
+Remodeling of the Intracardiac Ganglia During the Development
+of Cardiovascular Autonomic Dysfunction in Type 2 Diabetes:
+Molecular Mechanisms and Therapeutics
+
+Anthony J. Evans 1
+
+and Yu-Long Li 1,2,*
+
+1 Department of Emergency Medicine, University of Nebraska Medical Center, Omaha, NE 68198, USA;
+
+antevans@unmc.edu
+
+2 Department of Cellular & Integrative Physiology, University of Nebraska Medical Center,
+
+Omaha, NE 68198, USA
+
+* Correspondence: yulongli@unmc.edu; Tel.: +1-402-559-3016; Fax: +1-402-559-9659
+
+Abstract: Type 2 diabetes mellitus (T2DM) is one of the most significant health issues worldwide, with
+associated healthcare costs estimated to surpass USD 1054 billion by 2045. The leading cause of death
+in T2DM patients is the development of cardiovascular disease (CVD). In the early stages of T2DM,
+patients develop cardiovascular autonomic dysfunction due to the withdrawal of cardiac parasym-
+pathetic activity. Diminished cardiac parasympathetic tone can lead to cardiac arrhythmia-related
+sudden cardiac death, which accounts for 50% of CVD-related deaths in T2DM patients. Regulation of
+cardiovascular parasympathetic activity is integrated by neural circuitry at multiple levels including
+afferent, central, and efferent components. Efferent control of cardiac parasympathetic autonomic
+tone is mediated through the activity of preganglionic parasympathetic neurons located in the cardiac
+extensions of the vagus nerve that signals to postganglionic parasympathetic neurons located in the
+intracardiac ganglia (ICG) on the heart. Postganglionic parasympathetic neurons exert local control
+on the heart, independent of higher brain centers, through the release of neurotransmitters, such
+as acetylcholine. Structural and functional alterations in cardiac parasympathetic postganglionic
+neurons contribute to the withdrawal of cardiac parasympathetic tone, resulting in arrhythmogenesis
+and sudden cardiac death. This review provides an overview of the remodeling of parasympathetic
+postganglionic neurons in the ICG, and potential mechanisms contributing to the withdrawal of
+cardiac parasympathetic tone, ventricular arrhythmogenesis, and sudden cardiac death in T2DM. Im-
+proving cardiac parasympathetic tone could be a therapeutic avenue to reduce malignant ventricular
+arrhythmia and sudden cardiac death, increasing both the lifespan and improving quality of life of
+T2DM patients.
+
+Keywords: type 2 diabetes mellitus; intracardiac ganglia; autonomic dysfunction; ventricular
+arrhythmia; sudden cardiac death
+
+1. Introduction
+
+Diabetes is one of the most common diseases worldwide, with type 2 diabetes mellitus
+(T2DM) making up over 90% of all diabetes cases [1–3]. T2DM impacts approximately 1 in
+11 adults and is becoming significantly more prevalent each year [1]. It is estimated that
+T2DM will impact 783 million individuals worldwide by the year 2045 with associated
+healthcare costs to surpass USD 1054 billion [4]. T2DM is characterized by the development
+of reduced insulin sensitivity and subsequent insulin resistance, ultimately leading to poor
+glycemic control and prolonged episodes of severe hyperglycemia [5]. The long-term lack of
+glycemic control leads to systemic problems, with the T2DM patient population developing
+many associated comorbidities including nephropathy [6], retinopathy [7], neuropathy [8],
+and cardiovascular disease [9]. The high incidence, paired with the severe global financial
+burden of diabetes, necessitates further exploration of the pathophysiological mechanisms
+
+Citation: Evans, A.J.; Li, Y.-L.
+
+Remodeling of the Intracardiac
+
+Ganglia During the Development of
+
+Cardiovascular Autonomic
+
+Dysfunction in Type 2 Diabetes:
+
+Molecular Mechanisms and
+
+Therapeutics. Int. J. Mol. Sci. 2024, 25,
+
+12464. https://doi.org/10.3390/
+
+ijms252212464
+
+Academic Editors: Andrea Borghini,
+
+Antonio Rizza and Alessandro
+
+Tonacci
+
+Received: 24 September 2024
+
+Revised: 15 November 2024
+
+Accepted: 16 November 2024
+
+Published: 20 November 2024
+
+Copyright: © 2024 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Int. J. Mol. Sci. 2024, 25, 12464. https://doi.org/10.3390/ijms252212464
+
+https://www.mdpi.com/journal/ijms
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+2 of 28
+
+of T2DM development in the hopes of creating more efficacious and affordable treatments
+for diabetes patients.
+
+In 2021, the International Diabetes Federation reported that approximately 6.7 million
+adults between the ages of 20 and 79 died from diabetes or related complications [10]. The
+leading cause of mortality in T2DM patients is the development of cardiovascular disease
+(CVD) [9,11]. Adults with T2DM develop CVD approximately 14.6 years earlier than those
+unaffected by T2DM, and the risk of CVD increases with elevated levels of fasting blood glu-
+cose [11–14]. Diabetic patients are more likely to experience severe cardiovascular events,
+with T2DM patients having a 53% greater risk of myocardial infarction (MI), 58% greater
+risk of stroke, and 112% greater risk of developing heart failure, as compared to individuals
+unaffected by T2DM [11]. Over 70% of diabetic patients die from a cardiovascular-related
+event, with over 50% of these resulting in sudden cardiac death (SCD) [15–17]. SCD in
+T2DM patients has been linked to MI [18], with half of MI-related SCD being attributed to
+ventricular arrhythmias thought to be brought on by damage caused by previous cardio-
+vascular ischemic events [15,16,19]. Ventricular tachycardia/fibrillation (VT/VF) has been
+reported to result in decreased stroke volume, leading to pulselessness and sudden death
+within one hour of development [20,21]. A recent study of over 600,000 T2DM patients
+showed that individuals with T2DM had an 18% greater risk of developing VT/VF [22], and
+ventricular arrhythmias have been reported to account for one-third of all abnormal heart
+rhythms recorded at the time of cardiac arrest in T2DM patients [13,21]. While glycemic
+control is the gold standard approach for treating diabetes, multiple studies have reported
+that tight glycemic control alone does not significantly reduce cardiovascular event-related
+deaths in T2DM patients [23–25]. The high prevalence of ventricular arrhythmia-related
+SCD in T2DM patients, and the current lack of efficacious treatments to prevent SCD, has
+led to an increased focus on elucidating the mechanisms responsible for ventricular ar-
+rhythmogenesis, which is crucial in the endeavor to develop new therapeutic interventions
+aimed at improving the prognosis and reducing mortality of SCD in T2DM.
+
+Cardiovascular autonomic dysfunction, such as sympathetic nerve overactivation and
+withdrawal of parasympathetic activity, is a common complication of T2DM [26–29]. One
+previous study suggested that the function of the vagal nerve, the primary driver of cardiac
+parasympathetic activity, is severely compromised in T2DM patients [30]. Withdrawal of
+cardiac vagal activity develops in T2DM patients [31–33] and has been associated with the
+development of malignant ventricular arrhythmia and SCD [34–37]. Regulation of cardiac
+vagal activity can be integrated by the regulatory circuitry at multiple levels including
+vagal nerve afferent at baroreceptors, central components, and efferent components (car-
+diac vagal ganglia) [38]. Although structural and functional alterations in every site of
+the circuitry could cause attenuation of cardiac vagal activity, impairment of cardiac vagal
+postganglionic (CVP) parasympathetic neurons located in the intracardiac ganglia (ICG)
+might be an important factor for the withdrawal of cardiac vagal activity in T2DM, because
+(1) cardiac vagal ganglionic neurons provide local neural coordination independent of
+higher brain centers [39–42]; (2) acetylcholine (ACh) release from cardiac vagal neurons
+is blunted in T2DM patients [43]; (3) our previous study found that the cell excitability of
+CVP neurons was reduced due to a lower expression of voltage-gated Ca++ channels in
+T2DM rats [44]. Clinical studies and animal experiments support the notion that structural
+and functional remodeling of ICG neurons contributes to cardiac vagal withdrawal and the
+subsequent development of malignant ventricular arrhythmia in T2DM [45–48], but a com-
+prehensive evaluation of the data has not yet been presented. Therefore, in this review, we
+discuss the T2DM-induced remodeling of ICG, molecular mechanisms contributing to ICG
+remodeling, and the potential role that the remodeling of CVP parasympathetic neurons
+plays in cardiovascular parasympathetic withdrawal, ventricular arrhythmogenesis, and
+SCD in T2DM.
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+3 of 28
+
+2. The Intrinsic Cardiac Nervous System
+2.1. Anatomy of the Cardiac Parasympathetic Nervous System and Intrinsic Cardiac
+Nervous System
+
+The physiological control of hemodynamic parameters such as heart rate, conduction
+velocity, and force of cardiac contraction is the result of a summative response of two com-
+peting divisions of the autonomic nervous system: the parasympathetic and sympathetic
+nervous system [49–51]. The parasympathetic nervous system is composed of pre- and
+postganglionic neurons that transmit signals to cardiac, respiratory, and endocrine organs,
+among others, and regulate a variety of functions [49,52,53]. Parasympathetic innervation
+of the heart begins with the cardiac vagal parasympathetic preganglionic neurons whose
+axons extend from the dorsal vagal motor nucleus (DVMN) and the nucleus ambiguus (NA)
+through the cardiac extension of the left and right vagal trunks and synapses onto efferent
+CVP neurons located in the ICG, found in the epicardial fat pads of the posterior atria,
+atrioventricular, and intraventricular grooves [40,54,55]. These postganglionic cholinergic
+neurons make up a large portion of the intrinsic cardiac nervous system (ICNS) (discussed
+below) that projects throughout the heart [54,56] (Figure 1).
+
+Figure 1. A schematic diagram of the anatomy and physiology of cardiac parasympathetic innervation
+of the heart. GPA: ganglionic parasympathetic axon, GPN: ganglionic parasympathetic neuron, ACh:
+acetylcholine, MCR: muscarinic cholinergic receptor, nAChR: nicotinic acetylcholine receptor. Figure
+was created in BioRender.com.
+
+The ICNS is the final level of neural integration controlling autonomic efferent cardiac
+function. The ICNS is composed of a network of ICG made up of 200–1000 neurons
+each [40,56]. These ICGs are connected to adjacent ganglia via interneurons creating a
+ganglionated plexus (GP). These GPs act as centers of integration and control for the
+heart [57,58]. The size, composition, and anatomical distribution of the GPs located in
+epicardial fat pads varies across species, with larger species (i.e., humans and pigs) having
+more dispersion and higher density of innervation of cells bodies as compared to smaller
+species (i.e., rats and mice) [56,59–62]. Anatomical studies of GPs in rat hearts report
+that GPs are concentrated in three distinct regions of the heart: (1) at the junction of the
+
+Int. J. Mol. Sci. 2024, 25, 12464 3 of 27   2. The Intrinsic Cardiac Nervous System 2.1. Anatomy of the Cardiac Parasympathetic Nervous System and Intrinsic Cardiac Nervous System The physiological control of hemodynamic parameters such as heart rate, conduction velocity, and force of cardiac contraction is the result of a summative response of two competing divisions of the autonomic nervous system: the parasympathetic and sympa-thetic nervous system [49–51]. The parasympathetic nervous system is composed of pre- and postganglionic neurons that transmit signals to cardiac, respiratory, and endocrine organs, among others, and regulate a variety of functions [49,52,53]. Parasympathetic in-nervation of the heart begins with the cardiac vagal parasympathetic preganglionic neu-rons whose axons extend from the dorsal vagal motor nucleus (DVMN) and the nucleus ambiguus (NA) through the cardiac extension of the left and right vagal trunks and syn-apses onto efferent CVP neurons located in the ICG, found in the epicardial fat pads of the posterior atria, atrioventricular, and intraventricular grooves [40,54,55]. These post-ganglionic cholinergic neurons make up a large portion of the intrinsic cardiac nervous system (ICNS) (discussed below) that projects throughout the heart [54,56] (Figure 1).  Figure 1. A schematic diagram of the anatomy and physiology of cardiac parasympathetic innerva-tion of the heart. GPA: ganglionic parasympathetic axon, GPN: ganglionic parasympathetic neuron, ACh: acetylcholine, MCR: muscarinic cholinergic receptor, nAChR: nicotinic acetylcholine receptor. Figure was created in BioRender.com. The ICNS is the final level of neural integration controlling autonomic efferent cardiac function. The ICNS is composed of a network of ICG made up of 200–1000 neurons each [40,56]. These ICGs are connected to adjacent ganglia via interneurons creating a ganglionated plexus (GP). These GPs act as centers of integration and control for the heart [57,58]. The size, composition, and anatomical distribution of the GPs located in epicardial fat pads varies across species, with larger species (i.e., humans and pigs) having more dispersion and higher Int. J. Mol. Sci. 2024, 25, 12464
+
+4 of 28
+
+right superior vena cava and right atrium, close to the junction of the right cardiac vagal
+branch and right atrium, adjacent to the sinoatrial node (SA node); (2) at the junction of
+the pulmonary veins that drain into the right inferior aspect of the left atrium, adjacent
+to the atrioventricular node (AV node); and (3) the left superior sides of the pulmonary
+veins at the border of the left atrium [63,64]. A study of GPs in mice found that all GPs
+were clustered on the dorsal side of the heart adjacent to the pulmonary veins, and varying
+numbers of ganglia were found in each mouse, ranging from 13 to 23 [62]. Human GPs are
+concentrated in seven distinct sub-regions: the left and right coronary, the left and middle
+dorsal, the ventral left and ventral right atrial, and the dorsal right atrial [54,56]. These GPs
+singularly and/or synergistically regulate the activity of key heart structures, such as the
+SA node and AV node, as well as the right and left atria and ventricles [42,57]. For example,
+in humans, the nerves derived from the left coronary, middle dorsal, and the dorsal right
+atrial regions innervate the pulmonary veins [65,66]. Similarly, the GP located in the dorsal
+right atrial region also exhibits control over the SA node [66,67]. In rats, stimulation of
+the ganglia located between the superior vena cava and aorta, adjacent to the SA node,
+induced elongation of the P-P interval, resulting in bradycardia [63]. The regulation of the
+neurochemical signaling through these GPs is what controls the heart rhythm from beat
+to beat.
+
+2.2. Neurophysiology of the Cardiac Parasympathetic Nervous System and Intracardiac Ganglia
+
+Under physiological conditions, the parasympathetic nervous system is responsible
+for regulating homeostatic parameters of many tissues in the body, especially mediating
+the “rest-and-digest” response which keeps the body’s heart rate, metabolic rate, and
+respiratory rate consistent in times in which the body is safe and calm [50,68,69]. Com-
+munication from cardiac efferent preganglionic neurons to CVP neurons located in the
+ICG occurs primarily through the release of ACh from preganglionic neurons which binds
+with nicotinic acetylcholine receptors (nAChR) expressed on the membrane of the CVP
+neurons, but nitric oxide (NO) and vasoactive intestinal peptide (VIP) have also been
+reported [40,70,71]. Postsynaptic nAChR activation in CVP neurons induces cell excita-
+tion through the modulation of activity of neuronal ion channels such as nAChR, Ca++,
+K+, and Na+ voltage-gated channels [46,72–75]. Excited CVP neurons exert their effect
+within the ICG via the release of chemical stimuli, which in turn propagates that signal to
+other local circuit and efferent neurons prompting the appropriate modulation to cardiac
+response, named as the little brain on the heart [76,77]. Recent studies have elucidated
+that the ICG neurons are made up of a heterogeneous cell population of cholinergic and
+adrenergic neurons [59,78,79]. Using double immunostaining, Horackova et al. charac-
+terized intracardiac neurons in guinea pigs, finding that the majority (75–100%) of ICG
+neurons exhibited cholinergic characteristics (choline acetyltransferase; ChAT+), while less
+than 10% of ICG neurons were considered adrenergic (tyrosine hydroxylase; TH+) [80].
+These results were further supported by Tompkins et al., showing that in mice, pigs, and
+humans, there were large populations of postganglionic cholinergic neurons (vesicular
+acetylcholine transporter; VAChT+) in epicardial ganglia, whereas for some neuronal cell
+bodies in all species stained with TH+, only human nerve terminals exhibited any level
+of TH+ staining [59]. There were no ICG neurons stained with neurosubstance P (SP) and
+calcitonin gene-related peptide (CGRP) (two sensory neuronal markers) in mice, pigs, and
+humans [59]. Similarly, in rats, all ICG neurons were stained with ChAT+. While nerve
+fibers within the rat ganglia stained positive for the sympathetic nerve markers TH and
+pituitary adenylate cyclase-activated peptide, neither of these markers were detected in
+ICG neuronal cell bodies [61]. Additionally, sensory neurons were not found in rat ICG [61].
+While these studies support the notion that parasympathetic tone is the primary regulator
+of CVP neuron activity, it is possible that sympathetic and sensory nerve fibers innervate
+the ICG to modulate the function of the postganglionic parasympathetic neurons.
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+5 of 28
+
+ACh released from postganglionic parasympathetic nerve terminals exerts its effect
+through the activation of the muscarinic cholinergic receptors (including M1–M5 subtypes);
+a family of G-protein coupled receptors [81]. The M cholinergic receptors exhibit a tissue
+specific expression, with M2 receptors being the predominant muscarinic cholinergic
+receptors in cardiac tissue. The M1 and M3 receptors have also been reported to be
+expressed in the heart, but to a much lesser extent [82–84]. The M2 cholinergic receptors
+exert chronotropic effects through multiple intracellular signaling pathways. M2 receptor
+activation causes the Gβγ subunits to dissociate from the receptor and in turn directly
+activate acetylcholine-sensitive potassium channels, resulting in changes in the potassium
+current, and ultimately inducing cell hyperpolarization [85]. The M2 receptor activation
+at the SA node and AV node results in hyperpolarization of the nodes, which in turn
+decreases cardiac conduction velocity, reduces atrial contraction force, and ultimately
+induces bradycardia [85–88].
+
+Acetylcholine-activated M2 cholinergic receptors also contribute to heart homeostasis
+more indirectly through their impact on the levels of the second messenger cyclic AMP
+(cAMP). The sympathetic nervous system primarily initiates its excitatory response in
+cardiac tissue through stimulating cAMP production and therefore activating downstream
+cAMP-dependent pathways [49]. Upon ACh stimulation, the Gi subunit of the M2 mus-
+carinic GPCR dissociates from the receptor and directly inhibits adenylyl cyclase, a key
+enzyme responsible for converting ATP into cAMP, ultimately reducing intracellular cAMP
+levels [89,90]. As such, activated M2 receptors act as an antagonizing force against the
+elevation of heart rate brought on by the sympathetic nervous system.
+
+Alteration of the structure and/or function of the CVP parasympathetic neurons with
+their efferent nerves has serious implications on the homeostasis of the heart. Changes in
+the ICNS and associated nerves have been implicated in many cardiac pathophysiological
+conditions, such as atrial fibrillation, ventricular arrhythmia, and MI [91–93]. As such, in
+the following sections of this review, we elucidate the relationship between remodeling
+of the cardiac parasympathetic nervous system and the development of cardiovascular
+autonomic dysregulation in T2DM.
+
+3. Remodeling of CVP Parasympathetic Neurons and Its Role in Cardiac Vagal
+Withdrawal, Malignant Ventricular Arrhythmia, and Sudden Cardiac Death in T2DM
+
+Diabetic cardiac autonomic neuropathy (DCAN) is a common pathophysiology shared
+among T2DM patients, with 15% to 42% of T2DM patients reporting symptoms of cardiac
+autonomic dysregulation [94,95]. Imbalance between the sympathetic and parasympathetic
+inputs to the heart have previously been reported as a driver of ventricular arrhythmogenic-
+ity [35,96]. While the role of altered cardiac sympathetic activity in arrhythmia development
+in T2DM patients has been extensively reviewed [29,97,98], the exact mechanism leading
+to T2DM-induced withdrawal of cardiac parasympathetic tone has not yet been fully es-
+tablished. Diminished cardiac vagal parasympathetic activity is one of the first indicators
+of DCAN, often beginning to develop even before diabetes has been diagnosed [99,100].
+As of now, a systematic evaluation of the impact of T2DM-induced CVP parasympathetic
+neuron remodeling in the ICG on the development of malignant ventricular arrhythmia
+and SCD has not yet been performed. Previous studies, including our work, have reported
+structural and functional changes in CVP parasympathetic neurons in T2DM models that
+contribute to ventricular arrhythmogenesis and SCD [45,46,48].
+
+3.1. Cardiac Parasympathetic Withdrawal in T2DM
+
+DCAN can develop as a result of dysregulation of the cardiac sympathetic branch,
+cardiac parasympathetic branch, or simultaneous dysregulation of both branches [101].
+DCAN development is characterized in three stages. Stage 1 is preclinical with patients
+exhibiting decreased baroreflex sensitivity and an abnormal sympathovagal balance. Stage
+2 patients experience cardiac tachycardia at rest. Patients classified as stage 3 develop
+cardiomyopathy with left ventricular dysfunction, orthostatic hypertension, and silent
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+6 of 28
+
+myocardial ischemia [102–104]. One study of 165 patients diagnosed with diabetes mel-
+litus reports that individuals with diabetes exhibit a resting vagal tone that is 40% lower
+than healthy individuals [105]. Withdrawal of cardiac vagal parasympathetic tone has
+been reported to predate cardiac sympathetic dysfunction in T2DM patients, resulting in
+sympathetic overactivation leading to arrhythmogenesis and SCD [106,107].
+
+Cardiac vagal parasympathetic withdrawal in T2DM patients is diagnosed through
+indices, such as elevated resting heart rate (HR), reduced heart rate variability (HRV), and
+a diminished baroreflex response [99–101]. It is believed that T2DM individuals exhibit
+an increased HR due to unopposed sympathetic outflow with cardiac parasympathetic
+withdrawal [99,107]. One of the most common clinical manifestations of parasympathetic
+withdrawal in T2DM patients is a reduction in HRV. Reduced HRV in T2DM patients
+has been associated with age, HbA1c levels, hyperglycemia, serum insulin levels, as well
+as the development of hepatic steatosis [32,33,108]. In a study of forty T2DM patients
+with an average duration of diabetes of 9.5 years, Ramussen et al. found that T2DM
+patients experienced reduced parasympathetic activity, as measured by a reduced deep
+breathing expiratory/inspiratory ratio (E/I ratio), and reduced HRV, while no significant
+changes in sympathetic activity were observed [101]. A meta-analysis of HRV in T2DM
+including 25 case-controlled studies consisting of 1356 T2DM patients revealed T2DM
+patients showed significantly reduced HRV parameters including reduced RR intervals
+and lower high frequency power (one index of cardiac parasympathetic activation in HRV
+analysis) [109]. A similar cross-sectional study of 160 T2DM patients stratified by disease
+duration found that all T2DM patients with disease durations ranging from less than 5 years
+to greater than 10 years exhibited lower HRV, whereas no changes in HRV were observed
+in healthy subjects, or patients diagnosed with prediabetes [110].
+
+The baroreflex is regulated at multiple levels including peripheral afferent nerves
+located at baroreceptors, a central component, and efferent components including sympa-
+thetic and parasympathetic nerves [111]. Alterations in any site of the arterial baroreflex
+arc can contribute to cardiac parasympathetic nervous withdrawal. Previous studies have
+shown that parasympathetic preganglionic neurons found in the NA extensively project
+via the vagus nerve to the ICG, and that baroreflex control is abrogated when domoic
+acid lesions in the NA blocks projections to the ICG [112,113]. Furthermore, pharmaco-
+logical inhibition of DMVN neurons has been shown to lower the ventricular effective
+refractory period, prolong QTc intervals, and trigger ventricular tachycardia [47]. At-
+tenuation in baroreflex sensitivity has been widely associated with T2DM [114–116] and
+linked to arrhythmogenesis and SCD [117,118]. Therefore, elucidating mechanisms driving
+diminished cardiac parasympathetic tone is essential in the effort to prevent ventricular
+arrhythmogenesis and SCD in T2DM patients.
+
+3.2. Structural Remodeling of Intracardiac Ganglia in T2DM
+
+The terminal mediator of cardiac parasympathetic tone is CVP parasympathetic neu-
+rons located in the ICG that exert cardiac control through the release of neurotransmitters,
+such as ACh and NO, which bind to receptors on the surface of cardiomyocytes. While
+alterations in neuron structure have been reported to contribute to the development of
+diabetic neuropathy [119], the data on the structural changes in ICG neurons as T2DM
+develops is limited. In a study of Goto-Kakizaki (GK) rats, a genetic model of T2DM, im-
+munohistochemistry of AChE-stained intact hearts revealed T2DM rats exhibited a reduced
+total number of ICG. The loss of ganglia appeared to be regionally specific as significantly
+fewer ganglia were found at the heart hilum, but no difference was observed in the number
+of ganglia in the dorsal atrial region. In both regions, the total area of each ICG was signifi-
+cantly reduced [48]. Furthermore, examination of neuronal soma revealed each T2DM ICG
+had fewer total numbers of neuronal soma, and each soma size was smaller as compared to
+controls [48]. Similar results were observed in a streptozotocin (STZ)-induced rat diabetes
+model, with 8-week diabetic rats exhibiting reduced numbers of ICG neurons in ganglia
+isolated from the vena cava, aorta, posterior left, and posterior right atrium. Transverse
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+7 of 28
+
+sections of the diabetic heart showed that diabetic ICG neurons exhibited smaller diameters
+consistent with the results of the Batulevicius et al. study [120]. Examination of sections
+of the STZ-diabetic rat posterior heart wall, using electron microscopy, revealed that the
+degeneration of ICG dendrites, axon terminals, and myelinated axons begins during the
+acute phase of diabetes induction (days 3–7), and degeneration became progressively
+worse between 1 and 6 months post-induction [121]. A study of human diabetic cardiac
+ganglionic cells, isolated by autopsy, noted that neurons in cardiac ganglia obtained from
+patients categorized as having severe diabetes exhibited cellular contraction, cytoplasmic
+condensation, widening of inter-neuronal spaces, and poor Nissl staining. No neurolytic
+phenomena was observed in cardiac ganglia neurons isolated from non-diabetic or mildly
+diabetic patients [122]. While these studies in diabetic rodent models and humans seem to
+support the notion that T2DM induces morphological changes in cardiac ganglia neurons,
+further studies examining specific sympathetic and parasympathetic nerve markers in
+ICG could be used to more definitively demarcate the difference in the impact T2DM has
+on structural changes of cardiac sympathetic and parasympathetic innervation. Further
+investigations of the changes in structures and functions of subcellular organelles, such as
+the mitochondria, nucleus, and endoplasmic reticulum, could aid in the understanding of
+the intracellular mechanisms driving T2DM-induced structural ICG remodeling.
+
+3.3. Functional Remodeling of Intracardiac Ganglia Neurons in T2DM
+
+Neuronal function, mediated through the propagation of action potentials, is to relay
+messages throughout the body, over varying distances. Cardiac vagal nerve activity is
+decreased in T2DM, which can be attributed to reduced cardiac parasympathetic postgan-
+glionic nerve activity [45,101], and disruption in CVP parasympathetic neuron activity
+has been linked to ventricular arrhythmogenesis [45,123]. Studies have demonstrated
+that CVP parasympathetic neurons isolated from the ICG of a high-fat diet (HFD) with
+a low dose of STZ-induced T2DM rat hearts exhibit reduced cell excitability and lower
+frequency of action potentials, indicating ICG neuron dysfunction [44–46]. As action poten-
+tials are induced through changes in membrane potential, studies on T2DM ICG neuron
+dysfunction have primarily centered on T2DM-induced changes in ion channel expression
+and function. While various classes of ion channels are involved in the generation and
+propagation of action potentials, voltage-gated Ca++ channels have previously been shown
+to play a role in the rising phase of ICG neuron action potentials [124]. Upon examination
+of Ca++ currents in CVP neurons isolated from rat hearts, Liu et al. reports that T2DM CVP
+neurons exhibit reduced calcium currents, indicating calcium channel dysfunction [44].
+Five subtypes of calcium channels (T, L, N, P/Q, and R) have been characterized in the
+central and peripheral nervous system, and the pharmacological and biophysical properties
+of all calcium channels are determined by the alpha subunit [125]. Expression of three major
+gene families determine the calcium channel subtype: Cav1 family (Cav1.1, Cav1.2, and
+Cav1.3) encoding L-type calcium channels, Cav2 family encodes P/Q (Cav2.1), N (Cav2.2)
+and R (Cav2.3)-type calcium channels, and Cav3 encodes T-type calcium channels [125]. It
+has been previously demonstrated that low-threshold calcium channels (T-type) are not
+expressed in rat ICG [124]. Immunofluorescence staining and RT-qPCR of CVP neurons
+isolated from rat hearts found that the Cav1 and Cav2 gene families are expressed in CVP
+neurons, and T2DM specifically reduces the expression of both the Cav2.2-encoding tran-
+script and protein, resulting in diminished N-type calcium channel function and reduced
+cell excitability [44]. Inhibition of Cav2.2 expression in T2DM rat CVP neurons was induced
+through elevated levels of hydrogen peroxide (H2O2) (a type of reactive oxygen species,
+ROS) [73]. In vivo reestablishment of catalase expression, a H2O2 scavenger, via microinjec-
+tion of an adenovirus carrying the catalase gene sequence into the ICG, decreased H2O2
+levels, and improved CVP neuronal excitability, indicating that ROS is a driver of CVP
+neuronal dysfunction and ventricular arrhythmias in T2DM rats [73].
+
+Ligand-gated nAChR, which have previously been reported to be expressed in CVP
+neurons, play a role in ICG neuronal signaling [126,127]. Cardiac vagal preganglionic
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+8 of 28
+
+neurons extend from the brain (DVMN and NA) and communicate with CVP parasym-
+pathetic neurons in ICG through the release of ACh. nAChR receptors on the surface
+of CVP neurons are activated and subsequently regulate cell excitability [128]. Liu et al.
+demonstrated that CVP neurons from HFD with a low dose of STZ-induced T2DM rats
+exhibit reduced nAChR currents, and T2DM rats exhibited reduced HRV in response to
+vagal nerve stimulation [46]. The exact mechanism driving reduced nAChR currents in
+T2DM rat ICG has not yet been established, as immunofluorescence staining showed no
+difference in the expression of the subunits of nAChR (α3 and β4) that control receptor
+activation [46]. Potassium voltage-gated channels have also been reported to influence
+CVP neuron cell excitability [75], but the impact of T2DM on K+ channel activity in CVP
+neurons has not been established. As T2DM has been shown to promote ATP-sensitive K+
+channel dysfunction in β-islet cells [129], exploring T2DM-induced changes to K+ channel
+function should be further explored.
+
+While the data predominantly support the notion that CVP neuron dysfunction devel-
+ops in T2DM and contributes to the development of malignant ventricular arrhythmia, it
+should be noted that a recent study by Jungen et al. examined CVP neurons in the db/db
+genetic mouse model of T2DM and found that single stimulation of presynaptic input to
+CVP neurons results in a suprathreshold excitatory postsynaptic potential, which induced
+action potentials, indicating no dysfunction in cardiac postganglionic parasympathetic
+signaling [97]. Furthermore, immunofluorescence staining of VAChT, a cholinergic nerve
+marker, in ICG showed no changes in the number of parasympathetic ICG neurons in
+T2DM mice [97]. The conflicting results of this as compared to other studies could be
+attributed to different T2DM models. As db/db mice are diabetic due to homozygous
+inheritance of defective leptin receptor alleles, the molecular pathogenesis that leads to the
+diabetic state (hyperglycemia, hyperlipidemia etc.) may be different than an HFD with
+a low dose of STZ-induced diabetic model, where β-islet cell dysfunction is chemically
+induced. Furthermore, the interspecies variability of cardiac neuroanatomy may play a
+role. The mouse vagus nerve is composed of a single fascicle as compared to the multiple
+fascicles found in humans [130], and the distribution of cardiac GPs in mice, rat, and human
+hearts varies (see Section 2.1). As anatomical remodeling of rat ICG in response to T2DM
+shows regional specificity, with reductions in GP density at the heart hilum but not at
+the dorsal atrial region, while mice GPs are only clustered at the dorsal side of the heart
+adjacent to the pulmonary veins, it is possible that mice CVP neurons may be more resistant
+to structural and functional remodeling to preserve cardiac autonomic function, as they
+lack compensatory GPs located in other heart regions [48,62].
+
+3.4. Changes in M2 Muscarinic Receptors in T2DM Rat Hearts
+
+One potential consequence of reduced ICG excitation is the attenuated release of ACh
+from CVP parasympathetic nerve terminals. Reduced activation of ACh-sensitive M2
+muscarinic receptors on cardiomyocytes can also cause dysregulated intracardiac signaling,
+resulting in cardiac arrhythmogenesis [87,131,132]. We have recently identified attenuated
+ACh release from CVP nerve terminals in T2DM rat hearts [133]. One previous study
+also found that the atria of human patients with late-stage diabetic complications exhibit
+reduced ACh levels [43]. While it is also possible that dysfunction in M2 receptor signaling
+could contribute to T2DM-induced cardiac dysfunction, a previous study reported that
+T2DM rat hearts exhibited no significant difference in M2 receptor expression as compared
+to healthy controls [134]. Furthermore, our data from isolated Langendorff-perfused
+hearts demonstrated that there is no significant difference on the sensitivity of the heart
+to exogenous ACh treatment in sham and T2DM rats, which indicates that changes of
+the heart (including M2 receptors) might not be involved in the impairment of cardiac
+vagal activation in T2DM [46]. While T2DM-induced changes in intracellular signaling
+pathways in cardiomyocytes is outside of the scope of this review, it should be noted
+that T2DM-induced changes in the structure or function of the myocardium can also be a
+contributor to ventricular arrhythmia development [98,135].
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+9 of 28
+
+4. Cellular and Molecular Mechanisms Contributing to T2DM-Induced Cardiovascular
+Parasympathetic Withdrawal and Ventricular Arrhythmogenesis
+4.1. Insulin Resistance, Glucose Toxicity, and Oxidative Stress
+
+Insulin resistance is a common pathophysiology in T2DM patients, which has been
+associated with the development of cardiac autonomic dysfunction [136]. Insulin resistance
+occurs when cells experience diminished sensitivity to insulin, resulting in prolonged
+episodes of hyperglycemia [137,138]. While glucose uptake is an essential component for
+maintaining neuronal homeostasis, the prolonged exposure to elevated glucose levels in-
+duces glucotoxicity [139–141]. Glucotoxicity alters neuronal structure and function through
+multiple mechanisms, including an increase in the activity of the polyol/sorbitol path-
+way [142–144] and the production of advanced glycation end products (AGE) [145–147],
+which contribute to the accumulation of ROS and induce inflammation [148–151].
+
+The polyol/sorbitol pathway has been extensively studied as a link between hyper-
+glycemia and neuropathy in T2DM patients [144,152,153]. In physiological conditions,
+glucose is converted to glucose-6-phosphate and subsequently shuttled into glycolysis.
+When glucose levels are in excess, glucose is reduced to sorbitol, and NADPH is concur-
+rently oxidized to NADP+ through the activity of aldolase reductase [142,154]. Sorbitol
+is then subsequently oxidized to fructose and contributes to the production of AGE (see
+below) [155]. Elevation of sorbitol levels has been associated with increased intracellular
+osmotic stress [156]. Furthermore, when aldolase reductase uses NADPH as a cofactor in
+the conversion of glucose to sorbitol, the intracellular NADPH pool becomes depleted. A
+reduced NADPH pool results in the decreased levels of reduced glutathione (GSH) [157],
+an essential substrate for glutathione peroxidase. Glutathione peroxidase converts H2O2
+to water while concurrently oxidizing glutathione. Diminished glutathione peroxidase
+activity results in increased intracellular levels of ROS (such as H2O2) [142,154,157]. Many
+tissues in diabetic patients have been reported to experience excessive oxidative stress
+including the retina, kidney, as well as neurons in the central and peripheral nervous
+system [158–161]. Whyte et al. showed that increased levels of ROS in CVP neurons altered
+potassium and calcium currents to reduce neuron cell excitability [143]. The role of ROS in
+neuronal dysfunction was further supported by some previous studies that demonstrated
+that diabetic rats treated with an aldolase reductase inhibitor showed normal glutathione
+peroxidase activity, and that reducing oxidative stress attenuated diabetic nerve conduction
+deficiency and blood flow issues [162–164]. Campanucci et al. reported that ROS depress
+autonomic ganglion synaptic transmission through oxidizing the α3 subunit of nAChR,
+which contributes to the increased risk of fatal arrhythmia development [165]. Our studies
+have shown that CVP neurons isolated from HFD-low-dose STZ-induced T2DM rats exhibit
+elevated levels of H2O2, lower expression of the H2O2 scavenger catalase, and reduced cell
+excitability [44,73]. Furthermore, diminished CVP neuronal excitability has been associated
+with the development of MI-evoked ventricular arrhythmia [45]. Scavenging of H2O2
+via overexpression of exogenous catalase in T2DM rat ICG decreased H2O2 levels and
+improved CVP neuronal excitability [73]. Decreased CVP neuron excitability has been
+linked to H2O2-induced inhibition of Cav2.2 expression, resulting in diminished calcium
+currents in CVP neurons [44]. A recent study in NG108-15 cholinergic cells found that H2O2
+induced expression of the repressor element 1-silencing transcription factor (REST) and
+reduced Cav2.2 expression [166]. Furthermore, in vivo shRNA-mediated inhibition of REST
+expression in CVP neurons in T2DM rat hearts resulted in increased Cav2.2 expression and
+improved cardiac vagal function [166].
+
+Prolonged exposure to elevated glucose levels in diabetic patients can result in the
+spontaneous, non-enzymatic glycation of both intracellular and extracellular proteins [167].
+During the glycation reaction, the carbonyl group of a reducing sugar, such as glucose,
+reacts with free amino groups on the side chains of amino acids, such as lysine, to form an
+unstable Schiff base. Through a subsequent series of molecular rearrangements, the Schiff
+base is converted to create a stable glycated protein identified as an advanced glycation
+end product (AGE) [145]. The pathological development of the AGE has been associated
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+10 of 28
+
+with multiple diabetes-associated pathophysiologies, such as atherosclerosis, as well as
+both diabetic peripheral and autonomic neuropathies [167–169]. Recent studies have re-
+ported that AGE accumulation in skin biopsies of T2DM patients occurs prior to and is
+correlated with the subsequent development of cardiac parasympathetic and sympathetic
+dysfunction [170,171]. Furthermore, inhibition of AGE formation via administration of
+aminoguanidine has been shown to attenuate atrial and ventricular tachyarrhythmic sus-
+ceptibility in Langendorff perfused type 1 diabetic rat hearts [146]. AGE accumulation may
+impact neuronal function through both the alteration of the extracellular matrix structure,
+and induction of intracellular signaling pathways [147,172,173]. Glycation of extracellular
+matrix proteins, laminin, and collagen type IV have been shown to inhibit axonal regen-
+eration in in vitro studies of dorsal root ganglion (DRG) neurons (sensory neurons) [147].
+Furthermore, in STZ-induced diabetic mice, DRG neurons exhibited an attenuated ability
+to bind extracellular matrix proteins [174]. This could be attributed to glycation-induced
+structural changes in ECM binding proteins, such as integrins, which result in a dimin-
+ished ability to crosslink to the ECM [175,176]. Similarly, Luo et al. reported that DRG
+neurons from STZ-induced diabetic mice grown on glycated ECM substrates presented
+changes in neuronal morphology, low neurite production, and a decreased survival rate
+of neurons [177]. Another possible explanation for AGE-induced changes in neuronal
+morphology and function is aberrant cross-talk between neurons and their associated glial
+cells. Several studies have shown that increased AGE levels induce apoptosis in Schwann
+cells, leading to demyelination in associated peripheral nerves [178,179]. Furthermore,
+glycation of neurofilament and tubulin may interfere with axonal transport and contribute
+to nerve fiber degeneration [180,181].
+
+The AGE accumulation can also impact neuronal function through the activation of
+transmembrane bound receptors to advanced glycation end products (RAGEs). Binding of
+the AGE to transmembrane bound RAGE has been implicated in the activation of multiple
+signaling pathways, including Janus kinase, MAPK, and rho-GTPase [172,173,182,183]. A
+significant consequence of activated RAGE signaling is the enhanced production of ROS.
+A study of cultured primary DRG neurons reported that activation of RAGE resulted in
+increased phosphatidylinositol-3 kinase activity, and the latter facilitated elevated ROS
+production, caspase-3 activation, and increased degradation of nuclear DNA [151]. Similar
+inductions of ROS accumulation and caspase-3 activation were observed in cultured SH-
+SY5Y neuroblastoma cells treated with high glucose [150]. RAGE activation has also been
+shown to increase NADPH oxidase activity, resulting in excessive ROS production [184,185].
+Elevations in ROS levels produced via either the polyol or AGE pathways have implications
+on cardiac autonomic dysfunction as increased oxidative stress has been associated with
+diminished cardiac parasympathetic activity in T2DM patients [104,186,187]. While the
+direct impact of the AGE on CVP neurons in the ICG have not yet been explored, as com-
+munication between CVP neurons and cardiomyocytes is essential for proper cardiac vagal
+signaling [54], and ROS have been shown to impact CVP neuronal cell excitability [44,45],
+the impact of the AGE-induced changes in cardiac postganglionic parasympathetic nerve
+terminals should most certainly be defined.
+
+4.2. Lipotoxicity and Leptin Resistance
+
+As CVP neurons are embedded in epicardial adipose tissue (EAT) [76], the cross-talk
+between adipose and neurons in the ICG may play a role in CVP neuronal dysfunction and
+ventricular arrhythmogenesis in T2DM. Individuals with T2DM exhibit a higher density
+of EAT, which has been linked to the development and progression of CVD [188–191].
+Increased EAT thickness has also been associated with an increased risk of developing
+ventricular tachycardia [192,193]. Physiologically, EAT functions in lipid storage and energy
+homeostasis. It also has the ability to synthesize and release free fatty acids (FFAs) [194].
+Under pathological conditions, such as T2DM, EAT-secreted adipokines can induce in-
+flammatory cascades (discussed below), and EAT-released excessive FFAs can induce
+lipotoxicity, when adipokines/FFAs are taken up by neurons [195–198]. Increased plasma
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+11 of 28
+
+levels of lipid metabolites have been linked with diminished HRV in recently diagnosed
+T2DM patients, indicating that increases in circulating lipids may contribute to cardiac
+autonomic dysfunction [199]. Lipotoxicity occurs when cells take up excess levels of fatty
+acids, which can result in increased levels of lipid peroxidation and induce mitochon-
+drial damage [200–202]. Compromised mitochondrial function further results in increased
+oxidative stress and potential apoptosis [203–205]. A recent study has shown that HFD-
+induced mouse obesity increases intracellular lipid accumulation in the sciatic nerve, and
+subsequently induces peripheral neuropathy [206]. Furthermore, peripheral neuropa-
+thy in prediabetic Zucker fatty rats has been attributed to FFA-induced oxidative and
+nitrosative stress [207,208]. While no direct evidence has yet been presented for the role
+of lipotoxicity in the development of CVP neuronal dysfunction, it is certainly possible
+that lipotoxicity-induced ROS elevation plays a pathogenic role in the T2DM-induced
+cardiovascular parasympathetic withdrawal and ventricular arrhythmogenesis.
+
+Besides its role in FFA regulation, the EAT plays an endocrine role through the regula-
+tion and release of adipokines such as leptin, TNF-α, IL-6, and adiponectin [209]. The EAT
+are metabolically active tissues that, under the physiological condition, exert cardioprotec-
+tive effects through regulating expression of pro-inflammatory cytokines, stimulating nitric
+oxide production, and reducing oxidative stress [210,211]. Greater levels of cardiac fat
+deposits initiate pro-inflammatory signaling, and elevated serum levels of the adipokines
+leptin, TNF-α, and omentin correlate with changes in HRV in T2DM patients [211–214].
+The adipokine leptin exerts both pro- and anti-inflammatory effects depending on the
+tissues being acted on [215–217]. Leptin resistance is a common pathology that develops
+in T2DM patients, defined as patients exhibiting a reduced sensitivity to leptin [218]. One
+study noted that genetically leptin-resistant db/db mice, a common T2DM model, exhib-
+ited reduced HRV and baroreflex sensitivity, indicating reduced cardiac vagal tone [219].
+While the exact mechanism by which leptin resistance induces cardiac vagal withdrawal in
+T2DM are not yet known, it may be through ROS over-production, as it has been reported
+that leptin resistance is associated with elevated ROS accumulation in adipocytes and the
+hypothalamus of T2DM mice [220,221].
+
+4.3. Inflammation
+
+The development of cardiovascular autonomic dysfunction in T2DM is multifacto-
+rial, with multiple T2DM-associated pathophysiologies, such as insulin resistance, leptin
+resistance, lipotoxicity, and excess EAT production, all potentially contributing to the rise
+in intracellular ROS and initiating inflammation (Figure 2) [114,222–224]. In a study of
+newly diagnosed diabetic patients, decreased HRV was associated with increased circu-
+lating levels of pro-inflammatory markers C-reactive protein (CRP) and IL-6 [148]. This
+was further supported by Herder et al. who identified that, along with CRP and IL-6,
+reduced cardiac vagal tone in T2DM patients was associated with elevated circulation of
+IL-18, soluble intercellular adhesion molecule-1, and soluble E selectin 1 [225]. A primary
+source of inflammatory cytokines that affect the heart is the EAT [197]. Recruitment of
+macrophages in hypertrophied adipose tissue, such as the EAT, release ROS in response
+to elevated cytokine levels [226–228]. Oxidative stress has been reported to activate the
+NFκB pathway, which drives the production and secretion of pro-inflammatory cytokines,
+such as IL-6 and TNF-α in the adipose tissues [149,229]. TNF-α-related inflammation
+leads to nerve injury, demyelination, and reduces nerve electrical conduction in diabetic
+peripheral neuropathies [230]. Diabetes-induced elevation of pro-inflammatory proteins
+may result from changes in microRNA (miRNA) expression, as changes in the expres-
+sion of miRNAs such as miR-146a, miR-190a-5p, and miR-184-5p have been associated
+with the development of peripheral diabetic neuropathies [231]. Similarly, inhibition of
+miRNA miR-145-5p results in reduced levels of pro-inflammatory cytokines TNF-α and
+IL-6 in cultured high-glucose-treated retinal ganglionic cells [232]. While the impact for
+T2DM-induced changes on miRNA expression in CVP neurons has not yet been explored,
+defining the role of miRNA regulation of cytokine expression in the ICG is warranted.
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+12 of 28
+
+Furthermore, the efferent outflow of the vagus nerve exerts an inhibitory effect on cytokine
+release from immune cells [233,234], which supports the amplification of inflammatory
+signals in response to cardiovascular parasympathetic withdrawal. Taken together, these
+studies provide a strong topic that ROS and cytokine over-production could result in
+progressive cardiac parasympathetic withdrawal in T2DM, though this issue has yet to be
+definitively determined.
+
+Figure 2. Cellular and Molecular Mechanisms Driving Cardiac Vagal Postganglionic Parasympathetic
+Neuronal Dysfunction in T2DM. AGE: Advanced glycation end product, ROS: reactive oxygen
+species, CVP: cardiac vagal postganglionic. Figure was created in BioRender.com.
+
+4.4. Vitamin Deficiencies
+
+Several studies have explored the association of vitamin deficiencies and the devel-
+opment of cardiac autonomic dysfunction in T2DM patients. Studies of T2DM patients
+with 25-hydroxyvitamin D insufficiency reported that patients exhibited reduced cardiac
+parasympathetic nerve function as measured by the R-R variation during deep breathing
+and reduced HRV [235,236]. Vitamin D deficiency may be a driver for cardiac autonomic
+dysfunction, as rats with deprivation of vitamin D present diminished high frequency
+power, a reduction in the release of cardiac ACh, and a reduction in cardiac potassium
+channel expression [237]. Similarly, a study of 469 T2DM patients found that reduced serum
+levels of vitamin B12 were associated with a lower E/I ratio, a measure of parasympathetic
+activity [238]. Although molecular mechanisms defining the role of vitamin deficiencies in
+T2DM-induced cardiac autonomic dysfunction have not been established, vitamins may
+attenuate cardiac vagal dysfunction through ROS scavenging.
+
+Int. J. Mol. Sci. 2024, 25, 12464 12 of 27   IL-6 in cultured high-glucose-treated retinal ganglionic cells [232]. While the impact for T2DM-induced changes on miRNA expression in CVP neurons has not yet been explored, defining the role of miRNA regulation of cytokine expression in the ICG is warranted. Furthermore, the efferent outflow of the vagus nerve exerts an inhibitory effect on cyto-kine release from immune cells [233,234], which supports the amplification of inflamma-tory signals in response to cardiovascular parasympathetic withdrawal. Taken together, these studies provide a strong topic that ROS and cytokine over-production could result in progressive cardiac parasympathetic withdrawal in T2DM, though this issue has yet to be definitively determined.  Figure 2. Cellular and Molecular Mechanisms Driving Cardiac Vagal Postganglionic Parasympa-thetic Neuronal Dysfunction in T2DM. AGE: Advanced glycation end product, ROS: reactive oxy-gen species, CVP: cardiac vagal postganglionic. Figure was created in BioRender.com. 4.4. Vitamin Deficiencies Several studies have explored the association of vitamin deficiencies and the devel-opment of cardiac autonomic dysfunction in T2DM patients. Studies of T2DM patients with 25-hydroxyvitamin D insufficiency reported that patients exhibited reduced cardiac parasympathetic nerve function as measured by the R-R variation during deep breathing and reduced HRV [235,236]. Vitamin D deficiency may be a driver for cardiac autonomic dysfunction, as rats with deprivation of vitamin D present diminished high frequency power, a reduction in the release of cardiac ACh, and a reduction in cardiac potassium channel expression [237]. Similarly, a study of 469 T2DM patients found that reduced se-rum levels of vitamin B12 were associated with a lower E/I ratio, a measure of parasym-pathetic activity [238]. Although molecular mechanisms defining the role of vitamin defi-ciencies in T2DM-induced cardiac autonomic dysfunction have not been established, vit-amins may attenuate cardiac vagal dysfunction through ROS scavenging. Int. J. Mol. Sci. 2024, 25, 12464
+
+13 of 28
+
+5. Potential Therapeutic Modalities to Treat Parasympathetic Withdrawal and
+Ventricular Arrhythmogenesis in T2DM Patients
+5.1. Glycemic Control
+
+The gold standard treatment for T2DM patients is the control of blood glucose levels
+to prevent hyperglycemia and subsequent oxidative stress and inflammation development.
+It has been well established that poor glycemic control is a driver for cardiovascular auto-
+nomic dysfunction [186,239–241]. While glycemic control has been shown to be beneficial
+in treating many diabetes-associated pathophysiologies, the impact of glycemic control on
+treating cardiovascular autonomic dysfunction in T2DM patients has generally been shown
+to provide no improvement to autonomic dysfunction [25,242]. According to the Action
+to Control Cardiovascular Risk in Diabetes (ACCORD) trial, T2DM patients exhibiting
+autonomic dysfunction had similar mortality rates when both standard and intensive
+treatments for glycemic control were followed [25]. Similarly, a study of a cohort of T2DM
+patients assigned to high-intensity interval training found improvements in HbA1c levels,
+but limited impact on HRV, indicating that despite improvement of blood glucose regula-
+tion, autonomic dysfunction was not improved [243]. A study of 30 T2DM patients with
+known cardiovascular diseases identified that T2DM patients treated with insulin and/or
+sufonylurea experienced high incidences of hypoglycemia, and were more susceptible
+to ventricular arrhythmogenesis [244]. Similar results were reported in a meta-analysis
+of 60 studies, in which hypoglycemic T2DM patients were found to have significantly
+higher risks of arrhythmic occurrence and CVD-induced death [245]. We do note that
+one recent study of 39 T2DM patients by Achmad et al. identified a moderately positive
+correlation between glycemic control and cardiac autonomic dysfunction, indicating that
+glycemic control may provide a slight benefit to T2DM patients experiencing cardiovascular
+autonomic dysfunction, though follow up studies with larger sample sizes are needed to
+definitely ascertain this conclusion [246]. The ambiguous role that glycemic control plays,
+as a treatment for cardiac autonomic dysfunction, may be due to delayed intervention. It
+has been reported that cardiac autonomic dysfunction begins early in the progression of
+T2DM, sometimes prior to T2DM diagnosis [100,110], and studies on glycemic control are
+usually performed on patients with established T2DM. Further studies on glycemic control
+in prediabetic or early stage T2DM populations may provide more insight into the potential
+benefits of early intervention on reversing cardiac autonomic dysfunction.
+
+5.2. Pharmacological Intervention
+
+There are two strategies for the treatment of autonomic dysfunction in T2DM patients.
+One is prevention of the development of dysfunction, and another is the improvement of
+autonomic parameters after dysfunction has developed. As the molecular mechanisms
+driving cardiac parasympathetic withdrawal in T2DM are diverse (Figure 2), the pharmaco-
+logical therapies targeted towards improvement of cardiovascular autonomic function are
+varied (Table 1). One of the most common medications given to T2DM patients to control
+blood glucose levels is metformin. Ostropolets et al. recently reported that compared to
+T2DM patients treated with sulfonylurea, patients treated with metformin experienced
+a reduced risk for the development of ventricular arrhythmia, atrial arrhythmia, and
+bradycardia [247]. Similar observations were made in population-based cohort studies,
+in which T2DM patients in both Hong Kong and the UK treated with sulfonylurea had
+a significantly higher risk of ventricular arrhythmia and SCD than patients managed by
+metformin [248,249]. The exact molecular mechanism responsible for the potential ther-
+apeutic effect of metformin on cardiovascular autonomic function in T2DM has not yet
+been determined, but growing evidence suggests that it may be multifactorial, because
+metformin exerts both antioxidant [222,250] and anti-inflammatory actions [251,252].
+
+Dipeptidyl peptidase-4 (DPP-4) inhibitors have recently gained attention as a potential
+therapeutic for treating T2DM. DPP-4 inhibitors have traditionally been used as a treatment
+for diabetes through the inhibition of the enzyme DPP-4, which breaks down incretins, a
+hormone that suppresses glucagon levels and promotes insulin production, thus regulating
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+14 of 28
+
+blood glucose levels [98]. In a recent open-label pilot study, 20 T2DM patients treated
+with the DPP-4 inhibitor, Teneligliptin, exhibited improvement of cardiac parasympathetic
+autonomic function, as measured by the heart rate responding to standing and the heart
+rate responding to Valsalva maneuver. In the same study, improvements in parameters for
+diabetic peripheral neuropathy were also observed [253]. Considering that DPP-4 inhibitors
+have also been shown to have adverse cardiovascular side effects such as sympathetic over-
+activation, and the induction of heart failure [254,255], further studies must be performed
+to clarify whether long-term treatment with DPP-4 inhibitors in T2DM patients is a viable
+therapeutic avenue.
+
+Glucagon-like peptide-1 (GLP-1) receptor agonists have also been implicated as a
+potential pharmacological therapeutic treatment for T2DM-induced autonomic dysfunc-
+tion, though its efficacy has recently been debated. Physiologically, GLP-1 regulates
+glucagon/insulin signaling pathways as an incretin hormone [256]. GLP-1 receptor ago-
+nists have been shown to impact the heart indirectly through modulation of cardiac neural
+circuitry [257,258]. Recently, a study of 27 newly diagnosed T2DM patients reported that
+treatment with the GLP-1 receptor agonist liraglutide increased heart rate and reduced
+HRV indicating reduced parasympathetic activity [259]. Alternatively, several studies
+have reported that GLP-1 receptor agonists have no impact on altering sympathovagal
+tone [260,261]. A recent meta-analysis studying GLP-1 receptor agonist and arrhythmo-
+genicity in T2DM patients revealed that there was no significant association between the
+risk of major arrhythmias and GLP-1 receptor agonist treatment [262]. While GLP-1 re-
+ceptor agonists exert positive effects on glycemic control in T2DM patients, they have not
+yet been shown to have any therapeutic potential for treating cardiac parasympathetic
+withdrawal and ventricular arrhythmogenesis.
+
+Sodium-glucose cotransporter 2 (SGLT2) inhibitors have also been presented as a
+potential therapeutic for the treatment of cardiovascular autonomic dysfunction and pre-
+vention of cardiac arrhythmogenesis. SGLT2 inhibitors aid in glycemic control through
+inhibition of cellular glucose uptake independent of insulin action [263]. A recent study of
+42 T2DM patients treated with the SGLT2 inhibitor dapagliflozin reported that dapagliflozin
+improved HRV and reduced the frequency of premature ventricular contractions, as com-
+pared to T2DM patients treated with other oral antidiabetics (non-SGLT2 inhibitor) [264].
+Similarly, Fujiki et al. recently reported that the SGLT2 inhibitor empagliflozin reduced the
+number of ventricular arrhythmias in T2DM patients with an implantable cardioverter-
+defibrillator [265]. Alternatively, a meta-analysis of 247 T2DM patients from three in-
+dependent trials reported that SGLT2 inhibitor treatment did not show any benefit for
+diabetes-induced cardiovascular autonomic dysfunction [266]. As such, the impact of
+SGLT2 inhibitors as a treatment for T2DM induced cardiac autonomic dysfunction has not
+yet been definitively determined.
+
+Angiotensin-converting enzyme (ACE) inhibitors have been shown to have some
+therapeutic potential to treat cardiovascular autonomic dysfunction in T2DM patients. A
+recent study of a cohort of 18 diabetic patients treated with the ACE inhibitor Ramipril
+demonstrated improvement in parasympathetic tone as determined by the measurement
+of E/I ratio during a deep breathing test [267]. Similar improvements in cardiovascular
+parasympathetic tone were found when T2DM patients were treated with the ACE inhibitor
+quinapril for two years [268]. Alternatively, Malik et al found that one-year treatment with
+the ACE inhibitor trandolapril had no benefit to cardiovascular autonomic function [269].
+While the studies presented here indicate ACE inhibition may improve T2DM-induced
+cardiovascular autonomic dysfunction, further clinical studies with larger sample sizes are
+necessary to definitively assess the therapeutic potential of ACE inhibitors.
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+15 of 28
+
+Table 1. Summary of Pharmaceutical Therapies Targeting Cardiovascular Autonomic Dysfunction in T2DM.
+
+Pharmaceutical Class
+
+Metformin
+
+DPP-4 inhibitors
+
+GLP-1 receptor agonists
+
+SGLT2 inhibitors
+
+ACE inhibitors
+
+Antioxidant therapy
+
+Citation
+
+[247–249]
+
+[253]
+
+[254,255]
+
+[259]
+[260]
+[261]
+
+[262]
+
+[264]
+
+[265]
+[266]
+
+[267]
+
+[268]
+
+[269]
+
+[270]
+[271]
+[272,273]
+
+Treatment
+
+Metformin
+
+Teneligliptin
+
+Meta-analyses including sitagliptin, alogliptin, saxaglipitin,
+vidaglipitin, and linaglipitin
+
+Liraglutide
+Liraglutide and glimepiride
+Meta-analysis including exenatide and liraglutide
+Meta-analysis including lixisenatide, liraglutide, semaglutide,
+exenatide, albiglutide, dulaglutide, and efpeglenatide
+
+Dapagliflozin
+
+Empagliflozin
+Meta-analysis including dapagliflozin and empagliflozin
+
+Rampiril
+
+Quinapril
+
+Trandoapril
+
+Vitamin C
+Vitamin E
+α-Lipoic acid
+
+Summary of Findings
+
+Decreased incidence of ventricular arrhythmia and SCD
+
+Improved heart rate in response to standing and heart rate in
+response to valsalva maneuver
+
+Induced sympathetic activation and heart failure
+
+Increased heart rate and reduced HRV
+No change in sympathovagal tone
+No change in sympathovagal tone
+
+No impact on arrhythmia development
+
+Improved HRV and reduced frequency of premature
+ventricular contractions
+Reduced occurrence of ventricular arrhythmia
+No changes in cardiovascular autonomic dysfunction
+
+Improved E/I ratio during deep breathing test
+Improved E/I ratio and mean circular resultant during deep
+breathing test
+No changes in cardiovascular autonomic dysfunction
+
+Improved HRV and decreased heart rate
+Increased high power components of HRV
+No change in HRV
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+16 of 28
+
+5.3. Antioxidant Therapy
+
+As ROS accumulation has been identified as a driver for CVP neuron dysfunction
+resulting in the withdrawal of cardiac parasympathetic tone and ventricular arrhythmogen-
+esis, antioxidant-based therapies are an essential therapeutic avenue that must be explored.
+A study by Fabiyi-Ebor et al. reported that treatment of T2DM rats with the antioxidant vita-
+min C inhibited T2DM-induced reduction in HRV, and decreased the heart rate, attenuating
+cardiac parasympathetic dysfunction [270]. Similarly, vitamin E administration improved
+glycated hemoglobin levels, plasma insulin levels, as well as increased the total and high
+frequency power components of HRV in a double-blind study of 50 T2DM patients [271]. It
+should be noted that not all antioxidants have been shown to be equally effective. Studies
+of the antioxidant α-lipoic acid (ALA) found no significant improvement in cardiovascular
+autonomic dysfunction in T2DM patients [272,273] despite one study that found ALA treat-
+ment significantly reduced serum levels of the pro-inflammatory proteins, CRP, IL-6, IL-8,
+and TNF-α [274]. Benefits of specific antioxidants in T2DM patients may be constricted
+by multiple factors such as dosage, metabolic breakdown, and bioavailability. Further
+studies are warranted to investigate specific antioxidants and their molecular mechanisms
+for protection against ROS production and cardiovascular vagal dysfunction in T2DM.
+
+5.4. Vagal Nerve Stimulation
+
+As cardiac vagal withdrawal is the primary driver of ventricular arrhythmogenesis in
+T2DM patients, vagal nerve stimulation (VNS) may have therapeutic potential for T2DM-
+induced cardiovascular autonomic dysfunction. Studies of VNS using implanted electrodes
+in pigs and canines who experienced MI found that cardiac VNS improved cardiac me-
+chanical function and decreased the occurrence of ventricular arrhythmia [34,275,276].
+Furthermore, a study of isolated innervated rabbit hearts reported that VNS corrected long
+QT-associated arrhythmias induced by increased sympathetic tone [277]. The beneficial
+impact of VNS on treating ventricular arrhythmia may be due, in part, to its ability to
+inhibit cytokine production. Rats subjected to 30 min of transient cardiac ischemia and
+VNS exhibited lower levels of inflammatory cytokines such as TNF-α and IL-6. Reductions
+in serum TNF-α and IL-6 were also observed in VNS-treated canines experiencing heart
+failure [278,279]. Similarly, VNS treatment on obese insulin-resistant rats reduced cardiac
+TNF-α levels and oxidative stress [280]. VNS has also been reported to reduce blood glucose
+levels in HFD-low-dose STZ T2DM rats [281], and improve nociceptive hypersensitivity (an
+indicator of diabetic peripheral neuropathy) in Zucker diabetic rats. While the beneficial
+impacts of VNS on cardiac parasympathetic withdrawal in T2DM has yet to be determined,
+the restoration of parasympathetic function remains an attractive therapeutic strategy to be
+explored.
+
+6. Conclusions
+
+In this review, we update information on the remodeling of cardiac postganglionic
+parasympathetic neurons in the ICG during T2DM development and summarized the
+impact of withdrawal of cardiac parasympathetic tone on ventricular arrhythmogenesis
+in T2DM patients. The evidence presented here supports a complex interrelationship
+between oxidative stress and inflammation in the progression of cardiovascular autonomic
+dysregulation in T2DM. No current therapy so far has proven to be definitively efficacious
+in the treatment of established cardiac parasympathetic dysfunction in T2DM patients.
+Future examinations of endogenous signaling pathways leading to oxidative stress and
+inflammation in cardiac postganglionic parasympathetic neurons are essential in the ef-
+fort to develop targeted therapeutic interventions in the hope of preventing ventricular
+arrhythmia and SCD in T2DM patients.
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+17 of 28
+
+Author Contributions: Conceptualization, A.J.E. and Y.-L.L.; resources, Y.-L.L.; writing—original
+draft preparation, A.J.E.; writing—review and editing, A.J.E. and Y.-L.L.; visualization, A.J.E.; super-
+vision, Y.-L.L.; project administration, Y.-L.L.; funding acquisition, Y.-L.L. All authors have read and
+agreed to the published version of the manuscript.
+
+Funding: This study was supported by the National Institute of Health’s National Heart, Lung, and
+Blood Institute, Bethesda, MD, USA (R01HL144146 and R01HL168500 to YLL).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Data Availability Statement: No new data were created or analyzed in this study. Data sharing is
+not applicable to this article.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+Abbreviations
+
+Ach: Acetylcholine; CVD: Cardiovascular disease; CVP: Cardiac vagal postganglionic; ICG:
+Intracardiac ganglia; ROS: Reactive oxygen species; SCD: Sudden cardiac death; T2DM: Type 2
+Diabetes Mellitus; VNS: Vagal nerve stimulation.
+
+References
+
+1.
+
+Zheng, Y.; Ley, S.H.; Hu, F.B. Global aetiology and epidemiology of type 2 diabetes mellitus and its complications. Nat. Rev.
+Endocrinol. 2018, 14, 88–98. [CrossRef] [PubMed]
+
+2. Henning, R.J. Type-2 diabetes mellitus and cardiovascular disease. Future Cardiol. 2018, 14, 491–509. [CrossRef] [PubMed]
+3.
+
+Cannon, A.; Handelsman, Y.; Heile, M.; Shannon, M. Burden of illness in type 2 diabetes mellitus. J. Manag. Care Spec. Pharm.
+2018, 24, S5–S13. [CrossRef]
+
+4. Hossain, M.J.; Al-Mamun, M.; Islam, M.R. Diabetes mellitus, the fastest growing global public health concern: Early detection
+
+5.
+6.
+
+7.
+
+8.
+
+should be focused. Health Sci. Rep. 2024, 7, e2004. [CrossRef] [PubMed]
+Guo, H.; Wu, H.; Li, Z. The pathogenesis of diabetes. Int. J. Mol. Sci. 2023, 24, 6978. [CrossRef]
+Sun, T.; Guo, Y.N.; Su, Y.T.; Shan, S.G.; Qian, W.B.; Zhang, F.X.; Li, M.X.; Zhang, Z.W. Molecular mechanisms of diabetic
+nephropathy: A narrative review. Cell Biol. Int. 2024, 48, 1240–1253. [CrossRef]
+Tang, Q.; Buonfiglio, F.; Böhm, E.W.; Zhang, L.; Pfeiffer, N.; Korb, C.A.; Gericke, A. Diabetic retinopathy: New treatment
+approaches targeting redox and immune mechanisms. Antioxidants 2024, 13, 594. [CrossRef]
+Strand, N.; Anderson, M.A.; Attanti, S.; Gill, B.; Wie, C.; Dawodu, A.; Pagan-Rosado, R.; Harbell, M.W.; Maloney, J.A. Diabetic
+neuropathy: Pathophysiology review. Curr. Pain. Headache Rep. 2024, 28, 481–487. [CrossRef]
+
+9. Wong, N.D.; Sattar, N. Cardiovascular risk in diabetes mellitus: Epidemiology, assessment and prevention. Nat. Rev. Cardiol. 2023,
+
+20, 685–695. [CrossRef]
+International Diabetes Federation. IDF Diabetes Atlas; International Diabetes Federation: Brussels, Belgium, 2021.
+
+10.
+11. Einarson, T.R.; Acs, A.; Ludwig, C.; Panton, U.H. Prevalence of cardiovascular disease in type 2 diabetes: A systematic literature
+
+12.
+
+13.
+
+review of scientific evidence from across the world in 2007–2017. Cardiovasc. Diabetol. 2018, 17, 83. [CrossRef]
+Singh, G.M.; Danaei, G.; Farzadfar, F.; Stevens, G.A. The age-specific quantitative effects of metabolic risk factors on cardiovascular
+diseases and diabetes: A pooled analysis. PLoS ONE 2013, 8, e65174. [CrossRef] [PubMed]
+Jouven, X.; Lemaitre, R.N.; Rea, T.D.; Sotoodehnia, N.; Empana, J.P.; Siscovick, D.S. Diabetes, glucose level, and risk of sudden
+cardiac death. Eur. Heart J. 2005, 26, 2142–2147. [CrossRef] [PubMed]
+
+14. Tian, X.; Chen, S.; Zhang, Y.; Zhang, X.; Xu, Q.; Xia, X.; Wang, P.; Luo, Y.; Wu, S.; Wang, A. Association of cumulative blood
+glucose load with cardiovascular risk and all-cause mortality. Diabetes Metab. Syndr. Clin. Res. Rev. 2023, 17, 102900. [CrossRef]
+[PubMed]
+
+15. Walker, A.M.; Cubbon, R.M. Sudden cardiac death in patients with diabetes mellitus and chronic heart failure. Diabetes Vasc. Dis.
+
+Res. 2015, 12, 228–233. [CrossRef] [PubMed]
+
+16. Mhaimeed, O.; Pillai, K.; Dargham, S.; Al Suwaidi, J.; Jneid, H.; Abi Khalil, C. Type 2 diabetes and in-hospital sudden cardiac
+
+17.
+
+arrest in ST-elevation myocardial infarction in the US. Front. Cardiovasc. Med. 2023, 10, 1175731. [CrossRef]
+Singh, K.B.; Nnadozie, M.C.; Abdal, M.; Shrestha, N.; Abe, R.A.M.; Masroor, A.; Khorochkov, A.; Prieto, J.; Mohammed, L. Type 2
+diabetes and causes of sudden cardiac death: A systematic review. Cureus 2021, 13, e18145. [CrossRef]
+
+18. Vahatalo, J.H.; Huikuri, H.V.; Holmstrom, L.T.A.; Kentta, T.V.; Haukilahti, M.A.E.; Pakanen, L.; Kaikkonen, K.S.; Tikkanen, J.;
+Perkiomaki, J.S.; Myerburg, R.J.; et al. Association of silent myocardial infarction and sudden cardiac death. JAMA Cardiol. 2019,
+4, 796–802. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+18 of 28
+
+19. Watanabe, E.; Tanabe, T.; Osaka, M.; Chishaki, A.; Takase, B.; Niwano, S.; Watanabe, I.; Sugi, K.; Katoh, T.; Takayanagi, K.; et al.
+Sudden cardiac arrest recorded during Holter monitoring: Prevalence, antecedent electrical events, and outcomes. Heart Rhythm.
+2014, 11, 1418–1425. [CrossRef]
+
+20. Deo, R.; Albert, C.M. Epidemiology and genetics of sudden cardiac death. Circulation 2012, 125, 620–637. [CrossRef]
+21. Chakraborty, P.; Nattel, S.; Nanthakumar, K.; Connelly, K.A.; Husain, M.; Po, S.S.; Ha, A.C.T. Sudden cardiac death due to
+
+ventricular arrhythmia in diabetes mellitus: A bench to bedside review. Heart Rhythm. 2024, 21, 1827–1837. [CrossRef]
+
+22. Rawshani, A.; McGuire, D.K.; Omerovic, E.; Sattar, N.; McMurray, J.J.V.; Smith, U.; Redfors, B.; Bergfeldt, L.; Eliasson, B.; Boren, J.;
+et al. Cardiac arrhythmias and conduction abnormalities in patients with type 2 diabetes. Sci. Rep. 2023, 13, 1192. [CrossRef]
+[PubMed]
+Scheen, A.J. Glucose-lowering agents and risk of ventricular arrhythmias and sudden cardiac death: A comprehensive review
+ranging from sulphonylureas to SGLT2 inhibitors. Diabetes Metab. 2022, 48, 101405. [CrossRef] [PubMed]
+
+23.
+
+24. Reaven, P.D.; Emanuele, N.V.; Wiitala, W.L.; Bahn, G.D.; Reda, D.J.; McCarren, M.; Duckworth, W.C.; Hayward, R.A. Intensive
+glucose control in patients with type 2 diabetes—15-year follow-up. N. Engl. J. Med. 2019, 380, 2215–2224. [CrossRef] [PubMed]
+25. Action to Control Cardiovascular Risk in Diabetes Study Group; Gerstein, H.C.; Miller, M.E.; Byington, R.P.; Goff, D.C., Jr.; Bigger,
+J.T.; Buse, J.B.; Cushman, W.C.; Genuth, S.; Ismail-Beigi, F.; et al. Effects of intensive glucose lowering in type 2 diabetes. N. Engl.
+J. Med. 2008, 358, 2545–2559. [PubMed]
+
+26. de Moura-Tonello, S.C.; Porta, A.; Marchi, A.; de Almeida, F.A.; Francisco, C.O.; Rehder-Santos, P.; Milan-Mattos, J.C.; Simoes,
+R.P.; Gois, M.O.; Catai, A.M. Cardiovascular variability analysis and baroreflex estimation in patients with type 2 diabetes in
+absence of any manifest neuropathy. PLoS ONE 2016, 11, e0148903. [CrossRef]
+Shimabukuro, M.; Tanaka, A.; Sata, M.; Dai, K.; Shibata, Y.; Inoue, Y.; Ikenaga, H.; Kishimoto, S.; Ogasawara, K.; Takashima,
+A.; et al. alpha-Glucosidase inhibitor miglitol attenuates glucose fluctuation, heart rate variability and sympathetic activity in
+patients with type 2 diabetes and acute coronary syndrome: A multicenter randomized controlled (MACS) study. Cardiovasc.
+Diabetol. 2017, 16, 86–0571. [CrossRef]
+
+27.
+
+28. Tancredi, M.; Rosengren, A.; Svensson, A.M.; Kosiborod, M.; Pivodic, A.; Gudbjornsdottir, S.; Wedel, H.; Clements, M.; Dahlqvist,
+
+S.; Lind, M. Excess mortality among persons with type 2 diabetes. N. Engl. J. Med. 2015, 373, 1720–1732. [CrossRef]
+
+29. Thaung, H.P.; Baldi, J.C.; Wang, H.Y.; Hughes, G.; Cook, R.F.; Bussey, C.T.; Sheard, P.W.; Bahn, A.; Jones, P.P.; Schwenke, D.O.;
+et al. Increased efferent cardiac sympathetic nerve activity and defective intrinsic heart rate regulation in type 2 diabetes. Diabetes
+2015, 64, 2944–2956. [CrossRef]
+
+30. Ruiz, J.; Monbaron, D.; Parati, G.; Perret, S.; Haesler, E.; Danzeisen, C.; Hayoz, D. Diabetic neuropathy is a more important
+determinant of baroreflex sensitivity than carotid elasticity in type 2 diabetes. Hypertension 2005, 46, 162–167. [CrossRef]
+Sorski, L.; Gidron, Y. The vagal nerve, inflammation, and diabetes-A holy triangle. Cells 2023, 12, 1632. [CrossRef]
+
+31.
+32. Ziegler, D.; Strom, A.; Bonhof, G.; Puttgen, S.; Bodis, K.; Burkart, V.; Mussig, K.; Szendroedi, J.; Markgraf, D.F.; Roden, M.; et al.
+Differential associations of lower cardiac vagal tone with insulin resistance and insulin secretion in recently diagnosed type 1 and
+type 2 diabetes. Metabolism 2018, 79, 1–9. [CrossRef] [PubMed]
+
+33. Liao, D.; Cai, J.; Brancati, F.L.; Folsom, A.; Barnes, R.W.; Tyroler, H.A.; Heiss, G. Association of vagal tone with serum insulin,
+
+glucose, and diabetes mellitus; The ARIC Study. Diabetes Res. Clin. Pract. 1995, 30, 211–221. [CrossRef] [PubMed]
+
+34. Hadaya, J.; Dajani, A.H.; Cha, S.; Hanna, P.; Challita, R.; Hoover, D.B.; Ajijola, O.A.; Shivkumar, K.; Ardell, J.L. Vagal nerve
+stimulation reduces ventricular arrhythmias and mitigates adverse neural cardiac remodeling post-myocardial infarction. JACC
+Basic. Transl. Sci. 2023, 8, 1100–1118. [CrossRef] [PubMed]
+
+35. Kalla, M.; Herring, N.; Paterson, D.J. Cardiac sympatho-vagal balance and ventricular arrhythmia. Auton. Neurosci. 2016, 199,
+
+29–37. [CrossRef] [PubMed]
+
+36. Ng, G.A. Vagal modulation of cardiac ventricular arrhythmia. Exp. Physiol. 2014, 99, 295–299. [CrossRef]
+37. Vaseghi, M.; Shivkumar, K. The role of the autonomic nervous system in sudden cardiac death. Prog. Cardiovasc. Dis. 2008, 50,
+
+404–419. [CrossRef]
+
+38. Thomas, G.D. Neural control of the circulation. Adv. Physiol. Educ. 2011, 35, 28–32. [CrossRef]
+39. Verrier, R.L.; Antzelevitch, C. Autonomic aspects of arrhythmogenesis: The enduring and the new. Curr. Opin. Cardiol. 2004, 19,
+
+2–11. [CrossRef]
+
+40. Duraes Campos, I.; Pinto, V.; Sousa, N.; Pereira, V.H. A brain within the heart: A review on the intracardiac nervous system. J.
+
+Mol. Cell Cardiol. 2018, 119, 1–9. [CrossRef]
+
+41. Dyavanapalli, J. Novel approaches to restore parasympathetic activity to the heart in cardiorespiratory diseases. Am. J. Physiol.
+
+42.
+
+Heart Circ. Physiol. 2020, 319, H1153–H1161. [CrossRef]
+Fedele, L.; Brand, T. The intrinsic cardiac nervous system and its role in cardiac pacemaking and conduction. J. Cardiovasc. Dev.
+Dis. 2020, 7, 54. [CrossRef] [PubMed]
+
+43. Oberhauser, V.; Schwertfeger, E.; Rutz, T.; Beyersdorf, F.; Rump, L.C. Acetylcholine release in human heart atrium. Circulation
+
+2001, 103, 1638–1643. [CrossRef] [PubMed]
+
+44. Liu, J.; Tu, H.; Zheng, H.; Zhang, L.; Tran, T.P.; Muelleman, R.L.; Li, Y.L. Alterations of calcium channels and cell excitability in
+intracardiac ganglion neurons from type 2 diabetic rats. Am. J. Physiol. Cell Physiol. 2012, 302, C1119–C1127. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+19 of 28
+
+45. Hu, W.; Zhang, D.; Tu, H.; Li, Y.L. Reduced cell excitability of cardiac postganglionic parasympathetic neurons correlates
+with myocardial infarction-induced fatal ventricular arrhythmias in type 2 diabetes mellitus. Front. Neurosci. 2021, 15, 721364.
+[CrossRef] [PubMed]
+
+46. Liu, J.; Zhang, D.; Tu, H.; Muelleman, R.L.; Wang, W.Z.; Li, Y.L. Nicotinic acetylcholine receptors and cardiac vagal activity in rats
+
+with type 2 diabetes. Diabetes Metab. 2015, S13, 012.
+
+47. Machhada, A.; Ang, R.; Ackland, G.L.; Ninkina, N.; Buchman, V.L.; Lythgoe, M.F.; Trapp, S.; Tinker, A.; Marina, N.; Gourine, A.V.
+Control of ventricular excitability by neurons of the dorsal motor nucleus of the vagus nerve. Heart Rhythm. 2015, 12, 2285–2293.
+[CrossRef]
+
+48. Batulevicius, D.; Frese, T.; Peschke, E.; Pauza, D.H.; Batuleviciene, V. Remodeling of the intracardiac ganglia in diabetic
+
+Goto-Kakizaki rats: An anatomical study. Cardiovasc. Diabetol. 2013, 12, 85.
+
+49. Gordan, R.; Gwathmey, J.K.; Xie, L.H. Autonomic and endocrine control of cardiovascular function. World J. Cardiol. 2015, 7,
+
+204–214. [CrossRef]
+
+50. Robinson, B.F.; Epstein, S.E.; Beiser, G.D.; Braunwald, E. Control of heart rate by the autonomic nervous system. Circ. Res. 1966,
+
+19, 400–411. [CrossRef]
+
+51. Khan, A.A.; Lip, G.Y.H.; Shantsila, A. Heart rate variability in atrial fibrillation: The balance between sympathetic and parasym-
+
+pathetic nervous system. Eur. J. Clin. Investig. 2019, 49, e13174. [CrossRef]
+
+52. Gorky, J.; Schwaber, J. Conceptualization of a parasympathetic endocrine system. Front. Neurosci. 2019, 13, 1008. [CrossRef]
+
+53.
+
+[PubMed]
+Fisher, J.P.; Zera, T.; Paton, J.F.R. Chapter 10—Respiratory–cardiovascular interactions. In Handbook of Clinical Neurology; Chen, R.,
+Guyenet, P.G., Eds.; Elsevier: Amsterdam, The Netherlands, 2022; pp. 279–308.
+
+54. Giannino, G.; Braia, V.; Griffith Brookles, C.; Giacobbe, F.; D’Ascenzo, F.; Angelini, F.; Saglietto, A.; De Ferrari, G.M.; Dusi, V. The
+intrinsic cardiac nervous system: From pathophysiology to therapeutic implications. Biology 2024, 13, 105. [CrossRef] [PubMed]
+55. Kawashima, T. The autonomic nervous system of the human heart with special reference to its origin, course, and peripheral
+
+distribution. Anat. Embryol. 2005, 209, 425–438. [CrossRef] [PubMed]
+
+56. Armour, J.A.; Murphy, D.A.; Yuan, B.-X.; MacDonald, S.; Hopkins, D.A. Gross and microscopic anatomy of the human intrinsic
+
+cardiac nervous system. Anat. Rec. 1997, 247, 289–298. [CrossRef]
+
+57. Aksu, T.; Gupta, D.; Pauza, D.H. Anatomy and physiology of intrinsic cardiac autonomic nervous system: Da vinci anatomy card
+
+#2. JACC Case Rep. 2021, 3, 625–629.
+
+58. Armour, J.A. Intrinsic cardiac neurons. J. Cardiovasc. Electrophysiol. 1991, 2, 331–341. [CrossRef]
+59. Tompkins, J.D.; Hoover, D.B.; Havton, L.A.; Patel, J.C.; Cho, Y.; Smith, E.H.; Biscola, N.P.; Ajijola, O.A.; Shivkumar, K.; Ardell, J.L.
+
+60.
+
+Comparative specialization of intrinsic cardiac neurons in humans, mice, and pigs. bioRxiv 2024. [CrossRef]
+Singh, S.; Johnson, P.I.; Lee, R.E.; Orfei, E.; Lonchyna, V.A.; Sullivan, H.J.; Montoya, A.; Tran, H.; Wehrmacher, W.H.; Wurster, R.D.
+Topography of cardiac ganglia in the adult human heart. J. Thorac. Cardiovasc. Surg. 1996, 112, 943–953.
+
+61. Richardson, R.J.; Grkovic, I.; Anderson, C.R. Immunohistochemical analysis of intracardiac ganglia of the rat heart. Cell Tissue Res.
+
+2003, 314, 337–350. [CrossRef]
+
+62. Lizot, G.; Pasqualin, C.; Tissot, A.; Pagès, S.; Faivre, J.-F.; Chatelier, A. Molecular and functional characterization of the mouse
+
+63.
+
+intrinsic cardiac nervous system. Heart Rhythm. 2022, 19, 1352–1362. [CrossRef]
+Sampaio, K.N.; Mauad, H.; Spyer, K.M.; Ford, T.W. Differential chronotropic and dromotropic responses to focal stimulation of
+cardiac vagal ganglia in the rat. Exp. Physiol. 2003, 88, 315–327. [CrossRef] [PubMed]
+
+64. Achanta, S.; Gorky, J.; Leung, C.; Moss, A.; Robbins, S.; Eisenman, L.; Chen, J.; Tappan, S.; Heal, M.; Farahani, N.; et al. A
+comprehensive integrated anatomical and molecular atlas of rat intrinsic cardiac nervous system. iScience 2020, 23, 101140.
+[CrossRef] [PubMed]
+
+65. Vaitkevicius, R.; Saburkina, I.; Rysevaite, K.; Vaitkeviciene, I.; Pauziene, N.; Zaliunas, R.; Schauerte, P.; Jalife, J.; Pauza, D.H. Nerve
+
+supply of the human pulmonary veins: An anatomical study. Heart Rhythm. 2009, 6, 221–228. [CrossRef] [PubMed]
+
+66. Pauza, D.H.; Skripka, V.; Pauziene, N.; Stropus, R. Morphology, distribution, and variability of the epicardiac neural ganglionated
+
+subplexuses in the human heart. Anat. Rec. 2000, 259, 353–382. [CrossRef]
+
+67. Hanna, P.; Dacey, M.J.; Brennan, J.; Moss, A.; Robbins, S.; Achanta, S.; Biscola, N.P.; Swid, M.A.; Rajendran, P.S.; Mori, S.; et al.
+Innervation and neuronal control of the mammalian sinoatrial node a comprehensive atlas. Circ. Res. 2021, 128, 1279–1296.
+[CrossRef]
+
+68. Bell, C. Chapter 46—Regulation of metabolism by the autonomic nervous system. In Primer on the Autonomic Nervous System, 4th
+ed.; Biaggioni, I., Browning, K., Fink, G., Jordan, J., Low, P.A., Paton, J.F.R., Eds.; Academic Press: Cambridge, MA, USA, 2023; pp.
+263–266.
+
+69. Apelt-Glitz, K.; Alken, F.-A.; Jungen, C.; Scherschel, K.; Klöcker, N.; Meyer, C. Respiratory and heart rate dynamics during
+peripheral chemoreceptor deactivation compared to targeted sympathetic and sympathetic/parasympathetic (co-)activation.
+Auton. Neurosci. 2022, 241, 103009. [CrossRef]
+
+70. Elia, A.; Fossati, S. Autonomic nervous system and cardiac neuro-signaling pathway modulation in cardiovascular disorders and
+
+Alzheimer’s disease. Front. Physiol. 2023, 14, 1060666. [CrossRef]
+
+71. Tanaka, K.; Chiba, T. The vagal origin of preganglionic fibers containing nitric oxide synthase in the guinea-pig heart. Neurosci.
+
+Lett. 1998, 252, 135–138. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+20 of 28
+
+72.
+
+Sato, A.; Kojima, F.; Hayashi, T.; Arichi, S.; Maruo, Y.; Ishibashi, H.; Eto, K. The KCNQ channel inhibitor XE991 suppresses
+nicotinic acetylcholine receptor-mediated responses in rat intracardiac ganglion neurons. Pharmacol. Rep. 2022, 74, 1–7. [CrossRef]
+73. Zhang, D.; Tu, H.; Hu, W.; Duan, B.; Zimmerman, M.C.; Li, Y.L. Hydrogen peroxide scavenging restores N-type calcium channels
+in cardiac vagal postganglionic neurons and mitigates myocardial infarction-evoked ventricular arrhythmias in type 2 diabetes
+mellitus. Front. Cardiovasc. Med. 2022, 9, 871852. [CrossRef]
+
+74. Verkerk, A.O.; Remme, C.A.; Schumacher, C.A.; Scicluna, B.P.; Wolswinkel, R.; de Jonge, B.; Bezzina, C.R.; Veldkamp, M.W.
+
+Functional NaV1.8 channels in intracardiac neurons. Circ. Res. 2012, 111, 333–343. [CrossRef]
+
+75. Xu, Z.J.; Adams, D.J. Resting membrane potential and potassium currents in cultured parasympathetic neurones from rat
+
+intracardiac ganglia. J. Physiol. 1992, 456, 405–424. [CrossRef] [PubMed]
+
+76. Armour, J.A. Potential clinical relevance of the ‘little brain’ on the mammalian heart. Exp. Physiol. 2008, 93, 165–176. [CrossRef]
+
+[PubMed]
+
+77. Armour, J.A. The little brain on the heart. Cleve Clin. J. Med. 2007, 74, S48–S51. [CrossRef] [PubMed]
+78. Hoard, J.L.; Hoover, D.B.; Mabe, A.M.; Blakely, R.D.; Feng, N.; Paolocci, N. Cholinergic neurons of mouse intrinsic cardiac ganglia
+contain noradrenergic enzymes, norepinephrine transporters, and the neurotrophin receptors tropomyosin-related kinase A and
+p75. Neuroscience 2008, 156, 129–142. [CrossRef]
+
+79. Tomas, R.; Kristina, R.-K.; Neringa, P.; Hermanas, I.; Dainius, P.H. Intrinsic cardiac neurons of the adult pigs: Chemical types,
+abundance, parameters and distribution within ganglionated plexus. Ann. Anat. Anat. Anz. 2022, 243, 151935. [CrossRef]
+80. Horackova, M.; Croll, R.P.; Hopkins, D.A.; Losier, A.M.; Armour, J.A. Morphological and immunohistochemical properties of
+primary long-term cultures of adult guinea-pig ventricular cardiomyocytes with peripheral cardiac neurons. Tissue Cell 1996, 28,
+411–425. [CrossRef]
+
+81. Brown, D.A. Acetylcholine and cholinergic receptors. Brain Neurosci. Adv. 2019, 3, 2398212818820506. [CrossRef]
+82. Peralta, E.G.; Ashkenazi, A.; Winslow, J.W.; Smith, D.H.; Ramachandran, J.; Capon, D.J. Distinct primary structures, ligand-
+binding properties and tissue-specific expression of four human muscarinic acetylcholine receptors. EMBO J. 1987, 6, 3923–3929.
+[CrossRef]
+
+83. Brann, M.R.; Ellis, J.; Jørgensen, H.; Hill-Eubanks, D.; Jones, S.V.P. Chapter 12: Muscarinic acetylcholine receptor subtypes:
+Localization and structure/function. In Progress in Brain Research; Cuello, A.C., Ed.; Elsevier: Amsterdam, The Netherlands, 1993;
+pp. 121–127.
+
+84. Wang, H.; Han, H.; Zhang, L.; Shi, H.; Schram, G.; Nattel, S.; Wang, Z. Expression of multiple subtypes of muscarinic receptors
+
+and cellular distribution in the human heart. Mol. Pharmacol. 2001, 59, 1029. [CrossRef]
+
+85. Olshansky, B.; Sabbah, H.N.; Hauptman, P.J.; Colucci, W.S. Parasympathetic nervous system and heart failure. Circulation 2008,
+
+118, 863–871. [CrossRef] [PubMed]
+
+86. Harvey, R.D.; Belevych, A.E. Muscarinic regulation of cardiac ion channels. Br. J. Pharmacol. 2003, 139, 1074–1084. [CrossRef]
+
+[PubMed]
+
+87. Moss, R.; Sachse, F.B.; Moreno-Galindo, E.G.; Navarro-Polanco, R.A.; Tristani-Firouzi, M.; Seemann, G. Modeling effects of voltage
+dependent properties of the cardiac muscarinic receptor on human sinus node function. PLoS Comput. Biol. 2018, 14, e1006438.
+[CrossRef] [PubMed]
+
+88. Bidaud, I.; Chong, A.C.Y.; Carcouet, A.; Waard, S.D.; Charpentier, F.; Ronjat, M.; Waard, M.D.; Isbrandt, D.; Wickman, K.; Vincent,
+A.; et al. Inhibition of G protein-gated K+ channels by tertiapin-Q rescues sinus node dysfunction and atrioventricular conduction
+in mouse models of primary bradycardia. Sci. Rep. 2020, 10, 9835. [CrossRef] [PubMed]
+
+89. Borst, M.M.; Szalai, P.; Herzog, N.; Kübler, W.; Strasser, R.H. Transregulation of adenylyl-cyclase-coupled inhibitory receptors in
+heart failure enhances anti-adrenergic effects on adult rat cardiomyocytes. Cardiovasc. Res. 1999, 44, 113–120. [CrossRef]
+
+90. Wei, J.W.; Wang, M.C. Muscarinic M2 receptors coupled to inhibition of adenylate cyclase in rat heart. Chin. J. Physiol. 1990, 33,
+
+315–327.
+
+91. Ashton, J.L.; Prince, B.; Sands, G.; Argent, L.; Anderson, M.; Smith, J.E.G.; Tedoldi, A.; Ahmad, A.; Baddeley, D.; Pereira, A.G.;
+et al. Electrophysiology and 3D-imaging reveal properties of human intracardiac neurons and increased excitability with atrial
+fibrillation. J. Physiol. 2024. [CrossRef]
+van Weperen, V.Y.H.; Vos, M.A.; Ajijola, O.A. Autonomic modulation of ventricular electrical activity: Recent developments and
+clinical implications. Clin. Auton. Res. 2021, 31, 659–676. [CrossRef]
+
+92.
+
+93. Rajendran, P.S.; Nakamura, K.; Ajijola, O.A.; Vaseghi, M.; Armour, J.A.; Ardell, J.L.; Shivkumar, K. Myocardial infarction induces
+
+structural and functional remodeling of the intrinsic cardiac nervous system. J. Physiol. 2016, 594, 321–341. [CrossRef]
+
+94. Zoppini, G.; Cacciatori, V.; Raimondo, D.; Gemma, M.; Trombetta, M.; Dauriz, M.; Brangani, C.; Pichiri, I.; Negri, C.; Stoico, V.;
+et al. Prevalence of cardiovascular autonomic neuropathy in a cohort of patients with newly diagnosed type 2 diabetes: The
+verona newly diagnosed type 2 diabetes study (VNDS). Diabetes Care 2015, 38, 1487–1493. [CrossRef]
+
+95. Tahrani, A.A.; Dubb, K.; Raymond, N.T.; Begum, S.; Altaf, Q.A.; Sadiqi, H.; Piya, M.K.; Stevens, M.J. Cardiac autonomic
+neuropathy predicts renal function decline in patients with type 2 diabetes: A cohort study. Diabetologia 2014, 57, 1249–1256.
+[CrossRef] [PubMed]
+
+96. Zhu, C.; Hanna, P.; Rajendran, P.S.; Shivkumar, K. Neuromodulation for ventricular tachycardia and atrial fibrillation: A clinical
+
+scenario-based review. JACC Clin. Electrophysiol. 2019, 5, 881–896. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+21 of 28
+
+97.
+
+Jungen, C.; Scherschel, K.; Flenner, F.; Jee, H.; Rajendran, P.; De Jong, K.A.; Nikolaev, V.; Meyer, C.; Ardell, J.L.; Tompkins, J.D.
+Increased arrhythmia susceptibility in type 2 diabetic mice related to dysregulation of ventricular sympathetic innervation. Am. J.
+Physiol. Heart Circ. Physiol. 2019, 317, H1328–H1341. [CrossRef] [PubMed]
+
+98. Grisanti, L.A. Diabetes and arrhythmias: Pathophysiology, mechanisms and therapeutic outcomes. Front. Physiol. 2018, 9, 1669.
+
+[CrossRef] [PubMed]
+
+99. Kumari, K.P.; Neeraja, M.; Kumar, S.C.; Farha, N.; Vijitha, P. Cardiovascular parasympathetic changes in type-II diabetic mellitus.
+
+Int. J. Integr. Med. Sci. 2016, 3, 374–383. [CrossRef]
+
+100. Hadad, R.; Akobe, S.F.; Weber, P.; Madsen, C.V.; Larsen, B.S.; Madsbad, S.; Nielsen, O.W.; Dominguez, M.H.; Haugaard, S.B.;
+Sajadieh, A. Parasympathetic tonus in type 2 diabetes and pre-diabetes and its clinical implications. Sci. Rep. 2022, 12, 18020.
+[CrossRef]
+
+101. Rasmussen, T.; Finnerup, N.B.; Singer, W.; Jensen, T.S.; Hansen, J.; Terkelsen, A.J. Preferential impairment of parasymathetic
+
+autonomic function in type 2 diabetes. Auton. Neurosci. 2022, 243, 103026. [CrossRef]
+
+102. Spallone, V. Update on the impact, diagnosis and management of cardiovascular autonomic neuropathy in diabetes: What Iis
+
+defined, what is new, and what is unmet. Diabetes Metab. J. 2019, 43, 3–30. [CrossRef]
+
+103. Serhiyenko, V.A.; Serhiyenko, A.A. Cardiac autonomic neuropathy: Risk factors, diagnosis and treatment. World J. Diabetes 2018,
+
+9, 1–24. [CrossRef]
+
+104. Sudo, S.Z.; Montagnoli, T.L.; Rocha, B.S.; Santos, A.D.; de Sa, M.P.L.; Zapata-Sudo, G. Diabetes-induced cardiac autonomic
+
+neuropathy: Impact on heart function and prognosis. Biomedicines 2022, 10, 3258. [CrossRef]
+
+105. Julu, P. Vagolytic effect of diabetes mellitus. Brain 1993, 116, 485–492. [CrossRef] [PubMed]
+106. Verrotti, A.; Prezioso, G.; Scattoni, R.; Chiarelli, F. Autonomic neuropathy in diabetes mellitus. Front. Endocrinol. 2014, 5, 205.
+
+[CrossRef] [PubMed]
+
+107. Kanagala, A.; Harsoda, J.M. Sympathetic overactivity and parasympathetic impairment in type 2 diabetes: An analysis of
+
+cardiovascular autonomic functions. Cureus 2024, 16, e59561. [CrossRef] [PubMed]
+
+108. Ziegler, D.; Strom, A.; Kupriyanova, Y.; Bierwagen, A.; Bonhof, G.J.; Bodis, K.; Mussig, K.; Szendroedi, J.; Bobrov, P.; Markgraf,
+D.F.; et al. Association of lower cardiovagal tone and baroreflex sensitivity with higher liver fat content early in type 2 diabetes. J.
+Clin. Endocrinol. Metab. 2018, 103, 1130–1138. [CrossRef]
+
+109. Benichou, T.; Pereira, B.; Mermillod, M.; Tauveron, I.; Pfabigan, D.; Maqdasy, S.; Dutheil, F. Heart rate variability in type 2 diabetes
+
+mellitus: A systematic review and meta-analysis. PLoS ONE 2018, 13, e0195166. [CrossRef]
+
+110. John, A.P.P.; Udupa, K.; Avangapur, S.; Sujan, M.U.; Inbaraj, G.; Vasuki, P.P.; Mahadevan, A.; Anilkumar, R.; Shekar, M.A.;
+Sathyaprabha, T.N. Cardiac autonomic dysfunctions in type 2 diabetes mellitus: An investigative study with heart rate variability
+measures. Am. J. Cardiovasc. Dis. 2022, 12, 224–232.
+
+111. Tu, H.; Zhang, D.; Li, Y.L. Cellular and molecular mechanisms underlying arterial baroreceptor remodeling in cardiovascular
+
+diseases and diabetes. Neurosci. Bull. 2019, 35, 98–112. [CrossRef]
+
+112. Ai, J.; Epstein, P.N.; Gozal, D.; Yang, B.; Wurster, R.; Cheng, Z.J. Morphology and topography of nucleus ambiguus projections to
+
+cardiac ganglia in rats and mice. Neuroscience 2007, 149, 845–860. [CrossRef]
+
+113. Cheng, Z.; Zhang, H.; Yu, J.; Wurster, R.D.; Gozal, D. Attenuation of baroreflex sensitivity after domoic acid lesion of the nucleus
+
+ambiguus of rats. J. Appl. Physiol. 2003, 96, 1137–1145. [CrossRef]
+
+114. Bakkar, N.Z.; Mougharbil, N.; Mroueh, A.; Kaplan, A.; Eid, A.H.; Fares, S.; Zouein, F.A.; El-Yazbi, A.F. Worsening baroreflex
+sensitivity on progression to type 2 diabetes: Localized vs. systemic inflammation and role of antidiabetic therapy. Am. J. Physiol.
+Endocrinol. Metab. 2020, 319, E835–E851. [CrossRef]
+
+115. Sailaja, A.N.; Nanda, N.; Suryanarayana, B.S.; Pal, G.K. Hypertension attenuates the link of osteoprotegerin to reduced baroreflex
+sensitivity in type 2 diabetes mellitus patients on oral antidiabetic and antihypertensive therapy—A cross sectional study. BMC
+Endocr. Disord. 2022, 22, 226. [CrossRef] [PubMed]
+
+116. Sanya, E.O.; Brown, C.M.; Dutsch, M.; Zikeli, U.; Neundorfer, B.; Hilz, M.J. Impaired cardiovagal and vasomotor responses to
+
+baroreceptor stimulation in type II diabetes mellitus. Eur. J. Clin. Investig. 2003, 33, 582–588. [CrossRef] [PubMed]
+
+117. Kaufmann, D.; Raczak, G.; Szwoch, M.; Wabich, E.; ´Swi ˛atczak, M.; Daniłowicz-Szymanowicz, L. Baroreflex sensitivity but not
+microvolt T-wave alternans can predict major adverse cardiac events in ischemic heart failure. Cardiol. J. 2022, 29, 1004–1012.
+[CrossRef]
+
+118. Garcia, R.; Degand, B.; Fraty, M.; Le Marcis, V.; Bidegain, N.; Laude, D.; Tavernier, M.; Le Gal, F.; Hadjadj, S.; Saulnier, P.-J.; et al.
+Baroreflex sensitivity assessed with the sequence method is associated with ventricular arrhythmias in patients implanted with a
+defibrillator for the primary prevention of sudden cardiac death. Arch. Cardiovasc. Dis. 2019, 112, 270–277. [CrossRef] [PubMed]
+119. Luna, R.; Talanki Manjunatha, R.; Bollu, B.; Jhaveri, S.; Avanthika, C.; Reddy, N.; Saha, T.; Gandhi, F. A comprehensive review of
+
+neuronal changes in diabetics. Cureus 2021, 13, e19142. [CrossRef]
+
+120. Lund, D.D.; Subieta, A.R.; Pardini, B.J.; Chang, K.S. Alterations in cardiac parasympathetic indices in STZ-induced diabetic rats.
+
+Diabetes 1992, 41, 160–166. [CrossRef]
+
+121. Kamal, A.A.J.; Tay, S.S.W.; Wong, W.C. The cardiac ganglia in streptozotocin-induced diabetic rats. Arch. Histol. Cytol. 1991, 54,
+
+41–49. [CrossRef]
+
+122. Tsujimura, T.; Nunotani, H.; Fushimi, H.; Inoue, T. Morphological changes in autonomic ganglionic cells of the heart in diabetic
+
+patients. Diabetes Res. Clin. Pract. 1986, 2, 133–137. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+22 of 28
+
+123. Jungen, C.; Scherschel, K.; Eickholt, C.; Kuklik, P.; Klatt, N.; Bork, N.; Salzbrunn, T.; Alken, F.; Angendohr, S.; Klene, C.; et al.
+Disruption of cardiac cholinergic neurons enhances susceptibility to ventricular arrhythmias. Nat. Commun. 2017, 8, 14155.
+[CrossRef]
+
+124. Xu, Z.J.; Adams, D.J. Voltage-dependent sodium and calcium currents in cultured parasympathetic neurones from rat intracardiac
+
+ganglia. J. Physiol. 1992, 456, 425–441. [CrossRef]
+
+125. Dolphin, A.C. Voltage-gated calcium channels and their auxiliary subunits: Physiology and pathophysiology and pharmacology.
+
+J. Physiol. 2016, 594, 5369–5390. [CrossRef] [PubMed]
+
+126. Li, Y.F.; LaCroix, C.; Freeling, J. Specific subtypes of nicotinic cholinergic receptors involved in sympathetic and parasympathetic
+
+cardiovascular responses. Neurosci. Lett. 2009, 462, 20–23. [CrossRef] [PubMed]
+
+127. Wang, N.; Orr-Urtreger, A.; Korczyn, A.D. The role of neuronal nicotinic acetylcholine receptor subunits in autonomic ganglia:
+
+Lessons from knockout mice. Progress. Neurobiol. 2002, 68, 341–360. [CrossRef] [PubMed]
+
+128. Deng, J.; Jiang, H. Role of nicotinic acetylcholine receptors in cardiovascular physiology and pathophysiology: Current trends
+
+and perspectives. Curr. Vasc. Pharmacol. 2021, 19, 370–378. [CrossRef] [PubMed]
+
+129. Koster, J.C.; Permutt, M.A.; Nichols, C.G. Diabetes and insulin secretion: The ATP-sensitive K+ channel (KATP) connection.
+
+Diabetes 2005, 54, 3065–3072. [CrossRef] [PubMed]
+
+130. Stakenborg, N.; Gomez-Pinilla, P.J.; Verlinden, T.J.M.; Wolthuis, A.M.; D’Hoore, A.; Farré, R.; Herijgers, P.; Matteoli, G.;
+Boeckxstaens, G.E. Comparison between the cervical and abdominal vagus nerves in mice, pigs, and humans. Neurogastroenterol.
+Motil. 2020, 32, e13889. [CrossRef]
+
+131. Tomankova, H.; Valuskova, P.; Varejkova, E.; Rotkova, J.; Benes, J.; Myslivecek, J. The M2 muscarinic receptors are essential for
+
+signaling in the heart left ventricle during restraint stress in mice. Stress 2015, 18, 208–220. [CrossRef] [PubMed]
+
+132. LaCroix, C.; Freeling, J.; Giles, A.; Wess, J.; Li, Y.F. Deficiency of M2 muscarinic acetylcholine receptors increases susceptibility of
+ventricular function to chronic adrenergic stress. Am. J. Physiol. Heart Circ. Physiol. 2008, 294, H810–H820. [CrossRef] [PubMed]
+133. Evans, A.; Tu, H.; Whitney, L.; Carpenter, K.; Li, Y.L. Correlation of leptin resistance with attenuation of cardiac vagal activation
+
+in type 2 diabetes. Circulation 2024, 135, AMo135. [CrossRef]
+
+134. Lee, L.M.; Chang, C.K.; Cheng, K.C.; Kou, D.H.; Liu, I.M.; Cheng, J.T. Increase of cardiac M2-muscarinic receptor gene expression
+
+in type-1 but not in type-2 diabetic rats. Neurosci. Lett. 2008, 441, 201–204. [CrossRef]
+
+135. Gallego, M.; Zayas-Arrabal, J.; Alquiza, A.; Apellaniz, B.; Casis, O. Electrical features of the diabetic myocardium. Arrhythmic
+
+and cardiovascular safety considerations in diabetes. Front. Pharmacol. 2021, 12, 687256. [CrossRef] [PubMed]
+
+136. Liu, Y.; Peng, Y.; Jin, J.; Chen, Y.; Chen, C.; Chen, Z.; Huang, H.; Xu, L. Insulin resistance is independently associated with
+
+cardiovascular autonomic neuropathy in type 2 diabetes. J. Diabetes Investig. 2021, 12, 1651–1662. [CrossRef] [PubMed]
+
+137. Tomas, E.; Lin, Y.S.; Dagher, Z.; Saha, A.; Luo, Z.; Ido, Y.; Ruderman, N.B. Hyperglycemia and insulin resistance: Possible
+
+mechanisms. Ann. N. Y Acad. Sci. 2002, 967, 43–51. [CrossRef] [PubMed]
+
+138. Stringer, D.M.; Zahradka, P.; Taylor, C.G. Glucose transporters: Cellular links to hyperglycemia in insulin resistance and diabetes.
+
+Nutr. Rev. 2015, 73, 140–154. [CrossRef] [PubMed]
+
+139. Mergenthaler, P.; Lindauer, U.; Dienel, G.A.; Meisel, A. Sugar for the brain: The role of glucose in physiological and pathological
+
+brain function. Trends Neurosci. 2013, 36, 587–597. [CrossRef]
+
+140. Tomlinson, D.R.; Gardiner, N.J. Glucose neurotoxicity. Nat. Rev. Neurosci. 2008, 9, 36–45. [CrossRef]
+141. Giaccari, A.; Sorice, G.; Muscogiuri, G. Glucose toxicity: The leading actor in the pathogenesis and clinical history of type 2
+
+diabetes—Mechanisms and potentials for treatment. Nutr. Metab. Cardiovasc. Dis. 2009, 19, 365–377. [CrossRef]
+
+142. Oates, P.J. Polyol pathway and diabetic peripheral neuropathy. In International Review of Neurobiology; Academic Press: Cambridge,
+
+MA, USA, 2002; pp. 325–392.
+
+143. Whyte, K.A.; Hogg, R.C.; Dyavanapalli, J.; Harper, A.A.; Adams, D.J. Reactive oxygen species modulate neuronal excitability in
+
+rat intrinsic cardiac ganglia. Auton. Neurosci. 2009, 150, 45–52. [CrossRef]
+
+144. Uehara, K.; Yamagishi, S.I.; Otsuki, S.; Chin, S.; Yagihashi, S. Effects of polyol pathway hyperactivity on protein kinase C activity,
+nociceptive peptide expression, and neuronal structure in dorsal root ganglia in diabetic mice. Diabetes 2004, 53, 3239–3247.
+[CrossRef]
+
+145. Hegab, Z.; Gibbons, S.; Neyses, L.; Mamas, M.A. Role of advanced glycation end products in cardiovascular disease. World J.
+
+Cardiol. 2012, 4, 90–102. [CrossRef]
+
+146. Chang, G.J.; Yeh, Y.H.; Chen, W.J.; Ko, Y.S.; Pang, J.S.; Lee, H.Y. Inhibition of advanced glycation end products formation
+attenuates cardiac electrical and mechanical remodeling and vulnerability to tachyarrhythmias in diabetic rats. J. Pharmacol. Exp.
+Ther. 2019, 368, 66–78. [CrossRef] [PubMed]
+
+147. Ozturk, G.; Sekeroglu, M.R.; Erdogan, E.; Ozturk, M. The effect of non-enzymatic glycation of extracellular matrix proteins on
+
+axonal regeneration in vitro. Acta Neuropathol. 2006, 112, 627–632. [CrossRef] [PubMed]
+
+148. Vinik, A.I.; Erbas, T.; Casellini, C.M. Diabetic cardiac autonomic neuropathy, inflammation and cardiovascular disease. J. Diabetes
+
+Investig. 2013, 4, 4–18. [CrossRef] [PubMed]
+
+149. Ye, J. Emerging role of adipose tissue hypoxia in obesity and insulin resistance. Int. J. Obes. 2009, 33, 54–66. [CrossRef] [PubMed]
+150. Cellek, S.; Qu, W.; Schmidt, A.M.; Moncada, S. Synergistic action of advanced glycation end products and endogenous nitric
+oxide leads to neuronal apoptosis in vitro: A new insight into selective nitrergic neuropathy in diabetes. Diabetologia 2004, 47,
+331–339. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+23 of 28
+
+151. Vincent, A.M.; Perrone, L.; Sullivan, K.A.; Backus, C.; Sastry, A.M.; Lastoskie, C.; Feldman, E.L. Receptor for advanced glycation
+end products activation injures primary sensory neurons via oxidative stress. Endocrinology 2007, 148, 548–558. [CrossRef]
+
+152. Garg, S.S.; Gupta, J. Polyol pathway and redox balance in diabetes. Pharmacol. Res. 2022, 182, 106326. [CrossRef]
+153. Kaur, N. Diabetic autonomic neuropathy: Pathogenesis to pharmacological management. J. Diabetes Metab. 2014, 5, 7. [CrossRef]
+154. Gabbay, K.H. The sorbitol pathway and the complications of diabetes. N. Engl. J. Med. 1973, 288, 831–836.
+155. Gugliucci, A. Formation of fructose-mediated advanced glycation end products and their roles in metabolic and inflammatory
+
+diseases. Adv. Nutr. 2017, 8, 54–62. [CrossRef]
+
+156. Maekawa, K.; Tanimoto, T.; Okada, S.; Suzuki, T.; Suzuki, T.; Yabe-Nishimura, C. Expression of aldose reductase and sorbitol
+dehydrogenase genes in Schwann cells isolated from rat: Effects of high glucose and osmotic stress. Mol. Brain Res. 2001, 87,
+251–256. [CrossRef] [PubMed]
+
+157. Tang, W.H.; Martin, K.A.; Hwa, J. Aldose reductase, oxidative stress, and diabetic mellitus. Front. Pharmacol. 2012, 3, 87.
+
+[CrossRef]
+
+158. Antonetti, D.A.; Silva, P.S.; Stitt, A.W. Current understanding of the molecular and cellular pathology of diabetic retinopathy. Nat.
+
+Rev. Endocrinol. 2021, 17, 195–206. [CrossRef] [PubMed]
+
+159. Natesan, V.; Kim, S.J. Diabetic nephropathy—A review of risk factors, progression, mechanism, and dietary management. Biomol.
+
+Ther. 2021, 29, 365–372. [CrossRef] [PubMed]
+
+160. Albers, J.W.; Pop-Busui, R. Diabetic neuropathy: Mechanisms, emerging treatments, and subtypes. Curr. Neurol. Neurosci. Rep.
+
+2014, 14, 473. [CrossRef]
+
+161. Feldman, E.L.; Callaghan, B.C.; Pop-Busui, R.; Zochodne, D.W.; Wright, D.E.; Bennett, D.L.; Bril, V.; Russell, J.W.; Viswanathan, V.
+
+Diabetic neuropathy. Nat. Rev. Dis. Primers 2019, 5, 41. [CrossRef]
+
+162. Obrosova, I.G.; Van Huysen, C.; Fathallah, L.; Cao, X.C.; Greene, D.A.; Stevens, M.J. An aldose reductase inhibitor reverses
+early diabetes-induced changes in peripheral nerve function, metabolism, and antioxidative defense. FASEB J. 2002, 16, 123–125.
+[CrossRef]
+
+163. Li, Q.R.; Wang, Z.; Zhou, W.; Fan, S.R.; Ma, R.; Xue, L.; Yang, L.; Li, Y.S.; Tan, H.L.; Shao, Q.H.; et al. Epalrestat protects against
+diabetic peripheral neuropathy by alleviating oxidative stress and inhibiting polyol pathway. Neural Regen. Res. 2016, 11, 345–351.
+164. Cameron, N.E.; Cotter, M.A.; Maxfield, E.K. Anti-oxidant treatment prevents the development of peripheral nerve dysfunction in
+
+streptozotocin-diabetic rats. Diabetologia 1993, 36, 299–304. [CrossRef]
+
+165. Campanucci, V.; Krishnaswamy, A.; Cooper, E. Diabetes depresses synaptic transmission in sympathetic ganglia by inactivating
+
+nAChRs through a conserved intracellular cysteine residue. Neuron 2010, 66, 827–834. [CrossRef]
+
+166. Zhang, D.; Hu, W.; Tu, H.; Wadman, M.; Li, Y.L. H2O2-REST signaling pathway is involved in cardiac vagal dysfunction and
+
+myocardial infarction-evoked ventricular arrhythmia in type 2 diabetes. Physiology 2023, 38, 5727640. [CrossRef]
+
+167. Singh, V.P.; Bali, A.; Singh, N.; Jaggi, A.S. Advanced glycation end products and diabetic complications. Korean J. Physiol.
+
+Pharmacol. 2014, 18, 1–14. [CrossRef] [PubMed]
+
+168. Del Turco, S.; Basta, G. An update on advanced glycation endproducts and atherosclerosis. Biofactors 2012, 38, 266–274. [CrossRef]
+169. Popescu, S.; Timar, B.; Baderca, F.; Simu, M.; Diaconu, L.; Velea, I.; Timar, R. Age as an independent factor for the development of
+
+neuropathy in diabetic patients. Clin. Interv. Aging 2016, 11, 313–318. [PubMed]
+
+170. Papachristou, S.; Pafili, K.; Trypsianis, G.; Papazoglou, D.; Vadikolias, K.; Papanas, N. Skin advanced glycation end products as a
+
+screening tool of neuropathy in type 2 diabetes mellitus. J. Diabetes Complicat. 2022, 36, 108356. [CrossRef]
+
+171. Meerwaldt, R.; Links, T.P.; Graaff, R.; Hoogenberg, K.; Lefrandt, J.D.; Baynes, J.W.; Gans, R.O.; Smit, A.J. Increased accumulation
+of skin advanced glycation end-products precedes and correlates with clinical manifestation of diabetic neuropathy. Diabetologia
+2005, 48, 1637–1644. [CrossRef]
+
+172. Tanikawa, T.; Okada, Y.; Tanikawa, R.; Tanaka, Y. Advanced glycation end products induce calcification of vascular smooth
+
+muscle cells through RAGE/p38 MAPK. J. Vasc. Res. 2009, 46, 572–580. [CrossRef]
+
+173. Hirose, A.; Tanikawa, T.; Mori, H.; Okada, Y.; Tanaka, Y. Advanced glycation end products increase endothelial permeability
+
+through the RAGE/Rho signaling pathway. FEBS Lett. 2010, 584, 61–66. [CrossRef]
+
+174. Sango, K.; Horie, H.; Okamura, A.; Inoue, S.; Takenaka, T. Diabetes impairs DRG neuronal attachment to extracellular matrix
+
+proteins in vitro. Brain Res. Bull. 1995, 37, 533–537. [CrossRef]
+
+175. McCarthy, A.D.; Uemura, T.; Etcheverry, S.B.; Cortizo, A.M. Advanced glycation endproducts interfere with integrin-mediated
+
+osteoblastic attachment to a type-I collagen matrix. Int. J. Biochem. Cell Biol. 2004, 36, 840–848. [CrossRef]
+
+176. Dhar, S.; Sun, Z.; Meininger, G.A.; Hill, M.A. Nonenzymatic glycation interferes with fibronectin-integrin interactions in vascular
+
+smooth muscle cells. Microcirculation 2017, 24, e12347. [CrossRef] [PubMed]
+
+177. Luo, Z.J.; King, R.H.M.; Lewin, J.; Thomas, P.K. Effects of nonenzymatic glycosylation of extracellular matrix components on cell
+
+survival and sensory neurite extension in cell culture. J. Neurol. 2002, 249, 424–431. [CrossRef] [PubMed]
+
+178. Goncalves, N.P.; Vaegter, C.B.; Andersen, H.; Ostergaard, L.; Calcutt, N.A.; Jensen, T.S. Schwann cell interactions with axons and
+
+microvessels in diabetic neuropathy. Nat. Rev. Neurol. 2017, 13, 135–147. [CrossRef] [PubMed]
+
+179. Xu, S.; Bao, W.; Men, X.; Liu, Y.; Sun, J.; Li, J.; Liu, H.; Cai, H.; Zhang, W.; Lou, J.; et al. Interleukin-10 protects Schwann cells
+against advanced glycation end products-induced apoptosis via NF-kappaB suppression. Exp. Clin. Endocrinol. Diabetes 2020, 128,
+89–96. [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+24 of 28
+
+180. Vlassara, H.; Brownlee, M.; Cerami, A. Nonenzymatic glycosylation of peripheral nerve protein in diabetes mellitus. Proc. Natl.
+
+Acad. Sci. USA 1981, 78, 5190–5192. [CrossRef]
+
+181. Ooi, H.; Furukawa, A.; Takeuchi, M.; Koriyama, Y. Toxic advanced glycation end-products inhibit axonal elongation mediated by
+
+β-tubulin aggregation in mice optic nerves. Int. J. Mol. Sci. 2024, 25, 7409. [CrossRef]
+
+182. Grimm, S.; Ott, C.; Hörlacher, M.; Weber, D.; Höhn, A.; Grune, T. Advanced-glycation-end-product-induced formation of
+
+immunoproteasomes: Involvement of RAGE and Jak2/STAT1. Biochem. J. 2012, 448, 127–139. [CrossRef]
+
+183. Li, J.H.; Wang, W.; Huang, X.R.; Oldfield, M.; Schmidt, A.M.; Cooper, M.E.; Lan, H.Y. Advanced glycation end products induce
+tubular epithelial-myofibroblast transition through the RAGE-ERK1/2 MAP kinase signaling pathway. Am. J. Pathol. 2004, 164,
+1389–1397. [CrossRef]
+
+184. Guimarães, E.L.; Empsen, C.; Geerts, A.; van Grunsven, L.A. Advanced glycation end products induce production of reactive
+
+oxygen species via the activation of NADPH oxidase in murine hepatic stellate cells. J. Hepatol. 2010, 52, 389–397. [CrossRef]
+
+185. Ma, Y.-L.; Deng, J.; Zhang, T.; Li, H.-M.; Liang, Q.-Z.; Zhang, K.-L. Enhanced expression of RAGE/NADPH oxidase signaling
+pathway and increased level of oxidative stress in brains of rats with chronic fluorosis and the protective effects of blockers. J.
+Trace Elem. Med. Biol. 2023, 80, 127288. [CrossRef]
+
+186. Verma, S.; Alam, R.; Ahmad, I.; Singla, D.; Ali, K.; Hussain, M.E. Effect of glycemic control and disease duration on cardiac
+autonomic function and oxidative stress in type 2 diabetes mellitus. J. Diabetes Metab. Disord. 2018, 17, 149–158. [CrossRef]
+[PubMed]
+
+187. Pal, G.K.; Adithan, C.; Ananthanarayanan, P.H.; Pal, P.; Nanda, N.; Durgadevi, T.; Lalitha, V.; Syamsunder, A.N.; Dutta,
+T.K. Sympathovagal imbalance contributes to prehypertension status and cardiovascular risks attributed by insulin resistance,
+inflammation, dyslipidemia and oxidative stress in first degree relatives of type 2 diabetics. PLoS ONE 2013, 8, e78072. [CrossRef]
+[PubMed]
+
+188. Cetin, M.; Cakici, M.; Polat, M.; Suner, A.; Zencir, C.; Ardic, I. Relation of epicardial fat thickness with carotid intima-media
+
+thickness in patients with type 2 diabetes mellitus. Int. J. Endocrinol. 2013, 2013, 769175. [CrossRef]
+
+189. Groves, E.M.; Erande, A.S.; Le, C.; Salcedo, J.; Hoang, K.C.; Kumar, S.; Mohar, D.S.; Saremi, F.; Im, J.; Agrawal, Y.; et al.
+Comparison of epicardial adipose tissue volume and coronary artery disease severity in asymptomatic adults with versus without
+diabetes mellitus. Am. J. Cardiol. 2014, 114, 686–691. [CrossRef] [PubMed]
+
+190. Song, D.K.; Hong, Y.S.; Lee, H.; Oh, J.Y.; Sung, Y.A.; Kim, Y.; Song, D.K.; Hong, Y.S.; Lee, H.; Oh, J.Y.; et al. Increased epicardial
+adipose tissue thickness in type 2 diabetes mellitus and obesity. Diabetes Metab. J. 2015, 39, 405–413. [CrossRef] [PubMed]
+191. Fang, W.; Xie, S.; Deng, W. Epicardial adipose tissue: A potential therapeutic target for cardiovascular diseases. J. Cardiovasc.
+
+Transl. Res. 2024, 17, 322–333. [CrossRef] [PubMed]
+
+192. Wang, Z.; Wang, Y.; Chen, J.; Guo, H.; Ren, L.; Chen, X.; Chen, Y.; Sun, Y. Independent association between epicardial adipose
+tissue volume and recurrence of idiopathic ventricular tachycardia after ablation. Rev. Cardiovasc. Med. 2023, 24, 189. [CrossRef]
+193. Sepehri Shamloo, A.; Schoene, K.; Stauber, A.; Darma, A.; Dagres, N.; Dinov, B.; Bertagnolli, L.; Hilbert, S.; Mussigbrodt, A.;
+Husser, D.; et al. Epicardial adipose tissue thickness as an independent predictor of ventricular tachycardia recurrence following
+ablation. Heart Rhythm. 2019, 16, 1492–1498. [CrossRef]
+
+194. Iacobellis, G.; Bianco, A.C. Epicardial adipose tissue: Emerging physiological, pathophysiological and clinical features. Trends
+
+Endocrinol. Metab. 2011, 22, 450–457. [CrossRef]
+
+195. Gonzalez, N.; Moreno-Villegas, Z.; Gonzalez-Bris, A.; Egido, J.; Lorenzo, O. Regulation of visceral and epicardial adipose tissue
+
+for preventing cardiovascular injuries associated to obesity and diabetes. Cardiovasc. Diabetol. 2017, 16, 44. [CrossRef]
+
+196. Iacobellis, G. Epicardial adipose tissue in contemporary cardiology. Nat. Rev. Cardiol. 2022, 19, 593–606. [CrossRef] [PubMed]
+197. Mukherjee, A.G.; Renu, K.; Gopalakrishnan, A.V.; Jayaraj, R.; Dey, A.; Vellingiri, B.; Ganesan, R. Epicardial adipose tissue and
+
+cardiac lipotoxicity: A review. Life Sci. 2023, 328, 121913. [CrossRef] [PubMed]
+
+198. Liu, C.; Feng, X.; Li, Q.; Wang, Y.; Li, Q.; Hua, M. Adiponectin, TNF-alpha and inflammatory cytokines and risk of type 2 diabetes:
+
+A systematic review and meta-analysis. Cytokine 2016, 86, 100–109. [CrossRef] [PubMed]
+
+199. Ziegler, D.; Strom, A.; Strassburger, K.; Knebel, B.; Bonhof, G.J.; Kotzka, J.; Szendroedi, J.; Roden, M. Association of cardiac
+autonomic dysfunction with higher levels of plasma lipid metabolites in recent-onset type 2 diabetes. Diabetologia 2021, 64,
+458–468. [CrossRef] [PubMed]
+
+200. Schrauwen, P.; Schrauwen-Hinderling, V.; Hoeks, J.; Hesselink, M.K. Mitochondrial dysfunction and lipotoxicity. Biochim. Biophys.
+
+Acta 2010, 1801, 266–271. [CrossRef]
+
+201. Romer, A.; Linn, T.; Petry, S.F. Lipotoxic impairment of mitochondrial function in beta-cells: A review. Antioxidants 2021, 10, 293.
+
+[CrossRef]
+
+202. Ayala, A.; Munoz, M.F.; Arguelles, S. Lipid peroxidation: Production, metabolism, and signaling mechanisms of malondialdehyde
+
+and 4-hydroxy-2-nonenal. Oxid. Med. Cell Longev. 2014, 2014, 360438. [CrossRef]
+
+203. Guo, C.; Sun, L.; Chen, X.; Zhang, D. Oxidative stress, mitochondrial damage and neurodegenerative diseases. Neural Regen. Res.
+
+2013, 8, 2003–2014.
+
+204. Bhat, A.H.; Dar, K.B.; Anees, S.; Zargar, M.A.; Masood, A.; Sofi, M.A.; Ganie, S.A. Oxidative stress, mitochondrial dysfunction
+
+and neurodegenerative diseases; a mechanistic insight. Biomed. Pharmacother. 2015, 74, 101–110. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+25 of 28
+
+205. Li, R.L.; Wang, L.Y.; Duan, H.X.; Zhang, Q.; Guo, X.; Wu, C.; Peng, W. Regulation of mitochondrial dysfunction induced cell
+apoptosis is a potential therapeutic strategy for herbal medicine to treat neurodegenerative diseases. Front. Pharmacol. 2022, 13,
+937289. [CrossRef]
+
+206. Rumora, A.E.; Guo, K.; Hinder, L.M.; O’Brien, P.D.; Hayes, J.M.; Hur, J.; Feldman, E.L. A high-fat diet disrupts nerve lipids and
+
+mitochondrial function in murine models of neuropathy. Front. Physiol. 2022, 13, 921942. [CrossRef] [PubMed]
+
+207. Oltman, C.L.; Coppey, L.J.; Gellett, J.S.; Davidson, E.P.; Lund, D.D.; Yorek, M.A. Progression of vascular and neural dysfunction
+in sciatic nerves of Zucker diabetic fatty and Zucker rats. Am. J. Physiol. Endocrinol. Metab. 2005, 289, E113–E122. [CrossRef]
+[PubMed]
+
+208. Lupachyk, S.; Watcho, P.; Hasanova, N.; Julius, U.; Obrosova, I.G. Triglyceride, nonesterified fatty acids, and prediabetic
+
+neuropathy: Role for oxidative-nitrosative stress. Free Radic. Biol. Med. 2012, 52, 1255–1263. [CrossRef] [PubMed]
+
+209. Toczylowski, K.; Hirnle, T.; Harasiuk, D.; Zabielski, P.; Lewczuk, A.; Dmitruk, I.; Ksiazek, M.; Sulik, A.; Gorski, J.; Chabowski,
+A.; et al. Plasma concentration and expression of adipokines in epicardial and subcutaneous adipose tissue are associated with
+impaired left ventricular filling pattern. J. Transl. Med. 2019, 17, 310. [CrossRef]
+
+210. Rodriguez, A.; Becerril, S.; Hernandez-Pardos, A.W.; Fruhbeck, G. Adipose tissue depot differences in adipokines and effects on
+
+skeletal and cardiac muscle. Curr. Opin. Pharmacol. 2020, 52, 1–8. [CrossRef]
+
+211. Abraham, T.M.; Pedley, A.; Massaro, J.M.; Hoffmann, U.; Fox, C.S. Association between visceral and subcutaneous adipose depots
+
+and incident cardiovascular disease risk factors. Circulation 2015, 132, 1639–1647. [CrossRef]
+
+212. Jung, C.H.; Jung, S.H.; Kim, B.Y.; Kim, C.H.; Kang, S.K.; Mok, J.O. Association of serum omentin levels with cardiac autonomic
+neuropathy in patients with type 2 diabetes mellitus: A hospital-based study. Cardiovasc. Diabetol. 2015, 14, 140. [CrossRef]
+213. Jung, C.H.; Kim, B.Y.; Kim, C.H.; Kang, S.K.; Jung, S.H.; Mok, J.O. Association of serum adipocytokine levels with cardiac
+
+autonomic neuropathy in type 2 diabetic patients. Cardiovasc. Diabetol. 2012, 11, 24. [CrossRef]
+
+214. Lai, Y.-R.; Chiu, W.-C.; Cheng, B.-C.; Chen, J.-F.; Tsai, N.-W.; Huang, C.-C.; Lu, C.-H. Associations between adipocytokines and
+
+severity of cardiovascular autonomic neuropathy in well-controlled type 2 diabetes and prediabetes. Preprint 2020. [CrossRef]
+
+215. Patraca, I.; Martinez, N.; Busquets, O.; Marti, A.; Pedros, I.; Beas-Zarate, C.; Marin, M.; Ettcheto, M.; Sureda, F.; Auladell, C.;
+et al. Anti-inflammatory role of leptin in glial cells through p38 MAPK pathway inhibition. Pharmacol. Rep. 2017, 69, 409–418.
+[CrossRef]
+
+216. Perez-Perez, A.; Sanchez-Jimenez, F.; Vilarino-Garcia, T.; Sanchez-Margalet, V. Role of leptin in inflammation and vice versa. Int.
+
+J. Mol. Sci. 2020, 21, 5887. [CrossRef] [PubMed]
+
+217. Santos, C.L.; Bobermin, L.D.; Souza, D.O.; Quincozes-Santos, A. Leptin stimulates the release of pro-inflammatory cytokines in
+
+hypothalamic astrocyte cultures from adult and aged rats. Metab. Brain Dis. 2018, 33, 2059–2063. [CrossRef] [PubMed]
+
+218. Cernea, S.; Both, E.; Hutanu, A.; Sular, F.L.; Roiban, A.L. Correlations of serum leptin and leptin resistance with depression and
+
+anxiety in patients with type 2 diabetes. Psychiatry Clin. Neurosci. 2019, 73, 745–753. [CrossRef] [PubMed]
+
+219. Goncalves, A.C.; Tank, J.; Diedrich, A.; Hilzendeger, A.; Plehm, R.; Bader, M.; Luft, F.C.; Jordan, J.; Gross, V. Diabetic hypertensive
+leptin receptor-deficient db/db mice develop cardioregulatory autonomic dysfunction. Hypertension 2009, 53, 387–392. [CrossRef]
+220. Fruhbeck, G.; Catalan, V.; Rodriguez, A.; Ramirez, B.; Becerril, S.; Portincasa, P.; Gomez-Ambrosi, J. Normalization of adiponectin
+concentrations by leptin replacement in ob/ob mice is accompanied by reductions in systemic oxidative stress and inflammation.
+Sci. Rep. 2017, 7, 2752. [CrossRef]
+
+221. Yagishita, Y.; Uruno, A.; Fukutomi, T.; Saito, R.; Saigusa, D.; Pi, J.; Fukamizu, A.; Sugiyama, F.; Takahashi, S.; Yamamoto, M. Nrf2
+improves leptin and insulin resistance provoked by hypothalamic oxidative stress. Cell Rep. 2017, 18, 2030–2044. [CrossRef]
+[PubMed]
+
+222. Al-Kuraishy, H.; Abdul-Hadi, M.; Naji, M.; Shams, H.; Sami, O.; Al-Harchan, N.-A.; Al-Gareeb, A. Oxidative stress injury and
+glucolipotoxicity in type 2 diabetes mellitus: The potential role of metformin and sitagliptin. Biomed. Biotechnol. Res. J. (BBRJ)
+2020, 4, 166–172. [CrossRef]
+
+223. Bakkar, N.Z.; Dwaib, H.S.; Fares, S.; Eid, A.H.; Al-Dhaheri, Y.; El-Yazbi, A.F. Cardiac autonomic neuropathy: A progressive
+consequence of chronic low-grade inflammation in type 2 diabetes and related metabolic disorders. Int. J. Mol. Sci. 2020, 21, 9005.
+[CrossRef]
+
+224. Cerf, M.E. Cardiac glucolipotoxicity and cardiovascular outcomes. Medicina 2018, 54, 70. [CrossRef]
+225. Herder, C.; Schamarek, I.; Nowotny, B.; Carstensen-Kirberg, M.; Strassburger, K.; Nowotny, P.; Kannenberg, J.M.; Strom, A.;
+Puttgen, S.; Mussig, K.; et al. Inflammatory markers are associated with cardiac autonomic dysfunction in recent-onset type 2
+diabetes. Heart 2017, 103, 63–70. [CrossRef]
+
+226. Cinti, S.; Mitchell, G.; Barbatelli, G.; Murano, I.; Ceresi, E.; Faloia, E.; Wang, S.; Fortier, M.; Greenberg, A.S.; Obin, M.S. Adipocyte
+death defines macrophage localization and function in adipose tissue of obese mice and humans. J. Lipid Res. 2005, 46, 2347–2355.
+[CrossRef] [PubMed]
+
+227. Weisberg, S.P.; McCann, D.; Desai, M.; Rosenbaum, M.; Leibel, R.L.; Ferrante, A.W., Jr. Obesity is associated with macrophage
+
+accumulation in adipose tissue. J. Clin. Investig. 2003, 112, 1796–1808. [CrossRef] [PubMed]
+
+228. Meier, B.; Radeke, H.H.; Selle, S.; Younes, M.; Sies, H.; Resch, K.; Habermehl, G.G. Human fibroblasts release reactive oxygen
+
+species in response to interleukin-1 or tumour necrosis factor-α. Biochem. J. 1989, 263, 539–545. [CrossRef] [PubMed]
+
+229. Griffin, M.J. On the immunometabolic role of NF-kappaB in adipocytes. Immunometabolism 2022, 4, e220003. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+26 of 28
+
+230. Sen, A.; Mohanraj, P.S.; Ranjan, A.; Rajendran, V.; ArulVijayaVani, S.; Balan, Y.; Bansal, A. Unraveling the role of tumor necrosis
+factor-alpha in diabetic peripheral neuropathy: A systematic review and Meta-analysis. Cureus 2023, 15, e49926. [CrossRef]
+231. Kaur, P.; Kotru, S.; Singh, S.; Munshi, A. Role of miRNAs in diabetic neuropathy: Mechanisms and possible interventions. Mol.
+
+Neurobiol. 2022, 59, 1836–1849. [CrossRef]
+
+232. Zhang, J.; Cui, C.; Xu, H. Downregulation of miR-145-5p elevates retinal ganglion cell survival to delay diabetic retinopathy
+
+progress by targeting FGF5. Biosci. Biotechnol. Biochem. 2019, 83, 1655–1662. [CrossRef]
+
+233. Pavlov, V.A.; Tracey, K.J. The vagus nerve and the inflammatory reflex--linking immunity and metabolism. Nat. Rev. Endocrinol.
+
+2012, 8, 743–754. [CrossRef]
+
+234. Bonaz, B.; Sinniger, V.; Pellissier, S. Anti-inflammatory properties of the vagus nerve: Potential therapeutic implications of vagus
+
+nerve stimulation. J. Physiol. 2016, 594, 5781–5790. [CrossRef]
+
+235. Maser, R.E.; Lenhard, M.J.; Pohlig, R.T. Vitamin D insufficiency is associated with reduced parasympathetic nerve fiber function
+
+in type 2 diabetes. Endocr. Pract. 2015, 21, 174–181. [CrossRef]
+
+236. Jung, C.H.; Jung, S.H.; Kim, K.J.; Kim, B.Y.; Kim, C.H.; Kang, S.K.; Mok, J.O. The relationship between vitamin D status and
+cardiac autonomic neuropathy in patients with type 2 diabetes mellitus. Diabetes Vasc. Dis. Res. 2015, 12, 342–351. [CrossRef]
+[PubMed]
+
+237. Luo, X.; Xiong, J.; Cai, H.; Zou, R.; Li, F.; Wang, Y.; Wang, C. Effects of vitamin D deficiency on the function of the cardiac
+
+autonomic nervous system in rats. Cardiovasc. Ther. 2022, 2022, 4366948. [CrossRef] [PubMed]
+
+238. Hansen, C.S.; Jensen, J.S.; Ridderstrale, M.; Vistisen, D.; Jorgensen, M.E.; Fleischer, J. Vitamin B12 deficiency is associated with
+cardiovascular autonomic neuropathy in patients with type 2 diabetes. J. Diabetes Complicat. 2017, 31, 202–208. [CrossRef]
+[PubMed]
+
+239. Meher, M.; Panda, J.K. Impact of glycemic control over cardiac autonomic neuropathy. J. Diabetes Metab. Disord. 2020, 19,
+
+1339–1344. [CrossRef] [PubMed]
+
+240. Silva, L.R.B.; Gentil, P.; Seguro, C.S.; de Oliveira, G.T.; Silva, M.S.; Zamuner, A.R.; Beltrame, T.; Rebelo, A.C.S. High fasting
+glycemia predicts impairment of cardiac autonomic control in adults with type 2 diabetes: A case-control study. Front. Endocrinol.
+2021, 12, 760292. [CrossRef]
+
+241. Tarvainen, M.P.; Laitinen, T.P.; Lipponen, J.A.; Cornforth, D.J.; Jelinek, H.F. Cardiac autonomic dysfunction in type 2 diabetes—
+
+Effect of hyperglycemia and disease duration. Front. Endocrinol. 2014, 5, 130. [CrossRef]
+
+242. Jacobson, A.M. Impact of improved glycemic control on quality of life in patients with diabetes. Endocr. Pract. 2004, 10, 502–508.
+
+[CrossRef]
+
+243. Cassidy, S.; Vaidya, V.; Houghton, D.; Zalewski, P.; Seferovic, J.P.; Hallsworth, K.; MacGowan, G.A.; Trenell, M.I.; Jakovljevic, D.G.
+Unsupervised high-intensity interval training improves glycaemic control but not cardiovascular autonomic function in type 2
+diabetes patients: A randomised controlled trial. Diabetes Vasc. Dis. Res. 2019, 16, 69–76. [CrossRef]
+
+244. Stahn, A.; Pistrosch, F.; Ganz, X.; Teige, M.; Koehler, C.; Bornstein, S.; Hanefeld, M. Relationship between hypoglycemic episodes
+and ventricular arrhythmias in patients with type 2 diabetes and cardiovascular diseases: Silent hypoglycemias and silent
+arrhythmias. Diabetes Care 2014, 37, 516–520. [CrossRef]
+
+245. Li, G.; Zhong, S.; Wang, X.; Zhuge, F. Association of hypoglycaemia with the risks of arrhythmia and mortality in individuals
+
+with diabetes—A systematic review and meta-analysis. Front. Endocrinol. 2023, 14, 1222409. [CrossRef]
+
+246. Achmad, C.; Lim, N.S.; Pramudyo, M.; Iqbal, M.; Karwiky, G.; Febrianora, M.; Natalia, N. Relation between glycemic control
+and cardiac autonomic neuropathy in patients with diabetes mellitus type 2. Curr. Probl. Cardiol. 2023, 48, 101135. [CrossRef]
+[PubMed]
+
+247. Ostropolets, A.; Elias, P.A.; Reyes, M.V.; Wan, E.Y.; Pajvani, U.B.; Hripcsak, G.; Morrow, J.P. Metformin is associated with a lower
+risk of atrial fibrillation and ventricular arrhythmias compared with sulfonylureas: An observational study. Circ. Arrhythm.
+Electrophysiol. 2021, 14, e009115. [CrossRef] [PubMed]
+
+248. Lee, T.T.L.; Hui, J.M.H.; Lee, Y.H.A.; Satti, D.I.; Shum, Y.K.L.; Kiu, P.T.H.; Wai, A.K.C.; Liu, T.; Wong, W.T.; Chan, J.S.K.; et al.
+Sulfonylurea is associated with higher risks of ventricular arrhythmia or sudden cardiac death compared with metformin: A
+population-based cohort study. J. Am. Heart Assoc. 2022, 11, e026289. [CrossRef] [PubMed]
+
+249. Islam, N.; Reynier, P.; Douros, A.; Yu, O.H.Y.; Filion, K.B. Sulphonylureas versus metformin and the risk of ventricular arrhythmias
+among people with type 2 diabetes: A population-based cohort study. Diabetes Obes. Metab. 2023, 25, 1523–1533. [CrossRef]
+[PubMed]
+
+250. Manica, D.; Sandri, G.; da Silva, G.B.; Manica, A.; da Silva Rosa Bonadiman, B.; Dos Santos, D.; Flores, E.M.M.; Bolzan, R.C.;
+Barcelos, R.C.S.; Tomazoni, F.; et al. Evaluation of the effects of metformin on antioxidant biomarkers and mineral levels in
+patients with type II diabetes mellitus: A cross-sectional study. J. Diabetes Complicat. 2023, 37, 108497. [CrossRef]
+
+251. Kristofi, R.; Eriksson, J.W. Metformin as an anti-inflammatory agent: A short review. J. Endocrinol. 2021, 251, R11–R22. [CrossRef]
+252. Sakata, N. The anti-inflammatory effect of metformin: The molecular targets. Genes. Cells 2024, 29, 183–191. [CrossRef]
+253. Syngle, A.; Chahal, S.; Vohra, K. Efficacy and tolerability of DPP4 inhibitor, teneligliptin, on autonomic and peripheral neuropathy
+
+in type 2 diabetes: An open label, pilot study. Neurol. Sci. 2021, 42, 1429–1436. [CrossRef]
+
+254. Sano, M. Mechanism by which dipeptidyl peptidase-4 inhibitors increase the risk of heart failure and possible differences in heart
+
+failure risk. J. Cardiol. 2019, 73, 28–32. [CrossRef]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+27 of 28
+
+255. Packer, M. Do DPP-4 inhibitors cause heart failure events by promoting adrenergically mediated cardiotoxicity? Clues from
+
+laboratory models and clinical trials. Circ. Res. 2018, 122, 928–932. [CrossRef]
+
+256. Drucker, D.J. Mechanisms of action and therapeutic application of glucagon-like peptide-1. Cell Metab. 2018, 27, 740–756.
+
+[CrossRef] [PubMed]
+
+257. Baggio, L.L.; Ussher, J.R.; McLean, B.A.; Cao, X.; Kabir, M.G.; Mulvihill, E.E.; Mighiu, A.S.; Zhang, H.; Ludwig, A.; Seeley, R.J.;
+et al. The autonomic nervous system and cardiac GLP-1 receptors control heart rate in mice. Mol. Metab. 2017, 6, 1339–1349.
+[CrossRef] [PubMed]
+
+258. Ang, R.; Mastitskaya, S.; Hosford, P.S.; Basalay, M.; Specterman, M.; Aziz, Q.; Li, Y.; Orini, M.; Taggart, P.; Lambiase, P.D.; et al.
+Modulation of cardiac ventricular excitability by GLP-1 (glucagon-like peptide-1). Circ. Arrhythm. Electrophysiol. 2018, 11, e006740.
+[CrossRef] [PubMed]
+
+259. Kumarathurai, P.; Anholm, C.; Larsen, B.S.; Olsen, R.H.; Madsbad, S.; Kristiansen, O.; Nielsen, O.W.; Haugaard, S.B.; Sajadieh, A.
+Effects of liraglutide on heart rate and heart rate variability: A randomized, double-blind, placebo-controlled crossover study.
+Diabetes Care 2017, 40, 117–124. [CrossRef] [PubMed]
+
+260. Nystrom, T.; Santos-Pardo, I.; Fang, X.; Cao, Y.; Hedberg, F.; Jendle, J. Heart rate variability in type 2 diabetic subjects randomized
+to liraglutide or glimepiride treatment, both in combination with metformin: A randomized, open, parallel-group study.
+Endocrinol. Diabetes Metab. 2019, 2, e00058. [CrossRef]
+
+261. Greco, C.; Santi, D.; Brigante, G.; Pacchioni, C.; Simoni, M. Effect of the glucagon-like peptide-1 receptor agonists on autonomic
+function in subjects with diabetes: A systematic review and Meta-analysis. Diabetes Metab. J. 2022, 46, 901–911. [CrossRef]
+262. Wei, J.; Wang, R.; Ye, H.; Wang, Y.; Wang, L.; Zhang, X. Effects of GLP-1 receptor agonists on arrhythmias and its subtypes in
+patients with type 2 diabetes: A systematic review and meta-analysis. Front. Endocrinol. (Lausanne) 2022, 13, 910256. [CrossRef]
+
+263. Chao, E.C. SGLT-2 inhibitors: A new mechanism for glycemic control. Clin. Diabetes 2014, 32, 4–11. [CrossRef]
+264. Balcioglu, A.S.; Celik, E.; Sahin, M.; Gocer, K.; Aksu, E.; Aykan, A.C. Dapagliflozin improves cardiac autonomic function measures
+
+in type 2 diabetic patients with cardiac autonomic neuropathy. Anatol. J. Cardiol. 2022, 26, 832–840. [CrossRef]
+
+265. Fujiki, S.; Iijima, K.; Nakagawa, Y.; Takahashi, K.; Okabe, M.; Kusano, K.; Owada, S.; Kondo, Y.; Tsujita, K.; Shimizu, W.; et al. Effect
+of empagliflozin on ventricular arrhythmias in patients with type 2 diabetes treated with an implantable cardioverter-defibrillator:
+The EMPA-ICD trial. Cardiovasc. Diabetol. 2024, 23, 224. [CrossRef]
+
+266. Patoulias, D.; Katsimardou, A.; Fragakis, N.; Papadopoulos, C.; Doumas, M. Effect of SGLT-2 inhibitors on cardiac autonomic
+function in type 2 diabetes mellitus: A meta-analysis of randomized controlled trials. Acta Diabetol. 2023, 60, 1–8. [CrossRef]
+267. Chindhalore, C.A.; Dakhale, G.N.; Kamble, P.H.; Rathod, B.D.; Kumbhalkar, S.; Phatak, M.S. Effect of ramipril on cardiac
+
+autonomic neuropathy in patients with type II diabetes mellitus. Cureus 2023, 15, e36209. [CrossRef] [PubMed]
+
+268. Didangelos, T.; Tziomalos, K.; Margaritidis, C.; Kontoninas, Z.; Stergiou, I.; Tsotoulidis, S.; Karlafti, E.; Mourouglakis, A.;
+Hatzitolios, A.I. Efficacy of administration of an angiotensin converting enzyme inhibitor for two years on autonomic and
+peripheral neuropathy in patients with diabetes mellitus. J. Diabetes Res. 2017, 2017, 6719239. [CrossRef] [PubMed]
+
+269. Malik, R.A.; Williamson, S.; Abbott, C.; Carrington, A.L.; Iqbal, J.; Schady, W.; Boulton, A.J. Effect of angiotensin-converting-
+enzyme (ACE) inhibitor trandolapril on human diabetic neuropathy: Randomised double-blind controlled trial. Lancet 1998, 352,
+1978–1981. [CrossRef] [PubMed]
+
+270. Fabiyi-Edebor, T.D. Vitamin C ameliorated cardiac autonomic neuropathy in type 2 diabetic rats. World J. Diabetes 2020, 11, 52–65.
+
+[CrossRef] [PubMed]
+
+271. Manzella, D.; Barbieri, M.; Ragno, E.; Paolisso, G. Chronic administration of pharmacologic doses of vitamin E improves the
+
+cardiac autonomic nervous system in patients with type 2 diabetes. Am. J. Clin. Nutr. 2001, 73, 1052–1057. [CrossRef]
+
+272. Lee, S.J.; Jeong, S.J.; Lee, Y.C.; Lee, Y.H.; Lee, J.E.; Kim, C.H.; Min, K.W.; Cha, B.Y. Effects of high-dose alpha-lipoic acid on heart
+rate variability of type 2 diabetes mellitus patients with cardiac autonomic neuropathy in Korea. Diabetes Metab. J. 2017, 41,
+275–283. [CrossRef]
+
+273. Ziegler, D.; Schatz, H.; Conrad, F.; Gries, F.A.; Ulrich, H.; Reichel, G. Effects of treatment with the antioxidant α-lipoic acid on
+cardiac autonomic neuropathy in NIDDM patients: A 4-month randomized controlled multicenter trial (DEKAN Study). Diabetes
+Care 1997, 20, 369–373. [CrossRef]
+
+274. Mendoza-Nunez, V.M.; Garcia-Martinez, B.I.; Rosado-Perez, J.; Santiago-Osorio, E.; Pedraza-Chaverri, J.; Hernandez-Abad, V.J.
+The effect of 600 mg alpha-lipoic acid supplementation on oxidative stress, inflammation, and RAGE in older adults with type 2
+diabetes mellitus. Oxid. Med. Cell Longev. 2019, 2019, 3276958. [CrossRef]
+
+275. Hoang, J.D.; Yamakawa, K.; Rajendran, P.S.; Chan, C.A.; Yagishita, D.; Nakamura, K.; Lux, R.L.; Vaseghi, M. Proarrhythmic effects
+of sympathetic activation are mitigated by vagal nerve stimulation in infarcted hearts. JACC Clin. Electrophysiol. 2022, 8, 513–525.
+[CrossRef]
+
+276. Zhao, S.; Dai, Y.; Ning, X.; Tang, M.; Zhao, Y.; Li, Z.; Zhang, S. Vagus nerve stimulation in early stage of acute myocardial
+infarction prevent ventricular arrhythmias and cardiac remodeling. Front. Cardiovasc. Med. 2021, 8, 648910. [CrossRef] [PubMed]
+277. Winter, J.; Tipton, M.J.; Shattock, M.J. Autonomic conflict exacerbates long QT associated ventricular arrhythmias. J. Mol. Cell.
+
+Cardiol. 2018, 116, 145–154. [CrossRef] [PubMed]
+
+278. Wang, Q.; Cheng, Y.; Xue, F.-S.; Yuan, Y.-J.; Xiong, J.; Li, R.-P.; Liao, X.; Liu, J.-H. Postconditioning with vagal stimulation
+attenuates local and systemic inflammatory responses to myocardial ischemia reperfusion injury in rats. Inflamm. Res. 2012, 61,
+1273–1282. [CrossRef] [PubMed]
+
+Int. J. Mol. Sci. 2024, 25, 12464
+
+28 of 28
+
+279. Gupta, R.; Imai, M.; Jiang, A.; Wang, M.; Sabbah, H. Chronic therapy with selective electric vagus nerve stimulation normalizes
+plasma concentration of tissue necrosis factor-alpha, interleukin-6 and B-Type natriuretic peptide in dogs with heart failure. Am.
+Coll. Cardiol. 2006, 47, 77A–78A.
+
+280. Samniang, B.; Shinlapawittayatorn, K.; Chunchai, T.; Pongkan, W.; Kumfu, S.; Chattipakorn, S.C.; KenKnight, B.H.; Chattipakorn,
+N. Vagus nerve stimulation improves cardiac function by preventing mitochondrial dysfunction in obese-insulin resistant rats.
+Sci. Rep. 2016, 6, 19749. [CrossRef]
+
+281. Payne, S.C.; Ward, G.; Fallon, J.B.; Hyakumura, T.; Prins, J.B.; Andrikopoulos, S.; MacIsaac, R.J.; Villalobos, J. Blood glucose
+modulation and safety of efferent vagus nerve stimulation in a type 2 diabetic rat model. Physiol. Rep. 2022, 10, e15257. [CrossRef]
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
