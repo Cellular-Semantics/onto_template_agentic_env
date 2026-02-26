@@ -159,6 +159,7 @@ $RECYCLE.BIN/
 
 # VSCode
 .vscode/
+!.vscode/mcp.json
 *.code-workspace
 
 # JetBrains IDEs
