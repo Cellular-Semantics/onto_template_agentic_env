@@ -30,6 +30,16 @@ All agents in this framework share the following reference materials. Read them 
 3. **If the user provides a term request without template** → invoke `CL-curator-research` first, then route to the appropriate template editor with the research output
 4. **If an ontology ID needs to be looked up or verified** → invoke `ontology-term-lookup`
 
+## Calling CL-curator-research
+
+When writing a Task prompt for `CL-curator-research`:
+
+- Frame the work as a request to **add or change one or more terms** — one entry per term
+- Provide: term labels (or instructions for how to identify them), source references (DOIs/PMIDs or paths to local PDFs), and any special constraints from the user
+- Specify the output file path under `outputs/`
+- **Do NOT specify a report format, section headings, or output structure** — the agent uses its standard curation report format for every term
+- **Do NOT inline source material** — refer to file paths or identifiers only
+
 ## Workflow
 
 1. **User prepares template** — adds ROBOT TSV or DOSDP YAML+TSV to `source_data/`

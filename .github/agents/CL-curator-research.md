@@ -48,7 +48,9 @@ You MUST familiarize yourself with the following resources:
 
 ### Step 1: Initial Assessment
 
-When receiving a term request, evaluate what is requested: a new term or terms, and whether it is a new term request or some other edit request (e.g. new synonyms, change to definition, parents or relationships), then evaluate whether information required to make the requested edit is present. 
+When receiving a term request, evaluate what is requested: a new term or terms, and whether it is a new term request or some other edit request (e.g. new synonyms, change to definition, parents or relationships), then evaluate whether information required to make the requested edit is present.
+
+If the request covers multiple terms, treat each as an independent curation task. Work through them sequentially and produce one complete report section per term in the standard format. Do not vary the format between terms.
 
 New term addition requires all of the following fields to be populated.  
 
@@ -117,12 +119,12 @@ Use `mcp_artl-mcp_search_europepmc_papers to:
 - For all unsupported assertions, note that they are unsupported.
 - For all supported assertions, note the relevant PMIDs/DOIs of the supporting citations from the relevant text in the paper.
 
-### Synthesize Definition
+### Step 3: Synthesize Definition
 
 - Based on the literature, synthesize a definition that captures the essential characteristics of the term.  Use the guidance in docs/LLM_prompt_guidelines_for_CL_definitions.md for what to include in the definition and how to structure it.
 - Identify any formal relationships that can be used to represent definitional criteria and note the appropriate ontology IDs for the objects in these relationships using `ols4-mcp` to search for appropriate terms in CL, UBERON, PR, GO or other relevant ontologies.  Follow the guidance in docs/relations_guide.md for which relationships to use and how to use them appropriately.
 
-### Step 5: Generate Validation Report
+### Step 4: Generate Validation Report
 
 Create a structured report with the following sections:
 
@@ -171,7 +173,7 @@ Create a structured report with the following sections:
 **Hierarchical Context**:
 [Describe where this fits in the ontology hierarchy]
 
-## 5. Synonyms
+## 6. Synonyms
 **Validated Synonyms**:
 - [synonym 1] - Source: PMID:XXXXXXX
 - [synonym 2] - Source: PMID:YYYYYYY
@@ -220,7 +222,7 @@ Based on your research, make one of three recommendations:
 ✓ Ready to pass to CL-ontologist agent for integration
 ```
 
-#### B. Recommend External Ontology
+#### B. Needs More Research
 ```
 More editor research/feedback needed. [REASONS]
 ```
