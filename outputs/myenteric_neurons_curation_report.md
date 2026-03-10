@@ -1,5 +1,25 @@
 # Curation Report: Myenteric Neuron Functional Classes
 
+> **Summary table** — This table may become out of date as individual term sections are revised. To regenerate, ask Claude: *"Regenerate the summary table from the term sections in this report."*
+
+| # | Term | Proposed Parent(s) | Status |
+|---|------|-------------------|--------|
+| 1 | Excitatory motor neuron of myenteric plexus | enteric neuron (CL:0007011) | Ready |
+| 2 | Inhibitory motor neuron of myenteric plexus | inhibitory motor neuron (CL:0008015) + enteric neuron (CL:0007011) | Ready |
+| 3 | Intrinsic primary afferent neuron (IPAN) of myenteric plexus | enteric neuron (CL:0007011) + sensory neuron (CL:0000101) | Ready |
+| 4 | Interneuron of myenteric plexus | enteric neuron (CL:0007011) + interneuron (CL:0000099) | Ready |
+| 5 | Secretomotor/vasodilator neuron of myenteric plexus | enteric neuron (CL:0007011) | Needs research |
+| 6 | Intestinofugal neuron | enteric neuron (CL:0007011) | Needs research |
+| 7 | Ascending interneuron of myenteric plexus | interneuron of myenteric plexus [NEW] | Ready |
+| 8 | Descending interneuron of myenteric plexus | interneuron of myenteric plexus [NEW] | Ready |
+| 9 | Stubby Dogiel type I neuron of myenteric plexus | excitatory motor neuron of myenteric plexus [NEW] + Dogiel type I neuron (CL:4047038) | Ready |
+| 10 | Spiny Dogiel type I neuron of myenteric plexus | inhibitory motor neuron of myenteric plexus [NEW] + Dogiel type I neuron (CL:4047038) | Ready |
+| 11 | Dogiel type II neuron of myenteric plexus | IPAN of myenteric plexus [NEW] + Dogiel type II neuron [NEW] | Blocked (needs parent) |
+| 12 | Calretinin-positive IPAN of myenteric plexus | IPAN of myenteric plexus [NEW] | Ready |
+| 13 | Calretinin-negative IPAN of myenteric plexus | IPAN of myenteric plexus [NEW] | Ready |
+| 14 | Cholinergic neuron of myenteric plexus | cholinergic neuron (CL:0000108) + enteric neuron (CL:0007011) | Ready |
+| 15 | Nitrergic neuron of myenteric plexus | enteric neuron (CL:0007011) | Ready |
+
 **Date**: 2026-03-09
 **Prepared by**: CL-curator-research agent
 **Source references consulted**:
