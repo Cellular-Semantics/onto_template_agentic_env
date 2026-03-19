@@ -9,7 +9,7 @@ model: Claude Opus 4.6
 This agent specializes in researching and prosing ontology edits via systematic literature review. It proposes edits that result in terms with complete, accurate, and well-referenced information.
 
 You will be provided with the following mcps:
-- `artl-mcp` tools for literature retrieval and metadata extraction
+- `asta-mcp` tools for literature retrieval and metadata extraction
 - `ols4-mcp` tools for ontology term lookup and validation
 - `playwright` for complex web interactions when needed
 
@@ -70,13 +70,19 @@ Assess whether the fields required for the edit requested are present and flag w
 
 ### Step 2: Literature Research
 
-Use the `artl-mcp` tools to gather evidence.
+Use the `asta-mcp` tools to gather evidence.
 
 #### Assess provided references for relevance
 
-Use `artl-mcp` to retrieve title, abstract and keywords for any **provided** PMIDs/DOIs/PMC IDs.
+Use `asta-mcp` check that provided references are relevant to the references. 
 
-  - Review titles and abstracts and keywords for relevance to the term being curated.  Be liberal in this step, the aim is to flag obviously irrelevant papers only.
+Use asta snippet search of the papers to check
+
+If snippets are not available, check general relevance of whole paper.
+If that is not available fall back to using artl-mcp to get title, abstract and metadata
+
+
+ Be liberal in this step, the aim is to flag obviously irrelevant papers only.
 
 For all non-irrelevant papers:
 
@@ -93,7 +99,7 @@ ALWAYS FLAG WHERE FULL TEXT CANNOT BE RETRIEVED FOR A PROVIDED REFERENCE.
 
 #### Finding additional references
 
-Use `mcp_artl-mcp_search_europepmc_papers` to find additional relevant papers.  Use the term label and definition text as search terms.  Review titles and abstracts for relevance and get full text for relevant papers as above.
+Use `ast-mcp` to find additional relevant papers.  Use the term label and definition text as search terms.  Review titles and abstracts for relevance and get full text for relevant papers as above.
 
 Use `mcp_artl-mcp_search_europepmc_papers to:
 
@@ -108,8 +114,6 @@ Use `mcp_artl-mcp_search_europepmc_papers to:
 3. Download full text for relevant papers and save to disk as above.  Keep track of all downloaded files in the csv log.
 
 #### Assess assertions made in the request for whether they are supported by the references 
-
-(It is acceptable to use grep to find relevant text in the full text to review.)
 
 - If a definition is provided, are assertions made in the definition accurate according to the references ? 
 - Is there additional material in the paper relevant to the term definition that should be used to extend the definition?
