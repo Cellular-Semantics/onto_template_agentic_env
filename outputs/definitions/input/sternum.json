@@ -1,0 +1,46 @@
+{
+  "group_name": "sternum",
+  "parent_bones": [
+    "sternum"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Sternum"
+  ],
+  "terms": [
+    {
+      "label": "costal notches of sternum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000975",
+      "parent_bone": "sternum"
+    },
+    {
+      "label": "sternal angle of sternum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000975",
+      "parent_bone": "sternum"
+    },
+    {
+      "label": "sternal body of sternum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000975",
+      "parent_bone": "sternum"
+    },
+    {
+      "label": "sternal region bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000975",
+      "parent_bone": "sternum"
+    },
+    {
+      "label": "transverse ridges of sternum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000975",
+      "parent_bone": "sternum"
+    }
+  ]
+}

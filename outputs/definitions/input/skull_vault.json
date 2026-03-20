@@ -1,0 +1,148 @@
+{
+  "group_name": "skull_vault",
+  "parent_bones": [
+    "frontal bone",
+    "occipital bone",
+    "parietal bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Occipital_bone",
+    "https://en.wikipedia.org/wiki/Frontal_bone",
+    "https://en.wikipedia.org/wiki/Parietal_bone"
+  ],
+  "terms": [
+    {
+      "label": "external occipital protuberance of squamous part of occipital bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "foramen magnum of basilar part of occipital bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "frontal crest of frontal bone",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "frontal sinus of frontal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "glabella of frontal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "granula foveaolae of parietal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000210",
+      "parent_bone": "parietal bone"
+    },
+    {
+      "label": "groove for middle meningeal a. of parietal bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0000210",
+      "parent_bone": "parietal bone"
+    },
+    {
+      "label": "groove for superior sagittal sinus of frontal bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "groove for superior sagittal sinus of parietal bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0000210",
+      "parent_bone": "parietal bone"
+    },
+    {
+      "label": "groove for transverse sinus of squamous part of occipital bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "hypoglossal canal of basilar part of occipital bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "inferior nuchal line of squamous part of occipital bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "internal occipital protuberance of squamous part of occipital bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "jugular foramen of basilar part of occipital bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "lacrimal fossa of frontal bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "occipital condyle of basilar part of occipital bone",
+      "genus_id": "UBERON:0009979",
+      "genus_label": "condyle",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "supercilary arch of frontal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    },
+    {
+      "label": "superior nuchal line of squamous part of occipital bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001676",
+      "parent_bone": "occipital bone"
+    },
+    {
+      "label": "supraorbital notch or foramen of frontal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0000209",
+      "parent_bone": "frontal bone"
+    }
+  ]
+}

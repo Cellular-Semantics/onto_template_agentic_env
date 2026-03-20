@@ -1,0 +1,165 @@
+{
+  "group_name": "temporal",
+  "parent_bones": [
+    "temporal bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Temporal_bone"
+  ],
+  "terms": [
+    {
+      "label": "articular tubercle of squamous part of temporal bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "carotid canal of petrous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "external auditory meatus of squamous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "groove for posterior deep temporal artery of squamous part of temporal bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "groove for sigmoid sinus of mastoid part of temporal bone",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "hiatus and groove of petrous part of temporal bone for greater petrosal nerve",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "hiatus and groove of petrous part of temporal bone for lesser petrosal nerve",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "internal auditory meatus of petrous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "jugular foramen of petrous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "mandibular fossa of squamous part of temporal bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "mastoid foramen of mastoid part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "mastoid notch of mastoid part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "mastoid process of mastoid part of temporal bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "petrotympanic fissure of squamous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "postglenoid tubercle of squamous part of temporal bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "styloid process of petrous part of temporal bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "stylomastoid foramen of petrous part of temporal bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "supramastoid crest of squamous part of temporal bone",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "temporal fossa of parietal bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "trigeminal impression of petrous part of temporal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "tympanic caniliculus of petrous part of temporal bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    },
+    {
+      "label": "zygomatic process of squamous part of temporal bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001678",
+      "parent_bone": "temporal bone"
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "group_name": "cervical_vertebrae",
+  "parent_bones": [
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "atlas (C1)",
+    "axis (C2)"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Atlas_(anatomy)",
+    "https://en.wikipedia.org/wiki/Cervical_vertebrae",
+    "https://en.wikipedia.org/wiki/Axis_(anatomy)"
+  ],
+  "terms": [
+    {
+      "label": "anterior arch of first cervical vertebra",
+      "genus_id": "UBERON:0005814",
+      "genus_label": "arch of atlas",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "anterior tubercle of first cervical vertebra",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "body of second cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "groove for vertebral artery of first cervical vertebra",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "inferior articular facet of fifth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004614",
+      "parent_bone": "C5"
+    },
+    {
+      "label": "inferior articular facet of first cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "inferior articular facet of fourth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004613",
+      "parent_bone": "C4"
+    },
+    {
+      "label": "inferior articular facet of second cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "inferior articular facet of seventh cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004616",
+      "parent_bone": "C7"
+    },
+    {
+      "label": "inferior articular facet of sixth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004615",
+      "parent_bone": "C6"
+    },
+    {
+      "label": "inferior articular facet of third cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004612",
+      "parent_bone": "C3"
+    },
+    {
+      "label": "inferior articular process of first cervical vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "inferior articular process of second cervical vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "inferior vertebral notch of first cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "lamina of first cervical vertebra",
+      "genus_id": "UBERON:0004662",
+      "genus_label": "vertebra lamina",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "lamina of second cervical vertebra",
+      "genus_id": "UBERON:0004662",
+      "genus_label": "vertebra lamina",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "pedicle of first cervical vertebra",
+      "genus_id": "UBERON:0001078",
+      "genus_label": "pedicle of vertebra",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "pedicle of second cervical vertebra",
+      "genus_id": "UBERON:0001078",
+      "genus_label": "pedicle of vertebra",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "posterior arch of first cervical vertebra",
+      "genus_id": "UBERON:0005814",
+      "genus_label": "arch of atlas",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "posterior tubercle of first cervical vertebra",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "spinous process of first cervical vertebra",
+      "genus_id": "UBERON:0001076",
+      "genus_label": "neural spine",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "spinous process of second cervical vertebra",
+      "genus_id": "UBERON:0001076",
+      "genus_label": "neural spine",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "superior articular facet of fifth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004614",
+      "parent_bone": "C5"
+    },
+    {
+      "label": "superior articular facet of first cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "superior articular facet of fourth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004613",
+      "parent_bone": "C4"
+    },
+    {
+      "label": "superior articular facet of second cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "superior articular facet of seventh cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004616",
+      "parent_bone": "C7"
+    },
+    {
+      "label": "superior articular facet of sixth cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004615",
+      "parent_bone": "C6"
+    },
+    {
+      "label": "superior articular facet of third cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004612",
+      "parent_bone": "C3"
+    },
+    {
+      "label": "superior articular process of first cervical vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "superior articular process of second cervical vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "superior vertebral notch of first cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "superior vertebral notch of second cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "transverse foramen of first cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "transverse foramen of second cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "transverse process of first cervical vertebra",
+      "genus_id": "UBERON:0001077",
+      "genus_label": "transverse process of vertebra",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "transverse process of second cervical vertebra",
+      "genus_id": "UBERON:0001077",
+      "genus_label": "transverse process of vertebra",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "vertebra prominens of seventh cervical vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004616",
+      "parent_bone": "C7"
+    },
+    {
+      "label": "vertebral arch of fifth cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004614",
+      "parent_bone": "C5"
+    },
+    {
+      "label": "vertebral arch of fourth cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004613",
+      "parent_bone": "C4"
+    },
+    {
+      "label": "vertebral arch of second cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "vertebral arch of seventh cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004616",
+      "parent_bone": "C7"
+    },
+    {
+      "label": "vertebral arch of sixth cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004615",
+      "parent_bone": "C6"
+    },
+    {
+      "label": "vertebral arch of third cervical vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004612",
+      "parent_bone": "C3"
+    },
+    {
+      "label": "vertebral body of fifth cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004614",
+      "parent_bone": "C5"
+    },
+    {
+      "label": "vertebral body of first cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "vertebral body of fourth cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004613",
+      "parent_bone": "C4"
+    },
+    {
+      "label": "vertebral body of second cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    },
+    {
+      "label": "vertebral body of seventh cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004616",
+      "parent_bone": "C7"
+    },
+    {
+      "label": "vertebral body of sixth cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004615",
+      "parent_bone": "C6"
+    },
+    {
+      "label": "vertebral body of third cervical vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004612",
+      "parent_bone": "C3"
+    },
+    {
+      "label": "vertebral foramen of first cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001092",
+      "parent_bone": "atlas (C1)"
+    },
+    {
+      "label": "vertebral foramen of second cervical vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001093",
+      "parent_bone": "axis (C2)"
+    }
+  ]
+}

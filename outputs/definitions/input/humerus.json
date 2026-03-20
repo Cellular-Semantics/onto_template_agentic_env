@@ -1,0 +1,39 @@
+{
+  "group_name": "humerus",
+  "parent_bones": [
+    "humerus"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Humerus"
+  ],
+  "terms": [
+    {
+      "label": "coronoid fossa of humerus",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0000976",
+      "parent_bone": "humerus"
+    },
+    {
+      "label": "olecranon fossa of humerus",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0000976",
+      "parent_bone": "humerus"
+    },
+    {
+      "label": "radial fossa of humerus",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0000976",
+      "parent_bone": "humerus"
+    },
+    {
+      "label": "radial groove of humerus",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0000976",
+      "parent_bone": "humerus"
+    }
+  ]
+}

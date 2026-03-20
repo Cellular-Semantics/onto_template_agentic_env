@@ -1,0 +1,67 @@
+{
+  "group_name": "calcaneus",
+  "parent_bones": [
+    "calcaneus"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Calcaneus"
+  ],
+  "terms": [
+    {
+      "label": "articular surface for cuboid bone of calcaneus",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "body of calcaneus",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "calcaneal sulcus of calcaneus",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "calcaneal tuberosity of calcaneus",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "groove for tendon of flexor hallucis longus muscle of calcaneus",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "lateral process of tuberosity of calcaneus",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "medial process of tuberosity of calcaneus",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    },
+    {
+      "label": "sustentaculum tali of calcaneus",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001450",
+      "parent_bone": "calcaneus"
+    }
+  ]
+}

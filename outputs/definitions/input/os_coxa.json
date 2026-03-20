@@ -1,0 +1,253 @@
+{
+  "group_name": "os_coxa",
+  "parent_bones": [
+    "os coxa (innominate bone)"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Hip_bone",
+    "https://en.wikipedia.org/wiki/Acetabulum",
+    "https://en.wikipedia.org/wiki/Ilium_(bone)",
+    "https://en.wikipedia.org/wiki/Ischium",
+    "https://en.wikipedia.org/wiki/Pubis_(bone)"
+  ],
+  "terms": [
+    {
+      "label": "acetabular fossa of os coxa",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "acetabular notch of os coxa",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "acetabulum of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "anterior gluteal line of ilium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "anterior inferior iliac spine of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "anterior superior iliac spine of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "arcuate line of ilium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "auricular surface of ilium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "gluteal surface of ilium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "greater sciatic notch of ilium of os coxa",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "iliac crest of ilium of os coxa",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "iliac fossa of ilium of os coxa",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "iliac tubercle of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "iliac tuberosity of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "iliopubic ramus of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "inferior pubic ramus of pubis of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "ischial body of ischium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "ischial ramus of ischium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "ischial spine of ischium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "ischial tuberosity of ischium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "ischiopubic ramus of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "lesser sciatic notch of ischium of os coxa",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "lunate surface of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "obturator foramen of os coxa",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "obturator groove of pubis of os coxa",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "pecten pubis of pubis of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "posterior gluteal line of ilium of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "posterior inferior iliac spine of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "posterior superior iliac spine of ilium of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "pubic body of pubis of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "pubic crest of pubis of os coxa",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "pubic symphysis of pubis of os coxa",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "pubic tubercle of pubis of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    },
+    {
+      "label": "superior pubic ramus of pubis of os coxa",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001272",
+      "parent_bone": "os coxa (innominate bone)"
+    }
+  ]
+}

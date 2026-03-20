@@ -1,0 +1,155 @@
+{
+  "group_name": "lumbar_vertebrae",
+  "parent_bones": [
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Lumbar_vertebrae"
+  ],
+  "terms": [
+    {
+      "label": "mammillary process of fifth lumbar vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0004621",
+      "parent_bone": "L5"
+    },
+    {
+      "label": "mammillary process of first lumbar vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0004617",
+      "parent_bone": "L1"
+    },
+    {
+      "label": "mammillary process of fourth lumbar vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0004620",
+      "parent_bone": "L4"
+    },
+    {
+      "label": "mammillary process of second lumbar vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0004618",
+      "parent_bone": "L2"
+    },
+    {
+      "label": "mammillary process of third lumbar vertebra",
+      "genus_id": "UBERON:0006061",
+      "genus_label": "process of vertebra",
+      "parent_id": "UBERON:0004619",
+      "parent_bone": "L3"
+    },
+    {
+      "label": "superior articular facet of fifth lumbar vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004621",
+      "parent_bone": "L5"
+    },
+    {
+      "label": "superior articular facet of first lumbar vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004617",
+      "parent_bone": "L1"
+    },
+    {
+      "label": "superior articular facet of fourth lumbar vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004620",
+      "parent_bone": "L4"
+    },
+    {
+      "label": "superior articular facet of second lumbar vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004618",
+      "parent_bone": "L2"
+    },
+    {
+      "label": "superior articular facet of third lumbar vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004619",
+      "parent_bone": "L3"
+    },
+    {
+      "label": "vertebral arch of fifth lumbar vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004621",
+      "parent_bone": "L5"
+    },
+    {
+      "label": "vertebral arch of first lumbar vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004617",
+      "parent_bone": "L1"
+    },
+    {
+      "label": "vertebral arch of fourth lumbar vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004620",
+      "parent_bone": "L4"
+    },
+    {
+      "label": "vertebral arch of second lumbar vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004618",
+      "parent_bone": "L2"
+    },
+    {
+      "label": "vertebral arch of third lumbar vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004619",
+      "parent_bone": "L3"
+    },
+    {
+      "label": "vertebral body of fifth lumbar vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004621",
+      "parent_bone": "L5"
+    },
+    {
+      "label": "vertebral body of first lumbar vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004617",
+      "parent_bone": "L1"
+    },
+    {
+      "label": "vertebral body of fourth lumbar vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004620",
+      "parent_bone": "L4"
+    },
+    {
+      "label": "vertebral body of second lumbar vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004618",
+      "parent_bone": "L2"
+    },
+    {
+      "label": "vertebral body of third lumbar vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004619",
+      "parent_bone": "L3"
+    }
+  ]
+}

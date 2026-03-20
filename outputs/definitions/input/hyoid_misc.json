@@ -1,0 +1,32 @@
+{
+  "group_name": "hyoid_misc",
+  "parent_bones": [
+    "hyoid bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Hyoid_bone"
+  ],
+  "terms": [
+    {
+      "label": "greater cornu of hyoid bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001685",
+      "parent_bone": "hyoid bone"
+    },
+    {
+      "label": "hyoid region bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001685",
+      "parent_bone": "hyoid bone"
+    },
+    {
+      "label": "lesser cornu of hyoid bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001685",
+      "parent_bone": "hyoid bone"
+    }
+  ]
+}

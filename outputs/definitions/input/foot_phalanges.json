@@ -1,0 +1,42 @@
+{
+  "group_name": "foot_phalanges",
+  "parent_bones": [
+    "distal phalanx pedal digit 1",
+    "distal phalanx pedal digit 2",
+    "middle phalanx pedal digit 2",
+    "proximal phalanx pedal digit 1"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Phalanx_bone"
+  ],
+  "terms": [
+    {
+      "label": "base of first distal phalanx of foot",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004315",
+      "parent_bone": "distal phalanx pedal digit 1"
+    },
+    {
+      "label": "base of first proximal phalanx of foot",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004332",
+      "parent_bone": "proximal phalanx pedal digit 1"
+    },
+    {
+      "label": "head of second distal phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004316",
+      "parent_bone": "distal phalanx pedal digit 2"
+    },
+    {
+      "label": "head of second middle phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004324",
+      "parent_bone": "middle phalanx pedal digit 2"
+    }
+  ]
+}

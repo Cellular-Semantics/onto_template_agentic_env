@@ -1,0 +1,90 @@
+{
+  "group_name": "maxilla_palatine",
+  "parent_bones": [
+    "maxilla",
+    "palatine bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Maxilla",
+    "https://en.wikipedia.org/wiki/Palatine_bone"
+  ],
+  "terms": [
+    {
+      "label": "greater palatine canal of maxilla",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "greater palatine foramen of palatine bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001682",
+      "parent_bone": "palatine bone"
+    },
+    {
+      "label": "groove for nasopalatine nerve of vomer",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001682",
+      "parent_bone": "palatine bone"
+    },
+    {
+      "label": "incisive foramen of maxilla",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "infraorbital canal of maxilla",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "infraorbital foramen of maxilla",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "infraorbital groove of maxilla",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "intermaxillary suture of maxilla",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "lesser palatine foramen of palatine bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001682",
+      "parent_bone": "palatine bone"
+    },
+    {
+      "label": "maxillary sinus of maxilla",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    },
+    {
+      "label": "nasolacrimal canal of maxilla",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0002397",
+      "parent_bone": "maxilla"
+    }
+  ]
+}

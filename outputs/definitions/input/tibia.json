@@ -1,0 +1,67 @@
+{
+  "group_name": "tibia",
+  "parent_bones": [
+    "tibia"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Tibia"
+  ],
+  "terms": [
+    {
+      "label": "anterolateral tubercle of tibia",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "fibular facet of tibia",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "fibular notch of tibia",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "interosseus border of tibia",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "medial malleolus of tibia",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "soleal line of tibia",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "tibial plateau of tibia",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    },
+    {
+      "label": "tibial tuberosity of tibia",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0000979",
+      "parent_bone": "tibia"
+    }
+  ]
+}

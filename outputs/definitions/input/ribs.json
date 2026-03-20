@@ -1,0 +1,239 @@
+{
+  "group_name": "ribs",
+  "parent_bones": [
+    "eighth rib",
+    "eleventh rib",
+    "fifth rib",
+    "first rib",
+    "fourth rib",
+    "ninth rib",
+    "second rib",
+    "seventh rib",
+    "sixth rib",
+    "tenth rib",
+    "third rib",
+    "twelfth rib"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Rib"
+  ],
+  "terms": [
+    {
+      "label": "costal groove of first rib",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "costal groove of twelfth rib",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0004611",
+      "parent_bone": "twelfth rib"
+    },
+    {
+      "label": "facet of eleventh rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004610",
+      "parent_bone": "eleventh rib"
+    },
+    {
+      "label": "facet of first rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "facet of tenth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004609",
+      "parent_bone": "tenth rib"
+    },
+    {
+      "label": "facet of twelfth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004611",
+      "parent_bone": "twelfth rib"
+    },
+    {
+      "label": "groove for subclavian artery of first rib",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "groove for subclavian vein of first rib",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of eighth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0010757",
+      "parent_bone": "eighth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of fifth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004605",
+      "parent_bone": "fifth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of first rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of fourth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004604",
+      "parent_bone": "fourth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of ninth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004608",
+      "parent_bone": "ninth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of second rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004602",
+      "parent_bone": "second rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of seventh rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004607",
+      "parent_bone": "seventh rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of sixth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004606",
+      "parent_bone": "sixth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of tenth rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004609",
+      "parent_bone": "tenth rib"
+    },
+    {
+      "label": "non-articular facet of tubercle of third rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004603",
+      "parent_bone": "third rib"
+    },
+    {
+      "label": "scalene tubercle of first rib",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "sternal end of eighth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0010757",
+      "parent_bone": "eighth rib"
+    },
+    {
+      "label": "sternal end of eleventh rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004610",
+      "parent_bone": "eleventh rib"
+    },
+    {
+      "label": "sternal end of fifth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004605",
+      "parent_bone": "fifth rib"
+    },
+    {
+      "label": "sternal end of first rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004601",
+      "parent_bone": "first rib"
+    },
+    {
+      "label": "sternal end of fourth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004604",
+      "parent_bone": "fourth rib"
+    },
+    {
+      "label": "sternal end of ninth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004608",
+      "parent_bone": "ninth rib"
+    },
+    {
+      "label": "sternal end of second rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004602",
+      "parent_bone": "second rib"
+    },
+    {
+      "label": "sternal end of seventh rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004607",
+      "parent_bone": "seventh rib"
+    },
+    {
+      "label": "sternal end of sixth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004606",
+      "parent_bone": "sixth rib"
+    },
+    {
+      "label": "sternal end of tenth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004609",
+      "parent_bone": "tenth rib"
+    },
+    {
+      "label": "sternal end of third rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004603",
+      "parent_bone": "third rib"
+    },
+    {
+      "label": "sternal end of twelfth rib",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004611",
+      "parent_bone": "twelfth rib"
+    }
+  ]
+}

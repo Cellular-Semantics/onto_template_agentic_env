@@ -1,0 +1,81 @@
+{
+  "group_name": "ethmoid",
+  "parent_bones": [
+    "ethmoid bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Ethmoid_bone"
+  ],
+  "terms": [
+    {
+      "label": "anterior ethmoidal foramen of ethmoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "cribiform plate of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "crista galla of ethmoid bone",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "ethmoidal air cells of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "ethmoidal bulla of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "middle nasal concha of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "olfactory foramina of ethmoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "perpendicular plate of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "posterior ethmoidal foramen of ethmoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    },
+    {
+      "label": "superior nasal concha of ethmoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001679",
+      "parent_bone": "ethmoid bone"
+    }
+  ]
+}

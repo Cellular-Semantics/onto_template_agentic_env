@@ -1,0 +1,158 @@
+{
+  "group_name": "sphenoid",
+  "parent_bones": [
+    "sphenoid bone"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Sphenoid_bone"
+  ],
+  "terms": [
+    {
+      "label": "anterior clinoid process of sphenoid bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "body of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "dorsum sellae of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "foramen lacerum of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "foramen ovale of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "foramen rotundum of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "fossa for lacrimal sac of lacrimal bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "greater wings of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "hypophyseal fossa of sphenoid bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "lateral pterygoid plate of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "lesser wings of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "medial pterygoid plate of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "optic canal of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "posterior clinoid process of sphenoid bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "pterygoid canal of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "pterygoid fossa of sphenoid bone",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "pterygoid hamulus of sphenoid bone",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "sella turcica of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "sphenoid sinus of sphenoid bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "superior orbital fissure of sphenoid bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    },
+    {
+      "label": "zygomaticofacial foramen of zygomatic bone",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0001677",
+      "parent_bone": "sphenoid bone"
+    }
+  ]
+}

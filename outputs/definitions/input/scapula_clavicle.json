@@ -1,0 +1,88 @@
+{
+  "group_name": "scapula_clavicle",
+  "parent_bones": [
+    "scapula"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Scapula"
+  ],
+  "terms": [
+    {
+      "label": "acromial process of scapula",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "glenoid fossa of scapula",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "infraglenoid tubercle of scapula",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "infraspinous fossa of scapula",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "scaphoid tubercle of scaphoid",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "scapular neck of scapula",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "scapular notch of scapula",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "scapular spine of scapula",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "subscapular fossa of scapula",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "supraglenoid tubercle of scapula",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    },
+    {
+      "label": "supraspinous fossa of scapula",
+      "genus_id": "UBERON:0004704",
+      "genus_label": "bone fossa",
+      "parent_id": "UBERON:0006849",
+      "parent_bone": "scapula"
+    }
+  ]
+}

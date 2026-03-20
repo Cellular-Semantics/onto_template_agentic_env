@@ -1,0 +1,32 @@
+{
+  "group_name": "misc_unmatched",
+  "parent_bones": [
+    "TODO",
+    "UBERON:0003460",
+    "UBERON:0012419"
+  ],
+  "wikipedia_urls": [],
+  "terms": [
+    {
+      "label": "costal region bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "TODO",
+      "parent_bone": "TODO"
+    },
+    {
+      "label": "free part of arm bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0012419",
+      "parent_bone": "UBERON:0012419"
+    },
+    {
+      "label": "free part of leg bone",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0003460",
+      "parent_bone": "UBERON:0003460"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "group_name": "fibula_patella",
+  "parent_bones": [
+    "fibula"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Fibula"
+  ],
+  "terms": [
+    {
+      "label": "fibular trochlea of calcaneus",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001446",
+      "parent_bone": "fibula"
+    },
+    {
+      "label": "groove for fibularis longus tendon of cuboid",
+      "genus_id": "UBERON:0006846",
+      "genus_label": "surface groove",
+      "parent_id": "UBERON:0001446",
+      "parent_bone": "fibula"
+    }
+  ]
+}

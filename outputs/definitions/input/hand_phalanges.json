@@ -1,0 +1,87 @@
+{
+  "group_name": "hand_phalanges",
+  "parent_bones": [
+    "distal phalanx manual digit 1",
+    "distal phalanx manual digit 2",
+    "distal phalanx manual digit 3",
+    "distal phalanx manual digit 4",
+    "distal phalanx manual digit 5",
+    "middle phalanx manual digit 2",
+    "proximal phalanx manual digit 1"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Phalanx_bone"
+  ],
+  "terms": [
+    {
+      "label": "base of first distal phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004337",
+      "parent_bone": "distal phalanx manual digit 1"
+    },
+    {
+      "label": "base of first proximal phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004338",
+      "parent_bone": "proximal phalanx manual digit 1"
+    },
+    {
+      "label": "head of second middle phalanx of foot",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004311",
+      "parent_bone": "distal phalanx manual digit 2"
+    },
+    {
+      "label": "head of third middle phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004320",
+      "parent_bone": "middle phalanx manual digit 2"
+    },
+    {
+      "label": "shaft of first distal phalanx of hand",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004338",
+      "parent_bone": "proximal phalanx manual digit 1"
+    },
+    {
+      "label": "tuberosity of fifth distal phalanx of hand",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004314",
+      "parent_bone": "distal phalanx manual digit 5"
+    },
+    {
+      "label": "tuberosity of first distal phalanx of hand",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004337",
+      "parent_bone": "distal phalanx manual digit 1"
+    },
+    {
+      "label": "tuberosity of fourth distal phalanx of hand",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004313",
+      "parent_bone": "distal phalanx manual digit 4"
+    },
+    {
+      "label": "tuberosity of second distal phalanx of hand",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004311",
+      "parent_bone": "distal phalanx manual digit 2"
+    },
+    {
+      "label": "tuberosity of third distal phalanx of hand",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0004312",
+      "parent_bone": "distal phalanx manual digit 3"
+    }
+  ]
+}

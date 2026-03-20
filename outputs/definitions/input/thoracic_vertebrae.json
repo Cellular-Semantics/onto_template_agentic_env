@@ -1,0 +1,463 @@
+{
+  "group_name": "thoracic_vertebrae",
+  "parent_bones": [
+    "T1",
+    "T10",
+    "T11",
+    "T12",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6",
+    "T7",
+    "T8",
+    "T9"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Thoracic_vertebrae"
+  ],
+  "terms": [
+    {
+      "label": "inferior articular facet of eighth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0011050",
+      "parent_bone": "T8"
+    },
+    {
+      "label": "inferior articular facet of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "inferior articular facet of fifth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004630",
+      "parent_bone": "T5"
+    },
+    {
+      "label": "inferior articular facet of first thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    },
+    {
+      "label": "inferior articular facet of fourth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004629",
+      "parent_bone": "T4"
+    },
+    {
+      "label": "inferior articular facet of ninth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004633",
+      "parent_bone": "T9"
+    },
+    {
+      "label": "inferior articular facet of second thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004627",
+      "parent_bone": "T2"
+    },
+    {
+      "label": "inferior articular facet of seventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004632",
+      "parent_bone": "T7"
+    },
+    {
+      "label": "inferior articular facet of sixth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004631",
+      "parent_bone": "T6"
+    },
+    {
+      "label": "inferior articular facet of tenth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "inferior articular facet of third thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004628",
+      "parent_bone": "T3"
+    },
+    {
+      "label": "inferior articular facet of twelfth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004636",
+      "parent_bone": "T12"
+    },
+    {
+      "label": "inferior costal facet of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "inferior costal facet of tenth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "superior articular facet of eighth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0011050",
+      "parent_bone": "T8"
+    },
+    {
+      "label": "superior articular facet of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "superior articular facet of fifth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004630",
+      "parent_bone": "T5"
+    },
+    {
+      "label": "superior articular facet of first thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    },
+    {
+      "label": "superior articular facet of fourth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004629",
+      "parent_bone": "T4"
+    },
+    {
+      "label": "superior articular facet of ninth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004633",
+      "parent_bone": "T9"
+    },
+    {
+      "label": "superior articular facet of second thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004627",
+      "parent_bone": "T2"
+    },
+    {
+      "label": "superior articular facet of seventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004632",
+      "parent_bone": "T7"
+    },
+    {
+      "label": "superior articular facet of sixth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004631",
+      "parent_bone": "T6"
+    },
+    {
+      "label": "superior articular facet of tenth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "superior articular facet of third thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004628",
+      "parent_bone": "T3"
+    },
+    {
+      "label": "superior articular facet of twelfth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004636",
+      "parent_bone": "T12"
+    },
+    {
+      "label": "superior costal facet of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "transverse costal facet of eighth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0011050",
+      "parent_bone": "T8"
+    },
+    {
+      "label": "transverse costal facet of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "transverse costal facet of fifth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004630",
+      "parent_bone": "T5"
+    },
+    {
+      "label": "transverse costal facet of first thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    },
+    {
+      "label": "transverse costal facet of fourth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004629",
+      "parent_bone": "T4"
+    },
+    {
+      "label": "transverse costal facet of ninth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004633",
+      "parent_bone": "T9"
+    },
+    {
+      "label": "transverse costal facet of second thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004627",
+      "parent_bone": "T2"
+    },
+    {
+      "label": "transverse costal facet of seventh thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004632",
+      "parent_bone": "T7"
+    },
+    {
+      "label": "transverse costal facet of sixth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004631",
+      "parent_bone": "T6"
+    },
+    {
+      "label": "transverse costal facet of tenth thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "transverse costal facet of third thoracic vertebra",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0004628",
+      "parent_bone": "T3"
+    },
+    {
+      "label": "vertebral arch of eighth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0011050",
+      "parent_bone": "T8"
+    },
+    {
+      "label": "vertebral arch of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "vertebral arch of fifth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004630",
+      "parent_bone": "T5"
+    },
+    {
+      "label": "vertebral arch of first thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    },
+    {
+      "label": "vertebral arch of fourth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004629",
+      "parent_bone": "T4"
+    },
+    {
+      "label": "vertebral arch of ninth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004633",
+      "parent_bone": "T9"
+    },
+    {
+      "label": "vertebral arch of second thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004627",
+      "parent_bone": "T2"
+    },
+    {
+      "label": "vertebral arch of seventh thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004632",
+      "parent_bone": "T7"
+    },
+    {
+      "label": "vertebral arch of sixth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004631",
+      "parent_bone": "T6"
+    },
+    {
+      "label": "vertebral arch of tenth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "vertebral arch of third thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004628",
+      "parent_bone": "T3"
+    },
+    {
+      "label": "vertebral arch of twelfth thoracic vertebra",
+      "genus_id": "UBERON:0003861",
+      "genus_label": "neural arch",
+      "parent_id": "UBERON:0004636",
+      "parent_bone": "T12"
+    },
+    {
+      "label": "vertebral body of eighth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0011050",
+      "parent_bone": "T8"
+    },
+    {
+      "label": "vertebral body of eleventh thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004635",
+      "parent_bone": "T11"
+    },
+    {
+      "label": "vertebral body of fifth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004630",
+      "parent_bone": "T5"
+    },
+    {
+      "label": "vertebral body of first thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    },
+    {
+      "label": "vertebral body of fourth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004629",
+      "parent_bone": "T4"
+    },
+    {
+      "label": "vertebral body of ninth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004633",
+      "parent_bone": "T9"
+    },
+    {
+      "label": "vertebral body of second thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004627",
+      "parent_bone": "T2"
+    },
+    {
+      "label": "vertebral body of seventh thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004632",
+      "parent_bone": "T7"
+    },
+    {
+      "label": "vertebral body of sixth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004631",
+      "parent_bone": "T6"
+    },
+    {
+      "label": "vertebral body of tenth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004634",
+      "parent_bone": "T10"
+    },
+    {
+      "label": "vertebral body of third thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004628",
+      "parent_bone": "T3"
+    },
+    {
+      "label": "vertebral body of twelfth thoracic vertebra",
+      "genus_id": "UBERON:0001075",
+      "genus_label": "bony vertebral centrum",
+      "parent_id": "UBERON:0004636",
+      "parent_bone": "T12"
+    },
+    {
+      "label": "vertebral foramen of first thoracic vertebra",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0004626",
+      "parent_bone": "T1"
+    }
+  ]
+}

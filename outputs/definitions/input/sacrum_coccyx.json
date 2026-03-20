@@ -1,0 +1,125 @@
+{
+  "group_name": "sacrum_coccyx",
+  "parent_bones": [
+    "coccyx",
+    "sacrum"
+  ],
+  "wikipedia_urls": [
+    "https://en.wikipedia.org/wiki/Sacrum",
+    "https://en.wikipedia.org/wiki/Coccyx"
+  ],
+  "terms": [
+    {
+      "label": "alae of sacrum",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "anterior sacral foramina of sacrum",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "coccygeal cornu of coccyx",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0001350",
+      "parent_bone": "coccyx"
+    },
+    {
+      "label": "intermediate sacral crest of sacrum",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "lateral sacral crest of sacrum",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "linea terminalis of sacrum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "median sacral crest of sacrum",
+      "genus_id": "UBERON:4200133",
+      "genus_label": "crest",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "posterior sacral foramina of sacrum",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral apex of sacrum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral canal of sacrum",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral cornu of sacrum",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral hiatus of sacrum",
+      "genus_id": "UBERON:0005744",
+      "genus_label": "bone foramen",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral promontory of sacrum",
+      "genus_id": "UBERON:0005913",
+      "genus_label": "zone of bone organ",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral spine of sacrum",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "sacral tuberosity of sacrum",
+      "genus_id": "UBERON:4100000",
+      "genus_label": "skeletal element projection",
+      "parent_id": "UBERON:0003690",
+      "parent_bone": "sacrum"
+    },
+    {
+      "label": "transverse process of coccyx",
+      "genus_id": "UBERON:0001077",
+      "genus_label": "transverse process of vertebra",
+      "parent_id": "UBERON:0001350",
+      "parent_bone": "coccyx"
+    }
+  ]
+}
