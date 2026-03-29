@@ -1,0 +1,1156 @@
+Neurosci. Bull. February, 2018, 34(1):4–12
+https://doi.org/10.1007/s12264-017-0132-3
+
+O R I G I N A L A R T I C L E
+
+www.neurosci.cn
+www.springer.com/12264
+
+Expression and Role of Voltage-Gated Sodium Channels in
+Human Dorsal Root Ganglion Neurons with Special Focus
+on Nav1.7, Species Differences, and Regulation by Paclitaxel
+
+Wonseok Chang1,2
+Seok-Yong Lee5
+
+• Ru-Rong Ji1,6
+
+• Temugin Berta1,3
+
+• Yong Ho Kim1,4
+
+• Sanghoon Lee3
+
+•
+
+Received: 13 January 2017 / Accepted: 8 March 2017 / Published online: 19 April 2017
+(cid:2) The Author(s) 2017. This article is an open access publication
+
+Abstract Voltage-gated sodium channels (Navs) play an
+important role in human pain sensation. However,
+the
+expression and role of Nav subtypes in native human
+sensory neurons are unclear. To address this issue, we
+obtained human dorsal root ganglion (hDRG) tissues from
+healthy donors. PCR analysis of seven DRG-expressed Nav
+subtypes revealed that the hDRG has higher expression of
+Nav1.7 (*50% of total Nav expression) and lower expres-
+sion of Nav1.8 (*12%), whereas the mouse DRG has
+higher expression of Nav1.8 (*45%) and lower expression
+of Nav1.7 (*18%). To mimic Nav regulation in chronic
+pain, we treated hDRG neurons in primary cultures with
+paclitaxel (0.1–1 lmol/L) for 24 h. Paclitaxel increased the
+Nav1.7 but not Nav1.8 expression and also increased the
+
+Wonseok Chang, Temugin Berta and Yong Ho Kim have contributed
+equally to this study.
+
+& Temugin Berta
+
+temugin.berta@uc.edu
+
+& Ru-Rong Ji
+
+ru-rong.ji@duke.edu
+
+1 Department of Anesthesiology, Duke University Medical
+
+Center, Durham, NC 27710, USA
+
+2 Department of Physiology and Biophysics, College of
+
+Medicine, Eulji University, Daejeon, Korea
+
+3
+
+Pain Research Center, Department of Anesthesiology,
+University of Cincinnati Medical Center, Cincinnati,
+OH 45267, USA
+
+4 Department of Physiology, College of Medicine, Gachon
+
+University, Incheon, Korea
+
+5 Department of Biochemistry, Duke University Medical
+
+Center, Durham, NC 27710, USA
+
+6 Department of Neurobiology, Duke University Medical
+
+Center, Durham, NC 27710, USA
+
+123
+
+transient Na? currents and action potential ﬁring frequency
+in small-diameter (\50 lm) hDRG neurons. Thus,
+the
+hDRG provides a translational model in which to study
+‘‘human pain in a dish’’ and test new pain therapeutics.
+
+Keywords Dorsal root ganglion (cid:2) Neuropathic pain (cid:2)
+Paclitaxel (cid:2) Voltage-gated sodium channels
+
+Introduction
+
+Over the last 20 years, great progress has been made in
+identifying novel pain targets and illustrating the neuronal,
+immune, and glial mechanisms of pathological pain in
+animal models [1–4]. Despite the progress in preclinical
+studies and substantial investment by the pharmaceutical
+industry, little progress has been made in developing novel,
+efﬁcacious, and safe analgesics for human pain conditions
+[5, 6]. A translational gap from rodents to humans has been
+blamed for the failure in developing pain medications
+[5, 6]. To address this issue, several groups including our
+own have begun to investigate pain mechanisms in native
+primary sensory neurons in human dorsal root ganglia
+(hDRGs) obtained from donors [7–11]. Davidson et al.
+demonstrated that a high proportion of hDRG neurons
+respond to the algogens allyl isothiocyanate and ATP, as
+well as the pruritogens histamine and chloroquine [7].
+Importantly, hDRG neurons also respond to the inﬂamma-
+tory mediators bradykinin and prostaglandin E2, showing
+evidence of peripheral sensitization [7].
+
+Voltage-gated sodium (Nav) channels play a critical role
+in the initiation and propagation of action potentials in
+excitable cells such as neurons and are the major targets of
+analgesics
+[12–14]. Nine subtypes of Nav (Nav1.1–
+Nav1.9) have been identiﬁed; each subtype plays a distinct
+
+W. Chang et al.: Expression and Role of Voltage-Gated Sodium Channels
+
+5
+
+physiological role and also exhibits distinct expression
+patterns in DRG neurons. For example, Nav1.7–Nav1.9 are
+mainly expressed in small nociceptive neurons in DRGs
+[12, 15–19]. In particular, recent genetic studies have
+demonstrated a critical role of Nav1.7 in pain sensation in
+humans. Loss-of-function mutations in SCN9A, the gene
+that codes for Nav1.7 in humans, result in a congenital
+inability to sense pain and anosmia without affecting other
+sensations such as touch and temperature [20, 21]. Con-
+versely, gain-of-function mutations lead to episodic pain
+such as primary erythromelalgia and paroxysmal extreme
+pain disorder [22, 23]. Despite an essential role of Navs in
+human pain regulation, little is known about their expres-
+sion and function in native human sensory neurons.
+Recently, Han et al. showed that human Nav1.8 channels
+display slower inactivation kinetics and produce larger
+persistent current and ramp current
+than previously
+reported in other species [8]. In this study, we set out to
+compare the relative expression levels of different Nav
+subtypes in mouse DRG (mDRG) and hDRG tissues. We
+found that hDRG has a high ratio of Nav1.7 expression and
+low ratio of Nav1.8 expression compared to mDRG. To
+recapitulate chronic pain-induced changes
+in sodium
+channel expression, we treated dissociated hDRG neurons
+with paclitaxel, a chemotherapy agent that induces neuro-
+pathic pain [10]. Our data demonstrated that paclitaxel not
+only increased the expression of Nav1.7 but also enhanced
+the function of Nav1.7, as revealed by enlarged amplitude
+of sodium currents and increased ﬁring frequency of action
+potentials, in human nociceptive neurons.
+
+Materials and Methods
+
+Reagents
+
+Paclitaxel was purchased from Sigma (St. Louis, MO).
+Speciﬁc primers were designed using the Real-Time PCR
+web tool from IDT SciTools (Integrated DNA Technolo-
+gies, Coralville, IA).
+
+Animals
+
+Adult CD1 mice (8–10 weeks old, both sexes) were
+obtained from Charles River Laboratories (Wilmington,
+MA) and used for PCR analysis. All the animal procedures
+performed in this study were approved by the Animal Care
+Committee of Duke University Medical Centre.
+
+Human DRG Tissues
+
+Human DRGs were obtained from healthy donors through
+the National Disease Research Interchange (Philadelphia,
+
+PA) with permission from the Duke University Institutional
+Review Board. Postmortem L3–L5 DRGs were dissected
+from donors (see Table 1 for further details) and delivered
+in ice-cold culture medium to the laboratory at Duke
+University within 24–72 h of the donor’s death.
+
+Immunohistochemistry
+
+Human DRGs were ﬁxed in 4% paraformaldehyde over-
+night and then sections (12 lm) were cut on a cryostat. The
+sections were ﬁrst blocked with 2% BSA for 1 h at room
+temperature, then incubated with peripherin (1:500, rabbit,
+Sigma) or a mixture of primary polyclonal TRPV1
+rabbit, Neuromics, Edina, MN) and
+antibody (1:400,
+monoclonal NF200H antibody (1:1000, mouse, Sigma)
+overnight at 4 (cid:3)C. The sections were then incubated for 2 h
+at room temperature with cyanine 3 (Cy3)- and FITC-
+Jackson
+conjugated
+ImmunoResearch, West Grove, PA). The DRG sections
+were then stained with DAPI (1:1000, Sigma, for 5 min)
+and examined under a Nikon ﬂuorescence microscope.
+Images were captured with a CCD Spot camera and
+analyzed with NIH Image J software or Adobe PhotoShop.
+
+antibodies
+
+secondary
+
+(1:400;
+
+Quantitative Real-Time RT-PCR
+
+DRG tissues were rapidly isolated in RNAse-free condi-
+tions. Total RNAs were extracted using an RNeasy Plus
+Mini kit (Qiagen, Germantown, MD). The quantity and
+quality of the eluted RNA samples were veriﬁed using a
+NanoDrop spectrophotometer (Thermo Fisher Scientiﬁc,
+(0.5 lg) were reverse-
+Waltham, MA). Total RNAs
+
+Table 1 Sex, age, and ethnicity of human DRG donors.
+
+No.
+
+Sex
+
+Age (years)
+
+Ethnicity
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+12
+
+13
+
+14
+
+15
+
+Female
+
+Male
+
+Female
+
+Male
+
+Female
+
+Female
+
+Male
+
+Female
+
+Male
+
+Male
+
+Male
+Male
+
+Male
+
+Male
+
+Female
+
+76
+
+67
+
+66
+
+66
+
+58
+
+55
+
+54
+
+50
+
+49
+
+31
+
+29
+27
+
+55
+
+41
+
+27
+
+Caucasian
+
+Caucasian
+
+Caucasian
+
+Caucasian
+
+African-American
+
+Caucasian
+
+Caucasian
+
+African-American
+
+Caucasian
+
+Caucasian
+
+Caucasian
+Caucasian
+
+Caucasian
+
+Caucasian
+
+Caucasian
+
+123
+
+6
+
+Neurosci. Bull. February, 2018, 34(1):4–12
+
+Table 2 Sequences of PCR primers for seven human Nav subtypes.
+
+Gene
+
+Forward
+
+Reverse
+
+Amplicon size
+
+Accession number
+
+Nav1.1
+
+Nav1.2
+
+Nav1.3
+
+Nav1.6
+
+Nav1.7
+
+Nav1.8
+
+Nav1.9
+
+TCTCTTGCGGCTATTGAAAGAC
+
+GGGCCATTTTCGTCGTCATCT
+
+ATAGCGCTGTGGACTGCAATG
+
+CTGTTTCAGTAGTTGTGCCCTCTG
+
+CACCTTTAGCTGGGCTTTCCTG
+
+CCAGCAGCACGTAATGTCAAC
+
+CTGCGATCTTTCCGATTGCTC
+
+AGGGCACCCACTGAATTTCC
+
+GGTTTCAGCACAGATTCAGGTC
+
+CCAGCTGAAAGTGTCAAAGCTC
+
+CATCAAAGTGTCTGTCCACTCG
+
+TTTCTCTGGAAGGTCAGTTCGG
+
+GGCACCGTTATCATCAACTGC
+
+AAATCCCAGTGAAGACACACTC
+
+GAPDH
+
+AGCCACATCGCTCAGACAC
+
+GCCCAATACGACCAAATCC
+
+86
+
+102
+
+90
+
+98
+
+102
+
+97
+
+100
+
+66
+
+NM_001202435
+
+NM_001040143
+
+NM_001081676
+
+NM_014191
+
+NM_002977
+
+NM_006514
+
+NM_014139
+
+NM_002046
+
+transcribed using the QuantiTect Reverse Transcription Kit
+according to the protocol of the manufacturer (Qiagen).
+The sequences of human Nav primers are listed in Table 2
+(the sequences of mouse Nav primers were obtained from a
+previous publication [24]). We performed gene-speciﬁc
+mRNA analyses using the Bio-Rad CFX96 Real-Time RT-
+PCR system (BioRad, Hercules, CA). Quantitative PCR
+ampliﬁcation reactions contained the same amount of
+reverse transcription product: 7.5 lL of Kapa Sybr(cid:4) Fast
+Bio-Rad iCycler 2X qPCR Master Mix (Kapa Biosystems,
+Wilmington, MA) and 200 nmol/L forward and reverse
+primers in a ﬁnal volume of 15 lL. The thermal cycling
+conditions were: 3 min of polymerase activation at 95 (cid:3)C,
+45 cycles of denaturation at 95 (cid:3)C for 10 s, and annealing
+and extension at 60 (cid:3)C for 30 s, followed by a DNA
+melting curve for the determination of amplicon speci-
+ﬁcity. The expression level of the target mRNA was
+normalized to that of GAPDH mRNA and analyzed using
+the standard 2-DDCT method. The relative mRNA expres-
+sion of each Nav subtype is shown as a percentage of the
+total Navs (all seven subtypes) tested in DRGs [24].
+
+Human DRG Neuron Cultures
+
+II
+
+Upon delivery, DRGs were rapidly dissected from the
+nerve roots, minced in Ca2?-free Hank’s balanced salt
+solution (Thermo Fisher Scientiﬁc), and cultures were
+prepared as previously reported [11]. DRGs were digested
+at 37 (cid:3)C in a humidiﬁed CO2 incubator for 120 min with
+collagenase Type
+(Worthington, Lakewood, NJ;
+290 units/mg, 12 mg/mL ﬁnal concentration) and dispase
+II (Roche, Basel, Switzerland; 1 unit/mg, 20 mg/mL) in
+phosphate-buffered saline with 10 mmol/L HEPES, pH
+adjusted to 7.4 with NaOH. hDRGs were mechanically
+dissociated using ﬁre-polished pipettes, ﬁltered through a
+100-lm nylon mesh, and centrifuged for 5 min (500 g).
+The DRG cell pellet was re-suspended and plated on
+0.5 mg/mL poly-D-lysine-coated glass coverslips. The
+DRG cultures were grown in Neurobasal medium
+
+123
+
+supplemented with 10% fetal bovine serum, 2% B-27
+supplement, and 1% penicillin/streptomycin.
+
+Whole-Cell Patch-Clamp Recordings in Dissociated
+Human DRG Neurons
+
+Whole-cell patch-clamp recordings
+in small-diameter
+(\50 lm) hDRG neurons were conducted at room tem-
+perature. We used patch pipettes to record transient Na?
+currents and action potentials with an EPC10 ampliﬁer
+(HEKA, Holliston, MA) and an Axopatch-200B ampliﬁer
+with a Digidata 1440A (Axon Instruments, Sunnyvale CA).
+The patch pipettes were pulled from borosilicate capillaries
+(World Precision Instruments, Inc., Sarasota, FL). The
+resistance was 3–4 MX when ﬁlled with pipette solution.
+The recording chamber (300 lL) was continuously super-
+fused at 3–4 mL/min. Series resistance was compensated
+([80%) and leak subtraction was performed. Data were
+low-pass-ﬁltered at 2 kHz and sampled at 10 kHz. Patch-
+master (HEKA) and pClamp10 (Axon Instruments) soft-
+wares were used during experiments and analysis. For
+recording Na? currents, the pipette solution contained (in
+mmol/L): CsCl 130, NaCl 9, MgCl2 1, EGTA 10, HEPES
+10, adjusted to pH 7.3 with CsOH. For action potential
+recordings, the pipette solution contained (in mmol/L):
+K-gluconate 136, NaCl 10, MgCl2 1, EGTA 10, HEPES 10,
+Mg-ATP 2, adjusted to pH 7.3 with KOH. According to our
+preliminary study in hDRG neurons, action potentials were
+induced by 500 pA current injection for 1 s. The external
+solution for action potential recordings was composed of
+(in mmol/L): NaCl 140, KCl 5, CaCl2 2, MgCl2 1, HEPES
+10, glucose 10, adjusted to pH 7.3 with NaOH. The
+external solution for recording transient Na? currents
+contained (in mmol/L): NaCl 131, TEACl 10, CsCl 10,
+CaCl2 1, MgCl2 2, CdCl2 0.3, 4-aminopyridine 3, HEPES
+10, glucose 10, adjusted to pH 7.4 with NaOH. In voltage-
+clamp experiments, transient Na? currents were evoked by
+a test pulse to 0 mV from the holding potential (-70 mV).
+
+W. Chang et al.: Expression and Role of Voltage-Gated Sodium Channels
+
+7
+
+Statistical Analysis
+
+All data are expressed as mean ± SEM. Biochemical and
+electrophysiological data were tested using one-way or two-
+way ANOVA followed by the post-hoc Bonferroni test or
+unpaired two-tailed Student’s t-test. Pearson’s correlation was
+used to test the linear dependence of two variables. Statistical
+analyses were performed with Prism 6.0 (GraphPad Software)
+and the criterion for statistical signiﬁcance was P \ 0.05.
+
+Results
+
+Immunohistochemical Characterization of Human
+DRG Neurons
+
+Immunoﬂuorescent staining of hDRGs is a challenge,
+because of the high background of autoﬂuorescence in
+
+and small neurons
+
+human tissue [25]. We were able to obtain intact frozen
+sections of hDRGs, as demonstrated by DAPI staining,
+which shows all the nuclei in sections (Fig. 1A). Notably,
+hDRG neurons were much larger
+than rodent DRG
+neurons, and small hDRG neurons were identiﬁed with
+diameters of \50 lm [7, 11]. Neuroﬁlament (NF200) is a
+marker for myelinated A-ﬁber neurons in rodent DRGs
+[10]. However, in hDRG sections, NF200 labeled both
+large
+(Fig. 1B). Double-staining
+revealed co-localization of NF200 (NF200H) with TRPV1,
+a marker for C-ﬁber neurons in the rodent DRG [26]
+(Fig. 1C, D). Peripherin is another marker
+for small
+nociceptor neurons in the rodent DRG [27]. Consistently,
+peripherin was also expressed by small-diameter hDRG
+neurons (Fig. 1E). Limited size analysis showed that the
+average diameters of TRPV1- and peripherin-positive
+hDRG neurons were 44 ± 7 and 38 ± 7 lm, respectively
+(n = 28–37 neurons/group). Our results are in agreement
+
+Fig. 1 Histochemical charac-
+terization of human DRG neu-
+rons. A DAPI nuclear staining
+in an intact hDRG section. B,
+C Double-staining of neuroﬁla-
+ment (NF200 or NFH, green, B)
+and TRPV1 (red, C) in the
+section. D Merged image of
+DAPI, NFH, and TRPV1 stain-
+ing. E Immunostaining of
+peripherin in an hDRG sec-
+tion. Scale bar, 100 lm for A–
+E.
+
+123
+
+8
+
+Neurosci. Bull. February, 2018, 34(1):4–12
+
+with previous reports that hDRG neurons with diameters
+\50 lm can be regarded as small nociceptive neurons
+[7, 11].
+
+Distinct Expression of Sodium Channel Subtypes
+in Human and Mouse DRG Tissues
+
+We used quantitative real-time PCR (qPCR) to compare
+the transcriptional expression of seven Nav subtypes in
+(Nav1.1,
+and mDRGs: TTX-sensitive Navs
+hDRGs
+Nav1.2, Nav.1.3, Nav1.6, and Nav1.7) and TTX-resistant
+Navs (Nav1.8 and Nav1.9). Notably, all these subtypes are
+known to be expressed in rodent DRG neurons [15, 16, 28].
+To deﬁne the relative expression levels of each subtype in
+mouse and human DRG tissues, we calculated the per-
+centage expression of each subtype based on the total
+expression of all
+these subtypes (Fig. 2A,B). Striking
+species differences were found in Nav1.1, Nav1.6, Nav1.7,
+Nav1.8, and Nav1.9 (Table 3). The ratio of Nav1.7
+expression in the hDRG (49.2 ± 5.6%) was much higher
+than that in the mDRG (18.2 ± 1.7%). On the other hand,
+the mDRG had a much higher ratio of Nav1.8 (44.9 ± 2.4%)
+than that of the hDRG (12.1 ± 2.1%). Also, the ratio of
+Nav1.6 was higher in the hDRG (8.8 ± 0.8%) than in the
+mDRG (3.3 ± 0.3%) (Fig. 2A, B).
+
+Sodium Channel Subtype Expression in Human
+DRGs Shows No Sex and Age Difference
+
+expression of each Nav subtype in the hDRGs of 6 men and
+6 women showed no sex difference in the expression of any
+subtype (Fig. 2A). Similarly, their relative expression in
+the mDRGs of 6 males and 6 females showed no sex
+difference in the expression of any mouse Nav subtype
+(Fig. 2B). Further comparison of the relative expression of
+Nav1.7 in hDRGs also revealed no statistical differences
+between men and women (Fig. 3A). We also analyzed
+Nav1.7 expression in hDRG donors of different ages,
+ranging from 27 to 76 years and found that although the
+expression was slightly lower in older donors, there was no
+signiﬁcant correlation between Nav1.7 expression and age
+(Fig. 3B).
+
+Table 3 Statistics of species difference in the expression of mouse
+and human Nav1.1, Nav1.2, Nav1.3, Nav1.6, Nav1.7, Nav1.8, and
+Nav1.9 from the samples shown in Fig. 2.
+
+Gene
+
+Mean difference
+
+95.00% CI of diff.
+
+P value
+
+Nav1.1
+
+Nav1.2
+
+Nav1.3
+
+Nav1.6
+Nav1.7
+
+Nav1.8
+
+Nav1.9
+
+-8.85
+
+1.411
+
+-1.996
+
+6.306
+
+31.88
+
+-33.68
+
+4.841
+
+-13.52 to -4.179
+
+-3.261 to 6.082
+
+-6.667 to 2.676
+
+1.634 to 10.98
+27.21 to 36.55
+
+-38.35 to -29
+
+0.1695 to 9.512
+
+\0.0001
+[0.9999
+[0.9999
+
+0.0022
+\0.0001
+\0.0001
+
+0.0374
+
+We also investigated the sex differences in Nav subtype
+expression in hDRG and mDRG tissues. The relative
+
+N = 12 samples/group;
+Bonferroni test.
+
+two-way ANOVA followed by post-hoc
+
+Fig. 2 Distinct expression of sodium channel subtypes in human and
+mouse DRG tissues. A, B qPCR showing the relative percentage
+expression of TTX-sensitive Nav subtypes (TTX-S: Nav1.1, Nav1.2,
+Nav.1.3, Nav1.6, and Nav1.7) and TTX-resistant subtypes (TTX-R:
+Nav1.8 and Nav1.9) in hDRG (A) and mDRG (B) tissues. The
+
+123
+
+percentage expression of each subtype is based on the total expression
+of all seven subtypes. Note the species differences in Nav1.6, Nav1.7,
+and Nav1.8 expression in hDRGs and mDRGs (n = 12 sam-
+ples/group;
+b,
+female
+African_American; c, Caucasian; F, female; M, male.
+
+blue, male
+
+samples;
+
+samples;
+
+red,
+
+W. Chang et al.: Expression and Role of Voltage-Gated Sodium Channels
+
+9
+
+Fig. 3 qPCR showing lack of sex and age differences in Nav 1.7
+expression in human DRGs. A Comparison of Nav1.7 mRNA
+expression in male (blue) and female (red) hDRG tissues. Note the
+absence of a statistical difference (P = 0.202, unpaired Student’s t-
+test, n = 6 donors/group). B No correlation between age and Nav1.7
+
+expression in hDRGs (P = 0.635, n = 12 donors, Pearson’s corre-
+lation). GAPDH was used as a positive control, and the value of
+Nav1.7 expression was normalized to that of GAPDH. All data are
+expressed as mean ± SEM.
+
+Fig. 4 Paclitaxel increases
+Nav1.7 but not Nav1.8 expres-
+sion in human DRGs. A,
+B qPCR showing Nav1.7
+mRNA (A) and Nav1.8 mRNA
+(B) levels in hDRGs 24 h after
+paclitaxel treatment (0.1 and
+1 lmol/L). **P \ 0.01;
+***P \ 0.001, one-way
+ANOVA, n = 6–9 cul-
+tures/group. All the data are
+expressed as mean ± SEM.
+
+Paclitaxel Increases Nav1.7 Expression, Transient
+Sodium Currents, and Action Potential Firing
+Frequency in hDRG Neurons
+
+Previous studies have shown that Nav1.7 is upregulated in
+DRG neurons under chronic pain conditions such as diabetic
+neuropathy, and contributes to the pathogenesis of neuropathic
+pain [18, 29, 30]. Paclitaxel is a widely-used chemotherapeutic
+drug that induces neuropathy and neuropathic pain [10, 31].
+To mimic chronic pain in a dish, we treated dissociated hDRG
+neurons with paclitaxel (0.1 and 1 lmol/L) for 24 h. qPCR
+analysis revealed a signiﬁcant and dose-dependent increase in
+Nav1.7 mRNA expression after the treatment (Fig. 4A). By
+contrast, Nav1.8 mRNA expression in hDRG cultures did not
+change after this treatment (Fig. 4B).
+
+To assess the function of Navs including Nav1.7 in
+hDRG neurons, we recorded transient Na? currents in
+small-diameter neurons (\50 lm). In untreated hDRG
+the amplitude of transient Na? currents was
+neurons,
+3131 ± 573.1 pA (n = 29 neurons from 3 DRGs/3 donors,
+Fig. 5A, B). Notably, paclitaxel (1 lmol/L, 24 h) caused a
+increase in the amplitude of transient Na?
+signiﬁcant
+currents (4853 ± 634.4 pA: Fig. 5B).
+
+Fig. 5 Paclitaxel increases transient sodium currents in dissociated
+human DRG neurons. (A) Traces of transient Na? currents in small
+hDRG neurons with diameters \50 lm. Note that the current was
+greater after paclitaxel treatment (1 lmol/L, 24 h). (B) Quantiﬁcation
+of the Na? current amplitude. *P \ 0.05, unpaired Student’s t-test,
+n = 29 neurons from 3 DRGs/3 donors. All data are expressed as
+mean ± SEM.
+
+Finally, we investigated whether paclitaxel changes the
+excitability of human nociceptors by recording action
+potentials in small hDRG neurons. The rheobase for
+
+123
+
+10
+
+Neurosci. Bull. February, 2018, 34(1):4–12
+
+inducing action potentials was 285.7 ± 59.5 pA (n = 7
+neurons) in untreated hDRG neurons. After paclitaxel
+treatment (1 lmol/L, 24 h), there was a slight decrease in
+rheobase (216.7 ± 66.67 pA, n = 3 neurons, P [ 0.05,
+unpaired two-tailed Student’s t-test). This lack of signif-
+icance may result from the small number of neurons
+recorded. Current-clamp recording revealed that current
+injection (500 pA, 1 s) evoked action potentials in hDRG
+neurons (Fig. 6A). In untreated hDRG neurons, the ﬁring
+frequency was 5.41 ± 0.74 Hz (Fig. 6B). Notably, pacli-
+taxel (1 lmol/L, 24 h) caused a signiﬁcant increase in
+ﬁring frequency (8.71 ± 1.10 Hz: Fig. 6B). This result
+suggests a possible increase in the excitability of hDRG
+treatment. However, additional
+neurons after paclitaxel
+features of neuronal excitability such as resting potential,
+membrane resistance, and threshold current need to be
+tested in future studies.
+
+Discussion
+
+There have been many failures in developing new anal-
+gesics, because (1) molecular mechanisms identiﬁed in
+rodents may not apply to humans and (2) animal models of
+pain may not represent human pains [5, 6]. To ﬁll in this
+translational gap, several groups including our own have
+begun to test pain mechanisms in native hDRG neurons
+obtained from human donors [7–11]. These studies reveal
+that peripheral mechanisms of pain are likely to be shared
+by mice and humans and demonstrate a translational
+research strategy to improve the preclinical validation of
+novel analgesics. We have recently demonstrated that the
+autism gene SHANK3 is expressed by both mouse and
+human DRG neurons and regulates TRPV1 function in the
+
+Fig. 6 Paclitaxel increases the action potential ﬁring frequency in
+human DRG neurons. A Traces of action potentials in small hDRG
+neurons with diameters \50 lm. Note that
+the ﬁring frequency
+increased after paclitaxel treatment (1 lmol/L, 24 h). B Quantiﬁcation
+of the ﬁring frequency of action potentials. *P \ 0.05, unpaired
+Student’s t-test, n = 13 and 29 neurons/group, from 3 DRGs/3
+donors. All data are expressed as mean ± SEM.
+
+123
+
+DRG neurons of both species, offering a novel peripheral
+mechanism of pain dysregulation in autism [11].
+
+Although the role of human Nav1.7 has been well-
+studied in heterologous cells and rodent DRG neurons by
+over-expression of different human Nav1.7 mutants in
+these cells, the speciﬁc role of Nav1.7 in native hDRG
+neurons is unclear. Global Nav1.7-knockout mice recapit-
+ulate the phenotype of human congenital indifference to
+pain [32]. Nerve trauma after diabetes and spared nerve
+injury have been shown to cause upregulation of Nav1.7 in
+mDRG neurons and redistribution of Nav1.7 channels
+toward peripheral axons, leading to enhanced neuropathic
+pain in mice [29, 30]. However, it has also been shown that
+pain induced by the chemotherapeutic agent oxaliplatin and
+cancer-induced bone pain may not require the presence of
+Nav1.7 channels [33]. Furthermore, endogenous opioids
+appear to contribute to pain insensitivity in mice lacking
+Nav1.7 [34]. Thus, there could be compensatory regula-
+tions in mice lacking Nav1.7, emphasizing the importance
+of studying Nav1.7 in native hDRG neurons.
+
+[37], and SCN8A (encoding Nav1.6)
+
+Our data have shown striking species differences in the
+expression of different Nav subtypes. Especially, the ratio
+of Nav1.7 expression in the hDRG (50%) is much higher
+than in the mDRG (20%). On the other hand, the mDRG
+has a much higher ratio of Nav1.8 (45%) than the hDRG
+(15%), and a critical role of Nav1.8 in the pathogenesis of
+neuropathic pain has been well documented in rodents
+[35, 36]. It is reasonable to postulate that the high ratio of
+expression of Nav1.7 in hDRG neurons is associated with
+an enhanced role of this subtype in human pain conditions
+compared with other subtypes. This notion is supported by
+human genetics showing that both most pain-related gain-
+of-function and loss-of-function mutations are found in
+SCN9A [21–23], while fewer mutations have been found in
+[8], SCN11A (encoding
+SCN10A (encoding Nav1.8)
+Nav1.9)
+[38].
+Inherited erythromelalgia (IEM), a severe pain syndrome
+characterized by episodes of intense burning pain triggered
+by warmth, is caused by mutations in Nav1.7 in sensory
+and sympathetic neurons. A newly-identiﬁed IEM mutation
+(Nav1.7-A1632G) in a multi-generation family is respon-
+sible for hyperexcitability in sensory neurons, and the
+increased responses to temperature also suggest a cellular
+basis for the warmth-triggered pain in IEM [39]. It is
+noteworthy that an hDRG neuron survived for 76 years in
+our oldest donor (Table 1), whereas a rodent DRG neuron
+or a heterologous cell only survives for a few days to a few
+months. Thus, Nav1.7 in native hDRG neurons could be
+regulated by different mechanisms. Interestingly, we did
+not ﬁnd sex- and age-dependent changes in Nav1.7
+expression in hDRG neurons, suggesting that maintaining
+homeostasis of its expression is important for this critical
+ion channel. However, paclitaxel, which is known to
+
+W. Chang et al.: Expression and Role of Voltage-Gated Sodium Channels
+
+11
+
+induce neuropathy, caused a marked increase in Nav1.7
+expression, associated with increases in the transient Na?
+current and excitability (as revealed by increased action
+potential ﬁring), in small-diameter (presumably nocicep-
+tive) hDRG neurons. Although other Nav subtypes could
+also contribute to the transient Na? current, Nav1.7 is a
+major contributor to this TTX-sensitive current [18, 32].
+
+In summary, naı¨ve hDRG neurons provide a transla-
+in which to study voltage-gated Na?
+tional model
+channels such as Nav1.7 and ‘‘human pain in a dish’’.
+hDRG neurons have been used to study acute inﬂamma-
+tory pain mechanisms following stimulation by inﬂam-
+matory mediators such as prostaglandin E2 [7], but they
+can also be used to investigate neuropathic pain mech-
+anisms after paclitaxel treatment as demonstrated in this
+study. In future studies, we will try to collect hDRGs
+from donors with chronic pain conditions to investigate
+the regulation of Nav subtypes in human pain. We will
+also conduct
+to characterize the
+expression of Nav subtypes in different populations of
+hDRG neurons, as shown in mDRG neurons [40, 41]. It is
+noteworthy that paclitaxel did not change Nav1.8 expres-
+sion in hDRG neurons, in support of a previous report
+that Nav1.8 does not contribute to chemotherapy-induced
+mechanical allodynia in rats [42]. Thus, naive hDRG
+neurons can be used to test new pain therapeutics such as
+Nav1.7 inhibitors, as the last-step of target validation
+before the initiation of clinical trials.
+
+single-cell analysis
+
+Acknowledgements This work was supported in part by NIH RO1
+Grants NS87988, DE17794, and DE22743 to R.R.J and NS89479 to
+S.Y.L and R.R.J.
+
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution 4.0 International License (http://
+creativecommons.org/licenses/by/4.0/), which permits unrestricted
+use, distribution, and reproduction in any medium, provided you give
+appropriate credit to the original author(s) and the source, provide a
+link to the Creative Commons license, and indicate if changes were
+made.
+
+References
+
+1. Gold MS, Gebhart GF. Nociceptor sensitization in pain patho-
+
+genesis. Nat Med 2010, 16: 1248–1257.
+
+2. Ji RR, Chamessian A, Zhang YQ. Pain regulation by non-
+neuronal cells and inﬂammation. Science 2016, 354: 572–577.
+3. Zhou LJ, Liu XG. Glial activation, a common mechanism
+underlying spinal synaptic plasticity? Neurosci Bull 2017, 33:
+121–123.
+
+4. Liu T, Gao YJ, Ji RR. Emerging role of Toll-like receptors in the
+control of pain and itch. Neurosci Bull 2012, 28: 131–144.
+5. Woolf CJ. Overcoming obstacles to developing new analgesics.
+
+Nat Med 2010, 16: 1241–1247.
+
+6. Mogil JS. Animal models of pain: progress and challenges. Nat
+
+Rev Neurosci 2009, 10: 283–294.
+
+7. Davidson S, Copits BA, Zhang J, Page G, Ghetti A, Gereau RW.
+Human sensory neurons: membrane properties and sensitization
+by inﬂammatory mediators. Pain 2014, 155: 1861–1870.
+
+8. Han C, Estacion M, Huang J, Vasylyev D, Zhao P, Dib-Hajj SD,
+et al. Human Na(v)1.8: enhanced persistent and ramp currents
+contribute to distinct ﬁring properties of human DRG neurons.
+J Neurophysiol 2015, 113: 3172–3185.
+
+9. Li Y, Adamek P, Zhang H, Tatsui CE, Rhines LD, Mrozkova P,
+et al. The cancer chemotherapeutic paclitaxel increases human
+and rodent sensory neuron responses to TRPV1 by activation of
+TLR4. J Neurosci 2015, 35: 13487–13500.
+
+10. Xu ZZ, Kim YH, Bang S, Zhang Y, Berta T, Wang F, et al.
+Inhibition of mechanical allodynia in neuropathic pain by TLR5-
+mediated A-ﬁber blockade. Nat Med 2015, 21:1326–1331.
+11. Han Q, Kim YH, Wang X, Liu D, Zhang ZJ, Bey AL, et al. SHANK3
+deﬁciency impairs heat hyperalgesia and TRPV1 signaling in
+primary sensory neurons. Neuron 2016, 92: 1279–1293.
+
+12. Cummins TR, Dib-Hajj SD, Black JA, Waxman SG. Sodium
+channels and the molecular pathophysiology of pain. Prog Brain
+Res 2000, 129: 3–19.
+
+13. Bennett DL, Woods CG. Painful and painless channelopathies.
+
+Lancet Neurol 2014, 13: 587–599.
+
+14. Jiang F, Hua LM, Jiao YL, Ye P, Fu J, Cheng ZJ, et al. Activation
+of mammalian target of rapamycin contributes to pain nocicep-
+tion induced in rats by BmK I, a sodium channel-speciﬁc
+modulator. Neurosci Bull 2014, 30: 21–32.
+
+15. Waxman SG, Dib-Hajj S, Cummins TR, Black JA. Sodium
+channels and pain. Proc Natl Acad Sci USA 1999, 96:
+7635–7639.
+
+16. Bao L. Trafﬁcking regulates the subcellular distribution of
+voltage-gated sodium channels in primary sensory neurons. Mol
+Pain 2015, 11: 61.
+
+17. Pan HL, Liu BL, Lin W, Zhang YQ. Modulation of Nav1.8 by
+lysophosphatidic acid in the induction of bone cancer pain.
+Neurosci Bull 2016, 32: 445–454.
+
+18. Lee JH, Park CK, Chen G, Han Q, Xie RG, Liu T, et al. A
+targets a NaV1.7 channel voltage
+
+monoclonal antibody that
+sensor for pain and itch relief. Cell 2014, 157: 1393–1404.
+19. Amaya F, Wang H, Costigan M, Allchorne AJ, Hatcher JP,
+Egerton J, et al. The voltage-gated sodium channel Na(v)1.9 is an
+effector of peripheral inﬂammatory pain hypersensitivity. J Neu-
+rosci 2006, 26: 12852–12860.
+
+20. Cox JJ, Reimann F, Nicholas AK, Thornton G, Roberts E,
+Springell K, et al. An SCN9A channelopathy causes congenital
+inability to experience pain. Nature 2006, 444: 894–898.
+
+21. Weiss J, Pyrski M, Jacobi E, Bufe B, Willnecker V, Schick B,
+et al. Loss-of-function mutations in sodium channel Nav1.7 cause
+anosmia. Nature 2011, 472: 186–190.
+
+22. Drenth JP, Finley WH, Breedveld GJ, Testers L, Michiels JJ,
+Guillet G, et al. The primary erythermalgia-susceptibility gene is
+located on chromosome 2q31-32. Am J Hum Genet 2001, 68:
+1277–1282.
+
+23. Fertleman CR, Baker MD, Parker KA, Moffatt S, Elmslie FV,
+Abrahamsen B, et al. SCN9A mutations in paroxysmal extreme
+pain disorder: allelic variants underlie distinct channel defects
+and phenotypes. Neuron 2006, 52: 767–774.
+
+24. Laedermann CJ, Pertin M, Suter MR, Decosterd I. Voltage-gated
+sodium channel expression in mouse DRG after SNI leads to re-
+evaluation of projections of injured ﬁbers. Mol Pain 2014, 10: 19.
+25. Davidson S, Golden JP, Copits BA, Ray PR, Vogt SK, Valtcheva
+MV, et al. Group II mGluRs suppress hyperexcitability in mouse
+and human nociceptors. Pain 2016, 157: 2081–2088.
+
+26. Tominaga M, Caterina MJ, Malmberg AB, Rosen TA, Gilbert H,
+integrates
+
+Skinner K, et al. The cloned capsaicin receptor
+multiple pain-producing stimuli. Neuron 1998, 21: 531–543.
+
+123
+
+12
+
+Neurosci. Bull. February, 2018, 34(1):4–12
+
+27. Amaya F, Decosterd I, Samad TA, Plumpton C, Tate S, Mannion
+RJ, et al. Diversity of expression of the sensory neuron-speciﬁc
+TTX-resistant voltage-gated sodium ion channels SNS and SNS2.
+Mol Cell Neurosci 2000, 15: 331–342.
+
+28. Xie W, Strong JA, Ye L, Mao JX, Zhang JM. Knockdown of
+sodium channel NaV1.6 blocks mechanical pain and abnormal
+bursting activity of afferent neurons in inﬂamed sensory ganglia.
+Pain 2013, 154: 1170–1180.
+
+29. Chattopadhyay M, Mata M, Fink DJ. Continuous delta-opioid
+receptor activation reduces neuronal voltage-gated sodium chan-
+nel (NaV1.7) levels through activation of protein kinase C in
+painful diabetic neuropathy. J Neurosci 2008, 28: 6652–6658.
+30. Laedermann CJ, Cachemaille M, Kirschmann G, Pertin M,
+Gosselin RD, Chang I, et al. Dysregulation of voltage-gated
+sodium channels by ubiquitin ligase NEDD4-2 in neuropathic
+pain. J Clin Invest 2013, 123: 3002–3013.
+
+31. Li Y, Zhang H, Zhang H, Kosturakis AK, Jawad AB, Dougherty
+PM. Toll-like receptor 4 signaling contributes to paclitaxel-
+induced peripheral neuropathy. J Pain 2014, 15: 712–725.
+32. Gingras J, Smith S, Matson DJ, Johnson D, Nye K, Couture L,
+et al. Global Nav1.7 knockout mice recapitulate the phenotype of
+human congenital
+indifference to pain. PLoS One 2014, 9:
+e105895.
+
+33. Minett MS, Falk S, Santana-Varela S, Bogdanov YD, Nassar
+MA, Heegaard AM, et al. Pain without nociceptors? Nav1.7-
+independent pain mechanisms. Cell Rep 2014, 6: 301–312.
+34. Minett MS, Pereira V, Sikandar S, Matsuyama A, Lolignier S,
+Kanellopoulos AH, et al. Endogenous opioids contribute to
+insensitivity to pain in humans and mice lacking sodium channel
+Nav1.7. Nat Commun 2015, 6: 8967.
+
+35. Gold MS, Weinreich D, Kim CS, Wang R, Treanor J, Porreca F,
+et al. Redistribution of Na(V)1.8 in uninjured axons enables
+neuropathic pain. J Neurosci 2003, 23: 158–166.
+
+36. Porreca F, Lai J, Bian D, Wegert S, Ossipov MH, Eglen RM,
+et al. A comparison of the potential role of the tetrodotoxin-
+insensitive sodium channels, PN3/SNS and NaN/SNS2, in rat
+models of chronic pain. Proc Natl Acad Sci USA 1999, 96:
+7640–7644.
+
+37. Dib-Hajj SD, Black JA, Waxman SG. NaV1.9: a sodium channel
+linked to human pain. Nat Rev Neurosci 2015, 16: 511–519.
+38. Tanaka BS, Zhao P, Dib-Hajj FB, Morisset V, Tate S, Waxman
+SG, et al. A gain-of-function mutation in Nav1.6 in a case of
+trigeminal neuralgia. Mol Med 2016, 22. doi:10.2119/molmed.
+2016.00131.
+
+39. Yang Y, Huang J, Mis MA, Estacion M, Macala L, Shah P, et al.
+Nav1.7-A1632G mutation from a family with inherited ery-
+thromelalgia: enhanced ﬁring of dorsal root ganglia neurons
+evoked by thermal stimuli. J Neurosci 2016, 36: 7511–7522.
+40. Usoskin D, Furlan A, Islam S, Abdo H, Lonnerberg P, Lou D,
+et al. Unbiased classiﬁcation of sensory neuron types by large-
+scale single-cell RNA sequencing. Nat Neurosci 2015, 18:
+145–153.
+
+41. Li CL, Li KC, Wu D, Chen Y, Luo H, Zhao JR, et al.
+Somatosensory neuron types identiﬁed by high-coverage single-
+cell RNA-sequencing and functional heterogeneity. Cell Res
+2016, 26: 967.
+
+42. Joshi SK, Mikusa JP, Hernandez G, Baker S, Shieh CC, Neelands
+T et al. Involvement of the TTX-resistant sodium channel Nav
+1.8 in inﬂammatory and neuropathic, but not post-operative, pain
+states. Pain 2006, 123: 75–82.
+
+123
+
+

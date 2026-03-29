@@ -1,0 +1,5 @@
+Rapid increase in enzyme and peptide mRNA in sympathetic ganglia after electrical stimulation in humans.
+
+Thoracic ganglia in humans were studied after electrical, preganglionic stimulation using in situ hybridization with synthetic oligonucleotide probes against the catecholamine-synthesizing enzymes tyrosine hydroxylase (EC 1.14.16.2) and dopamine beta-hydroxylase (EC 1.14.17.1) and neuropeptide tyrosine. Immunohistochemical analysis was also performed. Following short peroperative stimulation a severalfold increase in all three mRNAs was found in principal ganglion cells, whereas no definite changes could be detected in enzyme or peptide levels with immunohistochemistry. The results suggest a very rapid and sensitive regulation of genes involved in signal transmission in the sympathetic nervous system of humans. Moreover, they indicate that electrical stimulation of neurons and/or pathways combined with in situ hybridization may be used as a method to define neuronal projections by visualizing increases in mRNAs for transmitter enzymes and/or peptide in target cells.
+
+PMID:2567003

@@ -1,0 +1,989 @@
+Inflammation, oxidative stress, and glial 
+cell activation characterize stellate ganglia 
+from humans with electrical storm
+
+Olujimi A. Ajijola,1,2 Donald B. Hoover,3,4 Thomas M. Simerly,3,4 T. Christopher Brown,3,4  
+Jane Yanagawa,5 Reshma M. Biniwale,6 Jay M. Lee,5 Ali Sadeghi,6 Negar Khanlou,7  
+Jeffrey L. Ardell,1,2 and Kalyanam Shivkumar1,2
+
+1UCLA Cardiac Arrhythmia Center and 2UCLA Neurocardiology Research Center of Excellence, University of California, 
+
+Los Angeles, California, USA. 3Department of Biomedical Sciences, 4Center for Inflammation, Infectious Disease, and 
+
+Immunity, Quillen College of Medicine, East Tennessee State University, Johnson City, Tennessee, USA. Departments of 
+
+5Thoracic, and 6Cardiac Surgery, and 7Pathology, University of California, Los Angeles, California, USA.
+
+BACKGROUND. Neuronal remodeling in human heart disease is not well understood.
+
+METHODS. Stellate ganglia from patients with cardiomyopathy (CMY) and refractory ventricular 
+arrhythmias undergoing cardiac sympathetic denervation (n = 8), and from organ donors with 
+normal hearts (n = 8) collected at the time of organ procurement were compared. Clinical data 
+on all subjects were reviewed. Electron microscopy (EM), histologic, and immunohistochemical 
+assessments of neurotransmitter profiles, glial activation and distribution, and lipofuscin 
+deposition, a marker of oxidative stress, were quantified.
+
+RESULTS. In CMY specimens, lipofuscin deposits were larger, and present in more neurons (26.3% 
+± 6.3% vs. 16.7% ± 7.6%, P < 0.043), than age-matched controls. EM analysis revealed extensive 
+mitochondrial degeneration in CMY specimens. T cell (CD3+) infiltration was identified in 60% of 
+the CMY samples, with one case having large inflammatory nodules, while none were identified in 
+controls. Myeloperoxidase-immunoreactive neutrophils were also identified at parenchymal sites 
+distinct from inflammatory foci in CMY ganglia, but not in controls. The adrenergic phenotype of 
+pathologic samples revealed a decrease in tyrosine hydroxylase staining intensity compared with 
+controls. Evaluation of cholinergic phenotype by staining for the vesicular acetylcholine transporter 
+revealed a low but comparable number of cholinergic neurons in ganglia from both groups and 
+demonstrated that preganglionic cholinergic innervation was maintained in CMY ganglia. S100 
+staining (a glial cell marker) demonstrated no differences in glial distribution and relationship to 
+neurons; however, glial activation demonstrated by glial fibrillary acidic protein (GFAP) staining was 
+substantially increased in pathologic specimens compared with controls.
+
+CONCLUSIONS. Stellate ganglia from patients with CMY and arrhythmias demonstrate 
+inflammation, neurochemical remodeling, oxidative stress, and satellite glial cell activation. These 
+changes likely contribute to excessive and dysfunctional efferent sympathetic tone, and provide a 
+rationale for sympathectomy as a treatment for arrhythmias in this population.
+
+FUNDING. This work was made possible by support from NIH grants HL125730 to OAA, GM107949 
+to DBH, and HL084261 and OT2OD023848 to KS.
+
+Introduction
+Neuroendocrine activation is central to the pathogenesis of heart disease. The influence of excess sympathetic 
+activation on cardiovascular dysfunction, arrhythmias, and sudden death is well established (1, 2). Modulation 
+of adrenergic signaling via pharmacologic and interventional approaches (3–5) is emerging as a major thera-
+peutic strategy in managing ischemic (ICM) and nonischemic cardiomyopathy (NICM), and arrhythmias.
+
+Functional and structural remodeling of  sympathetic neurons in stellate ganglia (SGNs) of  animals 
+with  ICM  and  NICM  suggest  that  cardiac  injury  and  the  resulting  chronic  neurohormonal  activation 
+
+Role of funding source: Support for 
+OAA, DBH, and KS, and materials and 
+supplies used in this study.
+
+Conflict of interest: The authors have 
+declared that no conflict of interest 
+exists.
+
+Submitted: May 18, 2017 
+Accepted: August 8, 2017 
+Published: September 21, 2017
+
+Reference information: 
+JCI Insight. 2017;2(18):e94715. 
+https://doi.org/10.1172/jci.
+insight.94715.
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+1
+
+CLINICAL MEDICINETable 1. Characteristics of control and surgical subjects
+
+Group
+
+Age
+
+Sex Weight (kg)
+
+Height
+
+CMY
+CMY
+CMY
+
+CMY
+CMY
+CMY
+CMY
+CMY
+
+CMY
+CMY
+CMY
+CMY
+CMY
+CMY
+CMY
+
+CMY
+Control
+Control
+Control
+Control
+Control
+Control
+Control
+Control
+
+18
+26
+31
+
+32
+36
+37
+37
+38
+
+43
+45
+50
+58
+63
+64
+65
+
+69
+16
+22
+24
+24
+27
+30
+36
+36
+
+M
+M
+M
+
+M
+M
+M
+M
+F
+
+M
+M
+F
+F
+M
+M
+M
+
+M
+F
+M
+F
+F
+M
+M
+M
+M
+
+68
+101
+64
+
+75
+81
+81
+104
+139
+
+127
+113
+79
+75
+94
+80
+83
+
+89
+50
+114
+85
+45
+71
+84
+81
+86
+
+6′3″
+6′3″
+5′9″
+
+5′4″
+5′7″
+5′10″
+6′
+5′7″
+
+5′7″
+5′10″
+5′3″
+5′4″
+6′
+6′
+6′3″
+
+5′6″
+5′4″
+6′0″
+5′5″
+5′1″
+5′7″
+6′2″
+6′2″
+5′6″
+
+Cause of Death or 
+Cardiomyopathy
+ARVC
+dTGA
+NICM
+
+Structurally normal
+NICM
+Sarcoidosis
+HCM
+NICM
+
+NICM
+NICM
+Chagas disease
+NICM
+NICM
+Mixed
+Ischemic
+
+No
+No
+No
+
+No
+No
+No
+No
+No
+
+No
+No
+No
+No
+No
+Yes
+Yes
+
+Mixed
+Head trauma
+
+Yes
+No
+Intracranial hemorrhage No
+No
+No
+No
+Intracranial hemorrhage No
+No
+Intracranial hemorrhage No
+
+Long QT
+Anoxic brain Injury
+Head trauma
+
+Anoxic brain injury
+
+CAD
+
+LV EF
+
+Comorbidities
+
+VT Type
+
+33%
+40%
+10%
+
+55%
+25%
+25%
+40%
+45%
+
+55%
+50%
+25%
+51%
+45%
+25%
+35%
+
+25%
+65%
+70%
+65%
+
+65%
+70%
+64%
+65%
+
+None
+Th Outlet Syndrome
+AF, Asthma, CKD, 
+Hypothyroidism
+None
+AF, AVR, MVR, CKD
+None
+AF
+AF, HTN, Obesity, OSA
+
+None
+DVT
+HTN
+COPD
+DM, HTN, HL 
+AF, HTN, HL
+AF, CKD, HTN
+
+AF, HTN
+-
+-
+-
+-
+-
+-
+-
+-
+
+MMVT + VF
+MMVT
+MMVT + VF
+
+VF
+MMVT
+MMVT
+MMVT
+MMVT + 
+PMVT
+PMVT
+MMVT + VF
+MMVT
+PMVT
+MMVT
+MMVT
+MMVT + 
+PMVT
+MMVT
+-
+-
+-
+-
+-
+-
+-
+-
+
+Myocardial 
+Scar
+Yes
+Yes
+No
+
+No
+Yes
+Yes
+Yes
+Yes
+
+No
+Yes
+Yes
+No
+No
+Yes
+Yes
+
+Yes
+-
+-
+-
+-
+-
+-
+-
+-
+
+Demographics and cardiac substrate for the subjects included in the study. AF, atrial fibrillation; ARVC, arrhythmogenic right ventricular 
+cardiomyopathy; AVR, aortic valve replacement; CAD, coronary artery disease; CKD, chronic kidney disease; CMY, cardiomyopathy; COPD, chronic 
+obstructive pulmonary disease; DM, diabetes mellitus; dTGA, d-transposition of the great vessels; DVT, deep venous thrombosis; F, female; HCM, 
+hypertrophic cardiomyopathy; HL, hyperlipidemia; HTN, hypertension; LV EF, left ventricular ejection fraction; M, male; MMVT, monomorphic 
+ventricular tachycardia; MVR, mitral valve replacement; NICM, nonischemic cardiomyopathy; OSA, obstructive sleep apnea; PMVT, polymorphic 
+ventricular tachycardia; Th, thoracic; VF, ventricular fibrillation.
+
+induce alterations in SGNs that facilitate the enhanced sympathetic tone seen in these animal models (5, 
+6).  Data  in  humans  are,  however,  scarce.  Morphological  size  of   SGNs  along  with  synaptic  density  are 
+increased in patients with cardiomyopathy (CMY) and arrhythmias (3). Further, in patients with inherited 
+channelopathies undergoing sympathectomy for recurrent ventricular arrhythmias, evidence of  inflamma-
+tion was demonstrated (7). The neurochemical properties of  SGNs from humans with CMY and arrhyth-
+mias, in whom chronic sympathoexcitation is characteristic, remain unknown.
+
+The  goal  of   this  study  was  to  determine  how  severe  cardiac  pathology  alters  SGN  neurochemistry, 
+as  well  as  satellite  glial  cell  (SGC)  distribution  and  functional  state,  by  comparing  stellate  ganglia  from 
+patients with CMY and arrhythmias undergoing cardiac sympathetic denervation, with those from control 
+subjects serving as heart and/or lung donors.
+
+Results
+Table 1 shows characteristics of  the CMY and control subjects included in the study. The mean age of  the 
+control subjects in the study was 28 ± 8 years, while the mean age for the CMY subjects was 44.5 ± 15.4 
+years. In total, 8 donors and 16 CMY patients were included in the study.
+
+Ganglia from CMY patients exhibit evidence of  oxidative stress. Lipofuscin, which is formed and accumulates 
+in response to aging, as well as oxidative stress (8, 9), is a marker that is readily apparent in H&E–stained 
+sections. Accordingly, we examined ganglia from control and CMY groups for lipofuscin accumulation. 
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+2
+
+CLINICAL MEDICINE 
+Figure 1. Oxidative stress in stellate ganglion neurons of patients 
+with arrhythmias compared with controls. Representative images 
+from stellate ganglia of (A and B) control and (C and D) cardiomy-
+opathy patients showing accumulation of lipofuscin (arrows). Insets 
+for panels A and C (B and D, respectively) show magnified neurons 
+with lipofuscin accumulation. (E) Percentage of neurons showing 
+lipofuscin accumulation in ganglia from control and cardiomyopathy 
+patients (mean ± SD, n = 6–8 per group, *P = 0.043, Mann-Whitney 
+test). (F) The age distribution of control and cardiomyopathy patients 
+(mean ± SD, n = 6 and 8 for control and cardiomyopathy, respectively, 
+P = 0.218, Mann-Whitney test). Scale bars: 25 μm (A and C) and 50 
+μm (B and D). (G–J) Transmission electron microscopic images of 
+stellate ganglion neurons from control (G and I) and cardiomyopathy 
+(H and J) subjects. Few oxidized lipid deposits exist in control (thin 
+arrow), unlike neurons from cardiomyopathy subjects, which demon-
+strate numerous deposits, exhibit vacuolization (thick arrows), and 
+mitochondrial degeneration (arrowheads). Scale bars: 2 μm (G and H) 
+and 500 nm (I and J).
+
+Given the age dependence of  lipofuscin deposition, age-matched control and CMY specimens were com-
+pared. As shown in Figure 1, a significantly greater percentage of  neurons in CMY ganglia showed lipofus-
+cin deposition compared with controls (26.3% ± 6.3% vs. 16% ± 7.6%, P = 0.043).
+
+Oxidative  stress  is  directly  linked  to  mitochondrial  function;  therefore,  we  performed  transmis-
+sion electron microscopy (TEM) to examine whether mitochondria were structurally different between 
+CMY  and  control  subjects.  TEM  revealed  extensive  mitochondrial  degeneration,  with  mitochondria 
+in  different  phases  of   vacuolization  identified  (Figure  1,  G–J).  In  addition,  neurons  from  pathologic 
+subjects showed numerous oxidized lipid deposits.
+
+Leukocyte  infiltration  is  a  common  feature  of   stellate  ganglia  from  CMY  patients.  Further  examination  of  
+H&E–stained sections of  left stellate ganglia (LSG) revealed prominent, dense clusters of  leukocytes in one 
+CMY patient (Figure 2). Leukocytes in this ganglion can be seen completely surrounding neurons (Figure 
+2, B and C), which stained intensely for tyrosine hydroxylase (TH, Figure 2D). Much smaller sites of  leu-
+kocyte infiltration were found in ganglia from 2 other CMY patients, but none were evident in ganglia from 
+the control patients. There was an overall incidence of  60% in CMY patients (P < 0.01).
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+3
+
+CLINICAL MEDICINEFigure 2. Leukocyte infiltration in stellate ganglia of patients with cardiomyopathy and arrhythmias. Images of extensive leukocyte infiltration of stellate 
+ganglion of a cardiomyopathy patient are shown in panels A–D. (A and B) Images demonstrate a focus of inflammation at low and high magnifications, respec-
+tively, in H&E–stained sections. (C and D) Images show the same inflammasome completely engulfing neurons. These neurons stained intensely for tyrosine 
+hydroxylase (D). Scale bars: 100 μm in A, 50 μm in B and D, and 25 μm in C. (E) Quantification of the incidence of inflammation in ganglia examined. (E–H) Bright-
+field photomicrographs showing immunostaining for myeloperoxidase in sections from control (E and F) and cardiomyopathy (G and H) subjects’ stellate ganglia. 
+(E and F) Myeloperoxidase staining of control ganglion. Panel F shows a region of E at higher magnification (×100, oil). Arrows in E and F indicate a labeled cell in 
+a blood vessel. (G and H) Myeloperoxidase staining of surgical sample. Panel H shows a region of G at higher magnification (×100, oil). Arrows in G and H indicate 
+the same neuron with associated myeloperoxidase-labeled cells. Scale bars: 25 μm in F and H and 50 μm in E and G. (I and J) CD3 immunoreactivity in a represen-
+tative control and cardiomyopathy specimen, respectively. Arrows point to CD3+ T cells. Scale bars: 25 μm. (K) Graphical summary of the number of CD3+ T cells per 
+high-power field (HPF) at ×40 magnification. Mean ± SD, n = 5 and 4 for control and cardiomyopathy, respectively. *P = 0.016, Mann-Whitney test.
+
+To further evaluate ganglionic inflammation, immunoreactivity to myeloperoxidase (MPO) was exam-
+ined. MPO, a major component of  neutrophil activity, is stored in large quantities in cytoplasmic granules 
+and released in response to cellular activation. As shown in Figure 2, E–H, MPO immunoreactivity in con-
+trol ganglia was only present in cells within blood vessels. In marked contrast, ganglia from CMY subjects 
+demonstrated extracellular MPO deposits and MPO-immunoreactive neutrophils that were present in the 
+parenchyma and associated with neurons. Further, few of  the inflammatory infiltrates shown in Figure 2, 
+C and D were MPO immunoreactive, suggesting that most are T cells (10). The presence of  intraganglionic 
+T cells was subsequently confirmed with CD3 staining (Figure 2, J–L).
+
+SGNs from CMY patients exhibit a shift in adrenergic profiles. Stellate ganglia were stained for TH to identify 
+adrenergic  neurons.  Adrenergic  soma  and  nerve  fibers  were  abundant  in  ganglia  from  both  control  and 
+CMY patients (Figure 3, A and B), but the intensity of  TH immunoreactivity in the cell bodies varied dif-
+ferently between groups (Figure 3C). In the control state, most neurons stained intensely for TH (70.9% ± 
+5.2%), compared with moderately stained (26.6% ± 5.6%), and TH-negative neurons (4.5% ± 1.9%, P < 
+0.001). CMY resulted in a significant shift in the distribution of  relative intensity of  TH staining, with mod-
+erately and intensely stained neurons being equivalent (50% ± 10.1% vs. 43.4% ± 11.1%, respectively, P = 
+0.2). There was no significant difference between the percentage of  TH-negative neurons in control versus 
+CMY patients (4.5% ± 1.9% vs. 6.6% ± 1.3%, P = 0.2).
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+4
+
+CLINICAL MEDICINEFigure 3. Shift in adrenergic profiles of stellate ganglion neurons from pathologic compared with control patients. Tyrosine hydroxylase–positive adrenergic 
+neurons in stellate ganglia of control (A) and cardiomyopathy (CMY) patients (B). Fewer intensely stained neurons (solid arrow) can be identified in ganglia 
+from CMY patients compared with controls, while medium-intensity neurons (open arrows) are increased in ganglia from CMY patients compared with con-
+trols. Scale bars: 100 μm. (C) The graphical summary of the neurochemical shift in adrenergic phenotype of the stellate ganglion neurons from both groups is 
+shown (mean ± SD). Data for each group were evaluated by 1-way ANOVA followed by Tukey’s multiple comparisons test (n = 5 and 6 for control and cardiomy-
+opathy, respectively). Horizontal lines indicate significant differences in percentage of neurons in specified staining categories. *P < 0.05, ****P < 0.001.
+
+Cholinergic varicosities are not altered by CMY. Cholinergic elements within the stellate ganglia were iden-
+tified  by  using  an  antibody  against  the  vesicular  acetylcholine  transporter  (VAChT).  Extensive  choliner-
+gic varicosities were present in ganglia from both groups and frequently surrounded cell bodies that were 
+revealed by background level of  staining. The presence and distribution of  these varicosities, which are pre-
+ganglionic cholinergic fibers that provide excitatory input to the SGNs, did not differ between control and 
+CMY subjects (Figure 4). Light to moderate staining for VAChT was evident in only a few SGNs (Figure 
+4), with no difference between controls and CMY patients.
+
+Glial activation in pathological ganglia. SGCs in peripheral ganglia regulate the neuronal microenviron-
+ment and are important elements in neuronal function in health and disease (11–14). Using an antibody 
+against the glia cell marker S100, we identified S100-positive satellite cells in close association with human 
+SGNs (Figure 5, A and B). In fact, neurons were entirely enveloped by SGCs. The distribution and asso-
+ciation  of   SGCs  with  SGNs  were  not  significantly  different  between  control  and  CMY  subjects  (Figure 
+5, C–F). S100-positive glial cells were also associated with nerve fibers in ganglia from control and CMY 
+patients, with no obvious difference between groups.
+
+We next examined glial cell activation in ganglia from CMY and control subjects using immunoreac-
+tivity to glial fibrillary acidic protein (GFAP) as a marker. As shown in Figure 6, compared with controls 
+(Figure 6, A and B), ganglia from CMY subjects demonstrated substantially more GFAP immunoreactivity 
+(Figure 6, C and D). GFAP-positive satellite cells were often observed surrounding neurons in ganglia from 
+CMY patients but not in those from control patients (Figure 6, B and D). Likewise, ganglia from CMY 
+patients had higher GFAP staining of  glial cells associated with intraganglionic nerve fibers.
+
+Discussion
+Major findings. The major findings of the present study are: (a) SGNs from subjects with CMY and arrhythmias 
+exhibit evidence of oxidative stress and a neurochemical shift in adrenergic but not cholinergic phenotype; 
+(b) ganglia from CMY patients are characterized by leukocyte infiltration, the presence of CD3+ T cells, and 
+MPO-positive neutrophils in the parenchyma; and (c) activation of glial cells, including perineuronal satellite 
+cells  and  glial  cells  associated  with  intraganglionic  nerve  fibers.  These  findings  provide  direct  evidence  for 
+inflammation and ongoing pathological remodeling within the stellate ganglia of CMY patients and support 
+strategies aimed at mitigating adrenergic neurotransmission mediated by the stellate ganglia.
+
+Oxidative stress and inflammation. The accumulation of  lipofuscin and degeneration of  mitochondria are 
+indicators  of   cellular  oxidative  stress  (8,  9,  15).  Increased  metabolic  activity  is  associated  with  increased 
+rate of  lipid peroxidation, an important step in lipofuscin formation and accumulation. In addition, oxida-
+tive stress is recognized to be a trigger for inflammation (16). Our findings of  lipofuscin accumulation sug-
+gest increased activity of  SGNs resulting in oxidative stress and mitochondrial dysfunction as a result. This 
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+5
+
+CLINICAL MEDICINEFigure 4. Neuronal cholinergic phenotypes are not different in control versus pathologic 
+stellate ganglia. Bright-field photomicrographs showing immunostaining for the cholinergic 
+marker, vesicular ACh transporter (VAChT), in sections from control (A) and surgical (B) sam-
+ples of human stellate ganglia. Cholinergic varicosities appear as intense, punctate staining 
+(purple) around neuronal cell bodies and, in some cases, present in the neuropil. Most stellate 
+neurons showed a low but variable amount of background staining, but a few appeared darker 
+than background (asterisk), suggesting the cholinergic phenotype. Visual inspection of stained 
+sections from 4 control and 5 surgical ganglia revealed no obvious differences in VAChT stain-
+ing between groups. Arrows indicate neurons that contain lipofuscin. Scale bars: 50 μm.
+
+pathophysiological  process  may  contribute  to  local 
+inflammation seen in the ganglia and evidenced by 
+leukocyte  infiltration  and  activation  of   SGCs.  The 
+trigger for increased neuronal activity and oxidative 
+stress may be increased cardiac afferent neurotrans-
+mission,  which  increases  efferent  sympathetic  tone 
+via a spinal reflex mechanism (17). Other etiologies 
+may include circulating neurohormonal signals such 
+as  angiotensin  II  (18,  19)  or  brainstem-mediated 
+increases  in  efferent  sympathetic  outflow  (20),  all 
+of   which  have  been  described  in  CMY  and  heart 
+failure  states.  Cardiac  inflammation  and  oxidative 
+stress  induced  by  repeated  defibrillation  might  also 
+contribute to ganglion pathology (21). The possible 
+relationship  between  ganglion  inflammation  and 
+cardiac  arrhythmias  was  previously  reported  (22, 
+23);  however,  the  suggested  mechanisms  were  viral 
+or unknown. We present evidence potentially impli-
+cating enhanced neuronal activity, and the oxidative 
+stress (resulting from this metabolic activity) as a trigger for inflammation. MPO, released from neutrophils 
+(10), is an important modulator of  both acute and chronic inflammation (24). Oxidants derived from MPO 
+are  known  to  interfere  with  cellular  physiologic  processes.  The  presence  of   MPO-containing  neutrophils 
+in association with neurons may suggest ongoing neuronal dysfunction and enhanced cardiac sympathetic 
+instability,  although  an  important  factor  to  consider  is  the  timing  of   ganglia  collection  in  organ  donors, 
+which occurred following cessation of  circulation in most cases.
+
+Adrenergic profiles in patients with CMY and ventricular arrhythmias. Enhanced sympathetic tone, mediated 
+in part by neurotransmission through stellate ganglia, is associated with the progression of  cardiovascular 
+pathogenesis and risk of  arrhythmias and sudden death (1). The adrenergic marker TH, which catalyzes 
+the rate-limiting step in the synthesis of  catecholamines, is produced in the cell body and transported to 
+nerve terminals where norepinephrine is synthesized, stored, and released. The decrease in intensity of  TH 
+staining in soma of  SGNs from CMY patients may appear counterintuitive; however, it likely represents 
+mobilization of  enzyme to the nerve terminals to support catecholamine generation and release. In addi-
+tion to reported structural changes to neurons (25–27), the findings of  the present study support enhanced 
+activity in SGNs in patients with CMY and arrhythmias.
+
+Cholinergic properties were not different between CMY and control patients. Cholinergic neurons make 
+up a minority of SGNs, and are postulated to innervate non-cardiac structures of the upper thorax, for exam-
+ple sweat glands. Whether cholinergic neurons in the stellate ganglia have a role in cardiac neurotransmission 
+is not clear. Studies in animal models have suggested that cholinergic remodeling occurs in cardiac disease. 
+In a rodent model of nonischemic heart failure (28), sympathetic-to-cholinergic transdifferentiation of SGNs 
+mediated by gp130 cytokines was reported. In a porcine model of ischemic CMY (6), fewer cholinergic SGNs 
+were identified when compared with control animals. Although these findings in animal models of subacute 
+pathology suggest that shifts in the neurotransmitter phenotype of SGNs can occur with pathology, choliner-
+gic remodeling does not appear to be a feature of more severe and complex chronic CMY in humans.
+
+SGCs  closely  associated  with  SGNs  are  activated  by  cardiac  pathology.  The  microenvironment  in  which 
+SGNs function is regulated by SGCs, which ensheathe the somata of  the sympathetic neurons and the 
+synaptic  inputs  to  their  dendrites  (11).  Accordingly,  these  glial  cells  are  well  placed  to  affect  synaptic 
+transmission  and  neuronal  excitability.  Several  lines  of   evidence  suggest  that  SGCs  have  bidirectional 
+interactions with the neurons that they surround and with preganglionic nerve terminals. SGCs express 
+ion  channels  (29),  which  provide  a  mechanism  for  regulation  of   the  extracellular  fluid  composition, 
+receptors for neurotransmitters (30) and neurotrophic factors (31), and they are able to release media-
+tors that affect neurons (23). Furthermore, active control of  the neuronal microenvironment by SGCs 
+can contribute to disease (32). In the present study, we did not identify alterations in the distribution and 
+arrangement  of   SGCs  in  stellate  ganglia;  however,  many  SGCs  exhibited  activation,  as  evidenced  by 
+strong GFAP immunoreactivity. To our knowledge, this represents the first report of  glial activation in 
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+6
+
+CLINICAL MEDICINEFigure 5. Association of satellite cells with stellate 
+ganglion neurons. Confocal microscopic images of human 
+stellate ganglion sections double labeled for the pan 
+neuronal marker PGP9.5 (red) and the glial cell marker S100 
+(green). (A) Control ganglion. (B) Ganglion from a cardiomy-
+opathy subject. In both panels, sympathetic neurons (red) 
+are surrounded by green satellite glial cells (white arrows). 
+The surrounding neuropil contains labeled nerve fibers 
+and associated glial cells. Scale bar: 50 μm. (C–F) Bright-
+field photomicrographs showing immunostaining for S100 
+in sections from control (C and D) and surgical (E and F) 
+samples of human stellate ganglia. (C and D) S100 stain-
+ing of control ganglion. Region indicated by dashed box 
+in panel C is shown at higher magnification (×100, oil) in 
+panel D. (E and F) S100 staining of surgically removed gan-
+glion. Region indicated by dashed box in panel E is shown 
+at higher magnification (×100, oil) in panel F. S100 staining 
+is also associated with glial cells and their processes in 
+the neuropil. There is no obvious difference in staining for 
+control versus surgical samples. Asterisk, neuron; black 
+arrow, satellite glial cell; white arrow, axon leaving neuron. 
+Scale bars: 25 μm.
+
+stellate ganglia of  patients with CMY and arrhythmias. Taken together with the finding of  inflammation 
+and oxidative stress within stellate ganglia, this finding suggests that SGNs in patients with CMY and 
+arrhythmias are under pathologic stress. It is not clear whether SGCs are reacting to such stress to main-
+tain homeostatic balance or whether they are contributing to it. However, in the context of  CMY, it is 
+reasonable to speculate that SGC activation contributes to the pathophysiology. Systemic inflammation, 
+a feature of  chronic CMY and heart failure, and regional inflammation have both been demonstrated to 
+activate SGCs and augment coupling of  SGCs via gap junctions (33). Further, evidence has implicated 
+increased coupling of  SGCs to neuronal hyperexcitability (31), which could be a key factor in the patho-
+physiology of  ventricular tachycardia in CMY patients.
+
+Figure 6. Satellite glial cells from patients with arrhythmias and cardio-
+myopathy are activated. Bright-field photomicrographs showing immunos-
+taining for GFAP in sections from control (A and B) and cardiomyopathy (C 
+and D) samples of human stellate ganglia. (A and B) GFAP staining is sparse 
+in control ganglion. Region indicated by dashed box in panel A is shown at 
+higher magnification (×100, oil) in panel B. (C and D) Strong GFAP staining 
+of satellite glial cells and neuropil is evident in surgically removed ganglion. 
+Region indicated by dashed box in panel C is shown at higher magnification 
+(×100, oil) in panel D. GFAP staining in the neuropil is most likely on glial 
+cells and processes associated with axons. Asterisk, neuron; black arrow, 
+satellite glial cell. Scale bars: 25 μm.
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+7
+
+CLINICAL MEDICINEFigure 7. Potential pathways driving adverse remodeling within stellate ganglia and impact of efferent sympathetic neurotransmission. Schematic repre-
+sentation depicting the impact of myocardial injury on stellate ganglion neurons, inducing the alterations identified in this work. CPN, cardiopulmonary nerve.
+
+Stellate ganglia as nexus points for neuromodulation. These findings support the use of  denervation via partial 
+resection of  the stellate ganglion to control arrhythmias (5, 34, 35) and to mitigate the progression of  dilated 
+CMY (36). Pathological changes within stellate ganglia that act to enhance neurotransmission create further 
+electrical instability (37), increasing the risk of  arrhythmias. Removal of  a segment of  the sympathetic chain 
+may also eliminate these regions of  the nervous system, which can potentially amplify sympathoexcitation.
+Limitations. Although the sample size is small, the use of  stellate ganglia from normal controls (nonca-
+daveric) allowed uniform fixation across samples, which has not previously been performed. Further, entire 
+ganglia were sectioned and studied for complete analyses. The small sample size prevented specific relation 
+of  changes within ganglia to specific clinical or pathological features in patients. The age of  control and 
+CMY subjects differed. This is unavoidable, as organ donors are typically young, healthy subjects. Ganglia 
+from donors were typically harvested after cessation of  circulation; hence, it is conceivable that the lack of  
+neutrophils within control ganglia is related to the lack of  circulation.
+
+Conclusions.  In  summary,  our  study  demonstrates,  for  the  first  time  to  our  knowledge,  that  stellate 
+ganglia from patients with CMY and arrhythmias exhibit oxidative stress, inflammation, neurochemical 
+remodeling, and SGC activation (Figure 7). These findings suggest that stellate ganglion dysfunction is an 
+important mediator of  enhanced sympathetic neurotransmission associated with arrhythmias and support 
+cardiac sympathetic denervation as an important neuromodulatory intervention for arrhythmia control.
+
+Methods
+
+Specimen collection
+CMY specimens. Stellate ganglia (n = 8) were collected from CMY patients undergoing cardiac sympa-
+thetic denervation (the resection of  the lower half  of  the stellate ganglion, and second through fourth 
+paravertebral ganglia). Patients consented to provide the excised stellate ganglia for research. Histology 
+slides from another group of  8 CMY patients were also examined. These were patients with depressed 
+left  ventricular  function  and  severe  ventricular  arrhythmias  refractory  to  pharmacologic  and  invasive 
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+8
+
+CLINICAL MEDICINETable 2. List of antibodies, sources, and concentrations used
+
+Antibody
+Anti–Tyrosine Hydroxylase 
+Anti-PGP9.5
+Anti–Vesicular Acetylcholine Transporter
+Anti–Human Myeloperoxidase
+Anti-S100 
+Anti–Glial Fibrillary Acidic Protein 
+Donkey Anti-Rabbit (2°) Alexa Fluor 594 Conjugate
+Goat Anti–Guinea Pig (2°) Alexa Fluor 594 Conjugate
+Donkey Anti-Rabbit (2°) Alexa Fluor 488 Conjugate
+Anti-CD3 (clone SP7)
+
+Concentration
+1:500
+1:1,000
+1:1,000
+1:1,000
+1:250
+1:1,000
+1:200
+1:200
+1:200
+1:50
+
+Source
+Polyclonal Rabbit Antibody, PelFreez, catalog P40101-150
+Polyclonal Guinea Pig Antibody, Neuromics, catalog GP1404
+Polyclonal Rabbit Antibody, Synaptic Systems, catalog 139103 
+Polyclonal Rabbit Antibody, Dako, catalog A0398
+Polyclonal Rabbit Antibody, Dako, catalog Z0311
+Polyclonal Rabbit Antibody, Dako, catalog Z0334
+Polyclonal Rabbit, Thermo Fisher Scientific, catalog A-21207
+Polyclonal Goat, Thermo Fisher Scientific, catalog A-11076
+Polyclonal Rabbit, Thermo Fisher Scientific, catalog A-21206
+Monoclonal Rabbit Antibody, Thermo Fischer Scientific, catalog MA1-90582
+
+treatment strategies such as catheter ablation (Table 1). Detailed clinical information on these patients 
+was  also  collected,  such  as  demographics,  medical  history,  and  records  of   noninvasive  and  invasive 
+clinic  studies  and  assessments.  Following  excision,  stellate  ganglia  were  rapidly  collected  and  placed 
+immediately in fixative, as described below.
+
+Control specimens. Stellate ganglia (n = 8) were collected from organ donors at the time of  organ pro-
+curement with consent provided for research tissue collection. Use of  these tissues was in accordance with 
+institutional guidelines and was approved by the UCLA IRB. All available clinical information including 
+age, gender, medical history, and cause of  death were reviewed. Patients with cardiac or pulmonary dis-
+eases were excluded. Following removal of  the heart and lungs for transplantation, stellate ganglia were 
+rapidly collected and placed immediately in fixative, as described.
+
+Tissue sectioning and preparation
+LSG  and  right  stellate  ganglia  (RSG)  were  evaluated.  Samples  were  placed  immediately  into  cold  10% 
+phosphate-buffered formalin (Thermo Fisher Scientific) for 7 days, transferred to 70% ethanol, and subse-
+quently embedded in paraffin.
+
+Paraffin-embedded  ganglia  were  sectioned  at  5  μm  thickness  using  a  Microm  HM  310  microtome 
+(Southeast Pathology). Sections were collected on charged slides, and prior to staining, they were deparaf-
+finized by incubation at 58°C–60°C overnight followed by xylene washes and then rehydration in a graded 
+ethanol series ending with water.
+
+Histology
+From  each  ganglion,  7–10  evenly  spaced  slides  were  stained  with  H&E.  These  slides  were  used  to 
+identify  regions  containing  the  most  neurons,  neurons  containing  lipofuscin,  and  assess  leukocyte 
+infiltration.
+
+Immunohistochemistry
+Antigen retrieval was performed using heated sodium citrate buffer (0.882 g per 300 ml distilled water, pH 
+6.9, for 4 minutes), and washed 4 times in 0.1 M phosphate-buffered saline (PBS, pH 7.3). Sections were 
+permeabilized with 0.4% Triton X-100 (TX-100) in PBS containing 0.5% bovine serum albumin (BSA), 
+then 1% H2O2 in PBS. Slides were washed again in PBS, and blocked for 2 hours in PBS containing 5% nor-
+mal donkey serum, 0.5% BSA, and 0.4% TX-100. Slides were then incubated overnight at room tempera-
+ture in blocking buffer containing primary antibodies, and subsequently washed in PBS, followed by block-
+ing for 2 hours. Subsequent steps varied depending on the detection technique. For fluorescence detection, 
+slides were incubated with AlexaFluor-conjugated secondary antibodies (Table 2) for 2 hours and washed 
+with PBS. Cover glasses were applied using Citifour AF1 mounting medium (Ted Pella Inc.) and sealed. 
+Kits containing species-specific biotinylated secondary antibodies were used for detection by the ABC tech-
+nique (Vector Laboratories). Bright-field slides were then dehydrated and cover glasses were applied using 
+Cytoseal XYL mounting medium (Thermo Fisher Scientific).
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+9
+
+CLINICAL MEDICINE 
+Microscopy and image analysis
+Slides  were  viewed  and  photographed  under  bright  field  or  fluorescence  illumination  using  an  Olympus 
+BX41 microscope. Digital images were obtained using an Olympus Qcolor 3 camera. Select slides were fur-
+ther examined using confocal microscopy with a Leica SP8 confocal microscope (Leica Microsystems Inc.).
+For quantitative analysis of  lipofuscin-positive neurons and TH staining, we evaluated at least 3 sec-
+tions from different levels within each ganglion and collected 6–7 images of  ×40 fields per section. Stereo 
+Investigator software (MicroBrightField, Inc.) was used to identify and detect lipofuscin-positive neurons 
+based on color. Staining of  neurons for TH was graded as intense, moderate, or absent. In each case, differ-
+ent populations of  neurons were labeled with a unique marker in Stereo Investigator and counted.
+
+TEM
+Each specimen measured approximately 7 to 10 mm in length. Cross-sections, perpendicular to the length, 
+were obtained. Efforts were made to obtain a uniform 1 × 1 mm specimen dimension per block. The tissue 
+was fixed in 2.5% glutaraldehyde/0.1 M sodium phosphate buffer pH 7.4 for 24 hours at 4°C, followed by 
+1% osmium tetroxide in 0.1 M sodium phosphate buffer for 2 hours. Each case yielded 3–6 sections. Tissue 
+sections were then infiltrated by progressive composite of  epon (1:1 to 3:1) in acetone and placed in embed-
+ding molds (Electron Microscopy Sciences, 70166, block shape). One-micron-thick methylene blue–stained 
+thick sections were prepared from each block and reviewed. The most representative block was selected and 
+the area of  interest was designated for TEM grid preparation. The resin block was then trimmed and cut in 
+90- to 120-nm thin sections and captured on TEM grids. These were stained with 4% uranyl acetate followed 
+by lead citrate. The grids were allowed to dry in room temperature prior to examination in an FEI/PHILIPS 
+EM208S transmission electron microscope. Multiple digital images at final print magnifications of  ×3,690 to 
+×59,100 at 150 mm and direct magnification ranges of  ×2,000 to ×40,000 were captured.
+
+Primary and secondary antibodies
+A list of  the antibodies used and concentrations is provided in Table 2.
+
+Statistics
+Data are expressed as means ± SD. Continuous variables were compared using a 2-tailed Student’s t test or 
+ANOVA for normally distributed variables, and the Mann-Whitney test for variables not distributed nor-
+mally. An adjusted P value of  less than or equal to 0.05 was considered statistically significant.
+
+Study approval
+The study was approved by the UCLA IRB. Written informed consent was provided by the patient or appro-
+priate designee. For organ donors, consent for research was provided by the donor or appropriate signatory.
+
+Author contributions
+OAA, DBH, JLA, and KS designed the study. OAA, DBH, TMS, and TCB conducted experiments. OAA, 
+JY, JML, RMB, AS, and NK acquired the tissue and data. OAA, DBH, TCB, TMS, and NK analyzed the 
+data. OAA, DBH, JLA, and KS wrote the manuscript.
+
+Acknowledgments
+The authors wish to thank the tissue donors, without whom this study would not be possible. The authors 
+also wish to acknowledge One Legacy and the California Transplant Donor Network (CTDN) for support 
+in retrieving tissue. The authors also wish to thank Oh Jin Kwon, James Tollins, Msgana Tamrat, Hugo 
+Perez, Biliet L. Ngang, and Jeffrey T. Michaels for invaluable contributions to this project. This work was 
+made possible by support from NIH grants HL125730 to OAA, GM107949 to DBH, and HL084261 and 
+OT2OD023848 to KS.
+
+Address correspondence to: Olujimi A. Ajijola or Kalyanam Shivkumar, UCLA Cardiac Arrhythmia Cen-
+ter, UCLA Health System, David Geffen School of  Medicine at UCLA, Suite 660, Westwood Boulevard, 
+Los Angeles, California 90095-1679, USA. Phone: 310.206.6433; Email: oajijola@mednet.ucla.edu (O.A. 
+Ajijola); kshivkumar@mednet.ucla.edu (K. Shivkumar).
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+1 0
+
+CLINICAL MEDICINE  1. Shivkumar K, et al. Clinical neurocardiology defining the value of  neuroscience-based cardiovascular therapeutics. J Physiol 
+
+(Lond). 2016;594(14):3911–3954.
+
+  2. Ardell JL, et al. Translational neurocardiology: preclinical models and cardioneural integrative aspects. J Physiol (Lond). 
+
+2016;594(14):3877–3909.
+
+  3. Schwartz PJ, Locati EH, Moss AJ, Crampton RS, Trazzi R, Ruberti U. Left cardiac sympathetic denervation in the therapy of  
+
+congenital long QT syndrome. A worldwide report. Circulation. 1991;84(2):503–511.
+
+  4. Bourke T, et al. Neuraxial modulation for refractory ventricular arrhythmias: value of  thoracic epidural anesthesia and surgical 
+
+left cardiac sympathetic denervation. Circulation. 2010;121(21):2255–2262.
+
+  5. Ajijola OA, et al. Bilateral cardiac sympathetic denervation for the management of  electrical storm. J Am Coll Cardiol. 
+
+2012;59(1):91–92.
+
+  6. Ajijola OA, et al. Remodeling of  stellate ganglion neurons after spatially targeted myocardial infarction: Neuropeptide and mor-
+
+phologic changes. Heart Rhythm. 2015;12(5):1027–1035.
+
+  7. Rizzo S, et al. T-cell-mediated inflammatory activity in the stellate ganglia of  patients with ion-channel disease and severe ven-
+
+tricular arrhythmias. Circ Arrhythm Electrophysiol. 2014;7(2):224–229.
+
+  8. Goyal VK. Lipofuscin pigment accumulation in human brain during aging. Exp Gerontol. 1982;17(6):481–487.
+  9. Brunk UT, Terman A. The mitochondrial-lysosomal axis theory of  aging: accumulation of  damaged mitochondria as a result of  
+
+imperfect autophagocytosis. Eur J Biochem. 2002;269(8):1996–2002.
+
+ 10. Pinkus GS, Pinkus JL. Myeloperoxidase: a specific marker for myeloid cells in paraffin sections. Mod Pathol. 1991;4(6):733–741.
+  11. Hanani M. Satellite glial cells in sympathetic and parasympathetic ganglia: in search of function. Brain Res Rev. 2010;64(2):304–327.
+ 12. Ribeiro-Resende VT, Carrier-Ruiz A, Lemes RM, Reis RA, Mendez-Otero R. Bone marrow-derived fibroblast growth factor-2 
+
+induces glial cell proliferation in the regenerating peripheral nervous system. Mol Neurodegener. 2012;7:34.
+
+ 13. Vaegter CB. Neurotrophins and their receptors in satellite glial cells following nerve injury. Neural Regen Res. 2014;9(23):2038–2039.
+ 14. Zhou XF, et al. Satellite-cell-derived nerve growth factor and neurotrophin-3 are involved in noradrenergic sprouting in the dor-
+
+sal root ganglia following peripheral nerve injury in the rat. Eur J Neurosci. 1999;11(5):1711–1722.
+
+ 15. Sohal RS, Brunk UT. Lipofuscin as an indicator of  oxidative stress and aging. Adv Exp Med Biol. 1989;266:17–26.
+ 16. Salminen A, Ojala J, Kaarniranta K, Kauppinen A. Mitochondrial dysfunction and oxidative stress activate inflammasomes: 
+
+impact on the aging process and age-related diseases. Cell Mol Life Sci. 2012;69(18):2999–3013.
+
+ 17. Wang HJ, Wang W, Cornish KG, Rozanski GJ, Zucker IH. Cardiac sympathetic afferent denervation attenuates cardiac remod-
+
+eling and improves cardiovascular dysfunction in rats with heart failure. Hypertension. 2014;64(4):745–755.
+
+ 18. Xiao L, Haack KK, Zucker IH. Angiotensin II regulates ACE and ACE2 in neurons through p38 mitogen-activated protein 
+
+kinase and extracellular signal-regulated kinase 1/2 signaling. Am J Physiol, Cell Physiol. 2013;304(11):C1073–C1079.
+
+ 19. Zucker IH, Gao L. The regulation of  sympathetic nerve activity by angiotensin II involves reactive oxygen species and MAPK. 
+
+Circ Res. 2005;97(8):737–739.
+
+ 20. Lambert GW, et al. Increased central nervous system monoamine neurotransmitter turnover and its association with sympa-
+
+thetic nervous activity in treated heart failure patients. Circulation. 1995;92(7):1813–1818.
+
+ 21. Moss AJ, Ryan DH, Yeaney GA. Ganglionitis and genetic cardiac arrhythmias: more questions than answers. Circ Arrhythm 
+
+Electrophysiol. 2014;7(2):190–191.
+
+ 22. James TN, Imamura K. Virus-like particles associated with intracardiac ganglionitis in 2 cases of  sudden unexpected death. Jpn 
+
+Heart J. 1981;22(3):447–454.
+
+ 23. James TN, Zipes DP, Finegan RE, Eisele JW, Carter JE. Cardiac ganglionitis associated with sudden unexpected death. Ann 
+
+Intern Med. 1979;91(5):727–730.
+
+ 24. Nussbaum C, Klinke A, Adam M, Baldus S, Sperandio M. Myeloperoxidase: a leukocyte-derived protagonist of  inflammation 
+
+and cardiovascular disease. Antioxid Redox Signal. 2013;18(6):692–713.
+
+  25. Ajijola OA, et al. Extracardiac neural remodeling in humans with cardiomyopathy. Circ Arrhythm Electrophysiol. 2012;5(5):1010–1116.
+ 26. Docimo S, Piccolo C, Van Arsdale D, Elkowitz DE. Pathology-dependent histological changes of  the left stellate ganglia: a 
+
+cadaveric study. Clin Med Pathol. 2008;1:105–113.
+
+ 27. Wood A, Docimo S, Elkowitz DE. Cardiovascular disease and its association with histological changes of  the left stellate gan-
+
+glion. Clin Med Insights Pathol. 2010;3:19–24.
+
+ 28. Kanazawa H, et al. Heart failure causes cholinergic transdifferentiation of  cardiac sympathetic nerves via gp130-signaling cyto-
+
+kines in rodents. J Clin Invest. 2010;120(2):408–421.
+
+ 29. Konishi T. Developmental and activity-dependent changes in K+ currents in satellite glial cells in mouse superior cervical gan-
+
+glion. Brain Res. 1996;708(1–2):7–15.
+
+ 30. Lecca D, Ceruti S, Fumagalli M, Abbracchio MP. Purinergic trophic signalling in glial cells: functional effects and modulation 
+
+of  cell proliferation, differentiation, and death. Purinergic Signal. 2012;8(3):539–557.
+
+ 31. Hanani M. Satellite glial cells in sensory ganglia: from form to function. Brain Res Brain Res Rev. 2005;48(3):457–476.
+ 32. Ohara PT, et al. Gliopathic pain: when satellite glial cells go bad. Neuroscientist. 2009;15(5):450–463.
+ 33. Hanani M, Caspi A, Belzer V. Peripheral inflammation augments gap junction-mediated coupling among satellite glial cells in 
+
+mouse sympathetic ganglia. Neuron Glia Biol. 2010;6(1):85–89.
+
+ 34. Ajijola OA, Vaseghi M, Mahajan A, Shivkumar K. Bilateral cardiac sympathetic denervation: why, who and when? Expert Rev 
+
+Cardiovasc Ther. 2012;10(8):947–949.
+
+ 35. Vaseghi M, et al. Cardiac sympathetic denervation in patients with refractory ventricular arrhythmias or electrical storm: inter-
+
+mediate and long-term follow-up. Heart Rhythm. 2014;11(3):360–366.
+
+ 36. Pêgo-Fernandes PM, et al. Endoscopic left sympathetic blockade in the treatment for dilated cardiomyopathy. Arq Bras Cardiol. 
+
+2010;95(6):685–690.
+
+ 37. Ajijola OA, et al. Focal myocardial infarction induces global remodeling of  cardiac sympathetic innervation: neural remodeling 
+
+in a spatial context. Am J Physiol Heart Circ Physiol. 2013;305(7):H1031–H1040.
+
+insight.jci.org      https://doi.org/10.1172/jci.insight.94715
+
+1 1
+
+CLINICAL MEDICINE

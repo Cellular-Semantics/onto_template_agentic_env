@@ -1,0 +1,9 @@
+[project]
+name = "onto-template-agentic-env"
+version = "0.1.0"
+description = "AI-assisted framework for populating DOSDP and ROBOT templates for Cell Ontology and Uberon"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pdfminer-six>=20260107",
+]

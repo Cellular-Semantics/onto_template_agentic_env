@@ -1,0 +1,1891 @@
+Review
+Ocular Autonomic Nervous System: An Update from Anatomy
+to Physiological Functions
+
+Feipeng Wu , Yin Zhao *
+
+and Hong Zhang
+
+Department of Ophthalmology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and
+Technology, Wuhan 430030, China; 15927161371@163.com (F.W.); tjyksys@163.com (H.Z.)
+* Correspondence: zhaoyin85@hust.edu.cn
+
+Abstract: The autonomic nervous system (ANS) confers neural control of the entire body, mainly
+through the sympathetic and parasympathetic nerves. Several studies have observed that the
+physiological functions of the eye (pupil size, lens accommodation, ocular circulation, and intraocular
+pressure regulation) are precisely regulated by the ANS. Almost all parts of the eye have autonomic
+innervation for the regulation of local homeostasis through synergy and antagonism. With the advent
+of new research methods, novel anatomical characteristics and numerous physiological processes
+have been elucidated. Herein, we summarize the anatomical and physiological functions of the ANS
+in the eye within the context of its intrinsic connections. This review provides novel insights into
+ocular studies.
+
+Keywords: autonomic nervous system; eye; anatomy; pupil light reﬂex; choroidal blood ﬂow;
+aqueous humor
+
+1. Introduction
+
+The ANS plays a major role in maintaining the physiological integrity of the entire
+body in response to environmental alterations. Similar to the other organs in the body,
+the majority of intraocular muscles of the eyes are dominantly controlled by the ANS.
+Moreover, the pupillary light reﬂex (PLR) has been widely used for the detection of ANS
+dysfunction [1].
+
+Brieﬂy, the eyes are innervated by the sympathetic, parasympathetic, and trigeminal
+sensory nerve ﬁbers (Figure 1). The preganglionic ﬁbers of the parasympathetic nerve
+are derived from the Edinger-Westphal preganglionic (EWpg) and superior salivatory
+(SSN) nuclei [2]. The sympathetic innervation of the eye is derived from the preganglionic
+neurons located in the C8-T2 segments of the spinal cord, ascending to the superior cervical
+ganglion [3]. These autonomic neurons have anatomical differences in various species,
+which will be discussed in this review.
+
+Numerous studies have identiﬁed newer autonomic pathways and peptides secreted
+by these nerve ﬁbers in various species. These studies have helped shape and enrich the
+knowledge about the eye under different physiological and pathological conditions. The
+historical and current knowledge of the anatomy and physiological processes of the ANS
+in the eye are summarized in this review.
+
+Citation: Wu, F.; Zhao, Y.; Zhang, H.
+
+Ocular Autonomic Nervous System:
+
+An Update from Anatomy to
+
+Physiological Functions. Vision 2022,
+
+6, 6. https://doi.org/10.3390/
+
+vision6010006
+
+Received: 24 November 2021
+
+Accepted: 10 January 2022
+
+Published: 14 January 2022
+
+Publisher’s Note: MDPI stays neutral
+
+with regard to jurisdictional claims in
+
+published maps and institutional afﬁl-
+
+iations.
+
+Copyright: © 2022 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under
+
+the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license (https://
+
+creativecommons.org/licenses/by/
+
+4.0/).
+
+Vision 2022, 6, 6. https://doi.org/10.3390/vision6010006
+
+https://www.mdpi.com/journal/vision
+
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)visionVision 2022, 6, 6
+
+2 of 24
+
+Figure 1. Autonomic pathways in mammals and avian. The encircled areas represent nuclei and
+ganglia. There are three autonomic pathways: (1) EW→CG→targets (parasympathetic pathway);
+(2) SSN→PPG→targets (parasympathetic pathway); (3) IML→SCG→targets (sympathetic pathway).
+Trigeminal nerve branches are also present. CG—ciliary ganglion; ChBF—choroidal blood ﬂow;
+EWpg—nucleus of Edinger-Westphal; preganglionic division; IML—intermediolateral column; PPG—
+pterygopalatine ganglion; SCG—superior cervical ganglion; SSN—superior salivatory nucleus; TG—
+trigeminal ganglion.
+
+2. The Autonomic Pathways in the Eye
+2.1. Parasympathetic Pathways (Edinger-Westphal Nucleus–Ciliary Ganglion)
+
+From around 21 weeks of gestation in humans, the Edinger-Westphal nucleus (EWn)
+forms a unique and complex 3D structure consisting of 2–3 parts [4]. In primates, the
+EWn lies immediately dorsal to the somatic subdivisions of the oculomotor nuclear com-
+plex, which contains the neurons that form the oculomotor nerve within the midbrain.
+These nerves travel to the bilateral ciliary ganglion (CG) via the oculomotor root of the
+ciliary ganglion; the postganglionic ﬁbers enter the eyeball through the short ciliary nerve,
+along with other sympathetic postganglionic and trigeminal sensory ﬁbers. Within the
+eyeball, they distribute in the pupillary sphincter and ciliary muscles where they exert
+their functions. Since the ﬁrst description of EWn in the literature, it has been attributed
+with the function of providing parasympathetic control to the eye. This is true in monkeys
+and birds [5–7]. However, in mice, rats, ferrets, cats, and humans, the parasympathetic
+preganglionic neurons projecting to the CG do not accurately correspond with the reported
+location in the cytoarchitecturally deﬁned EW; these neurons are scattered outside the
+EWn and in the perioculomotor region, ventral to the oculomotor nucleus [3,8]. This
+difference in localization has created confusion. It has been suggested that “the cholinergic,
+preganglionic neurons supplying the CG are termed the Edinger-Westphal preganglionic
+(EWpg) population. The other part, the centrally projecting peptidergic neurons, is termed
+the Edinger-Westphal centrally projecting (EWcp) population” [9]. In mice, rats, ferrets,
+cats, and humans, the EWcp, which was previously deﬁned cytoarchitecturally, has been
+
+Vision 2022, 5, x FOR PEER REVIEW 2 of 26    Figure 1. Autonomic pathways in mammals and avian. The encircled areas represent nuclei and ganglia. There are three autonomic pathways: (1) EW→CG→targets (parasympathetic pathway); (2) SSN→PPG→targets (parasympathetic pathway); (3) IML→SCG→targets (sympathetic path-way). Trigeminal nerve branches are also present. CG—ciliary ganglion; ChBF—choroidal blood flow; EWpg—nucleus of Edinger–Westphal; preganglionic division; IML—intermediolateral col-umn; PPG—pterygopalatine ganglion; SCG—superior cervical ganglion; SSN—superior salivatory nucleus; TG—trigeminal ganglion. 2. The Autonomic Pathways in the Eye 2.1. Parasympathetic Pathways (Edinger–Westphal Nucleus–Ciliary Ganglion) From around 21 weeks of gestation in humans, the Edinger–Westphal nucleus (EWn) forms a unique and complex 3D structure consisting of 2–3 parts [4]. In primates, the EWn lies immediately dorsal to the somatic subdivisions of the oculomotor nuclear complex, which contains the neurons that form the oculomotor nerve within the midbrain. These nerves travel to the bilateral ciliary ganglion (CG) via the oculomotor root of the ciliary ganglion; the postganglionic fibers enter the eyeball through the short ciliary nerve, along with other sympathetic postganglionic and trigeminal sensory fibers. Within the eyeball, they distribute in the pupillary sphincter and ciliary muscles where they exert their func-tions. Since the first description of EWn in the literature, it has been attributed with the function of providing parasympathetic control to the eye. This is true in monkeys and birds [5–7]. However, in mice, rats, ferrets, cats, and humans, the parasympathetic pre-ganglionic neurons projecting to the CG do not accurately correspond with the reported location in the cytoarchitecturally defined EW; these neurons are scattered outside the EWn and in the perioculomotor region, ventral to the oculomotor nucleus [3,8]. This dif-ference in localization has created confusion. It has been suggested that “the cholinergic, preganglionic neurons supplying the CG are termed the Edinger–Westphal preganglionic (EWpg) population. The other part, the centrally projecting peptidergic neurons, is termed the Edinger–Westphal centrally projecting (EWcp) population.” [9]. In mice, rats, ferrets, cats, and humans, the EWcp, which was previously defined cytoarchitecturally, has been Vision 2022, 6, 6
+
+3 of 24
+
+shown to contain peptidergic neurons that express urocortin-1 and project centrally within
+the brain, instead of cholinergic neurons [8,10]. Further research on the ultrastructure of
+macaque EWpg motoneurons suggested the presence of multiple inputs from different
+types of neuronal terminal. Using neural circuit tracing methods, the motoneurons in
+the macaque EWpg have been observed to be organized into a single column that runs
+longitudinally and dorsally to the oculomotor nucleus [11].
+
+The CG, as a transfer station for the parasympathetic nerve behind the eye, is mainly
+involved in ocular accommodation and pupil constriction. Around 3% of the postganglionic
+neurons from CG in macaques were showed heading toward the sphincter pupillae, and
+in cats, this portion increases to 10–15% [12,13]. The CG is a small red-gray quadrangu-
+lar plate, approximately 3 mm long, situated near the apex of the orbit and speciﬁcally
+varies according to the position of the optic nerves [14,15]. Additionally, known as the
+ciliary nerves, these nerves include three roots (sympathetic, parasympathetic, and sensory
+ﬁbers), attached to the CG. Moreover, from the anterior border, ciliary nerves give rise to
+8–10 branches, arranged in 2 bundles [14,16]. In humans, numerous substance P (SP)- and
+calcitonin gene-related, peptide (CGRP)-immunoreactive, non-varicose nerve ﬁbers are
+connected with the ganglion cells and nerve trunks that enter the ganglia; these ﬁndings
+indicate the input of the trigeminal nerve to CG [17]. Studies that analyzed the macaque
+CG ultrastructure suggest that this ganglion may also be the site for neuronal processing of
+the preganglionic input, rather than transmission of the parasympathetic outﬂow to the
+eye alone [18]. Immunohistochemical analyses of the gamma-aminobutyric acid (GABA)-
+synthesizing enzyme, glutamic acid decarboxylase, and choline acetyltransferase (ChAT)
+have shown that all macaque CG neurons have contact with the ChAT-positive terminals,
+and that GABA may act as a neuromodulator in controlling the lens or pupil functions [19].
+In rats, a few ciliary ganglia and accessory ciliary neurons exhibit VIP immunoreactivity,
+while, in contrast, in humans and guinea pigs, this immunoreactivity is noted in the uveal
+ganglion cells [20]. In mammals, neuropeptide Y (NPY) is found in most of the sympathetic
+ganglion neurons, several parasympathetic ganglion neurons, and in the intramural ganglia
+of the sympathetic nervous system (SNS). NPY-like immunoreactive (LI) nerve terminals
+surround 80% of macaque CG cells; however, in macaques, the CG cell somata remain
+unstained [21]. The size, shape, and topography of, and the various peptides secreted
+by, CG vary considerably among the species, and ﬁndings from animal studies cannot be
+totally generalized to humans [20,22–25].
+
+In avians, the CG also innervates the choroid, but there is little evidence for this
+connection in mammals. Some studies have reported the possibility for such connections,
+but without any deﬁnite evidence [7,26–29]. The CG consists of two different neuronal
+populations that are derived from the EWn: the “ciliary neuron”, which innervates the
+constrictor muscle of the iris and the ciliary body; the “choroidal neuron”, which innervates
+the choroidal blood vessels [7]. By immunohistochemical methods, the choroidal blood
+ﬂow of the upper and temporal parts of the eye has been observed to be preferentially
+affected. In pigeons, adequate blood supply to these parts is needed to maintain high
+sensitivity and binocular vision [28].
+
+2.2. Parasympathetic Pathways (Superior Salivatory Nucleus–Pterygopalatine Ganglion)
+
+The SSN is located approximately dorsolateral to the facial motor nucleus, while the
+precise location of the SSN in humans has not been identiﬁed yet. The preganglionic axons
+reach the geniculate ganglion as part of the intermediate nerve before separating into two
+branches: the greater petrosal nerve and the chorda tympani. The greater petrosal nerve
+contains parasympathetic nerve ﬁbers that extend to the pterygopalatine ganglion (PPG);
+these ﬁbers control the functions of the lacrimal glands, and the mucous glands of the nose,
+palate, and pharynx. The branch of the facial nerve, also known the chorda tympani nerve,
+projects to the submandibular ganglion where it mediates other functions that are not
+related to the eyes. The cerebral circulation is innervated by the posterior parasympathetic
+ﬁbers from the PPG as well [30].
+
+Vision 2022, 6, 6
+
+4 of 24
+
+The PPG is also known as the sphenopalatine ganglion, Meckel’s ganglion, or the
+nasal ganglion. Several studies have shown that the PPG is the main source of choroidal
+parasympathetic input in mammals [31–34]. The PPG efferent ﬁbers in the choroid secrete
+the vasodilators VIP and nitric oxide (NO) and appear to be cholinergic in their func-
+tions [29]. In addition, a few postganglionic nerve ﬁbers of the PPG have been observed in
+the short ciliary nerves that regulate choroidal blood ﬂow [35]. In cats, mice, and primates,
+the lacrimal glands are innervated by the pterygopalatine ganglia, and the terminals of
+these nerve ﬁbers contain numerous clear vesicles, without any direct synaptic contacts on
+these structures [36–38].
+
+2.3. Sympathetic Pathways Innervating the Eye
+
+W.H. Gaskell, in the 1800s, identiﬁed the intermediolateral cell column (IML) as the
+origin of the sympathetic nerve [39]. These sympathetic ﬁbers projecting to the head and
+globe originate from the C8-T2 segment of the spinal cord and eventually ascend to the
+superior cervical ganglion (SCG).
+
+The SCG is located at the level of the C2/C3/C4 transverse process, and it is approxi-
+mately 3–5 cm long and lies proximal to the longus capitis muscle [40]. It radiates along
+the internal carotid artery in the sympathetic plexus, passes through the cavernous sinus
+to the orbit, and innervates the pupil dilator [41]. Furthermore, the SCG provides various
+autonomic inputs to the head and neck organs, including the lacrimal glands and salivary
+glands, and also regulates choroidal blood ﬂow. Previous studies of the SCG have inves-
+tigated the applicability of the ratio of the preganglionic ﬁbers to the ganglionic neurons
+in different species as an indicator of the whole sympathetic nervous system; the ratio
+ranged from 1:28 for the squirrel monkey ganglion to 1:196 for the human ganglion [42–44].
+Bundles of sympathetic nerve ﬁbers are found in the trigeminal ganglia and PPG in rats,
+most of which innervate the iris and ciliary body via the base of the ciliary body [45].
+
+2.4. Trigeminal Nerves—A Part of the Somatosensory System
+
+The ophthalmic nerve, a branch of the trigeminal nerve, is mainly responsible for
+mediating the sensation in the ciliary body, iris, lacrimal gland, conjunctiva, and cornea
+of the eye. These sensations include touch, pain, and temperature. Though ophthalmic
+nerve does not belong to autonomic nervous system, this nerve also contains sympathetic
+nerve ﬁbers that control pupil dilation [46]. Studies using immunohistochemistry and
+retrograde tracing methods have reported the co-localization of substance P and calcitonin
+gene-related peptide (CGRP) in the trigeminal ganglion (TG) in mammals [47,48].
+
+3. Autonomic Control of the Eye
+3.1. Cornea
+
+The cornea is one of the most densely innervated parts of the human body with a rich
+supply of sensory and autonomic nerve ﬁbers [49]. Sensory nerves, mainly originating from
+the ophthalmic branch of the trigeminal nerve, comprise the majority of the nerves in the
+cornea. Sympathetic nerves originating from the SCG are found in the corneas of mammals,
+and their densities vary in different species. Parasympathetic innervation originating from
+the CG has been also reported in cats and rats [50–52].
+
+The corneal innervation was ﬁrst described in detail in 1951 [53], but the description
+of human corneal nerves was relatively limited at that time. Recent studies have suggested
+that nerve bundles enter the peripheral cornea radially and parallel to the corneal surface;
+thereupon, they lose their perineurium and myelin sheaths at approximately 1 mm from
+the limbus and about 0.1 nm from the ocular surface. These nerve bundles radiate through
+the middle third of the corneal stroma and further subdivide to form smaller branches
+that comprise a moderately dense midstromal plexus and a dense subepithelial plexus
+(SEP) before ﬁnally passing through the anterior elastic layer and entering the corneal
+epithelium [51,54,55].
+
+Vision 2022, 6, 6
+
+5 of 24
+
+These sensory and autonomic nerves also play a key role in maintaining the optimal
+health of the ocular surface. Corneal nerves can release soluble trophic substances that
+promote lacrimal gland secretion, induce blinking reﬂexes, and maintain the integrity of
+the ocular surface [56]. Substance P (SP) exerts a strong synergistic effect with insulin-like
+growth factor-1 (IGF-1) or epidermal growth factor to promote corneal epithelial migration,
+adhesion, and wound closure. Several other neuropeptides also play important roles in the
+cornea (Table 1) [57–59].
+
+Table 1. Various peptide and transmitters in the cornea of mammals.
+
+Compound.
+
+Substance P
+CGRP
+
+Norepinephrine
+
+Acetylcholine
+VIP
+Neurotensin
+Nerve growth factor
+
+Mechanism
+
+Epithelial renewal and wound repair
+Epithelial renewal and wound repair
+Epithelial renewal and wound repair; stimulate proliferation and
+migration of corneal epithelial cells
+Promote DNA synthesis in epithelial cells
+Protect corneal endothelial cells from oxidative stress
+Increases keratocyte proliferation; decreases keratocycte apoptosis
+Sustain homeostasis and regeneration of epithelium and stroma
+
+3.2. Iris
+
+The iris is a circular pigmented membrane located in front of the lens, it divides the
+
+cavity between the cornea and lens into an anterior chamber and a posterior chamber.
+
+The iris controls the amount of light entering the eye by adjusting the pupil. The
+preganglionic parasympathetic axons originating from the EWpg innervate the pupillary
+sphincter through the short ciliary nerve. These axons act on the muscarinic receptors
+of the pupillary sphincter, and mediate pupillary constriction. Sympathetic innervation
+originates from the SCG and provides a reciprocal function via the long ciliary nerves which
+control pupil dilation [60,61]. The ophthalmic nerve, a branch of the trigeminal nerve, is
+also involved in the innervation of the iris [62]. Previous studies have suggested that the
+trigeminal nerve offers sensory transduction and induces substance P-related contractions
+for mediating protective reﬂexes [63]. However, recent studies have demonstrated that
+the trigeminal nerve also affects smooth muscle response, intraocular blood vessels, and
+immune function by releasing various peptides [60]. Based on these anatomical functions
+and innervations, pupil evaluation can be a simple and convenient method to detect
+autonomic disorders and may therefore have potential diagnostic value [64].
+
+The iris of several vertebrate species has rhodopsin, a molecule that enables photome-
+chanical responses (PMR). Rhodopsin enables pupillary constriction in response to light
+without the need for a central nervous reﬂex. This process may involve (1) rhodopsin-
+activated G-protein, (2) phospholipase C, (3) inositol triphosphate, or (4) Ca2+ [65,66].
+Moreover, PMR can be inhibited by β-adrenergic agonists, but not by α-adrenergic ag-
+onists [66,67]. After the application of β-adrenergic agonist to toad sphincter cells, the
+availability of Ca2+ ions for sphincter contraction was found to be altered, followed by
+pupillary dilation [67]. Generally, the sympathetic and parasympathetic systems work
+antagonistically to control the contraction and relaxation of the iris muscles. The ratio of
+innervations from these systems differs among species [60].
+
+3.3. Anterior Chamber Angle
+
+The main outﬂow pathway of aqueous humor (AH) comprises the trabecular mesh-
+work (TM), the endothelial lining of Schlemm’s canal, juxtacanalicular connective tissue,
+collecting channels, and aqueous veins. Additionally, the outﬂow resistance of the TM
+pathway seems to be regulated by the contraction of the scleral spur (SS) cells and ciliary
+muscles [68]. In almost all species, the SS cells contain SP-positive axons, most of which
+also immunostain for CGRP [62,69]. In humans, the axons in the TM and SS show im-
+munoreactivity (IR) to SP, CGRP, NPY, VIP, and NOS, while in monkeys, sympathetic SS
+
+Vision 2022, 6, 6
+
+6 of 24
+
+cell innervations are more frequently observed [70–74]. These cholinergic and nitrergic
+nerve terminals may induce the contraction and relaxation of TM and SS cells [75]. How-
+ever, research on human and monkey eyes has shown few TH-positive and VIP-positive
+nerve ﬁbers, as well as the absence of NPY-positive ﬁbers in SS and TM [75]. Only a small
+amount of opioid peptidergic innervation has been reported in the anterior eye segment
+of the eye in rats. SP, CGRP, NPY, and VIP immunoreactivity also occurs in the ciliary
+process, ciliary muscles, and ciliary blood vessels [27]. A recent study demonstrated the
+presence of efferent nerve pathways from the hypothalamus to the autonomic innervation
+in the bilateral anterior chamber [76]. When inﬂammation occurs, peptide expression in
+the bilateral anterior chamber is upregulated [77]. The immunolabeling pattern for TM is
+similar in humans and pigs [78].
+
+Nomura found that approximately one-third of the innervation in the TM is sym-
+pathetic in monkeys, and that two-thirds are parasympathetic [79]. In human TM and
+cultured TM cells, most receptors on the sympathetic nerves appear to be the β2 adrenergic
+subtype [80,81].
+
+3.4. Lacrimal Glands
+
+The lacrimal gland is located in the orbit of the human eye. Lacrimal secretions are
+vital to the health and maintenance of the cells on the ocular surface (conjunctiva, corneal
+epithelium). Regulation of lacrimal gland secretion involves the following: (1) stimulation
+of the sensory nerve on the ocular surface and (2) parasympathetic and sympathetic
+activation of the lacrimal secretory cells [82]. Mechanonociceptors, polymodal nociceptors,
+and cold receptor ﬁbers are distributed on the conjunctiva and cornea [83,84]. Stimulation of
+the corneal polymodal nociceptors causes reﬂex tear secretion, while mechanonociceptors
+and cold receptors are less effective in mediating this effect. Interestingly, tear secretion
+does not increase with increased stimulation of the conjunctival receptors [85].
+
+Tear production is regulated by both the sympathetic and parasympathetic nerves.
+Generally, sympathetic nerves affect tear secretion via the following two methods:
+(1) alteration of blood ﬂow [86] and (2) via increased secretion of sympathetic neuro-
+transmitters [87,88]. However, the role of sympathetic nerves in the lacrimal gland remains
+uncertain. Some studies have suggested that electrostimulation of the SCG alters tear
+secretion, while other studies report contradictory ﬁndings [89–91]. The content of the tear
+secretion remains unaltered even after SCG ablation, indicating that tear secretion is not
+related to sympathetic postganglionic nerves [92]. Tear secretion is mainly controlled by
+the parasympathetic nerves [92]. These nerves mediate tear secretion by releasing Ach
+and activating the M3 muscarinic Ach receptors [93,94]. Moreover, marked reduction in
+lacrimal gland secretion can be observed in rabbits with parasympathetic nerve lesions [95].
+
+3.5. Retina
+
+The neural retina is a layered structure that converts photic illumination into visual
+information and then transmits this signal to the brain. The retinal circulation and the
+choroidal circulation, both of which originate from the ophthalmic artery, are responsible for
+supplying oxygen and nutrition to the retina. Retinal circulation provides a low level of blood
+flow and a high level of oxygen extraction, contrary to that in choroidal circulation [96,97].
+There is limited insufficient evidence of autonomic innervation in the intraocular branch of
+the central retinal artery (CRA) [98,99]. Instead, retinal circulation is generally considered to
+be autoregulated by local mechanical and chemical stimulations based on the sensation of
+the oxygen levels [100,101].
+
+The preocular CRA in humans receives adrenergic and cholinergic nerve ﬁbers, sug-
+gesting sympathetic and parasympathetic innervation. However, SP, CGRP, and VIP
+were not detected in the nerve ﬁbers, indicating a lack of peptidergic innervation [102].
+Similarly, immunohistochemical and histochemical studies have conﬁrmed the presence
+of [95] parasympathetic nerve (NOS/VIP/NADPH-d), sympathetic nerve (TH), and CGRP-
+positive afferent nerve ﬁbers in the vicinity of the monkey and rat CRA [103,104]. Substance
+
+Vision 2022, 6, 6
+
+7 of 24
+
+P-positive nerve ﬁbers have also been identiﬁed around the CRA in rabbits [105]. Early
+research on several monkey species has shown that adrenergic innervation is only present
+posterior to the lamina cribosa in the intraorbital part of the optic nerve [99,106]. Post-
+ganglionic nerves of the pterygopalatine ganglion release NO, causing vasodilation of the
+arterial smooth muscles [107,108]. The sympathetic innervation gradually decreases with
+increasing age [109], which may lead to signiﬁcant loss of photoreceptor cells and increased
+reactivity of the glial cells [110].
+
+3.6. Choroid
+
+The choroid makes up the posterior part of the uvea, located between the retina and
+sclera, and is mainly composed of blood vessels. Neurons in the choroid, which mainly
+regulate choroidal circulation, are also called choroidal ganglion cells or intrinsic choroidal
+neurons (ICN) [111,112]. There are approximately 2000 ICNs in each eye. Most of these
+ICNs are clustered in the temporal and central regions of the submacular area. In contrast,
+these neurons are largely accumulated at the periphery in rabbits, possibly because rabbits
+lack the macula [113]. In other species, there are only approximately 500 ICNs, with largely
+uniform distribution. In different avian species, the number of ICNs varies from less
+than 500 in quail to more than 6000 in geese. These cells are mainly concentrated at the
+temporocranial area in Galliformes, while in Anseriformes, they form a belt that extends in
+the cranionasal to temporocaudal direction [114].
+
+In mammals, the primary input of the parasympathetic nerves originates from the
+PPG via the facial nerve [33,115]. Although some physiological changes have been noted
+upon stimulation of the CG, the innervation of the choroid in mammals has not been
+conﬁrmed to date [116–118]. However, in avian, the CG supplies most of the parasym-
+pathetic innervation [7], these parasympathetic input increases choroidal blood ﬂow of
+via vasodilation. On immunohistochemistry, almost all ICGs are stained for nNOS and
+VIP, half of the cells show immunoreactivity for calretinin, while the individual cells are
+stained only for just neuropeptide Y (NPY) [34,111]. The choroid contains large amounts of
+TH(+) and NPY(+) ICNs in the central temporal area [119]. Using immunohistochemistry
+method, sympathetic innervation was observed derived from the SCG and modulates
+the NO/VIP/GAL innervation of vascular and non-vascular smooth muscle provided
+by ICN [120,121]. Such dual innervation balances the increase and decrease in choroid
+blood ﬂow. Despite aging, the choroidal innervation patterns and neural transmitters
+remain unaltered to some extent [111]; however, some studies have suggested a decrease
+in adrenergic ﬁbers and VIP(+) nerve ﬁbers [122–124]. SP (+) and CGRP (+) ICNs have
+been identiﬁed in choroidal whole mounts, suggesting choroidal innervation by sensory
+nerves. Additionally, these ICNs were found to be more concentrated in the temporal
+and central regions and are thought to be involved in mediating blood ﬂow and vascular
+architecture [125].
+
+4. Physiological Effect
+4.1. Pupil Adjustment
+
+The size of the pupil varies with the intensity of incident ambient light, which forms
+the PLR. Generally, pupil dilation and constriction depends on both autonomic innervation
+and local reﬂexes [126]. Light incident into one eye can cause constriction of both the
+eyes, including the unstimulated eye. These phenomena are termed direct and consensual
+responses. In early studies, the consensual response was thought to be limited to “higher”
+mammals. However, recent studies have provided more evidence to support that con-
+sensual response also occurs in “lower” mammals, and even non-mammals; although, in
+non-mammalian species, consensual PLR is indistinctive [127,128].
+
+4.1.1. Parasympathetic Pathway
+
+Traditionally, the PLR is divided into afferent and efferent pathways based on clinical
+manifestations. As shown in Figure 2, after exposure to light, the retinal cells become
+
+Vision 2022, 6, 6
+
+8 of 24
+
+activated and produce a signal, which is ﬁnally transmitted to the pretectal olivary nu-
+cleus (PON). This process is driven by the retinal rods and cones, as well as by the in-
+trinsically photosensitive retinal ganglion cells (ipRGCs) [129,130]. The speciﬁc central
+projection of the afferent pathway is only known in mammals and birds in detail. Before
+2002, the rods and cones were considered to be the only photoreceptors involved in the
+PLR [131]. In the subsequent 20 years, a non-rod, non-cone, and circadian-related pho-
+toreceptor have also been identiﬁed; these were eventually deﬁned as ipRGCs in primates
+and rodents [132–134]. The effects of ipRGCs can be directly observed as they express
+melanopsin, which acts via the G-protein signaling cascades to mediate sustained pupil
+constriction [135]. Melanopsin gene knockout mice do not show intrinsic photosensi-
+tivity, suggesting diminished PLR [136]. This PLR response is also lost in mice lacking
+rods/cones and melanopsin [137]. Moreover, selective ablation of the ipRGCs causes the
+loss of PLR [138]. These ﬁndings highlight the central role of ipRGCs in non-image forming
+visual response.
+
+The efferent pathway includes the projection from the PON to the EWpg and ends up
+at the sphincter pupillae muscle, from where the postganglionic ﬁbers release acetylcholine
+(ACh), which acts on the muscarinic receptors on the sphincter muscles and leads directly
+to pupillary constriction [139]. This physiological process is observed to be related to
+changes in extracellular Ca2+ concentration and ryanodine receptor (RyR) channels in the
+iris sphincter muscle [126]. Pupillary dynamics depend on time, intensity of illumination,
+and the pupil shape in different species [128].
+
+4.1.2. Sympathetic Inﬂuences
+
+It is generally accepted that light induces pupil contraction via the activation of the
+parasympathetic pathway, while the sympathetic system only has a tonic role [134]. The
+center of the sympathetic pathway is located at the locus coeruleus (LC), which contains
+both sympathetic neurons projecting to the SCG and parasympathetic neurons projecting
+to the EWn [140,141]. Generally, LC increases sympathetic activity via the activation of α1-
+adrenoceptors on preganglionic sympathetic neurons and reduces parasympathetic activity
+via the activation of α2-adrenoceptors on preganglionic parasympathetic neurons [142].
+However, there is species difference in the function of the LC since the sympathetic system
+is also activated by the circadian system inputs. In diurnal species, the α2-adrenoceptors
+agonist mainly stimulates autoreceptors on sympathetic premotor neurons, causing miosis.
+While in nocturnal animals it stimulates postsynaptic α2-arenoceptors in the EWn, causing
+mydriasis [143].
+
+Previous research has found the existence of neural connection from the pretectum
+to cervical sympathetic nerves [144]. Meanwhile, the PAG was suggested to function as
+an integrative relay nucleus in recent experiment and more likely to exert an inhibitory
+inﬂuence [145,146]. In diurnal species, a light-sensitive pathway (from retinal to the LC
+via the SCN and DMH) has also been identiﬁed, which mainly contributes to circadian
+regulation [147].
+
+However, the physiological manipulations, such as the presentation of noxious or anxiety-
+provoking stimuli and extremes in ambient temperature, also affect the activity of LC, which
+lead to distinct patterns of change in arousal and autonomic function [148]. The pupil also
+dilates and contracts during cognitive and emotional processes [149–152]. The structures in-
+volved in this process may include the LC, colliculi, and prefrontal cortex [153–155]. However,
+the specific circuits mediating these responses remain unclear [156]. In brief, the sympathetic
+pathway may play a complementary role and may not contribute to the PLR dynamics [157].
+
+Vision 2022, 6, 6
+
+9 of 24
+
+Figure 2. Autonomic pathway of PLR. The encircled areas represent nuclei and ganglia. There are four
+light-modulated autonomic pathways: (1) parasympathetic (light-stimulated): PON→EW→CG →pupil
+constriction; (2) sympathetic (light-inhibited): SCN→PVN→IML→SCG→pupil dilation; (3) sympathetic
+(light-stimulated), SCN→DMH→LC→IML→SCG→pupil dilation; (4) sympathetic (light-inhibited):
+pretectum→PAG→sympathetic premotor nuclei (PVN, LC, DR)→IML→SCG→pupil dilation; CG—
+ciliary ganglion; DMH—dorsomedial hypothalamus; DRN—dorsal raphe nucleus; EWpg—Edinger-
+Westphal nucleus; IML—intermediolateral column; LC—locus coeruleus; oc—optic chiasm; PAG—
+periaqueductal gray autonomic ganglia; PON—pretectal olivary nucleus; PVN—paraventricular nucleus;
+SCG—superior cervical ganglion; SCN—suprachiasmatic nucleus.
+
+Vision 2022, 5, x FOR PEER REVIEW 9 of 26    Vision 2022, 6, 6
+
+10 of 24
+
+4.2. Ocular Blood Flow
+
+There are no blood vessels in the normal cornea, while the limbus contains abundant
+blood vessels that supply nutrients and oxygen. Similar to the cornea, the scleral stromal
+layer has no blood vessels, except those passing through. However, the sclera surface and
+optic nerve lamina cribrosa are rich in blood vessels and form a vascular network. These
+arteries are derived from the ophthalmic artery, which is the only artery supplying the eye.
+This blood vessel receives autonomic innervation and mainly supplies the uvea and retina.
+Hence, nearly all ocular circulation is modulated by autonomic nerves, except the retinal
+blood vessels [100].
+
+The choroidal circulatory system is responsible for supplying the photoreceptors and
+the retinal pigment epithelium. Reduced blood ﬂow can cause a rapid loss of photoreceptor
+cells [158]. Generally, autonomic innervation of the choroid includes parasympathetic
+pathways that dilate vessels and increase blood ﬂow, sympathetic pathways that constrict
+vessels and decrease blood ﬂow, and the local trigeminal system that transfers sensory
+input, or directly releases SP/CGRP in response to activating stimuli [29].
+
+The SSN–PPG circuit mediates choroidal parasympathetic vasodilation, which seems
+to contribute to ChBF pressure regulation in case of low arterial blood pressure (ABP) [32,33].
+In mammals, the PPG receives parasympathetic input from the SSN [35], and its pregan-
+glionic root, which contains NOS, VIP, and ChAT, directly projects to the choroid [159].
+Many studies have discussed the role of VIP, NO, and ACh in mediating ChBF after stimu-
+lation of the facial nerve or SSN. Intravenous injection of VIP leads to increased intraocular
+pressure (IOP) and ChBF [160]. Different vasoactive substances affect the excitation fre-
+quencies of different nerves. In rabbits, the formation of NO (endothelial or neurogenic)
+is involved in uveal vasodilation caused by low-frequency facial nerve stimulation, while
+at high frequencies, other neurotransmitters also seem to be involved [161]. ChBF was
+signiﬁcantly increased following facial nerve stimulation in monkeys, cats, and rabbits.
+Moreover, VIP was suggested as the peripheral molecule causing the vasodilation [162].
+
+Based on immunohistochemical experiments in pigeons, the PPG seem to be composed
+of three to four main sub-ganglia connected to each other. Each main nerve contains
+50–200 neurons, as well as several small ganglia. These neurons in birds release VIP and
+NO, and possibly Ach [163]. In mammals, the regulatory effect of PPG on ChBF appears to
+be similar as that in birds and can partially compensate for the decreased ABP. This may be
+a common ocular mechanism in warm-blooded vertebrates [164]. The avian choroid has a
+distinctive parasympathetic input of the CG and occupies a dominant position [29]. Using
+anatomical knowledge and electrical stimulation experiments, the central components from
+circuits in avian ChBF regulation were identiﬁed as follows: the retina–contralateral SCN
+that contains SP (+) neurons–medial EW (EWm), which controls ChBF via its ipsilateral
+projection to choroidal neurons of the CG [165]. Cantwell and Cassone indicated that SCN
+in avians can be divided into medial SCN (mSCN) and visual SCN (vSCN), while the
+latter is considered to participate in ChBF regulation [166,167]. If SCN was activated by
+retinal illumination of the contralateral eye, the choroidal volume appeared to increase
+(vasodilation) corresponding to a similar increase in systemic blood pressure [168]. This
+complex parasympathetic reﬂex response might be adaptive and is involved in maintaining
+the health of photoreceptor cells [169]. Cholinergic ﬁbers of the CG are widely distributed
+in the choroid of avians. M2, M3, and M4 type receptors have been found in the retina,
+retinal pigment epithelium, choroid, and ciliary body [170]. After speciﬁcally suppressing
+these muscarinic receptors, M3 muscarinic receptors were observed to dominantly facilitate
+the EW-mediated increase in ChBF, with endothelial cell stimulation to release NO [171].
+
+In both mammals and birds, the sympathetic nerves innervating the choroid are de-
+rived from noradrenergic nerve ﬁbers of the cervical ganglia [29]. Stimulating the unilateral
+sympathetic nerve causes a large reduction in the ChBF [172,173]. After ICN transection,
+the choroids demonstrate increased vascularity and sympathetic denervation of the choroid
+and retinal defects [174,175]. These effects may be mediated by adrenoceptors. Previous
+research suggested that α-and β-adrenergic blocks can cause choroidal vasodilation and
+
+Vision 2022, 6, 6
+
+11 of 24
+
+vasoconstriction, respectively, in rabbits [176]. This result is consistent with the observation
+that venous NPY treatment signiﬁcantly reduces ChBF [177]. The trigeminal nerve branches
+that contain SP and CGRP innervate the choroid in mammals and birds [27]. Trigeminal
+nerve stimulation leads to the local release of vasodilators, SP, and CGRP [178]. Some
+researchers have recognized that the TG may be involved in the temperature-dependent
+regulation of ChBF. However, the speciﬁc underlying mechanisms need to be further
+investigated [29].
+
+4.3. Intraocular Pressure Regulation
+
+Aqueous humor (AH) is a transparent ﬂuid found in the anterior and posterior cham-
+bers. It is mainly responsible for nutrient delivery and IOP regulation. It is produced by
+the ciliary epithelium and exits the eye through two independent outﬂow pathways, which
+involves the trabecular meshwork (TM) and unconventional pathway (uveoscleral). Recent
+evidence has suggested that another unconventional pathway (uveolymphatic route) has
+potential for maintaining IOP [179].
+
+4.3.1. Ciliary Body Blood Flow
+
+The parasympathetic innervation of ciliary body blood ﬂow is mediated by the post-
+ganglionic nerve ﬁbers (VIP+) of the PPG [180,181]. Stimulation of the facial nerve and
+subsequent activation of PPG results in vasodilation and increased blood ﬂow, and the
+contributing neurotransmitter is thought to be VIP [162]. Apart from ChAT and VIP release,
+NO may also participate in this process, especially at a low frequency of facial nerve stimu-
+lation [161,182]. The effect of NO has been proven since ciliary blood vessels constricted
+and aqueous production decreased after the inhibition of NO synthase [183].
+
+Noradrenergic postganglionic neurons in the SCG provide sympathetic innervation.
+Unilateral sympathetic nerve stimulations (SNS) in rabbits have suggested frequency-
+dependent sympathetic vasoconstriction in the eyes [184]. The microstructure of the ciliary
+body in cats has revealed that the distribution of noradrenergic ﬁbers is sparse in the TM
+and ciliary muscles, but denser in the subepithelial tissue [185]. Intravenous infusion of
+NPY causes a dose-dependent increase in total uveal vascular resistance with a decrease
+in blood ﬂow in the ciliary body. This is consistent with the ﬁndings in rabbits whose
+α-adrenergic receptors were blocked, suggesting that NPY is also involved in sympathetic
+nerve-mediated vasoconstriction [177].
+
+The trigeminal sensory nerves contain SP and CGRP, which are released as vasodilators
+in response to pressure or temperature stimuli. An intracameral injection of CGRP produced
+distinct vascular effects and increases IOP [186].
+
+4.3.2. AH Production
+
+Aqueous humor production involves three mechanisms: active secretion, diffusion,
+and ultraﬁltration. Of these, active secretion predominates and accounts for approximately
+80–90%. Non-pigmented epithelial cells of the ciliary body are recognized as the sites
+for active AH secretion [187]. The secretion of AH is positively correlated with ciliary
+body blood ﬂow until it reaches a critical level. Additionally, at that point, it becomes
+independent [188]. Based on this mechanism, the regulation of AH production partly
+depends on the indirect control of ciliary blood ﬂow, in addition to the direct control of the
+cilia endothelium cells. As previously discussed, L-NAME (an inhibitor of NOS) causes
+ciliary vasoconstriction, thereby reducing aqueous humor production [183].
+
+Neural modulation of AH production seems to be complicated and confusing. This
+conclusion is based on the existence of cholinergic and adrenergic receptors and second
+messenger systems in the ciliary epithelium, the diurnal variation in AH generation, and
+the various effects of drugs (Table 2) [183,189–192]. Generally, β-adrenergic agonists and
+VIP lead to an increase in AH, while α-2 adrenergic agonists, Ach muscarinic receptors
+and NPY reduce cAMP levels, thereby decreasing AH production [60]. Since postgan-
+
+Vision 2022, 6, 6
+
+12 of 24
+
+glionic parasympathetic nerves release Ach at low frequency and VIP at high frequency,
+parasympathetic system may play contrary roles at different frequency.
+
+Table 2. Drugs and related mechanism.
+
+Drug
+
+Target
+
+Mechanism
+
+Cholinergic drug
+
+Ciliary muscle
+
+Carbonic anhydrase inhibitor
+
+Ciliary body; non-pigmented epithelial cells
+
+Epinephrine and analogue
+
+Ciliary muscle;
+endothelial cells of the canal
+
+β-Blocker
+
+Ciliary body; non-pigmented epithelial cells
+
+α2-Agonist
+
+Ciliary body; non-pigmented epithelial cells
+
+Prostaglandin and analogue
+
+Ciliary muscle and extracellular matrix
+
+1.
+
+2.
+
+1.
+
+1.
+
+2.
+
+1.
+2.
+
+1.
+2.
+
+1.
+
+2.
+
+3.
+4.
+
+Increase in AH conventional
+outﬂow
+Decrease in AH unconventional
+outﬂow
+
+Decrease in AH inﬂow
+
+Increase in AH conventional
+outﬂow
+Increase in unconventional outﬂow
+
+Decrease in AH inﬂow
+Increase in AH transscleral outﬂow
+
+Decrease in AH inﬂow
+Increase in AH unconventional
+outﬂow
+
+Increase in AH conventional
+outﬂow
+Increase in AH unconventional
+outﬂow
+Increase in AH transscleral outﬂow
+Increase in AH uveolymphatic
+outﬂow
+
+4.3.3. Conventional Outﬂow Pathway
+
+The AH is produced by the ciliary process. It enters the anterior chamber from the gap
+between the lens and the iris, passing through various areas of the TM and the inner wall
+of the Schlemm canal, before entering the superior scleral vein and returning to general
+venous circulation (Figure 3). The entire process may be an important component for
+sustaining IOP because most of AH ﬂows along this path.
+
+By contracting the ciliary muscles, muscarinic cholinergic agonist drugs mediate TM/SC
+relaxation and expansion, in which the iris does not participate [193]. In contrast, adrenaline
+and its second messenger cAMP are suggested to influence AH flow by directly acting on
+the endothelial cells of the trabecular meshwork–Schlemm’s canal inner wall [194,195]. Local
+application of 1% epinephrine led to a reduction in IOP with an increase in SC diameter, area,
+and TM width [196]. AH flow is also mediated by the iris and ciliary muscles. NOS in the
+endothelium mediates pressure-dependent drainage, which may form a negative feedback
+pathway [197]. A previous study has suggested that under electric stimulation of SCG in
+rats, the expression of DβH in the SC endothelium is increased, and the cross-sectional area
+and perimeter of the SC are reduced [198]. This may explain the elevated IOP [199]. Further
+investigations into the mechanisms of autonomic innervations are still needed.
+
+Vision 2022, 6, 6
+
+13 of 24
+
+Figure 3. The aqueous humor outﬂow pathway. The red words represent parasympathetic inner-
+vation, the blue words represent sympathetic innervation, and the yellow words represent trigem-
+inal innervation, respectively. There are two pathways of AH outﬂow: (1) conventional outﬂow
+pathway: non-pigmented epithelial cells→posterior chamber→anterior chamber→TM→Schlemm
+canal→collection tube, aqueous vein→episcleral vasculature→general venous circulation;
+(2) unconventional outﬂow pathway: non-pigmented epithelial cells→posterior chamber→anterior
+chamber→ciliary body clefts→interstitial spaces of the ciliary muscle→suprachoroidal space, vortex
+veins, and sclera. The uveolymphatic pathway remains controversial.
+
+4.3.4. Unconventional Outﬂow Pathway
+
+In the uveoscleral pathway, the AH ﬂows into the ciliary body from the anterior
+chamber, enters the ciliary body clefts, passes through the suprachoroidal space, and leaves
+the eye through the vortex veins or into the sclera [200,201]. Johnson pointed out that
+ciliary body clefts may be key to this pathway because of their special anatomy [201]. A
+novel “uveolymphatic” outﬂow pathway was described in [202].
+
+The amount of outﬂow via the unconventional route varies among different species,
+approximately ranging from 3% to 82% [201]. Thus, the outﬂow amount seems to depend
+on the development of the ciliary muscle [200]. Based on its anatomical characteristics,
+cholinergic drugs can cause ciliary muscle contraction, thereby signiﬁcantly impeding
+uveoscleral outﬂow [203]. Adrenergic drugs also affect efﬂux through unconventional
+
+Vision 2022, 5, x FOR PEER REVIEW 14 of 26    Figure 3. The aqueous humor outflow pathway. The red words represent parasympathetic innerva-tion, the blue words represent sympathetic innervation, and the yellow words represent trigeminal innervation, respectively. There are two pathways of AH outflow: (1) conventional outflow path-way: non-pigmented epithelial cells→posterior chamber→anterior chamber→TM→Schlemm canal→collection tube, aqueous vein→episcleral vasculature→general venous circulation; (2) unconven-tional outflow pathway: non-pigmented epithelial cells→posterior chamber→anterior chamber→ciliary body clefts→interstitial spaces of the ciliary muscle→suprachoroidal space, vortex veins, and sclera. The uveolymphatic pathway remains controversial. By contracting the ciliary muscles, muscarinic cholinergic agonist drugs mediate TM/SC relaxation and expansion, in which the iris does not participate [193]. In contrast, adrenaline and its second messenger cAMP are suggested to influence AH flow by di-rectly acting on the endothelial cells of the trabecular meshwork–Schlemm’s canal inner wall [194,195]. Local application of 1% epinephrine led to a reduction in IOP with an in-crease in SC diameter, area, and TM width [196]. AH flow is also mediated by the iris and ciliary muscles. NOS in the endothelium mediates pressure-dependent drainage, which may form a negative feedback pathway [197]. A previous study has suggested that under electric stimulation of SCG in rats, the expression of DβH in the SC endothelium is in-creased, and the cross-sectional area and perimeter of the SC are reduced [198]. This may explain the elevated IOP [199]. Further investigations into the mechanisms of autonomic innervations are still needed. Vision 2022, 6, 6
+
+14 of 24
+
+pathways, although the mechanism remains unclear. In monkeys, adrenaline doubles the
+uveoscleral ﬂow [204].
+
+4.3.5. Episcleral Circulation
+
+The episcleral vasculature contains numerous arteriovenous anastomoses and a
+muscle-rich venous network, which provide an anatomical basis for autonomic innerva-
+tion [205,206]. Since AH leaves the eye through this structure, the specialized morphology
+allows the regulation of episcleral venous pressure (EVP) and IOP [207]. This may explain
+the increase in EVP after the electrical stimulation of SSN in rats [208].
+
+Previous research on primate animals described numerous nerve endings staining
+for NAPDH diaphorase, TH, and relatively fewer NPY, VIP, and vesicular acetylcholine
+transporter-positive nerve terminals surrounded all the episcleral vessels; meanwhile,
+CGRP and SP-positive terminals were also observed [209]. Similar results in rabbits and
+rats have been published as well [206]. More recently, the immunoreactivity of episcleral
+vessels for synaptophysine, PGP 9.5, ChAT, DβH, VIP, CGRP, nNOS, SP, and galanin were
+proved in rats [210]. These neurotransmitters suggest the innervation of sympathetic and
+parasympathetic nervous system as well as sensory nerves.
+
+4.4. Lens Accommodation
+
+The accommodation reﬂex, also referred as near reﬂex, is the response for focusing
+on near objects [211]. The afferent limb of this reﬂex is through the optic nerve and
+efferent limb was considered to be the EWpg, EWcp, and the oculomotor [212]. The ﬁnal
+effects of this reﬂex consists the convergence of both eyes and contraction of the ciliary
+muscle leading to the change of lens accommodation and pupillary constriction [213]. The
+ciliary muscle of mammals, and its homologues in ﬁsh and amphibia are contracted via
+cholinergic muscarinic mechanisms, while in birds and reptiles, acetylcholine acts via
+nicotinic receptors [60].
+
+Recent research on primates suggested that the premotor neurons controlling the lens
+of unilateral eye are distributed in the bilateral midbrain. By retrograde tracing methods,
+some of the premotor neurons in the supraoculomotor area and central mesencephalic
+formation were doubly labeled, while others were labeled from either the ipsilateral or
+contralateral eye, which suggest the both monocular control and binocular control of lens
+accommodation [214].
+
+Because of all the recent and past work that has been performed, lens accommoda-
+tion to vergence angle and other aspects of eye movements are connected [214–217]. A
+cohort study showed that with lens accommodation, anterior chamber depth, and anterior
+chamber angle remained stable while the pupil diameter varied [218].
+
+5. Clinical Application
+
+Because of all the characteristics of anatomy and physiological effects discussed here,
+more and more studies have focused on the clinical applications of ANS agents. Apart
+from the drugs listed in the above tables, some other progress is described below.
+
+Muscarinic receptor inhibitor (such as atropine) was proved to participate in the eye
+growth regulation and inhibit myopia induction in both mammalian and avian eyes [219,220].
+Additionally, atropine is currently considered the most effective therapy for myopia con-
+trol [221]. In addition, its topical application was demonstrated to stimulate subtypes of
+muscarinic receptor in scleral fibroblasts and inhibit scleral proliferation and matrix synthesis—
+the further mechanism remains unclear [222–224]. In the long term, this non-specific mAChR
+antagonist might cause premature presbyopia, cataract, and light damage in the retina [225].
+Pilocarpine, a muscarinic receptor agonist, was observed to cause axial thickening of
+the lens and shallowing of the anterior chamber after instillation [226,227]. A multicentric
+retrospective study demonstrated that the topical use of pilocarpine signiﬁcantly improved
+both uncorrected near visual acuity and uncorrected distance visual acuity, with sponta-
+neously resolved side effects [228]. This result was consistent with another similar study
+
+Vision 2022, 6, 6
+
+15 of 24
+
+and provide a new choice for those patients with presbyopia who do not wish to wear
+glasses [229].
+
+As a speciﬁc agonist of the M3 muscarinic receptor, cevimeline has beneﬁcial effects on
+dry eye symptoms in patients with Sjögren’s syndrome [230,231]. However, the question of
+how cevimeline improves dry eye and whether cevimeline increases cellular water trans-
+portation in the acinar and ductal cells of lacrimal glands still need further investigation.
+The neuroprotective effects of NPY were conﬁrmed by attenuating retinal neural
+apoptosis and maintain inner retinal vascular integrity. This neuropeptide may have
+potential therapy values in diabetic retinopathy [232].
+
+6. Conclusions
+
+This review highlights the multiple roles of the ANS in controlling the physiological
+processes of the eye. These roles include the adjustment of the pupils exposed to ambient
+light, ocular circulation in each tissue, and IOP regulation. Through these processes,
+the ANS contributes to regulating the accommodative status and sustaining intraocular
+homeostasis. Although differences exist in the precise wiring to the targets and innervation
+patterns among species, these autonomic nerves play an irreplaceable role in the eye.
+
+Owing to the relationship between autonomic disorders and clinical problems, several
+commonly used drugs, such as cholinergic and adrenergic drugs, function through these
+autonomic pathways to correct disordered physiological processes. However, current drugs
+have their limitations. Understanding the role of the ANS will enhance the understanding
+of disease mechanisms that may subsequently lead to new drug therapies.
+
+It has become increasingly apparent that these autonomic pathways are far more com-
+plex than that which has been explored to date. In the future, reﬁning our understanding
+of the ocular ANS will provide new ideas for further investigations. Here, we list some
+urgent problems that need to be elucidated, as follows:
+
+(1) Central control of physiological processes in the eye was hard to detect and clarify.
+However, the development of new techniques makes it possible to provide new insights
+into the central control of the eye.
+
+(2) Detailed mechanisms of the AH outﬂow pathway. What we know about AH
+outﬂow pathway is pretty superﬁcial. We still have a long way to go in understanding the
+normal physiology, or even the basic pathophysiology of the outﬂow dysfunction leading
+to POAG.
+
+(3) Pathways of transformation from visual information to autonomic activity. The
+ipRGCs are activated by ambient lighting projected widely throughout the brain, subse-
+quently mediating visual functions and circadian rhythms. Our mood, alertness, learning,
+regulation of body, and even visual perception are affected as well. However, the question
+of how this process works remains unclear and needs further identiﬁcation.
+
+Author Contributions: F.W. wrote the paper. Y.Z. and H.Z. reviewed and edited the manuscript. All
+authors have read and agreed to the published version of the manuscript.
+
+Funding: The current studies were supported by funding from the National Natural Science Foun-
+dation of China Grant No. 31800868 and Tongji Hospital (HUST) Foundation for Excellent Young
+Scientist Grant No. 2020YQ18 (to Yin Zhao). National Natural Science Foundation of China Grant
+No. 81770921, 82070965 (to Hong Zhang).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Conﬂicts of Interest: The authors declare that the research was conducted in the absence of any
+commercial or ﬁnancial relationships that could be construed as a potential conﬂict of interest.
+
+Vision 2022, 6, 6
+
+16 of 24
+
+Abbreviations
+
+ABP
+AH
+ANS
+CG
+CGRP
+ChAT
+ChBF
+CRA
+DMH
+DRN
+EVP
+EW
+GABA
+ICN
+IML
+IOP
+IR
+LC
+LI
+NOS
+NPY
+PAG
+PLR
+PMR
+PON
+PPG
+PVN
+RyR
+SC
+SCG
+SCN
+SEP
+SNS
+SP
+SSN
+TG
+TH
+TM
+VIP
+
+arterial blood pressure
+aqueous humor
+autonomic nervous system
+ciliary ganglion
+calcitonin gene-related peptide
+choline acetyltransferase
+choroidal blood ﬂow
+central retinal artery
+dorsomedial hypothalamus
+dorsal raphe nucleus
+episcleral venous pressure
+Edinger-Westphal
+γ-aminobutyric acid
+intrinsic choroidal neurons
+intermediolateral cell column
+intraocular pressure
+immunoreactive
+locus coeruleus
+like immunoreactive
+nitric oxide synthase
+neuropeptide Y
+periaqueduct grey
+pupillary light reﬂex
+photomechanical responses
+pretectal olivary nucleus
+pterygopalatine ganglion
+paraventricular nucleus
+ryanodine receptor
+schlemm
+superior cervical ganglion
+suprachiasmatic nucleus
+subepithelial plexus
+sympathetic nerve stimulations
+substance P
+superior salivatory nucleus
+trigeminal ganglion
+tyrosine hydroxylase
+trabecular meshwork
+vasoactive intestinal polypeptide
+
+References
+
+1. Wang, Y.; Zekveld, A.; Naylor, G.; Ohlenforst, B.; Jansma, E.; Lorens, A.; Lunner, T.; Kramer, S.E. Parasympathetic Nervous
+System Dysfunction, as Identiﬁed by Pupil Light Reﬂex, and Its Possible Connection to Hearing Impairment. PLoS ONE 2016, 11,
+e0153566. [CrossRef] [PubMed]
+Gibbins, I. Functional organization of autonomic neural pathways. Organogenesis 2013, 9, 169–175. [CrossRef] [PubMed]
+2.
+3. Wehrwein, E.A.; Orer, H.S.; Barman, S.M. Overview of the Anatomy, Physiology, and Pharmacology of the Autonomic Nervous
+
+4.
+
+5.
+
+System. Compr. Physiol. 2016, 6, 1239–1278. [CrossRef] [PubMed]
+Yamaguchi, K. Development of the human oculomotor nuclear complex: Centrally-projecting Edinger-Westphal nucleus. Neurosci.
+Lett. 2017, 646, 8–14. [CrossRef] [PubMed]
+Vasconcelos, L.A.; Donaldson, C.; Sita, L.V.; Casatti, C.; Lotﬁ, C.F.; Wang, L.; Cadinouche, M.A.; Elias, C.F.; Lovejoy, D.A.;
+Bittencourt, J. Urocortin in the central nervous system of a primate (Cebus apella): Sequencing, immunohistochemical, and
+hybridization histochemical characterization. J. Comp. Neurol. 2003, 463, 157–175. [CrossRef] [PubMed]
+
+6. Horn, A.K.; Eberhorn, A.; Härtig, W.; Ardeleanu, P.; Messoudi, A.; Büttner-Ennever, J.A. Perioculomotor cell groups in monkey
+and man deﬁned by their histochemical and functional properties: Reappraisal of the Edinger-Westphal nucleus. J. Comp. Neurol.
+2008, 507, 1317–1335. [CrossRef] [PubMed]
+Reiner, A.; Erichsen, J.T.; Cabot, J.B.; Evinger, C.; Fitzerald, M.E.C.; Karten, H.J. Neurotransmitter organization of the nucleus of
+Edinger-Westphal and its projection to the avian ciliary ganglion. Vis. Neurosci. 1991, 6, 451–472. [CrossRef]
+
+7.
+
+Vision 2022, 6, 6
+
+17 of 24
+
+8. Horn, A.K.; Schulze, C.; Radtke-Schuller, S. The Edinger-Westphal Nucleus Represents Different Functional Cell Groups in
+
+9.
+
+Different Species. Ann. N. Y. Acad. Sci. 2009, 1164, 45–50. [CrossRef] [PubMed]
+Kozicz, T.; Bittencourt, J.; May, P.J.; Reiner, A.; Gamlin, P.; Palkovits, M.; Horn, A.; Toledo, C.A.; Ryabinin, A.E. The Edinger-
+Westphal nucleus: A historical, structural, and functional perspective on a dichotomous terminology. J. Comp. Neurol. 2010, 519,
+1413–1434. [CrossRef]
+
+10. Ryabinin, A.; Tsivkovskaia, N.O.; Ryabinin, S.A. Urocortin 1-containing neurons in the human Edinger-Westphal nucleus.
+
+Neuroscience 2005, 134, 1317–1323. [CrossRef]
+
+11. May, P.J.; Sun, W.; Wright, N.F.; Erichsen, J.T. Pupillary light reﬂex circuits in the macaque monkey: The preganglionic Edinger-
+
+Westphal nucleus. Brain Struct. Funct. 2019, 225, 403–425. [CrossRef]
+
+12. Warwick, R. The ocular parasympathetic nerve supply and its mesencephalic sources. J. Anat. 1954, 88, 71–93.
+13. Erichsen, J.T.; May, P.J. The pupillary and ciliary components of the cat Edinger-Westphal nucleus: A transsynaptic transport
+
+investigation. Vis. Neurosci. 2002, 19, 15–29. [CrossRef]
+
+14. D’Antoni, A.V. Gray’s Anatomy, the Anatomical Basis of Clinical Practice. In Clinical Anatomy, 41st ed.; Wiley: Hoboken, NJ, USA,
+
+2016; Volume 29, pp. 264–265. [CrossRef]
+
+15. Haładaj, R. Anatomical variations of the ciliary ganglion with an emphasis on the location in the orbit. Anat. Sci. Int. 2019, 95,
+
+258–264. [CrossRef] [PubMed]
+
+16. Bhardwaj, N.; Joshi, A. Neuroanatomy, Ciliary Ganglion. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2021.
+17. Kirch, W.; Neuhuber, W.; Tamm, E.R. Immunohistochemical localization of neuropeptides in the human ciliary ganglion. Brain
+
+Res. 1995, 681, 229–234. [CrossRef]
+
+18. May, P.J.; Warren, S. Ultrastructure of the macaque ciliary ganglion. J. Neurocytol. 1993, 22, 1073–1095. [CrossRef] [PubMed]
+19. Barnerssoi, M.; May, P.J.; Horn, A.K.E. GABAergic innervation of the ciliary ganglion in macaque monkey—A light and electron
+
+microscopic study. J. Comp. Neurol. 2016, 525, 1517–1531. [CrossRef]
+
+20. Kuwayama, Y.; Grimes, P.A.; Ponte, B.; Stone, R.A. Autonomic neurons supplying the rat eye and the intraorbital distribution of
+
+vasoactive intestinal polypeptide (VIP)-like immunoreactivity. Exp. Eye Res. 1987, 44, 907–922. [CrossRef]
+
+21. Grimes, P.A.; Koeberlein, B.; Tigges, M.; Stone, R.A. Neuropeptide Y-like immunoreactivity localizes to preganglionic axon
+
+terminals in the rhesus monkey ciliary ganglion. Investig. Ophthalmol. Vis. Sci. 1998, 39, 227–232.
+
+22. Tsibul’Kin, A.G.; Kolesnikov, L.L. Human and animal ciliary ganglion—History and modern conceptions. Morfologiia 2004, 126,
+
+63–70.
+
+23. Kaleczyc, J.; Juranek, J.; Całka, J.; Lakomy, M. Immunohistochemical characterization of neurons in the porcine ciliary ganglion.
+
+24.
+
+Pol. J. Vet. Sci. 2005, 8, 65–72. [PubMed]
+Sun, W.; Erichsen, J.T.; May, P.J. NADPH-diaphorase reactivity in ciliary ganglion neurons: A comparison of distributions in the
+pigeon, cat, and monkey. Vis. Neurosci. 1994, 11, 1027–1031. [CrossRef]
+
+25. Kuchiiwa, S.; Kuchiiwa, T.; Suzuki, T. Comparative anatomy of the accessory ciliary ganglion in mammals. Anat. Embryol. 1989,
+
+180, 199–205. [CrossRef] [PubMed]
+
+26. Park, H.-Y.L.; Jung, S.H.; Park, S.-H.; Park, C.K. Detecting autonomic dysfunction in patients with glaucoma using dynamic
+
+pupillometry. Medicine 2019, 98, e14658. [CrossRef] [PubMed]
+Stone, R.A.; Kuwayama, Y.; Laties, A.M. Regulatory peptides in the eye. Experientia 1987, 43, 791–800. [CrossRef]
+
+27.
+28. Cuthbertson, S.; White, J.; Fitzgerald, M.E.; Shih, Y.-F.; Reiner, A. Distribution within the choroid of cholinergic nerve ﬁbers from
+
+the ciliary ganglion in pigeons. Vis. Res. 1996, 36, 775–786. [CrossRef]
+
+29. Reiner, A.; Fitzgerald, M.E.; Del Mar, N.; Li, C. Neural control of choroidal blood ﬂow. Prog. Retin. Eye Res. 2018, 64, 96–130.
+
+[CrossRef]
+
+30. Goadsby, P.J. Autonomic nervous system control of the cerebral circulation. Handb. Clin. Neurol. 2013, 117, 193–201. [CrossRef]
+31. Li, C.; Fitzgerald, M.E.; LeDoux, M.S.; Gong, S.; Ryan, P.; Del Mar, N.; Reiner, A. Projections from the hypothalamic paraventricular
+nucleus and the nucleus of the solitary tract to prechoroidal neurons in the superior salivatory nucleus: Pathways controlling
+rodent choroidal blood ﬂow. Brain Res. 2010, 1358, 123–139. [CrossRef]
+
+32. Li, C.; Fitzgerald, M.E.C.; Del Mar, N.; Cuthbertson-Coates, S.; LeDoux, M.S.; Gong, S.; Ryan, J.P.; Reiner, A. The identiﬁcation and
+neurochemical characterization of central neurons that target parasympathetic preganglionic neurons involved in the regulation
+of choroidal blood ﬂow in the rat eye using pseudorabies virus, immunolabeling and conventional pathway tracing methods.
+Front. Neuroanat. 2015, 9, 65. [CrossRef]
+
+33. Li, C.; Fitzgerald, M.E.; Del Mar, N.; Wang, H.; Haughey, C.; Honig, M.G.; Reiner, A. Role of the superior salivatory nucleus in
+parasympathetic control of choroidal blood ﬂow and in maintenance of retinal health. Exp. Eye Res. 2021, 206, 108541. [CrossRef]
+
+34. Lütjen-Drecoll, E. Choroidal innervation in primate eyes. Exp. Eye Res. 2006, 82, 357–361. [CrossRef] [PubMed]
+35. Tusscher, M.P.T.; Klooster, J.; Baljet, B.; Van der Werf, F.; Vrensen, G.F. Pre- and post-ganglionic nerve ﬁbres of the pterygopalatine
+
+ganglion and their allocation to the eyeball of rats. Brain Res. 1990, 517, 315–323. [CrossRef]
+
+36. Beckers, H.; Klooster, J.; Vrensen, G.; Lamers, W. Facial Parasympathetic Innervation of the Rat Choroid, Lacrimal Glands and
+
+Ciliary Ganglion. Ophthalmic Res. 1993, 25, 319–330. [CrossRef]
+
+37. Botelho, S.Y.; Hisada, M.; Fuenmayor, N. Functional Innervation of the Lacrimal Gland in the Cat. Arch. Ophthalmol. 1966, 76,
+
+581–588. [CrossRef]
+
+Vision 2022, 6, 6
+
+18 of 24
+
+38. Ruskell, G.L. The distribution of autonomic post-ganglionic nerve ﬁbres to the lacrimal gland in monkeys. J. Anat. 1971, 109,
+
+229–242.
+
+39. Ackerknecht, E.H. The history of the discovery of the vegatative (autonomic) nervous system. Med. Hist. 1974, 18, 1–8. [CrossRef]
+40. Lee, J.Y.; Lee, J.H.; Song, J.S.; Song, M.J.; Hwang, S.-J.; Yoon, R.G.; Jang, S.W.; Park, J.E.; Heo, Y.J.; Choi, Y.J.; et al. Superior Cervical
+
+Sympathetic Ganglion: Normal Imaging Appearance on 3T-MRI. Korean J. Radiol. 2016, 17, 657–663. [CrossRef]
+Sonne, J.; Lopez-Ojeda, W. Neuroanatomy, Cranial Nerve. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2021.
+
+41.
+42. Ebbesson, S.O.E. Quantitative studies of superior cervical sympathetic ganglia in a variety of primates including man. I. The ratio
+
+of preganglionic ﬁbers to ganglionic neurons. J. Morphol. 1968, 124, 117–131. [CrossRef] [PubMed]
+
+43. Brooks-Fournier, R.; Coggeshall, R.E. The ratio of preganglionic axons to postganglionic cells in the sympathetic nervous system
+
+of the rat. J. Comp. Neurol. 1981, 197, 207–216. [CrossRef] [PubMed]
+
+44. Purves, D.; Rubin, E.; Snider, W.; Lichtman, J. Relation of animal size to convergence, divergence, and neuronal number in
+
+peripheral sympathetic pathways. J. Neurosci. 1986, 6, 158–163. [CrossRef]
+
+45. Tusscher, M.T.; Klooster, J.; van der Want, J.; Lamers, W.; Vrensen, G. The allocation of nerve ﬁbres to the anterior eye segment
+
+and peripheral ganglia of rats. II. The sympathetic innervation. Brain Res. 1989, 494, 105–113. [CrossRef]
+
+46. Huff, T.; Daly, D.T. Neuroanatomy, Cranial Nerve 5 (Trigeminal). In StatPearls; StatPearls Publishing: Treasure Island, FL, USA,
+
+2021.
+
+47. Terenghi, G.; Polak, J.M.; Ghatei, M.A.; Mulderry, P.K.; Butler, J.M.; Unger, W.G.; Bloom, S.R. Distribution and origin of calcitonin
+gene-related peptide (CGRP) immunoreactivity in the sensory innervation of the mammalian eye. J. Comp. Neurol. 1985, 233,
+506–516. [CrossRef]
+
+48. Lee, Y.; Kawai, Y.; Shiosaka, S.; Takami, K.; Kiyama, H.; Hillyard, C.; Girgis, S.; MacIntyre, I.; Emson, P.; Tohyama, M.
+Coexistence of calcitonin gene-related peptide and substance P-like peptide in single cells of the trigeminal ganglion of the rat:
+Immunohistochemical analysis. Brain Res. 1985, 330, 194–196. [CrossRef]
+
+49. Yang, A.Y.; Chow, J.; Liu, J. Corneal Innervation and Sensation: The Eye and Beyond. Yale J. Biol. Med. 2018, 91, 13–21. [PubMed]
+50. Marfurt, C.F.; Kingsley, R.E.; Echtenkamp, S.E. Sensory and sympathetic innervation of the mammalian cornea. A retrograde
+
+tracing study. Investig. Ophthalmol. Vis. Sci. 1989, 30, 461–472.
+
+51. Müller, L.J.; Marfurt, C.F.; Kruse, F.; Tervo, T.M. Corneal nerves: Structure, contents and function. Exp. Eye Res. 2003, 76, 521–542.
+
+[CrossRef]
+
+52. Medeiros, C.S.; Santhiago, M.R. Corneal nerves anatomy, function, injury and regeneration. Exp. Eye Res. 2020, 200, 108243.
+
+[CrossRef] [PubMed]
+
+53. Zander, E.; Weddell, G. Observations on the innervation of the cornea. J. Anat. 1951, 85, 68–99.
+54. Al-Aqaba, M.A.; Fares, U.; Suleman, H.; Lowe, J.; Dua, H.S. Architecture and distribution of human corneal nerves. Br. J.
+
+Ophthalmol. 2009, 94, 784–789. [CrossRef]
+
+55. Müller, L.J.; Pels, L.; Vrensen, G.F. Ultrastructural organization of human corneal nerves. Investig. Ophthalmol. Vis. Sci. 1996, 37,
+
+56.
+
+476–488.
+Stern, M.E.; Beuerman, R.W.; Fox, R.I.; Gao, J.; Mircheff, A.K.; Pﬂugfelder, S.C. The Pathology of Dry Eye. Cornea 1998, 17, 584–589.
+[CrossRef] [PubMed]
+
+57. Ghiasi, Z.; Gray, T.; Tran, P.; Dubielzig, R.; Murphy, C.; McCartney, D.L.; Reid, T.W. The Effect of Topical Substance-P Plus
+Insulin-like Growth Factor-1 (IGF-1) on Epithelial Healing After Photorefractive Keratectomy in Rabbits. Transl. Vis. Sci. Technol.
+2018, 7, 12. [CrossRef] [PubMed]
+Suvas, S. Role of Substance P Neuropeptide in Inﬂammation, Wound Healing, and Tissue Homeostasis. J. Immunol. 2017, 199,
+1543–1552. [CrossRef] [PubMed]
+
+58.
+
+59. Nakamura, M.; Nishida, T.; Ofuji, K.; Reid, T.W.; Mannis, M.J.; Murphy, C.J. Synergistic Effect of Substance P with Epidermal
+
+Growth Factor on Epithelial Migration in Rabbit Cornea. Exp. Eye Res. 1997, 65, 321–329. [CrossRef]
+
+60. Neuhuber, W.; Schrödl, F. Autonomic control of the eye and the iris. Auton. Neurosci. 2011, 165, 67–79. [CrossRef]
+61. Kawasaki, A. Physiology, assessment, and disorders of the pupil. Curr. Opin. Ophthalmol. 1999, 10, 394–400. [CrossRef]
+62.
+
+Stone, R.; Laties, A.; Brecha, N. Substance P-like immunoreactive nerves in the anterior segment of the rabbit, cat and monkey
+eye. Neuroscience 1982, 7, 2459–2468. [CrossRef]
+Fujiwara, M.; Hayashi, H.; Muramatsu, I.; Ueda, N. Supersensitivity of the rabbit iris sphincter muscle induced by trigeminal
+denervation: The role of substance P. J. Physiol. 1984, 350, 583–597. [CrossRef]
+
+63.
+
+64. Bremner, F. Pupil evaluation as a test for autonomic disorders. Clin. Auton. Res. 2009, 19, 88–101. [CrossRef]
+65. Hardie, R.C.; Franze, K. Photomechanical Responses in Drosophila Photoreceptors. Science 2012, 338, 260–263. [CrossRef]
+
+[PubMed]
+
+66. Barr, L. Photomechanical coupling in the vertebrate sphincter pupillae. Crit. Rev. Neurobiol. 1989, 4, 325–366.
+67. Rubin, L.J.; Nolte, J.F. Modulation of the response of a photosensitive muscle by β-adrenergic regulation of cyclic AMP levels.
+
+Nature 1984, 307, 551–553. [CrossRef]
+
+68. Tamm, E.R. The trabecular meshwork outﬂow pathways: Structural and functional aspects. Exp. Eye Res. 2009, 88, 648–655.
+
+[CrossRef]
+
+69. Ruskell, G.L. Trigeminal innervation of the scleral spur in cynomolgus monkeys. J. Anat. 1994, 184, 511–518.
+
+Vision 2022, 6, 6
+
+19 of 24
+
+70. Tamm, E.R.; Koch, T.A.; Mayer, B.; Stefani, F.H.; Lütjen-Drecoll, E. Innervation of myoﬁbroblast-like scleral spur cells in human
+
+71.
+72.
+
+monkey eyes. Investig. Ophthalmol. Vis. Sci. 1995, 36, 1633–1644.
+Stone, R.A. Neuropeptide Y and the innervation of the human eye. Exp. Eye Res. 1986, 42, 349–355. [CrossRef]
+Stone, R.A.; Tervo, T.; Tervo, K.; Tarkkanen, A. Vasoactive intestinal polypeptide-like immunoreactive nerves to the human eye.
+Acta Ophthalmol. 1986, 64, 12–18. [CrossRef] [PubMed]
+
+73. Laties, A.M.; Stone, R.A.; Brecha, N.C. Substance P-like immunoreactive nerve ﬁbers in the trabecular meshwork. Investig.
+
+74.
+
+75.
+
+Ophthalmol. Vis. Sci. 1981, 21, 484–486.
+Stone, R.A.; McGlinn, A.M. Calcitonin gene-related peptide immunoreactive nerves in human and rhesus monkey eyes. Investig.
+Ophthalmol. Vis. Sci. 1988, 29, 305–310.
+Selbach, J.M.; Gottanka, J.; Wittmann, M.; Lütjen-Drecoll, E. Efferent and afferent innervation of primate trabecular meshwork
+and scleral spur. Investig. Ophthalmol. Vis. Sci. 2000, 41, 2184–2191.
+
+76. Yang, F.; Zhu, X.; Liu, X.; Ma, L.; Zhang, Z.; Pei, L.; Wang, H.; Xu, F.; Liu, H. Anatomical evidence for the efferent pathway from
+the hypothalamus to autonomic innervation in the anterior chamber structures of eyes. Exp. Eye Res. 2020, 202, 108367. [CrossRef]
+Selbach, J.M.; Buschnack, S.H.; Steuhl, K.-P.; Kremmer, S.; Muth-Selbach, U. Substance P and opioid peptidergic innervation of
+the anterior eye segment of the rat: An immunohistochemical study. J. Anat. 2005, 206, 237–242. [CrossRef]
+
+77.
+
+78. May, C.A.; Skorski, L.M.; Lutjen-Drecoll, E. Innervation of the porcine ciliary muscle and outﬂow region. J. Anat. 2005, 206,
+
+231–236. [CrossRef] [PubMed]
+
+79. Nomura, T.; Smelser, G.K. The identiﬁcation of adrenergic and cholinergic nerve endings in the trabecular meshwork. Investig.
+
+80.
+
+Ophthalmol. 1974, 13, 525–532.
+Jampel, H.D.; Lynch, M.G.; Brown, R.H.; Kuhar, M.J.; De Souza, E.B. Beta-adrenergic receptors in human trabecular meshwork.
+Identiﬁcation and autoradiographic localization. Investig. Ophthalmol. Vis. Sci. 1987, 28, 772–779.
+
+81. Wax, M.B.; Molinoff, P.B.; Alvarado, J.; Polansky, J. Characterization of beta-adrenergic receptors in cultured human trabecular
+
+cells and in human trabecular meshwork. Investig. Ophthalmol. Vis. Sci. 1989, 30, 51–57.
+
+82. Dartt, D.A. Neural regulation of lacrimal gland secretory processes: Relevance in dry eye diseases. Prog. Retin. Eye Res. 2009, 28,
+
+155–177. [CrossRef]
+
+83. Acosta, M.C.; Belmonte, C.; Gallar, J. Sensory experiences in humans and single-unit activity in cats evoked by polymodal
+
+stimulation of the cornea. J. Physiol. 2001, 534, 511–525. [CrossRef]
+
+84. Gallar, J.; Pozo, M.A.; Tuckett, R.P.; Belmonte, C. Response of sensory units with unmyelinated ﬁbres to mechanical, thermal and
+
+chemical stimulation of the cat’s cornea. J. Physiol. 1993, 468, 609–622. [CrossRef]
+
+85. Acosta, M.C.; Peral, A.; Luna, C.; Pintor, J.; Belmonte, C.; Gallar, J. Tear Secretion Induced by Selective Stimulation of Corneal and
+
+Conjunctival Sensory Nerve Fibers. Investig. Opthalmol. Vis. Sci. 2004, 45, 2333–2336. [CrossRef] [PubMed]
+
+86. Botelho, S.; Martinez, E.; Pholpramool, C.; Prooyen, H.; Janssen, J.; De Palau, A. Modiﬁcation of stimulated lacrimal gland ﬂow
+
+by sympathetic nerve impulses in rabbit. Am. J. Physiol. Content 1976, 230, 80–84. [CrossRef]
+
+87. Adeghate, E.; Singh, J.; Howarth, F.C.; Burrows, S. Control of porcine lacrimal gland secretion by non-cholinergic, non-adrenergic
+
+nerves: Effects of electrical ﬁeld stimulation, VIP and NPY. Brain Res. 1997, 758, 127–135. [CrossRef]
+
+88. Ding, C.; Walcott, B.; Keyser, K.T. Sympathetic Neural Control of the Mouse Lacrimal Gland. Investig. Opthalmol. Vis. Sci. 2003, 44,
+
+1513–1520. [CrossRef]
+
+89. Meneray, M.A.; Bennett, D.J.; Nguyen, D.H.; Beuerman, R.W. Effect of Sensory Denervation on the Structure and Physiologic
+
+Responsiveness of Rabbit Lacrimal Gland. Cornea 1998, 17, 99–107. [CrossRef]
+
+90. Ruskell, G.L. Changes in nerve terminals and acini of the lacrimal gland and changes in secretion induced by autonomic
+
+denervation. Z. Für Zellforsch. Und Mikrosk. Anat. 1969, 94, 261–281. [CrossRef]
+
+91. Tangkrisanavinont, V. Stimulation of lacrimal secretion by sympathetic nerve impulses in the rabbit. Life Sci. 1984, 34, 2365–2371.
+
+92.
+
+[CrossRef]
+Jin, K.; Imada, T.; Hisamura, R.; Ito, M.; Toriumi, H.; Tanaka, K.; Nakamura, S.; Tsubota, K. Identiﬁcation of Lacrimal Gland
+Postganglionic Innervation and Its Regulation of Tear Secretion. Am. J. Pathol. 2020, 190, 1068–1079. [CrossRef] [PubMed]
+93. Nakamura, M.; Tada, Y.; Akaishi, T.; Nakata, K. M3 muscarinic receptor mediates regulation of protein secretion in rabbit lacrimal
+
+gland. Curr. Eye Res. 1997, 16, 614–619. [CrossRef] [PubMed]
+
+94. Mauduit, P.; Jammes, H.; Rossignol, B. M3 muscarinic acetylcholine receptor coupling to PLC in rat exorbital lacrimal acinar cells.
+
+Am. J. Physiol. Physiol. 1993, 264, C1550–C1560. [CrossRef]
+
+95. Toshida, H.; Nguyen, A.H.; Beuerman, R.W.; Murakami, A. Evaluation of Novel Dry Eye Model: Preganglionic Parasympathetic
+
+Denervation in Rabbit. Investig. Opthalmol. Vis. Sci. 2007, 48, 4468–4475. [CrossRef]
+
+96. Alm, A.; Bill, A. Ocular and optic nerve blood ﬂow at normal and increased intraocular pressures in monkeys (Macaca irus): A
+study with radioactively labelled microspheres including ﬂow determinations in brain and some other tissues. Exp. Eye Res. 1973,
+15, 15–29. [CrossRef]
+
+97. Törnquist, P.; Alm, A. Retinal and choroidal contribution to retinal metabolism in vivo. A study in pigs. Acta Physiol. Scand. 1979,
+
+106, 351–357. [CrossRef]
+
+98. Hogan, M.J.; Feeney, L. The ultrastructure of the retinal blood vessels: I. The large vessels. J. Ultrastruct. Res. 1963, 9, 10–28.
+
+[CrossRef]
+
+99. Laties, A.M. Central Retinal Artery Innervation. Arch. Ophthalmol. 1967, 77, 405–409. [CrossRef]
+
+Vision 2022, 6, 6
+
+20 of 24
+
+100. Delaey, C.; Van De Voorde, J. Regulatory Mechanisms in the Retinal and Choroidal Circulation. Ophthalmic Res. 2000, 32, 249–256.
+
+[CrossRef] [PubMed]
+
+101. Ferrari-DiLeo, G.; Davis, E.B.; Anderson, D.R. Biochemical evidence for cholinergic activity in retinal blood vessels. Investig.
+
+Ophthalmol. Vis. Sci. 1989, 30, 473–477.
+
+102. Bergua, A.; Kapsreiter, M.; Neuhuber, W.L.; Reitsamer, H.A.; Schrödl, F. Innervation pattern of the preocular human central
+
+retinal artery. Exp. Eye Res. 2013, 110, 142–147. [CrossRef]
+
+103. Bergua, A.; Schrödl, F.; Neuhuber, W.L. Vasoactive intestinal and calcitonin gene-related peptides, tyrosine hydroxylase and
+
+nitrergic markers in the innervation of the rat central retinal artery. Exp. Eye Res. 2003, 77, 367–374. [CrossRef]
+
+104. Ye, X.D.; Laties, A.M.; Stone, R.A. Peptidergic innervation of the retinal vasculature and optic nerve head. Investig. Ophthalmol.
+
+Vis. Sci. 1990, 31, 1731–1737.
+
+105. Kumagai, N.; Yuda, K.; Kadota, T.; Goris, R.C.; Kishida, R. Substance P-like immunoreactivity in the central retinal artery of the
+
+rabbit. Exp. Eye Res. 1988, 46, 591–596. [CrossRef]
+
+106. Laties, A.M.; Jacobowitz, D. A comparative study of the autonomic innervation of the eye in monkey, cat, and rabbit. Anat. Rec.
+
+Adv. Integr. Anat. Evol. Biol. 1966, 156, 383–395. [CrossRef]
+
+107. Toda, N.; Toda, M.; Ayajiki, K.; Okamura, T. Monkey central retinal artery is innervated by nitroxidergic vasodilator nerves.
+
+Investig. Ophthalmol. Vis. Sci. 1996, 37, 2177–2184.
+
+108. Toda, N.; Ayajiki, K.; Yoshida, K.; Kimura, H.; Okamura, T. Impairment by damage of the pterygopalatine ganglion of nitroxidergic
+
+vasodilator nerve function in canine cerebral and retinal arteries. Circ. Res. 1993, 72, 206–213. [CrossRef] [PubMed]
+
+109. Smith, C.P.; Sharma, S.; Steinle, J. Age-related changes in sympathetic neurotransmission in rat retina and choroid. Exp. Eye Res.
+
+2007, 84, 75–81. [CrossRef]
+
+110. Steinle, J.J.; Lindsay, N.L.; Lashbrook, B.L. Cervical sympathectomy causes photoreceptor-speciﬁc cell death in the rat retina.
+
+Auton. Neurosci. 2005, 120, 46–51. [CrossRef] [PubMed]
+
+111. May, C.A.; Neuhuber, W.; Lütjen-Drecoll, E. Immunohistochemical Classiﬁcation and Functional Morphology of Human
+
+Choroidal Ganglion Cells. Investig. Opthalmol. Vis. Sci. 2004, 45, 361–367. [CrossRef]
+
+112. Schrödl, F.; Brehmer, A.; Neuhuber, W.L. Intrinsic choroidal neurons in the duck eye express galanin. J. Comp. Neurol. 2000, 425,
+
+24–33. [CrossRef]
+
+113. De Hoz, R.; Salazar, J.J.; Ramírez, A.I.; Rojas, B.; Triviño, A.; Ramírez, J.M. Estudio comparativo de la inervación coroidea en el
+
+hombre y en el conejo (oryctolagus cuniculus). Arch. Soc. Esp. Oftalmol. 2006, 81, 463–470. [CrossRef]
+
+114. Schroedl, F.; De Stefano, M.E.; Reese, S.; Brehmer, A.; Neuhuber, W.L. Comparative anatomy of nitrergic intrinsic choroidal
+
+neurons (ICN) in various avian species. Exp. Eye Res. 2004, 78, 187–196. [CrossRef] [PubMed]
+
+115. Terenghi, G.; Polak, J.M.; Probert, L.; McGregor, G.P.; Ferri, G.L.; Blank, M.A.; Butler, J.M.; Unger, W.G.; Zhang, A.-Q.; Cole, D.F.;
+et al. Mapping, quantitative distribution and origin of substance P- and VIP-containing nerves in the Uvea of guinea pig eye.
+Histochemistry 1982, 75, 399–417. [CrossRef] [PubMed]
+
+116. Nakanome, Y.; Karita, K.; Izumi, H.; Tamai, M. Two types of vasodilatation in cat choroid elicited by electrical stimulation of the
+
+short ciliary nerve. Exp. Eye Res. 1995, 60, 37–42. [CrossRef]
+
+117. Gherezghiher, T.; Hey, J.A.; Koss, M.C. Parasympathetic nervous control of intraocular pressure. Exp. Eye Res. 1990, 50, 457–462.
+
+[CrossRef]
+
+118. Stjernschantz, J.; Bill, A. Effect of intracranial stimulation of the oculomotor nerve on ocular blood ﬂow in the monkey, cat, and
+
+rabbit. Investig. Ophthalmol. Vis. Sci. 1979, 18, 99–103.
+
+119. Triviño, A.; De Hoz, R.; Rojas, B.; Salazar, J.J.; Ramirez, A.I.; Ramirez, J.M. NPY and TH innervation in human choroidal
+
+whole-mounts. Histol. Histopathol. 2005, 20, 393–402. [CrossRef]
+
+120. Klooster, J.; Beckers, H.; Tusscher, T.; Vrensen, G.; Van Der Want, J.; Lamers, W. Sympathetic Innervation of the Rat Choroid: An
+
+Autoradiographic Tracing and Immunohistochemical Study. Ophthalmic Res. 1996, 28, 36–43. [CrossRef]
+
+121. Schrödl, F.; Tines, R.; Brehmer, A.; Neuhuber, W.L. Intrinsic choroidal neurons in the duck eye receive sympathetic input:
+Anatomical evidence for adrenergic modulation of nitrergic functions in the choroid. Cell Tissue Res. 2001, 304, 175–184.
+[CrossRef]
+
+122. May, C.A. Chronologic versus Biologic Aging of the Human Choroid. Sci. World J. 2013, 2013, 378206. [CrossRef]
+123. Jablonski, M.M.; Iannaccone, A.; Reynolds, D.H.; Gallaher, P.; Allen, S.; Wang, X.; Reiner, A. Age-Related Decline in VIP-Positive
+
+Parasympathetic Nerve Fibers in the Human Submacular Choroid. Investig. Opthalmol. Vis. Sci. 2007, 48, 479–485. [CrossRef]
+
+124. Nuzzi, R.; Finazzo, C.; Grignolo, F.M. Changes in adrenergic innervation of the choroid during aging. J. Fr. Dophtalmol. 1996, 19,
+
+89–96.
+
+125. Hoz, A.D.; Ramírez, A.I.; Salazar, J.J.; Rojas, B.; Ramírez, J.M.; Triviño, A. Substance P and calcitonin gene-related peptide intrinsic
+
+choroidal neurons in human choroidal whole-mounts. Histol. Histopathol. 2008, 23, 1249–1258. [CrossRef] [PubMed]
+
+126. Sghari, S.; Davies, W.I.L.; Gunhaga, L. Elucidation of Cellular Mechanisms That Regulate the Sustained Contraction and
+
+Relaxation of the Mammalian Iris. Investig. Opthalmol. Vis. Sci. 2020, 61, 5. [CrossRef]
+
+127. Lai, J.S.M.; Tham, C.C.Y.; Lam, D.S.C. Comparative study of intraoperative mitomycin C and beta irradiation in pterygium
+
+surgery. Br. J. Ophthalmol. 2001, 85, 121–123. [CrossRef] [PubMed]
+
+128. Douglas, R.H. The pupillary light responses of animals; a review of their distribution, dynamics, mechanisms and functions. Prog.
+
+Retin. Eye Res. 2018, 66, 17–48. [CrossRef] [PubMed]
+
+Vision 2022, 6, 6
+
+21 of 24
+
+129. Zele, A.J.; Adhikari, P.; Cao, D.; Feigl, B. Melanopsin and Cone Photoreceptor Inputs to the Afferent Pupil Light Response. Front.
+
+Neurol. 2019, 10, 529. [CrossRef]
+
+130. Hayter, E.A.; Brown, T.M. Additive contributions of melanopsin and both cone types provide broadband sensitivity to mouse
+
+pupil control. BMC Biol. 2018, 16, 83. [CrossRef]
+
+131. Lucas, R.J. Mammalian Inner Retinal Photoreception. Curr. Biol. 2013, 23, R125–R133. [CrossRef] [PubMed]
+132. Berson, D.M.; Dunn, F.A.; Takao, M. Phototransduction by Retinal Ganglion Cells That Set the Circadian Clock. Science 2002, 295,
+
+1070–1073. [CrossRef]
+
+133. Hattar, S.; Liao, H.-W.; Takao, M.; Berson, D.M.; Yau, K.-W. Melanopsin-containing retinal ganglion cells: Architecture, projections,
+
+and intrinsic photosensitivity. Science 2002, 295, 1065–1070. [CrossRef] [PubMed]
+
+134. McDougal, D.H.; Gamlin, P.D. Autonomic Control of the Eye. Compr. Physiol. 2014, 5, 439–473. [CrossRef]
+135. Gamlin, P.D.; McDougal, D.H.; Pokorny, J.; Smith, V.C.; Yau, K.-W.; Dacey, D.M. Human and macaque pupil responses driven by
+
+melanopsin-containing retinal ganglion cells. Vis. Res. 2007, 47, 946–954. [CrossRef] [PubMed]
+
+136. Lucas, R.J.; Hattar, S.; Takao, M.; Berson, D.M.; Foster, R.G.; Yau, K.-W. Diminished Pupillary Light Reﬂex at High Irradiances in
+
+Melanopsin-Knockout Mice. Science 2003, 299, 245–247. [CrossRef]
+
+137. Hattar, S.; Lucas, R.J.; Mrosovsky, N.; Thompson, S.; Douglas, R.H.; Hankins, M.W.; Lem, J.; Biel, M.; Hofmann, F.; Foster, R.G.;
+et al. Melanopsin and rod–cone photoreceptive systems account for all major accessory visual functions in mice. Nature 2003, 424,
+75–81. [CrossRef]
+
+138. Hatori, M.; Le, H.; Vollmers, C.; Keding, S.R.; Tanaka, N.; Schmedt, C.; Jegla, T.; Panda, S. Inducible Ablation of Melanopsin-
+Expressing Retinal Ganglion Cells Reveals Their Central Role in Non-Image Forming Visual Responses. PLoS ONE 2008, 3, e2451.
+[CrossRef]
+
+139. Bouffard, M.A. The Pupil. Contin. Lifelong Learn. Neurol. 2019, 25, 1194–1214. [CrossRef]
+140. Breen, L.A.; Burde, R.M.; Loewy, A.D. Brainstem connections to the Edinger-Westphal nucleus of the cat: A retrograde tracer
+
+study. Brain Res. 1983, 261, 303–306. [CrossRef]
+
+141. Jones, B.E.; Yang, T.-Z. The efferent projections from the reticular formation and the locus coeruleus studied by anterograde and
+
+retrograde axonal transport in the rat. J. Comp. Neurol. 1985, 242, 56–92. [CrossRef]
+
+142. Lewis, D.; Coote, J. Excitation and inhibition of rat sympathetic preganglionic neurones by catecholamines. Brain Res. 1990, 530,
+
+229–234. [CrossRef]
+
+143. Szabadi, E. Functional Organization of the Sympathetic Pathways Controlling the Pupil: Light-Inhibited and Light-Stimulated
+
+Pathways. Front. Neurol. 2018, 9, 1069. [CrossRef]
+
+144. Okada, H.; Nakano, O.; Okamoto, K.; Nakayama, K.; Nisida, I. The central path of the light reﬂex via the sympathetic nerve in the
+
+cat. Jpn. J. Physiol. 1960, 10, 646–658. [CrossRef]
+
+145. Dampney, R.A.; Furlong, T.; Horiuchi, J.; Iigaya, K. Role of dorsolateral periaqueductal grey in the coordinated regulation of
+
+cardiovascular and respiratory function. Auton. Neurosci. 2013, 175, 17–25. [CrossRef] [PubMed]
+
+146. Bajic, D.; Van Bockstaele, E.J.; Proudﬁt, H.K. Ultrastructural analysis of rat ventrolateral periaqueductal gray projections to the A5
+
+cell group. Neuroscience 2012, 224, 145–159. [CrossRef]
+
+147. González, M.M.; Aston-Jones, G. Circadian regulation of arousal: Role of the noradrenergic locus coeruleus system and light
+
+exposure. Sleep 2006, 29, 1327–1336. [CrossRef]
+
+148. Samuels, E.; Szabadi, E.R.S.A.E. Functional Neuroanatomy of the Noradrenergic Locus Coeruleus: Its Roles in the Regulation
+of Arousal and Autonomic Function Part II: Physiological and Pharmacological Manipulations and Pathological Alterations of
+Locus Coeruleus Activity in Humans. Curr. Neuropharmacol. 2008, 6, 254–285. [CrossRef]
+
+149. Vanderhasselt, M.-A.; De Raedt, R.; Nasso, S.; Puttevils, L.; Mueller, S. Don’t judge me: Psychophysiological evidence of gender
+
+differences to social evaluative feedback. Biol. Psychol. 2018, 135, 29–35. [CrossRef] [PubMed]
+
+150. Lichtenstein-Vidne, L.; Gabay, S.; Cohen, N.; Henik, A. Lateralisation of emotions: Evidence from pupil size measurement. Cogn.
+
+Emot. 2016, 31, 699–711. [CrossRef]
+
+151. Brocher, A.; Graf, T. Decision-related factors in pupil old/new effects: Attention, response execution, and false memory.
+
+Neuropsychologia 2017, 102, 124–134. [CrossRef] [PubMed]
+
+152. Gomes, C.A.; Montaldi, D.; Mayes, A. The pupil as an indicator of unconscious memory: Introducing the pupil priming effect.
+
+Psychophysiology 2015, 52, 754–769. [CrossRef] [PubMed]
+
+153. Ebitz, R.B.; Moore, T. Selective Modulation of the Pupil Light Reﬂex by Microstimulation of Prefrontal Cortex. J. Neurosci. 2017,
+
+37, 5008–5018. [CrossRef]
+
+154. Joshi, S.; Li, Y.; Kalwani, R.M.; Gold, J.I. Relationships between Pupil Diameter and Neuronal Activity in the Locus Coeruleus,
+
+Colliculi, and Cingulate Cortex. Neuron 2015, 89, 221–234. [CrossRef] [PubMed]
+
+155. Wang, C.-A.J.; Boehnke, S.; White, B.J.; Munoz, D.P. Microstimulation of the Monkey Superior Colliculus Induces Pupil Dilation
+
+Without Evoking Saccades. J. Neurosci. 2012, 32, 3629–3636. [CrossRef] [PubMed]
+
+156. Peinkhofer, C.; Knudsen, G.M.; Moretti, R.; Kondziella, D. Cortical modulation of pupillary function: Systematic review. PeerJ
+
+2019, 7, e6882. [CrossRef] [PubMed]
+
+157. Clarke, R.J.; Zhang, H.; Gamlin, P.D.R. Characteristics of the Pupillary Light Reﬂex in the Alert Rhesus Monkey. J. Neurophysiol.
+
+2003, 89, 3179–3189. [CrossRef] [PubMed]
+
+158. Gaudric, A.; Coscas, G.; Bird, A. Choroidal Ischemia. Am. J. Ophthalmol. 1982, 94, 489–498. [CrossRef]
+
+Vision 2022, 6, 6
+
+22 of 24
+
+159. Cuthbertson, S.; LeDoux, M.S.; Jones, S.; Jones, J.; Zhou, Q.; Gong, S.; Ryan, P.; Reiner, A. Localization of preganglionic neurons
+that innervate choroidal neurons of pterygopalatine ganglion. Investig. Opthalmol. Vis. Sci. 2003, 44, 3713–3724. [CrossRef]
+160. Nilsson, S.F.E.; Bill, A. Vasoactive intestinal polypeptide (VIP): Effects in the eye and on regional blood ﬂows. Acta Physiol. Scand.
+
+1984, 121, 385–392. [CrossRef] [PubMed]
+
+161. Nilsson, S.F. Nitric oxide as a mediator of parasympathetic vasodilation in ocular and extraocular tissues in the rabbit. Investig.
+
+Ophthalmol. Vis. Sci. 1996, 37, 2110–2119.
+
+162. Nilsson, S.F.; Linder, J.; Bill, A. Characteristics of uveal vasodilation produced by facial nerve stimulation in monkeys, cats and
+
+rabbits. Exp. Eye Res. 1985, 40, 841–852. [CrossRef]
+
+163. Cuthbertson, S.; Jackson, B.; Toledo, C.; Fitzgerald, M.E.C.; Shih, Y.F.; Zagvazdin, Y.; Reiner, A. Innervation of orbital and choroidal
+
+blood vessels by the pterygopalatine ganglion in pigeons. J. Comp. Neurol. 1997, 386, 273–282. [CrossRef]
+
+164. Reiner, A.; Zagvazdin, Y.; Fitzgerald, M.E. Choroidal blood ﬂow in pigeons compensates for decreases in arterial blood pressure.
+
+Exp. Eye Res. 2003, 76, 273–282. [CrossRef]
+
+165. Gamlin, P.; Reiner, A.; Karten, H.J. Substance P-containing neurons of the avian suprachiasmatic nucleus project directly to the
+
+nucleus of Edinger-Westphal. Proc. Natl. Acad. Sci. USA 1982, 79, 3891–3895. [CrossRef] [PubMed]
+
+166. Cantwell, E.L.; Cassone, V.M. Chicken suprachiasmatic nuclei: I. Efferent and afferent connections. J. Comp. Neurol. 2006, 496,
+
+97–120. [CrossRef]
+
+167. Cantwell, E.L.; Cassone, V.M. Chicken suprachiasmatic nuclei: II. Autoradiographic and immunohistochemical analysis. J. Comp.
+
+Neurol. 2006, 499, 442–457. [CrossRef] [PubMed]
+
+168. Fitzgerald, M.E.C.; Gamlin, P.D.R.; Zagvazdin, Y.; Reiner, A. Central neural circuits for the light-mediated reﬂexive control of
+
+choroidal blood ﬂow in the pigeon eye: A laser Doppler study. Vis. Neurosci. 1996, 13, 655–669. [CrossRef] [PubMed]
+
+169. Reiner, A.; Wong, T.; Nazor, C.; DEL Mar, N.; Fitzgerald, M. Type-speciﬁc photoreceptor loss in pigeons after disruption of
+parasympathetic control of choroidal blood ﬂow by the medial subdivision of the nucleus of Edinger-Westphal. Vis. Neurosci.
+2016, 33, E008. [CrossRef]
+
+170. Fischer, A.J.; McKinnon, L.A.; Nathanson, N.M.; Stell, W.K. Identiﬁcation and localization of muscarinic acetylcholine receptors
+
+in the ocular tissues of the chick. J. Comp. Neurol. 1998, 392, 273–284. [CrossRef]
+
+171. Zagvazdin, Y.; Fitzgeraldab, M.E.; Reiner, A. Role of Muscarinic Cholinergic Transmission in Edinger-Westphal Nucleus-induced
+
+Choroidal Vasodilation in Pigeon. Exp. Eye Res. 2000, 70, 315–327. [CrossRef]
+
+172. Alm, A.; Bill, A. The Effect of Stimulation of the Cervical Sympathetic Chain on Retinal Oxygen Tension and on Uveal, Retinal
+
+and Cerebral Blood Flow in Cats. Acta Physiol. Scand. 1973, 88, 84–94. [CrossRef] [PubMed]
+
+173. Alm, A. The effect of sympathetic stimulation on blood ﬂow through the uvea, retina and optic nerve in monkeys (Macaca irus).
+
+Exp. Eye Res. 1977, 25, 19–24. [CrossRef]
+
+174. Li, C.; Fitzgerald, M.E.C.; Del Mar, N.; Haughey, C.; Reiner, A. Defective Choroidal Blood Flow Baroregulation and Retinal
+Dysfunction and Pathology Following Sympathetic Denervation of Choroid. Investig. Opthalmol. Vis. Sci. 2018, 59, 5032–5044.
+[CrossRef]
+
+175. Martinez-Camarillo, J.-C.; Spee, C.K.; Chen, M.; Rodriguez, A.; Nimmagadda, K.; Trujillo-Sánchez, G.P.; Hinton, D.R.; Giarola, A.;
+Pikov, V.; Sridhar, A.; et al. Sympathetic Effects of Internal Carotid Nerve Manipulation on Choroidal Vascularity and Related
+Measures. Investig. Opthalmol. Vis. Sci. 2019, 60, 4303–4309. [CrossRef]
+
+176. Kiel, J.W.; Lovell, M.O. Adrenergic modulation of choroidal blood ﬂow in the rabbit. Investig. Ophthalmol. Vis. Sci. 1996, 37,
+
+673–679.
+
+177. Nilsson, S.F.E. Neuropeptide Y (NPY): A vasoconstrictor in the eye, brain and other tissues in the rabbit. Acta Physiol. Scand. 1991,
+
+141, 455–467. [CrossRef] [PubMed]
+
+178. Stjernschantz, J.; Geijer, C.; Bill, A. Electrical stimulation of the ﬁfth cranial nerve in rabbits: Effects on ocular blood ﬂow,
+
+extravascular albumin content and intraocular pressure. Exp. Eye Res. 1979, 28, 229–238. [CrossRef]
+
+179. Costagliola, C.; Dell’Omo, R.; Agniﬁli, L.; Bartollino, S.; Fea, A.M.; Uva, M.G.; Zeppa, L.; Mastropasqua, L. How many aqueous
+
+humor outﬂow pathways are there? Surv. Ophthalmol. 2019, 65, 144–170. [CrossRef]
+
+180. Ruskell, G. An ocular parasympathetic nerve pathway of facial nerve origin and its inﬂuence on intraocular pressure. Exp. Eye
+
+Res. 1970, 10, 319–330. [CrossRef]
+
+181. Uusitalo, H.; Lehtosalo, J.I.; Palkama, A. Vasoactive Intestinal Polypeptide(VIP)-Immunoreactive Nerve Fibers in the Anterior
+
+Uvea of the Guinea Pig. Ophthalmic Res. 1985, 17, 235–240. [CrossRef]
+
+182. Nilsson, S.F. The Signiﬁcance of Nitric Oxide for Parasympathetic Vasodilation in the Eye and other Orbital Tissues in the Cat.
+
+Exp. Eye Res. 2000, 70, 61–72. [CrossRef] [PubMed]
+
+183. Kiel, J.W.; Reitsamerab, H.A.; Walker, J.S.; Kiel, F.W. Effects of Nitric Oxide Synthase Inhibition on Ciliary Blood Flow, Aqueous
+
+Production and Intraocular Pressure. Exp. Eye Res. 2001, 73, 355–364. [CrossRef]
+
+184. Granstam, E.; Nilsson, S.F. Non-adrenergic sympathetic vasoconstriction in the eye and some other facial tissues in the rabbit.
+
+Eur. J. Pharmacol. 1990, 175, 175–186. [CrossRef]
+
+185. Akagi, Y.; Ibata, Y.; Sano, Y. The sympathetic innervation of the ciliary body and trabecular meshwork of the cat. Cell Tissue Res.
+
+1976, 173, 261–269. [CrossRef]
+
+186. Oksala, O.; Stjernschantz, J. Effects of calcitonin gene-related peptide in the eye. A study in rabbits and cats. Investig. Ophthalmol.
+
+Vis. Sci. 1988, 29, 1006–1011.
+
+Vision 2022, 6, 6
+
+23 of 24
+
+187. Goel, M.; Pacciani, R.G.; Lee, R.K.; Battacharya, S.K. Aqueous Humor Dynamics: A Review. Open Ophthalmol. J. 2010, 4, 52–59.
+
+[CrossRef]
+
+188. Kiel, J.; Hollingsworth, M.; Rao, R.; Chen, M.; Reitsamer, H. Ciliary blood ﬂow and aqueous humor production. Prog. Retin. Eye
+
+Res. 2011, 30, 1–17. [CrossRef]
+
+189. Crosson, C.K.; Heath, A.R.; Devries, G.W.; Potter, D.E. Pharmacological evidence for heterogeneity of ocular $aL2adrenoceptors.
+
+Curr. Eye Res. 1992, 11, 963–970. [CrossRef] [PubMed]
+
+190. Wax, M.B.; Molinoff, P.B. Distribution and properties of beta-adrenergic receptors in human iris-ciliary body. Investig. Ophthalmol.
+
+Vis. Sci. 1987, 28, 420–430.
+
+191. Polansky, J.R.; Zlock, D.; Brasier, A.; Bloom, E. Adrenergic and cholinergic receptors in isolated non-pigmented ciliary epithelial
+
+cells. Curr. Eye Res. 1985, 4, 517–522. [CrossRef] [PubMed]
+
+192. Ogidigben, M.; Chu, T.C.; Potter, D.E. Ocular actions of moxonidine: A possible role for imidazoline receptors. J. Pharmacol. Exp.
+
+Ther. 1994, 269, 897–904.
+
+193. Kaufman, P.L. Aqueous humor dynamics following total iridectomy in the cynomolgus monkey. Investig. Ophthalmol. Vis. Sci.
+
+1979, 18, 870–874.
+
+194. Kaufman, P.L.; Bárány, E.H. Adrenergic drug effects on aqueous outﬂow facility following ciliary muscle retrodisplacement in the
+
+cynomolgus monkey. Investig. Ophthalmol. Vis. Sci. 1981, 20, 644–651.
+
+195. Kaufman, P.L. Total iridectomy does not alter outﬂow facility responses to cyclic AMP in cynomolgus monkeys. Exp. Eye Res.
+
+1986, 43, 441–447. [CrossRef]
+
+196. Ye, M.; Chen, Z.; Li, M.; Chen, W.; Zhang, H.; Wang, J. Effect of topical application of adrenaline on Schlemm canal, trabecular
+
+meshwork and intraocular pressure. Medicine 2019, 98, e15558. [CrossRef] [PubMed]
+
+197. Stamer, W.D.; Lei, Y.; Boussommier-Calleja, A.; Overby, D.R.; Ethier, C.R. eNOS, a Pressure-Dependent Regulator of Intraocular
+
+Pressure. Investig. Opthalmol. Vis. Sci. 2011, 52, 9438–9444. [CrossRef]
+
+198. Luo, Z.; Li, M.; Ye, M.; Ji, P.; Lou, X.; Huang, J.; Yao, K.; Zhao, Y.; Zhang, H. Effect of Electrical Stimulation of Cervical Sympathetic
+Ganglia on Intraocular Pressure Regulation According to Different Circadian Rhythms in Rats. Investig. Opthalmol. Vis. Sci. 2020,
+61, 40. [CrossRef]
+
+199. Gallar, J.; Liu, J.H. Stimulation of the cervical sympathetic nerves increases intraocular pressure. Investig. Ophthalmol. Vis. Sci.
+
+1993, 34, 596–605.
+
+200. Alm, A.; Nilsson, S.F. Uveoscleral outﬂow—A review. Exp. Eye Res. 2009, 88, 760–768. [CrossRef] [PubMed]
+201. Johnson, M.; McLaren, J.W.; Overby, D. Unconventional aqueous humor outﬂow: A review. Exp. Eye Res. 2016, 158, 94–111.
+
+[CrossRef]
+
+202. Yücel, Y.H.; Johnston, M.G.; Ly, T.; Patel, M.; Drake, B.; Gumus, E.; Fraenkl, S.A.; Moore, S.; Tobbia, D.; Armstrong, D.; et al.
+Identiﬁcation of lymphatics in the ciliary body of the human eye: A novel “uveolymphatic” outﬂow pathway. Exp. Eye Res. 2009,
+89, 810–819. [CrossRef] [PubMed]
+
+203. Bill, A. Effects of atropine and pilocarpine on aqueous humour dynamics in cynomolgus monkeys (Macaca irus). Exp. Eye Res.
+
+1967, 6, 120–125. [CrossRef]
+
+204. Bill, A. Early effects of epinephrine on aqueous humor dynamics in vervet monkeys (Cercopithecus ethiops). Exp. Eye Res. 1969, 8,
+
+35–43. [CrossRef]
+
+205. Abaye, D.A.; Pullen, F.S.; Nielsen, B.V. Practical considerations in analysing neuropeptides, calcitonin gene-related peptide and
+vasoactive intestinal peptide, by nano-electrospray ionisation and quadrupole time-of-ﬂight mass spectrometry: Monitoring
+multiple protonations. Rapid Commun. Mass Spectrom. 2011, 25, 1107–1116. [CrossRef]
+
+206. Selbach, J.M.; Schonfelder, U.; Funk, R.H.W. Arteriovenous Anastomoses of the Episcleral Vasculature in the Rabbit and Rat Eye.
+
+J. Glaucoma 1998, 7, 50–57. [CrossRef]
+
+207. Goldmann, H. Abﬂussdruck, Minutenvolumen und Widerstand der Kammerwasser-strömung des Menschen. Doc. Ophthalmol.
+
+1951, 5, 278–356. [CrossRef] [PubMed]
+
+208. Strohmaier, C.A.; Reitsamer, H.A.; Kiel, J.W. Episcleral Venous Pressure and IOP Responses to Central Electrical Stimulation in
+
+the Rat. Investig. Opthalmol. Vis. Sci. 2013, 54, 6860–6866. [CrossRef] [PubMed]
+
+209. Selbach, J.M.; Rohen, J.W.; Steuhl, K.-P.; Lütjen-Drecoll, E. Angioarchitecture and Innervation of the Primate Anterior Episclera.
+
+Curr. Eye Res. 2005, 30, 337–344. [CrossRef] [PubMed]
+
+210. Ladek, A.M.; Trost, A.; Bruckner, D.; Schroedl, F.; Kaser-Eichberger, A.; Lenzhofer, M.; Reitsamer, H.A.; Strohmaier, C.A.
+Immunohistochemical Characterization of Neurotransmitters in the Episcleral Circulation in Rats. Investig. Opthalmol. Vis. Sci.
+2019, 60, 3215–3220. [CrossRef] [PubMed]
+
+211. Heermann, S. Neuroanatomie der Sehbahn. Mon. Augenheilkd. 2017, 234, 1327–1333. [CrossRef] [PubMed]
+212. May, P.J.; Warren, S.; Bohlen, M.O.; Barnerssoi, M.; Horn, A.K.E. A central mesencephalic reticular formation projection to the
+
+Edinger-Westphal nuclei. Brain Struct. Funct. 2015, 221, 4073–4089. [CrossRef]
+
+213. Motlagh, M.; Geetha, R. Physiology, Accommodation. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2021.
+214. May, P.J.; Gamlin, P.D. Is Primate Lens Accommodation Unilaterally or Bilaterally Controlled? Investig. Opthalmol. Vis. Sci. 2020,
+
+61, 5. [CrossRef] [PubMed]
+
+215. Lara-Lacárcel, F.; Marín-Franch, I.; Fernández-Sánchez, V.; Riquelme-Nicolás, R.; López-Gil, N. Objective changes in astigmatism
+
+during accommodation. Ophthalmic Physiol. Opt. 2021, 41, 1069–1075. [CrossRef] [PubMed]
+
+Vision 2022, 6, 6
+
+24 of 24
+
+216. Gamlin, P.D.; Yoon, K. An area for vergence eye movement in primate frontal cortex. Nat. Cell Biol. 2000, 407, 1003–1007.
+
+[CrossRef]
+
+217. Schor, C.M.; Lott, L.A.; Pope, D.; Graham, A.D. Saccades reduce latency and increase velocity of ocular accommodation. Vis. Res.
+
+1999, 39, 3769–3795. [CrossRef]
+
+218. Domínguez-Vicent, A.; Monsálvez-Romín, D.; Del Águila-Carrasco, A.J.; Ferrer-Blasco, T.; Montés-Micó, R. Changes in the
+anterior chamber during accommodation assessed with a Scheimpﬂug system. J. Cataract. Refract. Surg. 2014, 40, 1790–1797.
+[CrossRef]
+
+219. Tigges, M.; Iuvone, P.M.; Fernandes, A.; Sugrue, M.F.; Mallorga, P.J.; Laties, A.M.; Stone, R.A. Effects of Muscarinic Cholinergic
+
+Receptor Antagonists on Postnatal Eye Growth of Rhesus Monkeys. Optom. Vis. Sci. 1999, 76, 397–407. [CrossRef] [PubMed]
+220. Schmid, K.L.; Wildsoet, C.F. Inhibitory Effects of Apomorphine and Atropine and Their Combination on Myopia in Chicks.
+
+Optom. Vis. Sci. 2004, 81, 137–147. [CrossRef] [PubMed]
+
+221. Huang, J.; Wen, D.; Wang, Q.; McAlinden, C.; Flitcroft, I.; Chen, H.; Saw, S.M.; Chen, H.; Bao, F.; Zhao, Y.; et al. Efﬁcacy
+Comparison of 16 Interventions for Myopia Control in Children. Ophthalmology 2016, 123, 697–708. [CrossRef] [PubMed]
+222. Barathi, V.; Beuerman, R.W. Molecular mechanisms of muscarinic receptors in mouse scleral ﬁbroblasts: Prior to and after
+
+induction of experimental myopia with atropine treatment. Mol. Vis. 2011, 17, 680–692. [PubMed]
+
+223. Barathi, V.A.; Weon, S.R.; Beuerman, R.W. Expression of muscarinic receptors in human and mouse sclera and their role in the
+
+regulation of scleral ﬁbroblasts proliferation. Mol. Vis. 2009, 15, 1277–1293.
+
+224. Lin, H.-J.; Wan, L.; Chen, W.-C.; Lin, J.-M.; Lin, C.-J.; Tsai, F.-J. Muscarinic Acetylcholine Receptor 3 Is Dominant in Myopia
+
+Progression. Investig. Opthalmol. Vis. Sci. 2012, 53, 6519–6525. [CrossRef]
+
+225. McBrien, N.A.; Stell, W.K.; Carr, B. How does atropine exert its anti-myopia effects? Ophthalmic Physiol. Opt. 2013, 33, 373–378.
+
+[CrossRef]
+
+226. Abramson, D.H.; Franzen, L.A.; Coleman, D.J. Pilocarpine in the Presbyope. Arch. Ophthalmol. 1973, 89, 100–102. [CrossRef]
+227. Abramson, D.H.; Coleman, D.J.; Forbes, M.; Franzen, L.A. Pilocarpine. Arch. Ophthalmol. 1972, 87, 615–620. [CrossRef]
+228. Benozzi, G.; Cortina, M.E.; Gimeno, E.; Vantesone, D.L.; Solas, A.E.; Lorda, G.M.; Facal, S.; Leiro, J.; Orman, B. A multicentric
+study of pharmacological treatment for presbyopia. Graefe’s Arch. Clin. Exp. Ophthalmol. 2021, 259, 2441–2450. [CrossRef]
+229. Benozzi, G.; Perez, C.; Leiro, J.; Facal, S.; Orman, B. Presbyopia Treatment with Eye Drops: An Eight Year Retrospective Study.
+
+Transl. Vis. Sci. Technol. 2020, 9, 25. [PubMed]
+
+230. Ono, M.; Takamura, E.; Shinozaki, K.; Tsumura, T.; Hamano, T.; Yagi, Y.; Tsubota, K. Therapeutic effect of cevimeline on dry eye
+in patients with Sjögren’s syndrome: A randomized, double-blind clinical study. Am. J. Ophthalmol. 2004, 138, 6–17. [CrossRef]
+[PubMed]
+
+231. Petrone, D.; Condemi, J.J.; Fife, R.; Gluck, O.; Cohen, S.; Dalgin, P. A double-blind, randomized, placebo-controlled study of
+cevimeline in Sjögren’s syndrome patients with xerostomia and keratoconjunctivitis sicca. Arthritis Rheum. 2002, 46, 748–754.
+[CrossRef] [PubMed]
+
+232. Ou, K.; Copland, D.A.; Theodoropoulou, S.; Mertsch, S.; Li, Y.; Liu, J.; Schrader, S.; Liu, L.; Dick, A.D. Treatment of diabetic
+retinopathy through neuropeptide Y-mediated enhancement of neurovascular microenvironment. J. Cell. Mol. Med. 2020, 24,
+3958–3970. [CrossRef]
+
+

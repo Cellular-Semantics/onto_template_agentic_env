@@ -1,0 +1,8 @@
+ontology_id,label,all_synonyms,lookup_status
+UBERON:0002058,main ciliary ganglion,,success
+UBERON:0002834,cervical dorsal root ganglion,,success
+UBERON:0002835,thoracic dorsal root ganglion,,success
+UBERON:0002836,lumbar dorsal root ganglion,,success
+UBERON:0002837,sacral dorsal root ganglion,,success
+UBERON:0014463,cardiac ganglion,,success
+UBERON:8410063,myenteric nerve plexus of small intestine,,success
